@@ -586,9 +586,9 @@
         .input-area {
             display: flex;
             align-items: center;
-            gap: 8px;
-            padding: 8px 12px;
-            padding-bottom: max(8px, env(safe-area-inset-bottom));
+            gap: 10px;
+            padding: 12px 16px;
+            padding-bottom: max(20px, env(safe-area-inset-bottom));
             background: #000000;
             border-top: 0.5px solid #38383a;
             flex-shrink: 0;
@@ -601,12 +601,12 @@
 
         #promptInput {
             width: 100%;
-            padding: 10px 14px;
+            padding: 14px 16px;
             border: none;
-            border-radius: 20px;
+            border-radius: 24px;
             background: #1c1c1e;
             color: #ffffff;
-            font-size: 15px;
+            font-size: 16px;
             outline: none;
             display: none;
         }
@@ -621,13 +621,13 @@
 
         /* 语音输入按钮（默认模式） */
         .voice-btn {
-            width: 56px;
-            height: 56px;
+            width: 52px;
+            height: 52px;
             background: #0a84ff;
             border: none;
             border-radius: 50%;
             color: #ffffff;
-            font-size: 24px;
+            font-size: 22px;
             cursor: pointer;
             display: flex;
             align-items: center;
@@ -641,6 +641,34 @@
             animation: pulse 1s infinite;
         }
 
+        /* 按住说话长条按钮 */
+        .voice-input-bar {
+            flex: 1;
+            height: 50px;
+            background: #1c1c1e;
+            border: 2px solid #0a84ff;
+            border-radius: 25px;
+            color: #0a84ff;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            -webkit-user-select: none;
+            user-select: none;
+        }
+
+        .voice-input-bar:active, .voice-input-bar.recording {
+            background: #0a84ff;
+            color: #ffffff;
+        }
+
+        .voice-input-bar.recording {
+            animation: pulse 1s infinite;
+        }
+
         @keyframes pulse {
             0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 69, 58, 0.4); }
             50% { transform: scale(1.05); box-shadow: 0 0 0 10px rgba(255, 69, 58, 0); }
@@ -648,13 +676,13 @@
 
         /* 模式切换按钮 */
         .mode-switch-btn {
-            width: 40px;
-            height: 40px;
+            width: 50px;
+            height: 50px;
             background: #2c2c2e;
             border: none;
             border-radius: 50%;
             color: #8e8e93;
-            font-size: 18px;
+            font-size: 20px;
             cursor: pointer;
             display: flex;
             align-items: center;
@@ -668,8 +696,8 @@
         }
 
         #sendBtn {
-            width: 40px;
-            height: 40px;
+            width: 50px;
+            height: 50px;
             background: #0a84ff;
             border: none;
             border-radius: 50%;
@@ -787,14 +815,13 @@
         }
 
         .set-default-btn {
-            margin-top: 8px;
-            padding: 6px 0;
+            margin-top: 0;
+            padding: 4px 8px;
             background: transparent;
             border: none;
             color: #0a84ff;
-            font-size: 14px;
+            font-size: 13px;
             cursor: pointer;
-            text-align: right;
         }
 
         /* ========== Toast ========== */
@@ -874,10 +901,11 @@
         <div class="input-area">
             <div class="input-wrapper">
                 <input type="text" id="promptInput" placeholder="输入消息...">
+                <button class="voice-input-bar" id="voiceInputBar" style="display: none;">🎤 按住说话</button>
                 <div class="voice-hint" id="voiceHint" style="display: none;">正在聆听...</div>
             </div>
             <button class="mode-switch-btn" id="modeSwitchBtn" onclick="toggleInputMode()">⌨️</button>
-            <button class="voice-btn" id="voiceBtn" onclick="toggleVoiceInput()">🎤</button>
+            <button class="voice-btn" id="voiceBtn" style="display: none;">🎤</button>
             <button id="sendBtn" onclick="sendMessage()">➤</button>
         </div>
     </div>
@@ -894,34 +922,42 @@
                 <div class="settings-item api-key-item">
                     <div class="api-key-header">
                         <span class="api-key-label">智谱 AI</span>
-                        <span class="default-badge" id="zhipuBadge" style="display: none;">默认</span>
+                        <span>
+                            <span class="default-badge" id="zhipuBadge" style="display: none;">默认</span>
+                            <button class="set-default-btn" style="margin-top:0;display:inline-block;" onclick="setDefaultModel('zhipu')">设为默认</button>
+                        </span>
                     </div>
                     <input type="password" class="api-key-input" id="zhipuKey" placeholder="输入 API Key">
-                    <button class="set-default-btn" onclick="setDefaultModel('zhipu')">设为默认</button>
                 </div>
                 <div class="settings-item api-key-item">
                     <div class="api-key-header">
                         <span class="api-key-label">DeepSeek</span>
-                        <span class="default-badge" id="deepseekBadge" style="display: none;">默认</span>
+                        <span>
+                            <span class="default-badge" id="deepseekBadge" style="display: none;">默认</span>
+                            <button class="set-default-btn" style="margin-top:0;display:inline-block;" onclick="setDefaultModel('deepseek')">设为默认</button>
+                        </span>
                     </div>
                     <input type="password" class="api-key-input" id="deepseekKey" placeholder="输入 API Key">
-                    <button class="set-default-btn" onclick="setDefaultModel('deepseek')">设为默认</button>
                 </div>
                 <div class="settings-item api-key-item">
                     <div class="api-key-header">
                         <span class="api-key-label">豆包</span>
-                        <span class="default-badge" id="doubaoBadge" style="display: none;">默认</span>
+                        <span>
+                            <span class="default-badge" id="doubaoBadge" style="display: none;">默认</span>
+                            <button class="set-default-btn" style="margin-top:0;display:inline-block;" onclick="setDefaultModel('doubao')">设为默认</button>
+                        </span>
                     </div>
                     <input type="password" class="api-key-input" id="doubaoKey" placeholder="输入 API Key">
-                    <button class="set-default-btn" onclick="setDefaultModel('doubao')">设为默认</button>
                 </div>
                 <div class="settings-item api-key-item">
                     <div class="api-key-header">
                         <span class="api-key-label">美团 LongCat</span>
-                        <span class="default-badge" id="longcatBadge" style="display: none;">默认</span>
+                        <span>
+                            <span class="default-badge" id="longcatBadge" style="display: none;">默认</span>
+                            <button class="set-default-btn" style="margin-top:0;display:inline-block;" onclick="setDefaultModel('longcat')">设为默认</button>
+                        </span>
                     </div>
                     <input type="password" class="api-key-input" id="longcatKey" placeholder="输入 API Key">
-                    <button class="set-default-btn" onclick="setDefaultModel('longcat')">设为默认</button>
                 </div>
             </div>
 
@@ -955,17 +991,17 @@
         // ========== 数据地址 ==========
         const DATA_URL = 'https://cdn.jsdelivr.net/gh/woaipashanhu/web-assistant/data.json';
 
-        // ========== 默认网站配置（9个） ==========
+        // ========== 默认网站配置（9个RSS源） ==========
         const DEFAULT_SITES = [
-            { id: 'site_0', name: 'Wired科技', icon: '💻' },
-            { id: 'site_1', name: 'TechCrunch', icon: '🚀' },
-            { id: 'site_2', name: 'BBC世界', icon: '🌍' },
-            { id: 'site_3', name: 'CNBC市场', icon: '📈' },
-            { id: 'site_4', name: 'WSJ财经', icon: '📊' },
-            { id: 'site_5', name: 'The Hill国会', icon: '🏛️' },
-            { id: 'site_6', name: 'The Hill国际', icon: '🌐' },
-            { id: 'site_7', name: 'ScienceDaily', icon: '🔬' },
-            { id: 'site_8', name: 'Science News', icon: '🧪' }
+            { id: 'site_0', name: 'Wired科技', icon: '💻', url: 'https://www.wired.com/feed/rss' },
+            { id: 'site_1', name: 'TechCrunch', icon: '🚀', url: 'https://techcrunch.com/feed/' },
+            { id: 'site_2', name: 'BBC世界', icon: '🌍', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
+            { id: 'site_3', name: 'CNBC市场', icon: '📈', url: 'https://www.cnbc.com/id/10000664/device/rss/rss.html' },
+            { id: 'site_4', name: 'WSJ财经', icon: '📊', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml' },
+            { id: 'site_5', name: 'The Hill国会', icon: '🏛️', url: 'https://thehill.com/feed/' },
+            { id: 'site_6', name: '雅虎财经', icon: '💰', url: 'https://finance.yahoo.com/news/rssindex' },
+            { id: 'site_7', name: 'ScienceDaily', icon: '🔬', url: 'https://www.sciencedaily.com/rss/all.xml' },
+            { id: 'site_8', name: 'Science News', icon: '🧪', url: 'https://www.sciencenews.org/feed' }
         ];
 
         // ========== AI模型配置 ==========
@@ -1116,6 +1152,18 @@
             return '前天';
         }
 
+        function getDateLabelForSite(siteId) {
+            const siteSummaries = summaries[siteId] || {};
+            const dates = Object.keys(siteSummaries).sort().reverse();
+            if (dates.length === 0) return '暂无';
+            const today = new Date().toISOString().split('T')[0];
+            const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+            const lastDate = dates[0];
+            if (lastDate === today) return '今天';
+            if (lastDate === yesterday) return '昨天';
+            return lastDate;
+        }
+
         // ========== 对话列表页 ==========
         function renderChatList() {
             const container = document.getElementById('chatList');
@@ -1137,7 +1185,7 @@
                         <div class="chat-list-item-inner" onclick="enterChatFromList('${siteId}')">
                             <div class="chat-list-icon">${site.icon}</div>
                             <div class="chat-list-info">
-                                <div class="chat-list-name">${site.name}</div>
+                                <div class="chat-list-name">${site.name} <span style="color:#0a84ff;font-size:12px;">· ${getDateLabelForSite(siteId)}</span></div>
                                 <div class="chat-list-preview">${lastMsg.content.substring(0, 30)}...</div>
                             </div>
                             <div class="chat-list-time">${formatTime(lastMsg.timestamp)}</div>
@@ -1265,19 +1313,24 @@
             initLongPress();
         }
 
-        // ========== 长按复制功能 ==========
+        // ========== 长按复制功能（全选） ==========
         function initLongPress() {
             const messages = document.querySelectorAll('.message-content');
             let longPressTimer;
             
             messages.forEach(msg => {
+                // 设置为可选择文本
+                msg.style.webkitUserSelect = 'text';
+                msg.style.userSelect = 'text';
+                
                 msg.addEventListener('touchstart', (e) => {
                     longPressTimer = setTimeout(() => {
-                        const text = msg.innerText;
-                        if (navigator.clipboard) {
-                            navigator.clipboard.writeText(text);
-                        }
-                        showCopyTooltip(e.touches[0].clientX, e.touches[0].clientY);
+                        // 长按后全选文本，让系统菜单出现
+                        const selection = window.getSelection();
+                        const range = document.createRange();
+                        range.selectNodeContents(msg);
+                        selection.removeAllRanges();
+                        selection.addRange(range);
                     }, 500);
                 });
                 
@@ -1516,22 +1569,51 @@
 
         function updateInputUI() {
             const voiceBtn = document.getElementById('voiceBtn');
+            const voiceInputBar = document.getElementById('voiceInputBar');
             const promptInput = document.getElementById('promptInput');
             const sendBtn = document.getElementById('sendBtn');
             const modeSwitchBtn = document.getElementById('modeSwitchBtn');
 
             if (isVoiceMode) {
-                voiceBtn.style.display = 'flex';
+                voiceBtn.style.display = 'none';
+                voiceInputBar.style.display = 'flex';
                 promptInput.classList.remove('active');
                 sendBtn.style.display = 'none';
                 modeSwitchBtn.textContent = '⌨️';
+                initVoiceBarEvents();
             } else {
                 voiceBtn.style.display = 'none';
+                voiceInputBar.style.display = 'none';
                 promptInput.classList.add('active');
                 sendBtn.style.display = 'flex';
                 modeSwitchBtn.textContent = '🎤';
                 setTimeout(() => promptInput.focus(), 100);
             }
+        }
+
+        function initVoiceBarEvents() {
+            const bar = document.getElementById('voiceInputBar');
+            if (!bar) return;
+            
+            bar.addEventListener('touchstart', (e) => {
+                e.preventDefault();
+                startRecording();
+                bar.classList.add('recording');
+                bar.textContent = '🔴 松开结束';
+            });
+            
+            bar.addEventListener('touchend', (e) => {
+                e.preventDefault();
+                stopRecording();
+                bar.classList.remove('recording');
+                bar.textContent = '🎤 按住说话';
+            });
+            
+            bar.addEventListener('touchcancel', () => {
+                stopRecording();
+                bar.classList.remove('recording');
+                bar.textContent = '🎤 按住说话';
+            });
         }
 
         function toggleVoiceInput() {
