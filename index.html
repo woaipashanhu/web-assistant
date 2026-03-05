@@ -1076,7 +1076,8 @@
                 
                 const data = await response.json();
                 
-                if (data.sites) sites = data.sites;
+                // 始终使用本地 DEFAULT_SITES，不从远程覆盖
+                // if (data.sites) sites = data.sites;
                 
                 if (data.data) {
                     const today = data.date || new Date().toISOString().split('T')[0];
