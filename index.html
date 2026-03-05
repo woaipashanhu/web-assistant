@@ -587,24 +587,28 @@
             display: flex;
             align-items: center;
             gap: 10px;
-            padding: 12px 16px;
-            padding-bottom: max(20px, env(safe-area-inset-bottom));
+            padding: 16px 16px;
+            padding-bottom: max(28px, calc(env(safe-area-inset-bottom) + 8px));
             background: #000000;
-            border-top: 0.5px solid #38383a;
             flex-shrink: 0;
         }
 
         .input-wrapper {
             flex: 1;
             position: relative;
+            display: flex;
+            align-items: center;
+            background: #1c1c1e;
+            border-radius: 24px;
+            padding: 0 4px;
+            min-height: 48px;
         }
 
         #promptInput {
-            width: 100%;
-            padding: 14px 16px;
+            flex: 1;
+            padding: 12px 16px;
             border: none;
-            border-radius: 24px;
-            background: #1c1c1e;
+            background: transparent;
             color: #ffffff;
             font-size: 16px;
             outline: none;
@@ -619,14 +623,27 @@
             color: #48484a;
         }
 
-        /* 语音输入按钮（默认模式） */
+        /* 文字提示 */
+        .voice-placeholder {
+            flex: 1;
+            padding: 12px 16px;
+            color: #8e8e93;
+            font-size: 15px;
+            display: none;
+        }
+
+        .voice-placeholder.active {
+            display: block;
+        }
+
+        /* 语音输入按钮 - 豆包风格 */
         .voice-btn {
-            width: 52px;
-            height: 52px;
-            background: #0a84ff;
+            width: 44px;
+            height: 44px;
+            background: transparent;
             border: none;
             border-radius: 50%;
-            color: #ffffff;
+            color: #0a84ff;
             font-size: 22px;
             cursor: pointer;
             display: flex;
@@ -634,44 +651,57 @@
             justify-content: center;
             flex-shrink: 0;
             transition: all 0.2s;
+            margin-right: 2px;
+        }
+
+        .voice-btn:active {
+            background: rgba(10, 132, 255, 0.2);
+            transform: scale(0.95);
         }
 
         .voice-btn.recording {
-            background: #ff453a;
-            animation: pulse 1s infinite;
+            color: #ff453a;
+            animation: pulse-voice 1.2s infinite;
         }
 
-        /* 按住说话长条按钮 */
-        .voice-input-bar {
-            flex: 1;
-            height: 50px;
-            background: #1c1c1e;
-            border: 2px solid #0a84ff;
-            border-radius: 25px;
-            color: #0a84ff;
-            font-size: 16px;
+        @keyframes pulse-voice {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.15); }
+        }
+
+        /* 录音状态提示 */
+        .recording-hint {
+            position: fixed;
+            bottom: 100px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(255, 69, 58, 0.95);
+            color: #fff;
+            padding: 12px 24px;
+            border-radius: 24px;
+            font-size: 15px;
             font-weight: 500;
-            cursor: pointer;
-            display: flex;
+            z-index: 100;
+            display: none;
             align-items: center;
-            justify-content: center;
-            transition: all 0.2s;
-            -webkit-user-select: none;
-            user-select: none;
+            gap: 8px;
         }
 
-        .voice-input-bar:active, .voice-input-bar.recording {
-            background: #0a84ff;
-            color: #ffffff;
+        .recording-hint.show {
+            display: flex;
         }
 
-        .voice-input-bar.recording {
-            animation: pulse 1s infinite;
+        .recording-hint .dot {
+            width: 8px;
+            height: 8px;
+            background: #fff;
+            border-radius: 50%;
+            animation: blink 0.8s infinite;
         }
 
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 69, 58, 0.4); }
-            50% { transform: scale(1.05); box-shadow: 0 0 0 10px rgba(255, 69, 58, 0); }
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
         }
 
         /* 模式切换按钮 */
@@ -901,12 +931,17 @@
         <div class="input-area">
             <div class="input-wrapper">
                 <input type="text" id="promptInput" placeholder="输入消息...">
-                <button class="voice-input-bar" id="voiceInputBar" style="display: none;">🎤 按住说话</button>
-                <div class="voice-hint" id="voiceHint" style="display: none;">正在聆听...</div>
+                <div class="voice-placeholder" id="voicePlaceholder">点击麦克风开始语音输入</div>
+                <button class="voice-btn" id="voiceBtn">🎤</button>
             </div>
             <button class="mode-switch-btn" id="modeSwitchBtn" onclick="toggleInputMode()">⌨️</button>
-            <button class="voice-btn" id="voiceBtn" style="display: none;">🎤</button>
             <button id="sendBtn" onclick="sendMessage()">➤</button>
+        </div>
+        
+        <!-- 录音状态提示 -->
+        <div class="recording-hint" id="recordingHint">
+            <span class="dot"></span>
+            <span>正在聆听...</span>
         </div>
     </div>
 
@@ -1569,21 +1604,20 @@
 
         function updateInputUI() {
             const voiceBtn = document.getElementById('voiceBtn');
-            const voiceInputBar = document.getElementById('voiceInputBar');
+            const voicePlaceholder = document.getElementById('voicePlaceholder');
             const promptInput = document.getElementById('promptInput');
             const sendBtn = document.getElementById('sendBtn');
             const modeSwitchBtn = document.getElementById('modeSwitchBtn');
 
             if (isVoiceMode) {
-                voiceBtn.style.display = 'none';
-                voiceInputBar.style.display = 'flex';
+                voiceBtn.style.display = 'flex';
+                voicePlaceholder.classList.add('active');
                 promptInput.classList.remove('active');
                 sendBtn.style.display = 'none';
                 modeSwitchBtn.textContent = '⌨️';
-                initVoiceBarEvents();
             } else {
-                voiceBtn.style.display = 'none';
-                voiceInputBar.style.display = 'none';
+                voiceBtn.style.display = 'flex';
+                voicePlaceholder.classList.remove('active');
                 promptInput.classList.add('active');
                 sendBtn.style.display = 'flex';
                 modeSwitchBtn.textContent = '🎤';
@@ -1591,57 +1625,50 @@
             }
         }
 
-        function initVoiceBarEvents() {
-            const bar = document.getElementById('voiceInputBar');
-            if (!bar) return;
+        // 语音按钮点击事件
+        function initVoiceEvents() {
+            const voiceBtn = document.getElementById('voiceBtn');
+            if (!voiceBtn) return;
             
-            bar.addEventListener('touchstart', (e) => {
-                e.preventDefault();
-                startRecording();
-                bar.classList.add('recording');
-                bar.textContent = '🔴 松开结束';
-            });
-            
-            bar.addEventListener('touchend', (e) => {
-                e.preventDefault();
-                stopRecording();
-                bar.classList.remove('recording');
-                bar.textContent = '🎤 按住说话';
-            });
-            
-            bar.addEventListener('touchcancel', () => {
-                stopRecording();
-                bar.classList.remove('recording');
-                bar.textContent = '🎤 按住说话';
+            voiceBtn.addEventListener('click', () => {
+                if (isRecording) {
+                    stopRecording();
+                } else {
+                    startRecording();
+                }
             });
         }
 
-        function toggleVoiceInput() {
+        // 初始化语音事件
+        document.addEventListener('DOMContentLoaded', () => {
+            initVoiceEvents();
+        });
+
+        function startRecording() {
             if (!recognition) {
                 showToast('您的浏览器不支持语音输入');
                 return;
             }
-            isRecording ? stopRecording() : startRecording();
-        }
-
-        function startRecording() {
-            if (!recognition) return;
             isRecording = true;
             const voiceBtn = document.getElementById('voiceBtn');
-            const voiceHint = document.getElementById('voiceHint');
+            const recordingHint = document.getElementById('recordingHint');
+            const voicePlaceholder = document.getElementById('voicePlaceholder');
             voiceBtn.classList.add('recording');
-            voiceBtn.textContent = '⏹️';
-            voiceHint.style.display = 'block';
+            voiceBtn.textContent = '🔴';
+            voicePlaceholder.textContent = '正在识别语音...';
+            recordingHint.classList.add('show');
             try { recognition.start(); } catch (e) { stopRecording(); }
         }
 
         function stopRecording() {
             isRecording = false;
             const voiceBtn = document.getElementById('voiceBtn');
-            const voiceHint = document.getElementById('voiceHint');
+            const recordingHint = document.getElementById('recordingHint');
+            const voicePlaceholder = document.getElementById('voicePlaceholder');
             voiceBtn.classList.remove('recording');
             voiceBtn.textContent = '🎤';
-            voiceHint.style.display = 'none';
+            voicePlaceholder.textContent = '点击麦克风开始语音输入';
+            recordingHint.classList.remove('show');
             try { recognition.stop(); } catch (e) {}
         }
 
