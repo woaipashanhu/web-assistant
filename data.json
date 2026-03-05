@@ -1,56 +1,198 @@
 {
-  "lastUpdate": "2026-03-05T00:00:00.000Z",
+  "lastUpdate": "2026-03-05T05:30:42.674Z",
   "date": "2026-03-05",
   "sites": [
-    { "id": "site_0", "name": "Yahoo财经", "icon": "📊" },
-    { "id": "site_1", "name": "Bloomberg", "icon": "📈" },
-    { "id": "site_2", "name": "Wired科技", "icon": "💻" },
-    { "id": "site_3", "name": "TechCrunch", "icon": "🚀" },
-    { "id": "site_4", "name": "BBC世界", "icon": "🌍" },
-    { "id": "site_5", "name": "Reuters世界", "icon": "🌐" }
+    {
+      "id": "site_0",
+      "name": "Yahoo财经",
+      "rssUrl": "https://finance.yahoo.com/rss/",
+      "icon": "📊"
+    },
+    {
+      "id": "site_1",
+      "name": "Bloomberg",
+      "rssUrl": "https://www.bloomberg.com/feed/bloomberg-markets/rss",
+      "icon": "📈"
+    },
+    {
+      "id": "site_2",
+      "name": "Wired科技",
+      "rssUrl": "https://www.wired.com/feed/rss",
+      "icon": "💻"
+    },
+    {
+      "id": "site_3",
+      "name": "TechCrunch",
+      "rssUrl": "https://techcrunch.com/feed/",
+      "icon": "🚀"
+    },
+    {
+      "id": "site_4",
+      "name": "BBC世界",
+      "rssUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "icon": "🌍"
+    },
+    {
+      "id": "site_5",
+      "name": "Reuters世界",
+      "rssUrl": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best",
+      "icon": "🌐"
+    }
   ],
   "data": {
     "site_0": {
       "date": "2026-03-05",
       "siteName": "Yahoo财经",
       "items": [
-        { "title": "美联储暗示年内可能降息", "summary": "美联储主席表示通胀数据令人鼓舞，年内可能考虑降息。", "link": "https://finance.yahoo.com/news/1", "pubDate": "2026-03-05" }
+        {
+          "title": "ConnectOne Stock Is Up Just 4% This Past Year, and One Fund Has Sold Off $4 Million in Shares",
+          "summary": "ConnectOne Stock Is Up Just 4% This Past Year, and One Fund Has Sold Off $4 Million in Shares",
+          "link": "https://finance.yahoo.com/news/connectone-stock-just-4-past-172901993.html",
+          "pubDate": "2026-03-03T17:29:01Z"
+        },
+        {
+          "title": "Soaring Crude Oil Prices Boost Sugar Prices",
+          "summary": "Soaring Crude Oil Prices Boost Sugar Prices",
+          "link": "https://finance.yahoo.com/news/soaring-crude-oil-prices-boost-172733877.html",
+          "pubDate": "2026-03-03T17:27:33Z"
+        },
+        {
+          "title": "Advantage Solutions Inc. Q4 2025 Earnings Call Summary",
+          "summary": "Advantage Solutions Inc. Q4 2025 Earnings Call Summary",
+          "link": "https://finance.yahoo.com/news/advantage-solutions-inc-q4-2025-173147014.html",
+          "pubDate": "2026-03-03T17:31:47Z"
+        },
+        {
+          "title": "Mortgage and refinance interest rates today, March 3, 2026: War worries pressure mortgage rates",
+          "summary": "Mortgage and refinance interest rates today, March 3, 2026: War worries pressure mortgage rates",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-3-2026-110005822.html",
+          "pubDate": "2026-03-03T11:00:05Z"
+        },
+        {
+          "title": "AutoZone, Inc. Q2 2026 Earnings Call Summary",
+          "summary": "AutoZone, Inc. Q2 2026 Earnings Call Summary",
+          "link": "https://finance.yahoo.com/news/autozone-inc-q2-2026-earnings-173208094.html",
+          "pubDate": "2026-03-03T17:32:08Z"
+        }
       ]
     },
     "site_1": {
       "date": "2026-03-05",
       "siteName": "Bloomberg",
-      "items": [
-        { "title": "全球经济增长预期上调", "summary": "国际货币基金组织上调全球经济增长预期。", "link": "https://bloomberg.com/news/1", "pubDate": "2026-03-05" }
-      ]
+      "items": []
     },
     "site_2": {
       "date": "2026-03-05",
       "siteName": "Wired科技",
       "items": [
-        { "title": "AI芯片竞赛白热化", "summary": "英伟达发布新一代AI芯片，性能提升3倍。", "link": "https://wired.com/news/1", "pubDate": "2026-03-05" }
+        {
+          "title": "These $500 Windows Laptops Show the MacBook Neo’s Competition",
+          "summary": "They aren’t as high-end as the MacBook Neo, but these Windows laptops show that Apple has some strong competition.",
+          "link": "https://www.wired.com/story/asus-vivobook-14-deal-macbook-neo/",
+          "pubDate": "Wed, 04 Mar 2026 23:15:36 +0000"
+        },
+        {
+          "title": "Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
+          "summary": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
+          "link": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
+          "pubDate": "Wed, 04 Mar 2026 22:56:37 +0000"
+        },
+        {
+          "title": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
+          "summary": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
+          "link": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
+          "pubDate": "Wed, 04 Mar 2026 22:13:27 +0000"
+        },
+        {
+          "title": "What AI Models for War Actually Look Like",
+          "summary": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
+          "link": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+          "pubDate": "Wed, 04 Mar 2026 22:00:03 +0000"
+        },
+        {
+          "title": "USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026",
+          "summary": "Ditch the dongles. These multiport USB hubs will maximize your connectivity options.",
+          "link": "https://www.wired.com/gallery/best-usb-hubs/",
+          "pubDate": "Wed, 04 Mar 2026 20:09:28 +0000"
+        }
       ]
     },
     "site_3": {
       "date": "2026-03-05",
       "siteName": "TechCrunch",
       "items": [
-        { "title": "OpenAI推出GPT-5预览版", "summary": "新模型在推理能力上大幅提升。", "link": "https://techcrunch.com/news/1", "pubDate": "2026-03-05" }
+        {
+          "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+          "summary": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
+          "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+          "pubDate": "Thu, 05 Mar 2026 01:08:28 +0000"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei calls OpenAI&#8217;s messaging around military deal &#8216;straight up lies,&#8217; report says",
+          "summary": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
+          "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+          "pubDate": "Wed, 04 Mar 2026 22:40:05 +0000"
+        },
+        {
+          "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+          "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
+          "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+          "pubDate": "Wed, 04 Mar 2026 21:43:58 +0000"
+        },
+        {
+          "title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+          "summary": "Google has dropped its commission, charging a 20% service fee and an optional 5% to use its billing services. It will also offer a new process for third-party app stores.",
+          "link": "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/",
+          "pubDate": "Wed, 04 Mar 2026 20:05:12 +0000"
+        },
+        {
+          "title": "His house burned down. He used the insurance money to build PopSockets.",
+          "summary": "Does&#160;a&#160;consumer hardware&#160;company need to get on the&#160;VC treadmill to&#160;succeed?&#160;Eleven years and 290 million products sold across 115 countries later,&#160;PopSockets&#160;has proven that&#160;the bootstrapped, low-dilution path more&#160;viable&#160;than the industry gives it credit for.&#160;The global consumer hardware brand was built on less than $500k, no institutional capital, and a philosophy professor&#8217;s determination.&#160; Watch as founder and former CEO [&#8230;]",
+          "link": "https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/",
+          "pubDate": "Wed, 04 Mar 2026 19:34:26 +0000"
+        }
       ]
     },
     "site_4": {
       "date": "2026-03-05",
       "siteName": "BBC世界",
       "items": [
-        { "title": "欧盟通过新环保法规", "summary": "2035年起禁止销售燃油车。", "link": "https://bbc.com/news/1", "pubDate": "2026-03-05" }
+        {
+          "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
+          "summary": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state.",
+          "link": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 04 Mar 2026 18:10:50 GMT"
+        },
+        {
+          "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
+          "summary": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast.",
+          "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 04 Mar 2026 16:56:17 GMT"
+        },
+        {
+          "title": "China sets lowest economic growth target since 1991",
+          "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
+          "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 05 Mar 2026 03:10:52 GMT"
+        },
+        {
+          "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
+          "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country.",
+          "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 04 Mar 2026 20:42:35 GMT"
+        },
+        {
+          "title": "Trade court orders tariff refunds in setback for Trump administration",
+          "summary": "A trade court has cleared the way for businesses to receive refunds for tariffs that the Supreme Court struck down last month.",
+          "link": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 05 Mar 2026 00:13:16 GMT"
+        }
       ]
     },
     "site_5": {
       "date": "2026-03-05",
       "siteName": "Reuters世界",
-      "items": [
-        { "title": "国际贸易格局重塑", "summary": "多边贸易协定谈判取得突破性进展。", "link": "https://reuters.com/news/1", "pubDate": "2026-03-05" }
-      ]
+      "items": []
     }
   }
 }
