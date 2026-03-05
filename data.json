@@ -1,0 +1,56 @@
+{
+  "lastUpdate": "2026-03-05T00:00:00.000Z",
+  "date": "2026-03-05",
+  "sites": [
+    { "id": "site_0", "name": "Yahoo财经", "icon": "📊" },
+    { "id": "site_1", "name": "Bloomberg", "icon": "📈" },
+    { "id": "site_2", "name": "Wired科技", "icon": "💻" },
+    { "id": "site_3", "name": "TechCrunch", "icon": "🚀" },
+    { "id": "site_4", "name": "BBC世界", "icon": "🌍" },
+    { "id": "site_5", "name": "Reuters世界", "icon": "🌐" }
+  ],
+  "data": {
+    "site_0": {
+      "date": "2026-03-05",
+      "siteName": "Yahoo财经",
+      "items": [
+        { "title": "美联储暗示年内可能降息", "summary": "美联储主席表示通胀数据令人鼓舞，年内可能考虑降息。", "link": "https://finance.yahoo.com/news/1", "pubDate": "2026-03-05" }
+      ]
+    },
+    "site_1": {
+      "date": "2026-03-05",
+      "siteName": "Bloomberg",
+      "items": [
+        { "title": "全球经济增长预期上调", "summary": "国际货币基金组织上调全球经济增长预期。", "link": "https://bloomberg.com/news/1", "pubDate": "2026-03-05" }
+      ]
+    },
+    "site_2": {
+      "date": "2026-03-05",
+      "siteName": "Wired科技",
+      "items": [
+        { "title": "AI芯片竞赛白热化", "summary": "英伟达发布新一代AI芯片，性能提升3倍。", "link": "https://wired.com/news/1", "pubDate": "2026-03-05" }
+      ]
+    },
+    "site_3": {
+      "date": "2026-03-05",
+      "siteName": "TechCrunch",
+      "items": [
+        { "title": "OpenAI推出GPT-5预览版", "summary": "新模型在推理能力上大幅提升。", "link": "https://techcrunch.com/news/1", "pubDate": "2026-03-05" }
+      ]
+    },
+    "site_4": {
+      "date": "2026-03-05",
+      "siteName": "BBC世界",
+      "items": [
+        { "title": "欧盟通过新环保法规", "summary": "2035年起禁止销售燃油车。", "link": "https://bbc.com/news/1", "pubDate": "2026-03-05" }
+      ]
+    },
+    "site_5": {
+      "date": "2026-03-05",
+      "siteName": "Reuters世界",
+      "items": [
+        { "title": "国际贸易格局重塑", "summary": "多边贸易协定谈判取得突破性进展。", "link": "https://reuters.com/news/1", "pubDate": "2026-03-05" }
+      ]
+    }
+  }
+}
