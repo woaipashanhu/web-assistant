@@ -1,198 +1,278 @@
 {
-  "lastUpdate": "2026-03-05T08:30:41.359Z",
+  "lastUpdate": "2026-03-05T23:00:42.218Z",
   "date": "2026-03-05",
   "sites": [
     {
       "id": "site_0",
-      "name": "Yahoo财经",
-      "rssUrl": "https://finance.yahoo.com/rss/",
-      "icon": "📊"
-    },
-    {
-      "id": "site_1",
-      "name": "Bloomberg",
-      "rssUrl": "https://www.bloomberg.com/feed/bloomberg-markets/rss",
-      "icon": "📈"
-    },
-    {
-      "id": "site_2",
       "name": "Wired科技",
       "rssUrl": "https://www.wired.com/feed/rss",
       "icon": "💻"
     },
     {
-      "id": "site_3",
+      "id": "site_1",
       "name": "TechCrunch",
       "rssUrl": "https://techcrunch.com/feed/",
       "icon": "🚀"
     },
     {
-      "id": "site_4",
+      "id": "site_2",
       "name": "BBC世界",
       "rssUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "icon": "🌍"
     },
     {
+      "id": "site_3",
+      "name": "CNBC市场",
+      "rssUrl": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+      "icon": "📈"
+    },
+    {
+      "id": "site_4",
+      "name": "WSJ财经",
+      "rssUrl": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "icon": "📊"
+    },
+    {
       "id": "site_5",
-      "name": "Reuters世界",
-      "rssUrl": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best",
-      "icon": "🌐"
+      "name": "The Hill国会",
+      "rssUrl": "https://thehill.com/feed/",
+      "icon": "🏛️"
+    },
+    {
+      "id": "site_6",
+      "name": "雅虎财经",
+      "rssUrl": "https://finance.yahoo.com/news/rssindex",
+      "icon": "💰"
+    },
+    {
+      "id": "site_7",
+      "name": "ScienceDaily",
+      "rssUrl": "https://www.sciencedaily.com/rss/all.xml",
+      "icon": "🔬"
+    },
+    {
+      "id": "site_8",
+      "name": "Science News",
+      "rssUrl": "https://www.sciencenews.org/feed",
+      "icon": "🧪"
     }
   ],
   "data": {
     "site_0": {
       "date": "2026-03-05",
-      "siteName": "Yahoo财经",
+      "siteName": "Wired科技",
       "items": [
         {
-          "title": "What would happen if all of the world's gold were sold tomorrow?",
-          "summary": "What would happen if all of the world's gold were sold tomorrow?",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
-          "pubDate": "2026-03-03T19:57:37Z"
+          "title": "Here’s Every Country Directly Impacted by the War on Iran",
+          "summary": "As the conflict in the Middle East continues to escalate, more than a dozen countries in the region have reportedly been affected by strikes.",
+          "link": "https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/",
+          "pubDate": "Thu, 05 Mar 2026 22:28:33 +0000"
         },
         {
-          "title": "Where Will the Cryptocurrency XRP Be in 1 Year?",
-          "summary": "Where Will the Cryptocurrency XRP Be in 1 Year?",
-          "link": "https://finance.yahoo.com/news/where-cryptocurrency-xrp-1-203500043.html",
-          "pubDate": "2026-03-03T20:35:00Z"
+          "title": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
+          "summary": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
+          "pubDate": "Thu, 05 Mar 2026 22:17:54 +0000"
         },
         {
-          "title": "Time to Buy the Dip on Struggling Semiconductor Stock",
-          "summary": "Time to Buy the Dip on Struggling Semiconductor Stock",
-          "link": "https://finance.yahoo.com/news/time-buy-dip-struggling-semiconductor-203052684.html",
-          "pubDate": "2026-03-03T20:30:52Z"
-        },
-        {
-          "title": "Down 19% in 2026, Should You Buy the Dip in Qualcomm Stock?",
-          "summary": "Down 19% in 2026, Should You Buy the Dip in Qualcomm Stock?",
-          "link": "https://finance.yahoo.com/news/down-19-2026-buy-dip-203916103.html",
-          "pubDate": "2026-03-03T20:39:16Z"
-        },
-        {
-          "title": "Microsoft Bucks Market Melt Down As Drones Hit Data Centers In Middle East; Is Microsoft A Buy Now?",
-          "summary": "Microsoft Bucks Market Melt Down As Drones Hit Data Centers In Middle East; Is Microsoft A Buy Now?",
-          "link": "https://www.investors.com/research/microsoft-msft-stock-data-center-u-s-iran-war/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-03-03T20:44:08Z"
+          "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+          "summary": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+          "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+          "pubDate": "Thu, 05 Mar 2026 22:00:00 +0000"
         }
       ]
     },
     "site_1": {
       "date": "2026-03-05",
-      "siteName": "Bloomberg",
-      "items": []
+      "siteName": "TechCrunch",
+      "items": [
+        {
+          "title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
+          "summary": "The $7 million in annual recurring revenue that Cluely CEO Roy Lee shared last summer was a lie, its founder and CEO Roy Lee admitted on Thursday on X.",
+          "link": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
+          "pubDate": "Thu, 05 Mar 2026 22:38:26 +0000"
+        },
+        {
+          "title": "AWS launches a new AI agent platform specifically for healthcare",
+          "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+          "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+          "pubDate": "Thu, 05 Mar 2026 21:54:37 +0000"
+        },
+        {
+          "title": "FBI investigating hack on its wiretap and surveillance systems: Report",
+          "summary": "Hackers allegedly broke into the FBI’s networks, according to a report by CNN.",
+          "link": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
+          "pubDate": "Thu, 05 Mar 2026 21:33:24 +0000"
+        }
+      ]
     },
     "site_2": {
       "date": "2026-03-05",
-      "siteName": "Wired科技",
+      "siteName": "BBC世界",
       "items": [
         {
-          "title": "These $500 Windows Laptops Show the MacBook Neo’s Competition",
-          "summary": "They aren’t as high-end as the MacBook Neo, but these Windows laptops show that Apple has some strong competition.",
-          "link": "https://www.wired.com/story/asus-vivobook-14-deal-macbook-neo/",
-          "pubDate": "Wed, 04 Mar 2026 23:15:36 +0000"
+          "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+          "summary": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
+          "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 05 Mar 2026 21:20:49 GMT"
         },
         {
-          "title": "Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
-          "summary": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
-          "link": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
-          "pubDate": "Wed, 04 Mar 2026 22:56:37 +0000"
+          "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
+          "summary": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences.",
+          "link": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 05 Mar 2026 18:19:34 GMT"
         },
         {
-          "title": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
-          "summary": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
-          "link": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
-          "pubDate": "Wed, 04 Mar 2026 22:13:27 +0000"
-        },
-        {
-          "title": "What AI Models for War Actually Look Like",
-          "summary": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
-          "link": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
-          "pubDate": "Wed, 04 Mar 2026 22:00:03 +0000"
-        },
-        {
-          "title": "USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026",
-          "summary": "Ditch the dongles. These multiport USB hubs will maximize your connectivity options.",
-          "link": "https://www.wired.com/gallery/best-usb-hubs/",
-          "pubDate": "Wed, 04 Mar 2026 20:09:28 +0000"
+          "title": "Azerbaijan says Iran struck its territory, as war spills over border",
+          "summary": "President Ilham Aliyev says drone strikes are \"act of terror\" as he places armed forces on high alert.",
+          "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 05 Mar 2026 21:33:48 GMT"
         }
       ]
     },
     "site_3": {
       "date": "2026-03-05",
-      "siteName": "TechCrunch",
+      "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
-          "summary": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
-          "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
-          "pubDate": "Thu, 05 Mar 2026 01:08:28 +0000"
+          "title": "Mortgages in 47 seconds: Better’s new ChatGPT app targets lenders Rocket and UWM",
+          "summary": "Creating a mortgage has been one of the most time-consuming corners of American finance, with lenders relying on dozens of steps that can take weeks.",
+          "link": "https://www.cnbc.com/2026/03/05/mortgages-in-47-seconds-betters-new-chatgpt-app-targets-lenders-rocket-and-uwm.html",
+          "pubDate": "Thu, 05 Mar 2026 20:42:54 GMT"
         },
         {
-          "title": "Anthropic CEO Dario Amodei calls OpenAI&#8217;s messaging around military deal &#8216;straight up lies,&#8217; report says",
-          "summary": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
-          "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-          "pubDate": "Wed, 04 Mar 2026 22:40:05 +0000"
+          "title": "Oaktree&apos;s Howard Marks says there&apos;s no systemic problem with private credit",
+          "summary": "Marks said any risk stems from the pace of expansion in direct lending, which has ballooned to a market now exceeding $1 trillion since inception around 2011.",
+          "link": "https://www.cnbc.com/2026/03/05/oaktrees-howard-marks-says-theres-no-systemic-problem-with-private-credit.html",
+          "pubDate": "Thu, 05 Mar 2026 18:14:21 GMT"
         },
         {
-          "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
-          "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
-          "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
-          "pubDate": "Wed, 04 Mar 2026 21:43:58 +0000"
-        },
-        {
-          "title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
-          "summary": "Google has dropped its commission, charging a 20% service fee and an optional 5% to use its billing services. It will also offer a new process for third-party app stores.",
-          "link": "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/",
-          "pubDate": "Wed, 04 Mar 2026 20:05:12 +0000"
-        },
-        {
-          "title": "His house burned down. He used the insurance money to build PopSockets.",
-          "summary": "Does&#160;a&#160;consumer hardware&#160;company need to get on the&#160;VC treadmill to&#160;succeed?&#160;Eleven years and 290 million products sold across 115 countries later,&#160;PopSockets&#160;has proven that&#160;the bootstrapped, low-dilution path more&#160;viable&#160;than the industry gives it credit for.&#160;The global consumer hardware brand was built on less than $500k, no institutional capital, and a philosophy professor&#8217;s determination.&#160; Watch as founder and former CEO [&#8230;]",
-          "link": "https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/",
-          "pubDate": "Wed, 04 Mar 2026 19:34:26 +0000"
+          "title": "States led by New York sue to block Trump&apos;s latest tariffs, calling them an illegal end run around Supreme Court",
+          "summary": "The move from the state AGs — part of the successful effort to block Trump's original tariffs — adds to the ongoing uncertainty created by his tariff policies.",
+          "link": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html",
+          "pubDate": "Thu, 05 Mar 2026 20:19:25 GMT"
         }
       ]
     },
     "site_4": {
       "date": "2026-03-05",
-      "siteName": "BBC世界",
+      "siteName": "WSJ财经",
       "items": [
         {
-          "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
-          "summary": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state.",
-          "link": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 04 Mar 2026 18:10:50 GMT"
+          "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+          "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+          "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+          "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500"
         },
         {
-          "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
-          "summary": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast.",
-          "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 05 Mar 2026 06:52:36 GMT"
+          "title": "Comex Gold, Silver Settle Lower",
+          "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+          "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+          "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500"
         },
         {
-          "title": "China sets lowest economic growth target since 1991",
-          "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
-          "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 05 Mar 2026 03:10:52 GMT"
-        },
-        {
-          "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
-          "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country.",
-          "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 04 Mar 2026 20:42:35 GMT"
-        },
-        {
-          "title": "Trade court orders tariff refunds in setback for Trump administration",
-          "summary": "A trade court has cleared the way for businesses to receive refunds for tariffs that the Supreme Court struck down last month.",
-          "link": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 05 Mar 2026 00:13:16 GMT"
+          "title": "DeepSeek Won't Sink U.S. AI Titans",
+          "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+          "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+          "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500"
         }
       ]
     },
     "site_5": {
       "date": "2026-03-05",
-      "siteName": "Reuters世界",
-      "items": []
+      "siteName": "The Hill国会",
+      "items": [
+        {
+          "title": "Trump praises Delcy Rodríguez after report of US threat to indict her",
+          "summary": "President Trump praised interim Venezuelan President Delcy Rodríguez amid reports that his administration was threatening to indict her if she did not continue to cooperate with the U.S. “Delcy Rodríguez who is the President of Venezuela, is doing a great job, and working with U.S. Representatives very well. The Oil is beginning to flow, and&#8230;",
+          "link": "https://thehill.com/homenews/administration/5770142-trump-praises-venezuelan-president/",
+          "pubDate": "Thu, 05 Mar 2026 22:13:58 +0000"
+        },
+        {
+          "title": "Spike in gas prices over Iran strikes puts Trump on defense",
+          "summary": "A spike in energy prices due to the ongoing U.S. strikes on Iran has put the Trump administration on the defensive. Low oil and gasoline prices have long been part of the White House’s pitch to voters. Now that they’re on the rise, key officials have argued they are doing their best to bring them down,&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5769700-iran-conflict-gas-prices-trump-venezuela-oil/",
+          "pubDate": "Thu, 05 Mar 2026 22:10:03 +0000"
+        },
+        {
+          "title": "DHS funding bill passes the House, with eroding Democratic support",
+          "summary": "The House passed a Department of Homeland Security (DHS) funding bill Thursday, even as most Democrats defied Republican pressure to end the agency shutdown in light of the Iran conflict. The lower chamber voted 221-209 to pass the bill. Four Democrats joined Republicans in favor of the measure — fewer than those who voted for&#8230;",
+          "link": "https://thehill.com/homenews/house/5769891-dhs-funding-bill-house/",
+          "pubDate": "Thu, 05 Mar 2026 21:53:16 +0000"
+        }
+      ]
+    },
+    "site_6": {
+      "date": "2026-03-05",
+      "siteName": "雅虎财经",
+      "items": [
+        {
+          "title": "Jim Cramer on Goldman Sachs: “I Think It’s Way Too Cheap”",
+          "summary": "Jim Cramer on Goldman Sachs: “I Think It’s Way Too Cheap”",
+          "link": "https://finance.yahoo.com/news/jim-cramer-goldman-sachs-think-150924501.html",
+          "pubDate": "2026-03-04T15:09:24Z"
+        },
+        {
+          "title": "Tokenised deposits: infrastructure not experimentation will define next phase of bank-to-bank payments",
+          "summary": "Tokenised deposits: infrastructure not experimentation will define next phase of bank-to-bank payments",
+          "link": "https://finance.yahoo.com/news/tokenised-deposits-infrastructure-not-experimentation-150830720.html",
+          "pubDate": "2026-03-04T15:08:30Z"
+        },
+        {
+          "title": "Jim Cramer Says He Is “Very Worried About Microsoft”",
+          "summary": "Jim Cramer Says He Is “Very Worried About Microsoft”",
+          "link": "https://finance.yahoo.com/news/jim-cramer-says-very-worried-150919456.html",
+          "pubDate": "2026-03-04T15:09:19Z"
+        }
+      ]
+    },
+    "site_7": {
+      "date": "2026-03-05",
+      "siteName": "ScienceDaily",
+      "items": [
+        {
+          "title": "Ocean temperatures may be protecting Earth from a planet-wide drought",
+          "summary": "Ocean temperatures may be quietly protecting the world from a global drought catastrophe. By analyzing more than a century of climate data, researchers discovered that droughts rarely spread across the planet at the same time, affecting only about 1.8%–6.5% of global land simultaneously—far less than earlier estimates. The reason lies largely in shifting ocean patterns such as El Niño and La Niña, which create a patchwork of drought conditions across continents instead of one massive worldwide dry spell.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260304184229.htm",
+          "pubDate": "Thu, 05 Mar 2026 15:51:47 EST"
+        },
+        {
+          "title": "T. rex took 40 years to reach full size, study finds",
+          "summary": "Tyrannosaurus rex may have taken far longer to grow up than scientists once thought. By analyzing growth rings in fossilized leg bones from 17 tyrannosaur specimens and using new statistical methods, researchers found that the famous predator likely took about 40 years to reach its full size—around eight tons—rather than the previously estimated 25 years.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260304184226.htm",
+          "pubDate": "Thu, 05 Mar 2026 15:10:22 EST"
+        },
+        {
+          "title": "Half of Amazon insects could face dangerous heat stress",
+          "summary": "A sweeping new study of more than 2,000 insect species reveals a troubling reality: many insects may be far less capable of coping with rising temperatures than scientists once hoped. Researchers found that while some species living at higher altitudes can temporarily boost their heat tolerance, many insects in tropical lowlands—where biodiversity is highest—lack this flexibility. Because insects play essential roles as pollinators, decomposers, and predators, their vulnerability could ripple through entire ecosystems.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260304184224.htm",
+          "pubDate": "Thu, 05 Mar 2026 00:47:53 EST"
+        }
+      ]
+    },
+    "site_8": {
+      "date": "2026-03-05",
+      "siteName": "Science News",
+      "items": [
+        {
+          "title": "A koala population’s rapid rebound may let it escape inbreeding&#8217;s perils",
+          "summary": "As koalas in southern Australia have grown from a few hundred to almost half a million, the marsupials show signs of regaining lost genetic variation.",
+          "link": "https://www.sciencenews.org/article/koalas-genetic-rebound-australia",
+          "pubDate": "Thu, 05 Mar 2026 20:02:43 +0000"
+        },
+        {
+          "title": "This molecule puts a new twist on the Möbius strip",
+          "summary": "A molecule made of carbon and chlorine is half as twisty as the paper loops common in math classes.",
+          "link": "https://www.sciencenews.org/article/molecule-mobius-strip-carbon-chlorine",
+          "pubDate": "Thu, 05 Mar 2026 19:00:00 +0000"
+        },
+        {
+          "title": "Chickpeas can grow in moon dirt and make seeds",
+          "summary": "Chickpeas produced seeds in simulated lunar soil, offering clues for future space farming.",
+          "link": "https://www.sciencenews.org/article/chickpeas-moon-dirt-seeds-space-farming",
+          "pubDate": "Thu, 05 Mar 2026 16:00:00 +0000"
+        }
+      ]
     }
   }
 }
