@@ -7,8 +7,8 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="信息助手">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="apple-touch-icon" href="/icon-192.png">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icon-192.png">
     <title>网站信息助手</title>
     <style>
         * {
@@ -186,7 +186,7 @@
         }
 
         .summary-item {
-            padding: 12px;
+            padding: 10px 12px;
             background: #2c2c2e;
             border-radius: 8px;
             margin-bottom: 8px;
@@ -197,16 +197,20 @@
         }
 
         .summary-title {
-            font-size: 15px;
+            font-size: 14px;
             font-weight: 600;
             margin-bottom: 4px;
             color: #ffffff;
         }
 
         .summary-text {
-            font-size: 14px;
-            line-height: 1.5;
+            font-size: 13px;
+            line-height: 1.4;
             color: #8e8e93;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
         }
 
         /* ========== 空状态 ========== */
@@ -223,373 +227,7 @@
 
         .empty-state .text {
             color: #8e8e93;
-            margin-bottom: 20px;
             font-size: 15px;
-        }
-
-        .empty-state .add-btn {
-            padding: 12px 24px;
-            background: #0a84ff;
-            border: none;
-            border-radius: 10px;
-            color: #ffffff;
-            font-size: 15px;
-            font-weight: 500;
-            cursor: pointer;
-        }
-
-        /* ========== 对话页 ========== */
-        .chat-page {
-            display: none;
-            flex-direction: column;
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            z-index: 200;
-            background: #000000;
-        }
-
-        .chat-page.active {
-            display: flex;
-        }
-
-        .chat-header {
-            display: flex;
-            align-items: center;
-            padding: 12px 16px;
-            padding-top: calc(12px + env(safe-area-inset-top));
-            background: rgba(0, 0, 0, 0.9);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border-bottom: 0.5px solid #38383a;
-            flex-shrink: 0;
-        }
-
-        .back-btn {
-            background: none;
-            border: none;
-            color: #0a84ff;
-            font-size: 28px;
-            cursor: pointer;
-            padding: 4px 8px 4px 0;
-            line-height: 1;
-        }
-
-        .chat-title {
-            flex: 1;
-            font-size: 17px;
-            font-weight: 600;
-            text-align: center;
-        }
-
-        .chat-header-placeholder {
-            width: 36px;
-        }
-
-        /* ========== 历史摘要区 ========== */
-        .history-section {
-            max-height: 22vh;
-            overflow-y: auto;
-            background: #1c1c1e;
-            padding: 12px 16px;
-            flex-shrink: 0;
-        }
-
-        .history-label {
-            font-size: 12px;
-            color: #8e8e93;
-            margin-bottom: 8px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-
-        .history-item {
-            background: #2c2c2e;
-            border-radius: 8px;
-            padding: 10px 12px;
-            margin-bottom: 8px;
-            position: relative;
-        }
-
-        .history-item:last-child {
-            margin-bottom: 0;
-        }
-
-        .history-item-title {
-            font-size: 13px;
-            font-weight: 600;
-            color: #ffffff;
-            margin-bottom: 2px;
-            padding-right: 50px;
-        }
-
-        .history-item-content {
-            font-size: 12px;
-            line-height: 1.4;
-            color: #8e8e93;
-            padding-right: 50px;
-        }
-
-        .quote-btn {
-            position: absolute;
-            right: 8px;
-            top: 50%;
-            transform: translateY(-50%);
-            padding: 6px 12px;
-            background: rgba(10, 132, 255, 0.2);
-            border: none;
-            border-radius: 6px;
-            color: #0a84ff;
-            font-size: 12px;
-            font-weight: 500;
-            cursor: pointer;
-        }
-
-        .quote-btn:active {
-            background: #0a84ff;
-            color: #ffffff;
-        }
-
-        /* ========== 对话区域 ========== */
-        .chat-body {
-            flex: 1;
-            display: flex;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .chat-messages {
-            flex: 1;
-            overflow-y: auto;
-            padding: 16px;
-            padding-right: 40px;
-            background: #000000;
-            -webkit-overflow-scrolling: touch;
-        }
-
-        .message {
-            margin-bottom: 12px;
-            max-width: 90%;
-        }
-
-        .message.user {
-            margin-left: auto;
-        }
-
-        .message.assistant {
-            margin-right: auto;
-        }
-
-        .message-content {
-            padding: 12px 16px;
-            border-radius: 16px;
-            font-size: 17px;
-            line-height: 1.6;
-        }
-
-        .message.user .message-content {
-            background: #0a84ff;
-            color: #ffffff;
-            border-bottom-right-radius: 4px;
-        }
-
-        .message.assistant .message-content {
-            background: #1c1c1e;
-            color: #ffffff;
-            border-bottom-left-radius: 4px;
-        }
-
-        .model-tag {
-            font-size: 11px;
-            color: #8e8e93;
-            margin-bottom: 4px;
-        }
-
-        /* ========== 右侧翻页按钮 ========== */
-        .side-nav {
-            position: absolute;
-            right: 8px;
-            top: 55%;
-            transform: translateY(-50%);
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-            z-index: 10;
-        }
-
-        .side-nav-btn {
-            width: 44px;
-            height: 44px;
-            border-radius: 50%;
-            background: rgba(58, 58, 60, 0.95);
-            border: 2px solid #48484a;
-            color: #ffffff;
-            font-size: 18px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.2s;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-        }
-
-        .side-nav-btn:active:not(:disabled) {
-            background: #0a84ff;
-            border-color: #0a84ff;
-            transform: scale(1.1);
-        }
-
-        .side-nav-btn:disabled {
-            opacity: 0.3;
-            cursor: not-allowed;
-        }
-
-        /* ========== 加载动画 ========== */
-        .typing-indicator {
-            display: flex;
-            gap: 4px;
-            padding: 8px 0;
-        }
-
-        .typing-indicator span {
-            width: 6px;
-            height: 6px;
-            background: #48484a;
-            border-radius: 50%;
-            animation: typing 1s infinite;
-        }
-
-        .typing-indicator span:nth-child(2) { animation-delay: 0.2s; }
-        .typing-indicator span:nth-child(3) { animation-delay: 0.4s; }
-
-        @keyframes typing {
-            0%, 100% { opacity: 0.3; }
-            50% { opacity: 1; }
-        }
-
-        /* ========== 输入区域 ========== */
-        .input-area {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            padding: 8px 12px;
-            padding-bottom: env(safe-area-inset-bottom);
-            background: #000000;
-            border-top: 0.5px solid #38383a;
-            flex-shrink: 0;
-        }
-
-        .input-wrapper {
-            flex: 1;
-            position: relative;
-        }
-
-        #promptInput {
-            width: 100%;
-            padding: 12px 16px;
-            border: none;
-            border-radius: 24px;
-            background: #1c1c1e;
-            color: #ffffff;
-            font-size: 16px;
-            outline: none;
-            display: none;
-        }
-
-        #promptInput.active {
-            display: block;
-        }
-
-        #promptInput::placeholder {
-            color: #48484a;
-        }
-
-        #sendBtn {
-            width: 44px;
-            height: 44px;
-            background: #0a84ff;
-            border: none;
-            border-radius: 50%;
-            color: #ffffff;
-            font-size: 18px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-shrink: 0;
-        }
-
-        #sendBtn:disabled {
-            background: #2c2c2e;
-            color: #48484a;
-            cursor: not-allowed;
-        }
-
-        /* 语音输入按钮 */
-        .voice-btn {
-            width: 52px;
-            height: 52px;
-            background: #0a84ff;
-            border: none;
-            border-radius: 50%;
-            color: #ffffff;
-            font-size: 22px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-shrink: 0;
-            transition: all 0.2s;
-        }
-
-        .voice-btn.recording {
-            background: #ff453a;
-            animation: pulse 1s infinite;
-        }
-
-        .voice-btn.typing-mode {
-            background: #3a3a3c;
-        }
-
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 69, 58, 0.4); }
-            50% { transform: scale(1.05); box-shadow: 0 0 0 10px rgba(255, 69, 58, 0); }
-        }
-
-        /* 输入模式切换按钮 */
-        .mode-switch-btn {
-            width: 36px;
-            height: 36px;
-            background: transparent;
-            border: none;
-            color: #8e8e93;
-            font-size: 16px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-shrink: 0;
-        }
-
-        .mode-switch-btn:active {
-            color: #0a84ff;
-        }
-
-        /* 语音提示文字 */
-        .voice-hint {
-            position: absolute;
-            bottom: 60px;
-            left: 50%;
-            transform: translateX(-50%);
-            background: rgba(28, 28, 30, 0.95);
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-size: 14px;
-            color: #8e8e93;
-            white-space: nowrap;
-            z-index: 100;
         }
 
         /* ========== 对话列表页 ========== */
@@ -683,6 +321,388 @@
             border-radius: 0 10px 10px 0;
         }
 
+        /* ========== 对话页 ========== */
+        .chat-page {
+            display: none;
+            flex-direction: column;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 200;
+            background: #000000;
+        }
+
+        .chat-page.active {
+            display: flex;
+        }
+
+        .chat-header {
+            display: flex;
+            align-items: center;
+            padding: 12px 16px;
+            padding-top: calc(12px + env(safe-area-inset-top));
+            background: rgba(0, 0, 0, 0.9);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 0.5px solid #38383a;
+            flex-shrink: 0;
+        }
+
+        .back-btn {
+            background: none;
+            border: none;
+            color: #0a84ff;
+            font-size: 28px;
+            cursor: pointer;
+            padding: 4px 8px 4px 0;
+            line-height: 1;
+        }
+
+        .chat-title {
+            flex: 1;
+            font-size: 17px;
+            font-weight: 600;
+            text-align: center;
+        }
+
+        .chat-header-placeholder {
+            width: 36px;
+        }
+
+        /* ========== 历史摘要区（压缩） ========== */
+        .history-section {
+            max-height: 100px;
+            overflow-y: auto;
+            background: #1c1c1e;
+            padding: 8px 12px;
+            flex-shrink: 0;
+        }
+
+        .history-label {
+            font-size: 11px;
+            color: #8e8e93;
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .history-item {
+            background: #2c2c2e;
+            border-radius: 6px;
+            padding: 6px 8px;
+            margin-bottom: 6px;
+            position: relative;
+        }
+
+        .history-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .history-item-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: #ffffff;
+            margin-bottom: 2px;
+            padding-right: 45px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .history-item-content {
+            font-size: 11px;
+            line-height: 1.3;
+            color: #8e8e93;
+            padding-right: 45px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .quote-btn {
+            position: absolute;
+            right: 6px;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 4px 8px;
+            background: rgba(10, 132, 255, 0.2);
+            border: none;
+            border-radius: 4px;
+            color: #0a84ff;
+            font-size: 11px;
+            font-weight: 500;
+            cursor: pointer;
+        }
+
+        .quote-btn:active {
+            background: #0a84ff;
+            color: #ffffff;
+        }
+
+        /* ========== 对话区域 ========== */
+        .chat-body {
+            flex: 1;
+            display: flex;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .chat-messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 12px 16px;
+            padding-right: 50px;
+            background: #000000;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .message {
+            margin-bottom: 12px;
+            max-width: 90%;
+        }
+
+        .message.user {
+            margin-left: auto;
+        }
+
+        .message.assistant {
+            margin-right: auto;
+        }
+
+        .message-content {
+            padding: 10px 14px;
+            border-radius: 14px;
+            font-size: 16px;
+            line-height: 1.5;
+            position: relative;
+        }
+
+        .message.user .message-content {
+            background: #0a84ff;
+            color: #ffffff;
+            border-bottom-right-radius: 4px;
+        }
+
+        .message.assistant .message-content {
+            background: #1c1c1e;
+            color: #ffffff;
+            border-bottom-left-radius: 4px;
+        }
+
+        .model-tag {
+            font-size: 10px;
+            color: #8e8e93;
+            margin-bottom: 4px;
+        }
+
+        /* 长按复制提示 */
+        .copy-tooltip {
+            position: fixed;
+            background: rgba(28, 28, 30, 0.95);
+            color: #fff;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            z-index: 1000;
+            display: none;
+        }
+
+        .copy-tooltip.show {
+            display: block;
+        }
+
+        /* ========== 右侧翻页按钮 ========== */
+        .side-nav {
+            position: absolute;
+            right: 6px;
+            top: 50%;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            z-index: 10;
+        }
+
+        .side-nav-btn {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: rgba(58, 58, 60, 0.95);
+            border: 2px solid #48484a;
+            color: #ffffff;
+            font-size: 16px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        .side-nav-btn:active:not(:disabled) {
+            background: #0a84ff;
+            border-color: #0a84ff;
+            transform: scale(1.1);
+        }
+
+        .side-nav-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .export-btn {
+            background: rgba(10, 132, 255, 0.8);
+            border-color: #0a84ff;
+            font-size: 14px;
+        }
+
+        /* ========== 加载动画 ========== */
+        .typing-indicator {
+            display: flex;
+            gap: 4px;
+            padding: 8px 0;
+        }
+
+        .typing-indicator span {
+            width: 6px;
+            height: 6px;
+            background: #48484a;
+            border-radius: 50%;
+            animation: typing 1s infinite;
+        }
+
+        .typing-indicator span:nth-child(2) { animation-delay: 0.2s; }
+        .typing-indicator span:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes typing {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
+        }
+
+        /* ========== 输入区域 ========== */
+        .input-area {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 12px;
+            padding-bottom: max(8px, env(safe-area-inset-bottom));
+            background: #000000;
+            border-top: 0.5px solid #38383a;
+            flex-shrink: 0;
+        }
+
+        .input-wrapper {
+            flex: 1;
+            position: relative;
+        }
+
+        #promptInput {
+            width: 100%;
+            padding: 10px 14px;
+            border: none;
+            border-radius: 20px;
+            background: #1c1c1e;
+            color: #ffffff;
+            font-size: 15px;
+            outline: none;
+            display: none;
+        }
+
+        #promptInput.active {
+            display: block;
+        }
+
+        #promptInput::placeholder {
+            color: #48484a;
+        }
+
+        /* 语音输入按钮（默认模式） */
+        .voice-btn {
+            width: 56px;
+            height: 56px;
+            background: #0a84ff;
+            border: none;
+            border-radius: 50%;
+            color: #ffffff;
+            font-size: 24px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            transition: all 0.2s;
+        }
+
+        .voice-btn.recording {
+            background: #ff453a;
+            animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 69, 58, 0.4); }
+            50% { transform: scale(1.05); box-shadow: 0 0 0 10px rgba(255, 69, 58, 0); }
+        }
+
+        /* 模式切换按钮 */
+        .mode-switch-btn {
+            width: 40px;
+            height: 40px;
+            background: #2c2c2e;
+            border: none;
+            border-radius: 50%;
+            color: #8e8e93;
+            font-size: 18px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .mode-switch-btn:active {
+            background: #3a3a3c;
+            color: #0a84ff;
+        }
+
+        #sendBtn {
+            width: 40px;
+            height: 40px;
+            background: #0a84ff;
+            border: none;
+            border-radius: 50%;
+            color: #ffffff;
+            font-size: 16px;
+            cursor: pointer;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        #sendBtn:disabled {
+            background: #2c2c2e;
+            color: #48484a;
+            cursor: not-allowed;
+        }
+
+        /* 语音提示文字 */
+        .voice-hint {
+            position: absolute;
+            bottom: 70px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(28, 28, 30, 0.95);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            color: #8e8e93;
+            white-space: nowrap;
+            z-index: 100;
+        }
+
         /* ========== 设置页 ========== */
         .settings-section {
             padding: 16px;
@@ -726,48 +746,6 @@
             color: #8e8e93;
         }
 
-        .settings-input {
-            background: #2c2c2e;
-            border: none;
-            border-radius: 8px;
-            padding: 8px 12px;
-            color: #ffffff;
-            font-size: 15px;
-            width: 120px;
-            text-align: right;
-        }
-
-        .settings-input:focus {
-            outline: none;
-            background: #3a3a3c;
-        }
-
-        .settings-input::placeholder {
-            color: #48484a;
-        }
-
-        /* 时间选择器 */
-        .time-picker {
-            display: flex;
-            align-items: center;
-            gap: 4px;
-        }
-
-        .time-picker select {
-            background: #2c2c2e;
-            border: none;
-            border-radius: 8px;
-            padding: 6px 10px;
-            color: #ffffff;
-            font-size: 15px;
-            cursor: pointer;
-        }
-
-        .time-picker select:focus {
-            outline: none;
-        }
-
-        /* API Key 输入 */
         .api-key-item {
             flex-direction: column;
             align-items: stretch;
@@ -810,96 +788,13 @@
 
         .set-default-btn {
             margin-top: 8px;
-            padding: 6px 12px;
+            padding: 6px 0;
             background: transparent;
             border: none;
             color: #0a84ff;
             font-size: 14px;
             cursor: pointer;
             text-align: right;
-            padding: 0;
-        }
-
-        /* 网站配置 */
-        .site-row {
-            display: flex;
-            gap: 8px;
-            align-items: center;
-            margin-bottom: 8px;
-        }
-
-        .site-row:last-child {
-            margin-bottom: 0;
-        }
-
-        .site-row input {
-            flex: 1;
-            min-width: 0;
-            background: #2c2c2e;
-            border: none;
-            border-radius: 8px;
-            padding: 10px 12px;
-            color: #ffffff;
-            font-size: 14px;
-            overflow: hidden;
-            text-overflow: ellipsis;
-        }
-
-        .site-row .name-input {
-            flex: 0 0 80px;
-            min-width: 80px;
-        }
-
-        .site-row .url-input {
-            flex: 1;
-        }
-
-        .site-hint {
-            font-size: 12px;
-            color: #8e8e93;
-            margin-top: 6px;
-            line-height: 1.4;
-        }
-
-        .site-row input:focus {
-            outline: none;
-            background: #3a3a3c;
-        }
-
-        .remove-site-btn {
-            background: #ff453a;
-            border: none;
-            color: #ffffff;
-            width: 36px;
-            height: 36px;
-            border-radius: 8px;
-            font-size: 18px;
-            cursor: pointer;
-            flex-shrink: 0;
-        }
-
-        .add-site-btn {
-            width: 100%;
-            padding: 12px;
-            background: transparent;
-            border: 1px dashed #48484a;
-            border-radius: 8px;
-            color: #0a84ff;
-            font-size: 14px;
-            cursor: pointer;
-            margin-top: 8px;
-        }
-
-        .save-btn {
-            width: 100%;
-            padding: 14px;
-            background: #0a84ff;
-            border: none;
-            border-radius: 10px;
-            color: #ffffff;
-            font-size: 16px;
-            font-weight: 600;
-            cursor: pointer;
         }
 
         /* ========== Toast ========== */
@@ -972,17 +867,18 @@
             <div class="side-nav">
                 <button class="side-nav-btn" id="prevBtn" onclick="goToPrevQA()">↑</button>
                 <button class="side-nav-btn" id="nextBtn" onclick="goToNextQA()">↓</button>
+                <button class="side-nav-btn export-btn" onclick="exportToWord()">📄</button>
             </div>
         </div>
 
         <div class="input-area">
-            <button class="mode-switch-btn" id="modeSwitchBtn" onclick="toggleInputMode()" title="切换输入模式">⌨️</button>
             <div class="input-wrapper">
                 <input type="text" id="promptInput" placeholder="输入消息...">
                 <div class="voice-hint" id="voiceHint" style="display: none;">正在聆听...</div>
             </div>
+            <button class="mode-switch-btn" id="modeSwitchBtn" onclick="toggleInputMode()">⌨️</button>
             <button class="voice-btn" id="voiceBtn" onclick="toggleVoiceInput()">🎤</button>
-            <button id="sendBtn" onclick="sendMessage()" style="display: none;">➤</button>
+            <button id="sendBtn" onclick="sendMessage()">➤</button>
         </div>
     </div>
 
@@ -993,53 +889,7 @@
         </div>
 
         <div class="settings-section">
-            <div class="settings-group-title">网站配置</div>
-            <div class="settings-group">
-                <div class="settings-item" style="flex-direction: column; align-items: stretch;">
-                    <div id="siteRows"></div>
-                    <button class="add-site-btn" onclick="addSiteRow()">+ 添加网站</button>
-                    <div class="site-hint">💡 请输入RSS订阅地址（最多3个网站）</div>
-                </div>
-            </div>
-
-            <div class="settings-group-title">摘要设置</div>
-            <div class="settings-group">
-                <div class="settings-item">
-                    <span class="settings-label">每个网站显示条数</span>
-                    <input type="number" class="settings-input" id="summaryCount" value="5" min="1" max="10">
-                </div>
-            </div>
-
-            <div class="settings-group-title">刷新时间</div>
-            <div class="settings-group">
-                <div class="settings-item">
-                    <span class="settings-label">每天刷新时间</span>
-                    <div class="time-picker">
-                        <select id="refreshHour">
-                            <option value="5">05</option>
-                            <option value="6">06</option>
-                            <option value="7" selected>07</option>
-                            <option value="8">08</option>
-                            <option value="9">09</option>
-                            <option value="10">10</option>
-                            <option value="11">11</option>
-                            <option value="12">12</option>
-                            <option value="18">18</option>
-                            <option value="20">20</option>
-                            <option value="22">22</option>
-                        </select>
-                        <span style="color: #8e8e93;">:</span>
-                        <select id="refreshMinute">
-                            <option value="0" selected>00</option>
-                            <option value="15">15</option>
-                            <option value="30">30</option>
-                            <option value="45">45</option>
-                        </select>
-                    </div>
-                </div>
-            </div>
-
-            <div class="settings-group-title">AI 模型</div>
+            <div class="settings-group-title">AI 模型配置</div>
             <div class="settings-group">
                 <div class="settings-item api-key-item">
                     <div class="api-key-header">
@@ -1075,7 +925,7 @@
                 </div>
             </div>
 
-            <button class="save-btn" onclick="saveSettings()">保存设置</button>
+            <button class="settings-item" style="background: #0a84ff; color: #fff; justify-content: center; border-radius: 10px; font-size: 16px; font-weight: 600;" onclick="saveSettings()">保存设置</button>
         </div>
     </div>
 
@@ -1097,23 +947,25 @@
 
     <!-- Toast -->
     <div class="toast" id="toast"></div>
+    
+    <!-- 复制提示 -->
+    <div class="copy-tooltip" id="copyTooltip">已复制</div>
 
     <script>
         // ========== 数据地址 ==========
-        // 使用 jsDelivr CDN 加速访问 GitHub 数据
         const DATA_URL = 'https://cdn.jsdelivr.net/gh/woaipashanhu/web-assistant/data.json';
-        
-        // Cloudflare Workers 地址（用于手动刷新触发）
-        const WORKER_URL = 'https://web-assistant-api.2496499744.workers.dev';
 
-        // ========== 默认网站配置 ==========
+        // ========== 默认网站配置（9个） ==========
         const DEFAULT_SITES = [
-            { id: 'site_0', name: 'Yahoo财经', icon: '📊' },
-            { id: 'site_1', name: 'Bloomberg', icon: '📈' },
-            { id: 'site_2', name: 'Wired科技', icon: '💻' },
-            { id: 'site_3', name: 'TechCrunch', icon: '🚀' },
-            { id: 'site_4', name: 'BBC世界', icon: '🌍' },
-            { id: 'site_5', name: 'Reuters世界', icon: '🌐' }
+            { id: 'site_0', name: 'Wired科技', icon: '💻' },
+            { id: 'site_1', name: 'TechCrunch', icon: '🚀' },
+            { id: 'site_2', name: 'BBC世界', icon: '🌍' },
+            { id: 'site_3', name: 'CNBC市场', icon: '📈' },
+            { id: 'site_4', name: 'WSJ财经', icon: '📊' },
+            { id: 'site_5', name: 'The Hill国会', icon: '🏛️' },
+            { id: 'site_6', name: 'The Hill国际', icon: '🌐' },
+            { id: 'site_7', name: 'ScienceDaily', icon: '🔬' },
+            { id: 'site_8', name: 'Science News', icon: '🧪' }
         ];
 
         // ========== AI模型配置 ==========
@@ -1127,126 +979,34 @@
         // ========== 全局状态 ==========
         let currentSite = null;
         let currentQAIndex = -1;
-        let sites = [];
+        let sites = DEFAULT_SITES;
         let settings = {};
         let chatHistories = {};
         let summaries = {};
         let selectedDate = 'today';
-        let isRefreshing = false;
 
         // ========== 初始化 ==========
         document.addEventListener('DOMContentLoaded', () => {
             if ('serviceWorker' in navigator) {
-                navigator.serviceWorker.register('/sw.js').catch(() => {});
+                navigator.serviceWorker.register('sw.js').catch(() => {});
             }
             initSpeechRecognition();
             updateInputUI();
             loadSettings();
-            sites = DEFAULT_SITES;
             loadSummariesFromAPI();
-            initPullToRefresh();
+            loadChatHistories();
         });
-
-        // ========== 下拉刷新 ==========
-        function initPullToRefresh() {
-            const overviewPage = document.getElementById('overviewPage');
-            let startY = 0;
-            let isPulling = false;
-            let pullDistance = 0;
-
-            overviewPage.addEventListener('touchstart', (e) => {
-                if (overviewPage.scrollTop === 0) {
-                    startY = e.touches[0].clientY;
-                    isPulling = true;
-                }
-            });
-
-            overviewPage.addEventListener('touchmove', (e) => {
-                if (!isPulling) return;
-                const currentY = e.touches[0].clientY;
-                pullDistance = currentY - startY;
-                
-                if (pullDistance > 0 && pullDistance < 100) {
-                    e.preventDefault();
-                    showRefreshIndicator(pullDistance);
-                }
-            }, { passive: false });
-
-            overviewPage.addEventListener('touchend', () => {
-                if (pullDistance > 60) {
-                    triggerRefresh();
-                }
-                hideRefreshIndicator();
-                isPulling = false;
-                pullDistance = 0;
-            });
-        }
-
-        function showRefreshIndicator(distance) {
-            let indicator = document.getElementById('refreshIndicator');
-            if (!indicator) {
-                indicator = document.createElement('div');
-                indicator.id = 'refreshIndicator';
-                indicator.style.cssText = 'position:fixed;top:0;left:0;right:0;height:60px;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.8);color:#fff;font-size:14px;z-index:1000;transition:transform 0.2s;';
-                indicator.textContent = '↓ 下拉刷新';
-                document.body.appendChild(indicator);
-            }
-            indicator.style.transform = `translateY(${Math.min(distance - 60, 0)}px)`;
-            indicator.textContent = distance > 60 ? '🔄 释放刷新' : '↓ 下拉刷新';
-        }
-
-        function hideRefreshIndicator() {
-            const indicator = document.getElementById('refreshIndicator');
-            if (indicator) indicator.remove();
-        }
-
-        async function triggerRefresh() {
-            if (isRefreshing) return;
-            isRefreshing = true;
-            showToast('正在触发刷新...');
-
-            try {
-                // 调用 Cloudflare Workers 触发刷新
-                const response = await fetch(`${WORKER_URL}/api/refresh`, {
-                    method: 'GET'
-                });
-                
-                if (response.ok) {
-                    const data = await response.json();
-                    const totalCount = data.results ? data.results.reduce((a, b) => a + b.count, 0) : 0;
-                    showToast(`刷新成功！更新 ${totalCount} 条新闻`);
-                    
-                    // 等待 2 秒后重新加载数据
-                    setTimeout(async () => {
-                        await loadSummariesFromAPI();
-                    }, 2000);
-                } else {
-                    showToast('刷新失败，请稍后重试');
-                }
-            } catch (error) {
-                console.error('刷新失败:', error);
-                showToast('网络错误，请稍后重试');
-            }
-            
-            isRefreshing = false;
-        }
 
         // ========== 加载数据 ==========
         async function loadSummariesFromAPI() {
             try {
-                const response = await fetch(DATA_URL);
-                if (!response.ok) {
-                    throw new Error('加载数据失败');
-                }
+                const response = await fetch(DATA_URL + '?t=' + Date.now());
+                if (!response.ok) throw new Error('加载数据失败');
                 
                 const data = await response.json();
                 
-                // 更新网站列表
-                if (data.sites) {
-                    sites = data.sites;
-                }
+                if (data.sites) sites = data.sites;
                 
-                // 转换数据格式
                 if (data.data) {
                     const today = data.date || new Date().toISOString().split('T')[0];
                     for (const siteId in data.data) {
@@ -1256,11 +1016,7 @@
                     }
                 }
                 
-                // 更新最后更新时间显示
-                if (data.lastUpdate) {
-                    console.log('数据最后更新:', data.lastUpdate);
-                }
-                
+                if (data.lastUpdate) console.log('数据最后更新:', data.lastUpdate);
             } catch (error) {
                 console.error('加载数据失败:', error);
                 showToast('加载数据失败，请稍后重试');
@@ -1268,27 +1024,28 @@
             renderOverview();
         }
 
+        // ========== 加载聊天历史 ==========
+        function loadChatHistories() {
+            const saved = localStorage.getItem('assistantChats');
+            if (saved) chatHistories = JSON.parse(saved);
+        }
+
         // ========== 页面切换 ==========
         function switchPage(page) {
-            const pages = document.querySelectorAll('.page');
-            const navItems = document.querySelectorAll('.nav-item');
-            const navBar = document.getElementById('navBar');
-            
-            pages.forEach(p => p.classList.remove('active'));
-            navItems.forEach(n => n.classList.remove('active'));
-            navBar.style.display = 'flex';
+            document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+            document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+            document.getElementById('navBar').style.display = 'flex';
             
             if (page === 'overview') {
                 document.getElementById('overviewPage').classList.add('active');
-                navItems[0].classList.add('active');
+                document.querySelectorAll('.nav-item')[0].classList.add('active');
             } else if (page === 'chatList') {
                 document.getElementById('chatListPage').classList.add('active');
-                navItems[1].classList.add('active');
+                document.querySelectorAll('.nav-item')[1].classList.add('active');
                 renderChatList();
             } else if (page === 'settings') {
                 document.getElementById('settingsPage').classList.add('active');
-                navItems[2].classList.add('active');
-                renderSiteRows();
+                document.querySelectorAll('.nav-item')[2].classList.add('active');
             }
         }
 
@@ -1301,17 +1058,7 @@
         // ========== 数据加载 ==========
         function loadSettings() {
             const saved = localStorage.getItem('assistantSettings');
-            settings = saved ? JSON.parse(saved) : { 
-                summaryCount: 5, 
-                apiKeys: {}, 
-                defaultModel: 'zhipu',
-                refreshHour: 7,
-                refreshMinute: 0
-            };
-            
-            document.getElementById('summaryCount').value = settings.summaryCount || 5;
-            document.getElementById('refreshHour').value = settings.refreshHour || 7;
-            document.getElementById('refreshMinute').value = settings.refreshMinute || 0;
+            settings = saved ? JSON.parse(saved) : { apiKeys: {}, defaultModel: 'zhipu' };
             
             if (settings.apiKeys) {
                 document.getElementById('zhipuKey').value = settings.apiKeys.zhipu || '';
@@ -1326,7 +1073,7 @@
         function renderOverview() {
             const container = document.getElementById('sitesContainer');
             if (sites.length === 0) {
-                container.innerHTML = `<div class="empty-state"><div class="icon">📰</div><div class="text">还没有添加网站</div><button class="add-btn" onclick="switchPage('settings')">去添加网站</button></div>`;
+                container.innerHTML = '<div class="empty-state"><div class="icon">📰</div><div class="text">暂无数据</div></div>';
                 return;
             }
             container.innerHTML = sites.map((site, index) => `
@@ -1353,7 +1100,7 @@
             const targetDate = getSelectedDate();
             const siteSummaries = summaries[siteId]?.[targetDate] || [];
             if (siteSummaries.length === 0) return '<div style="color:#8e8e93;text-align:center;padding:12px;font-size:14px;">暂无数据</div>';
-            return siteSummaries.map((item, i) => `<div class="summary-item"><div class="summary-title">${item.title}</div><div class="summary-text">${item.summary}</div></div>`).join('');
+            return siteSummaries.map(item => `<div class="summary-item"><div class="summary-title">${item.title}</div><div class="summary-text">${item.summary}</div></div>`).join('');
         }
 
         function getSelectedDate() {
@@ -1361,6 +1108,12 @@
             if (selectedDate === 'yesterday') today.setDate(today.getDate() - 1);
             else if (selectedDate === '2days') today.setDate(today.getDate() - 2);
             return today.toISOString().split('T')[0];
+        }
+
+        function getDateLabel() {
+            if (selectedDate === 'today') return '今天';
+            if (selectedDate === 'yesterday') return '昨天';
+            return '前天';
         }
 
         // ========== 对话列表页 ==========
@@ -1397,12 +1150,9 @@
         }
 
         function initSwipeDelete() {
-            const items = document.querySelectorAll('.chat-list-item');
-            items.forEach(item => {
-                let startX = 0;
-                let currentX = 0;
-                let isSwiping = false;
-
+            document.querySelectorAll('.chat-list-item').forEach(item => {
+                let startX = 0, currentX = 0, isSwiping = false;
+                
                 item.addEventListener('touchstart', (e) => {
                     startX = e.touches[0].clientX;
                     isSwiping = true;
@@ -1413,12 +1163,9 @@
                     if (!isSwiping) return;
                     currentX = e.touches[0].clientX;
                     const diff = currentX - startX;
-                    
-                    // 只允许左滑（diff < 0），右滑恢复
                     if (diff <= 0 && diff >= -70) {
                         item.querySelector('.chat-list-item-inner').style.transform = `translateX(${diff}px)`;
                     } else if (diff > 0) {
-                        // 右滑恢复
                         item.querySelector('.chat-list-item-inner').style.transform = 'translateX(0)';
                     }
                 });
@@ -1427,23 +1174,14 @@
                     isSwiping = false;
                     const diff = currentX - startX;
                     item.style.transition = 'transform 0.3s';
-                    
-                    // 左滑超过35px就显示删除按钮
-                    if (diff < -35) {
-                        item.querySelector('.chat-list-item-inner').style.transform = 'translateX(-60px)';
-                    } else {
-                        // 否则恢复
-                        item.querySelector('.chat-list-item-inner').style.transform = 'translateX(0)';
-                    }
+                    item.querySelector('.chat-list-item-inner').style.transform = diff < -35 ? 'translateX(-60px)' : 'translateX(0)';
                 });
             });
         }
 
         function enterChatFromList(siteId) {
             const siteIndex = sites.findIndex(s => s.id === siteId);
-            if (siteIndex >= 0) {
-                enterChat(siteIndex);
-            }
+            if (siteIndex >= 0) enterChat(siteIndex);
         }
 
         function deleteChatHistory(siteId) {
@@ -1457,7 +1195,6 @@
             const date = new Date(timestamp);
             const now = new Date();
             const diff = now - date;
-            
             if (diff < 60000) return '刚刚';
             if (diff < 3600000) return Math.floor(diff / 60000) + '分钟前';
             if (diff < 86400000) return Math.floor(diff / 3600000) + '小时前';
@@ -1467,7 +1204,7 @@
         // ========== 对话页 ==========
         function enterChat(siteIndex) {
             currentSite = sites[siteIndex];
-            document.getElementById('chatTitle').textContent = currentSite.name;
+            document.getElementById('chatTitle').textContent = currentSite.name + ' ' + getDateLabel();
             renderHistorySection();
             renderChatMessages();
             document.getElementById('chatPage').classList.add('active');
@@ -1483,13 +1220,16 @@
                 container.innerHTML = '<div class="history-label">暂无摘要</div>';
                 return;
             }
+            
+            // 显示3条摘要
+            const items = siteSummaries[dates[0]].slice(0, 3);
             container.innerHTML = `
                 <div class="history-label">今日摘要</div>
-                ${siteSummaries[dates[0]].slice(0, 2).map(item => `
+                ${items.map(item => `
                     <div class="history-item">
                         <div class="history-item-title">${item.title}</div>
                         <div class="history-item-content">${item.summary}</div>
-                        <button class="quote-btn" onclick='quoteAndSend(${JSON.stringify(item.title + ": " + item.summary)})'>引用</button>
+                        <button class="quote-btn" onclick='quoteAndSend(${JSON.stringify(item.title + ": " + item.summary).replace(/'/g, "\\'")})'>引用</button>
                     </div>
                 `).join('')}
             `;
@@ -1504,7 +1244,6 @@
                 container.innerHTML = '<div class="message assistant"><div class="message-content">你好！我是网站信息助手，你可以引用上方的摘要内容向我提问。</div></div>';
                 currentQAIndex = -1;
             } else {
-                // 显示所有历史消息
                 history.forEach((msg, index) => {
                     const div = document.createElement('div');
                     div.className = `message ${msg.role}`;
@@ -1519,24 +1258,55 @@
                     container.appendChild(div);
                 });
                 
-                // 滚动到底部
                 container.scrollTop = container.scrollHeight;
-                
-                // 计算当前问答组索引
                 currentQAIndex = Math.floor((history.length - 1) / 2);
             }
             updateNavArrows();
+            initLongPress();
         }
 
-        // ========== 上下翻页功能（定位到用户问题） ==========
+        // ========== 长按复制功能 ==========
+        function initLongPress() {
+            const messages = document.querySelectorAll('.message-content');
+            let longPressTimer;
+            
+            messages.forEach(msg => {
+                msg.addEventListener('touchstart', (e) => {
+                    longPressTimer = setTimeout(() => {
+                        const text = msg.innerText;
+                        if (navigator.clipboard) {
+                            navigator.clipboard.writeText(text);
+                        }
+                        showCopyTooltip(e.touches[0].clientX, e.touches[0].clientY);
+                    }, 500);
+                });
+                
+                msg.addEventListener('touchend', () => {
+                    clearTimeout(longPressTimer);
+                });
+                
+                msg.addEventListener('touchmove', () => {
+                    clearTimeout(longPressTimer);
+                });
+            });
+        }
+
+        function showCopyTooltip(x, y) {
+            const tooltip = document.getElementById('copyTooltip');
+            tooltip.style.left = x + 'px';
+            tooltip.style.top = (y - 40) + 'px';
+            tooltip.classList.add('show');
+            setTimeout(() => tooltip.classList.remove('show'), 1500);
+        }
+
+        // ========== 上下翻页功能 ==========
         function goToPrevQA() {
             const history = chatHistories[currentSite?.id] || [];
             if (history.length === 0) return;
             
-            // 找到上一个用户消息的位置
             if (currentQAIndex > 0) {
                 currentQAIndex--;
-                const userMsgIndex = currentQAIndex * 2; // 用户消息的索引
+                const userMsgIndex = currentQAIndex * 2;
                 scrollToMessage(userMsgIndex);
                 updateNavArrows();
             }
@@ -1549,7 +1319,7 @@
             const maxIndex = Math.floor((history.length - 1) / 2);
             if (currentQAIndex < maxIndex) {
                 currentQAIndex++;
-                const userMsgIndex = currentQAIndex * 2; // 用户消息的索引
+                const userMsgIndex = currentQAIndex * 2;
                 scrollToMessage(userMsgIndex);
                 updateNavArrows();
             }
@@ -1560,11 +1330,8 @@
             const messages = container.querySelectorAll('.message');
             if (messages[index]) {
                 messages[index].scrollIntoView({ behavior: 'smooth', block: 'center' });
-                // 高亮效果
                 messages[index].style.background = 'rgba(10, 132, 255, 0.2)';
-                setTimeout(() => {
-                    messages[index].style.background = '';
-                }, 1000);
+                setTimeout(() => messages[index].style.background = '', 1000);
             }
         }
 
@@ -1578,8 +1345,6 @@
         // ========== 引用功能 ==========
         async function quoteAndSend(content) {
             const fullMessage = `[引用内容]\n${content}\n\n请帮我分析一下这段内容。`;
-            
-            // 显示完整的引用内容（用户看到的）
             const displayContent = `📝 引用内容：\n${content}\n\n请帮我分析这段内容。`;
             
             addChatMessage('user', displayContent);
@@ -1641,10 +1406,10 @@
             container.appendChild(div);
             container.scrollTop = container.scrollHeight;
 
-            // 更新索引
             const history = chatHistories[currentSite?.id] || [];
             currentQAIndex = Math.floor((history.length - 1) / 2);
             updateNavArrows();
+            initLongPress();
         }
 
         function saveChatHistory(role, content, model = null) {
@@ -1652,6 +1417,37 @@
             if (!chatHistories[currentSite.id]) chatHistories[currentSite.id] = [];
             chatHistories[currentSite.id].push({ role, content, model, timestamp: Date.now() });
             localStorage.setItem('assistantChats', JSON.stringify(chatHistories));
+        }
+
+        // ========== 导出Word ==========
+        function exportToWord() {
+            const history = chatHistories[currentSite?.id] || [];
+            if (history.length === 0) {
+                showToast('暂无对话内容');
+                return;
+            }
+            
+            let content = `<html><head><meta charset="UTF-8"><title>对话记录</title></head><body>`;
+            content += `<h1>${currentSite.name} - 对话记录</h1>`;
+            content += `<p>导出时间: ${new Date().toLocaleString()}</p><hr>`;
+            
+            history.forEach(msg => {
+                const role = msg.role === 'user' ? '我' : (msg.model || 'AI');
+                content += `<p><strong>${role}:</strong></p>`;
+                content += `<p style="margin-left:20px;white-space:pre-wrap;">${msg.content}</p><br>`;
+            });
+            
+            content += `</body></html>`;
+            
+            const blob = new Blob([content], { type: 'application/msword' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${currentSite.name}_对话记录_${new Date().toISOString().split('T')[0]}.doc`;
+            a.click();
+            URL.revokeObjectURL(url);
+            
+            showToast('导出成功');
         }
 
         // ========== AI调用 ==========
@@ -1682,11 +1478,10 @@
         }
 
         // ========== 语音输入功能 ==========
-        let isVoiceMode = true; // 默认语音模式
+        let isVoiceMode = true;
         let isRecording = false;
         let recognition = null;
 
-        // 初始化语音识别
         function initSpeechRecognition() {
             if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
                 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
@@ -1696,36 +1491,29 @@
                 recognition.lang = 'zh-CN';
 
                 recognition.onresult = (event) => {
-                    const transcript = event.results[0][0].transcript;
-                    document.getElementById('promptInput').value = transcript;
+                    document.getElementById('promptInput').value = event.results[0][0].transcript;
                 };
 
                 recognition.onend = () => {
                     if (isRecording) {
                         stopRecording();
-                        // 自动发送
                         const message = document.getElementById('promptInput').value.trim();
-                        if (message) {
-                            sendMessage();
-                        }
+                        if (message) sendMessage();
                     }
                 };
 
-                recognition.onerror = (event) => {
-                    console.error('语音识别错误:', event.error);
+                recognition.onerror = () => {
                     stopRecording();
-                    showToast('语音识别失败，请重试');
+                    showToast('语音识别失败');
                 };
             }
         }
 
-        // 切换输入模式
         function toggleInputMode() {
             isVoiceMode = !isVoiceMode;
             updateInputUI();
         }
 
-        // 更新输入界面
         function updateInputUI() {
             const voiceBtn = document.getElementById('voiceBtn');
             const promptInput = document.getElementById('promptInput');
@@ -1733,94 +1521,49 @@
             const modeSwitchBtn = document.getElementById('modeSwitchBtn');
 
             if (isVoiceMode) {
-                // 语音模式
                 voiceBtn.style.display = 'flex';
-                voiceBtn.classList.remove('typing-mode');
                 promptInput.classList.remove('active');
                 sendBtn.style.display = 'none';
                 modeSwitchBtn.textContent = '⌨️';
             } else {
-                // 打字模式
                 voiceBtn.style.display = 'none';
                 promptInput.classList.add('active');
                 sendBtn.style.display = 'flex';
                 modeSwitchBtn.textContent = '🎤';
-                
-                // 聚焦输入框
                 setTimeout(() => promptInput.focus(), 100);
             }
         }
 
-        // 切换语音输入
         function toggleVoiceInput() {
             if (!recognition) {
                 showToast('您的浏览器不支持语音输入');
                 return;
             }
-
-            if (isRecording) {
-                stopRecording();
-            } else {
-                startRecording();
-            }
+            isRecording ? stopRecording() : startRecording();
         }
 
-        // 开始录音
         function startRecording() {
             if (!recognition) return;
-            
             isRecording = true;
             const voiceBtn = document.getElementById('voiceBtn');
             const voiceHint = document.getElementById('voiceHint');
-            
             voiceBtn.classList.add('recording');
             voiceBtn.textContent = '⏹️';
             voiceHint.style.display = 'block';
-            
-            try {
-                recognition.start();
-            } catch (e) {
-                console.error('启动语音识别失败:', e);
-                stopRecording();
-            }
+            try { recognition.start(); } catch (e) { stopRecording(); }
         }
 
-        // 停止录音
         function stopRecording() {
             isRecording = false;
             const voiceBtn = document.getElementById('voiceBtn');
             const voiceHint = document.getElementById('voiceHint');
-            
             voiceBtn.classList.remove('recording');
             voiceBtn.textContent = '🎤';
             voiceHint.style.display = 'none';
-            
-            try {
-                recognition.stop();
-            } catch (e) {
-                console.error('停止语音识别失败:', e);
-            }
+            try { recognition.stop(); } catch (e) {}
         }
-
-        // 页面加载时初始化
-        document.addEventListener('DOMContentLoaded', () => {
-            initSpeechRecognition();
-            updateInputUI();
-        });
 
         // ========== 设置页 ==========
-        function addSiteRow(name = '', url = '') {
-            const container = document.getElementById('siteRows');
-            if (container.querySelectorAll('.site-row').length >= 3) {
-                showToast('最多添加 3 个网站');
-                return;
-            }
-            const row = document.createElement('div');
-            row.className = 'site-row';
-            row.innerHTML = `<input type="text" class="name-input" placeholder="名称" value="${name}" title="网站名称"><input type="url" class="url-input" placeholder="RSS订阅地址" value="${url}" title="RSS订阅地址"><button class="remove-site-btn" onclick="this.parentElement.remove()">×</button>`;
-            container.appendChild(row);
-        }
-
         function setDefaultModel(modelKey) {
             settings.defaultModel = modelKey;
             localStorage.setItem('assistantSettings', JSON.stringify(settings));
@@ -1831,26 +1574,11 @@
         function updateDefaultModelDisplay() {
             ['zhipu', 'deepseek', 'doubao', 'longcat'].forEach(key => {
                 const badge = document.getElementById(key + 'Badge');
-                if (badge) {
-                    badge.style.display = settings.defaultModel === key ? 'inline' : 'none';
-                }
+                if (badge) badge.style.display = settings.defaultModel === key ? 'inline' : 'none';
             });
         }
 
         function saveSettings() {
-            const siteRows = document.querySelectorAll('#siteRows .site-row');
-            sites = [];
-            siteRows.forEach((row, index) => {
-                const inputs = row.querySelectorAll('input');
-                if (inputs[0].value && inputs[1].value) {
-                    sites.push({ id: `site_${index}`, name: inputs[0].value, url: inputs[1].value, icon: '📰' });
-                }
-            });
-            localStorage.setItem('assistantSites', JSON.stringify(sites));
-
-            settings.summaryCount = parseInt(document.getElementById('summaryCount').value);
-            settings.refreshHour = parseInt(document.getElementById('refreshHour').value);
-            settings.refreshMinute = parseInt(document.getElementById('refreshMinute').value);
             settings.apiKeys = {
                 zhipu: document.getElementById('zhipuKey').value,
                 deepseek: document.getElementById('deepseekKey').value,
@@ -1858,16 +1586,8 @@
                 longcat: document.getElementById('longcatKey').value
             };
             localStorage.setItem('assistantSettings', JSON.stringify(settings));
-
             showToast('设置已保存');
-            renderOverview();
             switchPage('overview');
-        }
-
-        function renderSiteRows() {
-            const container = document.getElementById('siteRows');
-            container.innerHTML = '';
-            sites.forEach(site => addSiteRow(site.name, site.url));
         }
 
         // ========== 工具函数 ==========
