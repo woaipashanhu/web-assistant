@@ -309,6 +309,8 @@
             bottom: 0;
             z-index: 200;
             background: #000000;
+            -webkit-transform: translateZ(0);
+            transform: translateZ(0);
         }
 
         .chat-page.active {
@@ -355,6 +357,10 @@
             background: #1c1c1e;
             padding: 8px 12px;
             flex-shrink: 0;
+            position: relative;
+            z-index: 2;
+            -webkit-transform: translateZ(0);
+            transform: translateZ(0);
         }
 
         .history-label {
@@ -438,6 +444,8 @@
             background: #000000;
             -webkit-overflow-scrolling: touch;
             z-index: 1;
+            -webkit-transform: translateZ(0);
+            transform: translateZ(0);
         }
 
         .message {
@@ -578,6 +586,8 @@
             right: 0;
             z-index: 50;
             border-top: 0.5px solid #38383a;
+            -webkit-transform: translateZ(0);
+            transform: translateZ(0);
         }
 
         .input-wrapper {
