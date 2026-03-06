@@ -587,8 +587,8 @@
             display: flex;
             align-items: center;
             gap: 10px;
-            padding: 10px 12px;
-            padding-bottom: max(12px, env(safe-area-inset-bottom));
+            padding: 8px 12px;
+            padding-bottom: max(8px, env(safe-area-inset-bottom));
             background: #000000;
             flex-shrink: 0;
         }
@@ -1183,10 +1183,16 @@
         }
 
         function getSelectedDate() {
-            const today = new Date();
-            if (selectedDate === 'yesterday') today.setDate(today.getDate() - 1);
-            else if (selectedDate === '2days') today.setDate(today.getDate() - 2);
-            return today.toISOString().split('T')[0];
+            // 使用北京时间计算日期
+            const now = new Date();
+            const beijingOffset = 8 * 60; // 北京时间 UTC+8
+            const beijingTime = new Date(now.getTime() + (beijingOffset - now.getTimezoneOffset()) * 60000);
+            
+            let targetDate = new Date(beijingTime);
+            if (selectedDate === 'yesterday') targetDate.setDate(targetDate.getDate() - 1);
+            else if (selectedDate === '2days') targetDate.setDate(targetDate.getDate() - 2);
+            
+            return targetDate.toISOString().split('T')[0];
         }
 
         function getDateLabel() {
@@ -1195,15 +1201,27 @@
             return '前天';
         }
 
+        // 获取北京时间日期字符串
+        function getBeijingDate() {
+            const now = new Date();
+            const beijingOffset = 8 * 60;
+            const beijingTime = new Date(now.getTime() + (beijingOffset - now.getTimezoneOffset()) * 60000);
+            return beijingTime.toISOString().split('T')[0];
+        }
+
         function getDateLabelForSite(siteId) {
             const siteSummaries = summaries[siteId] || {};
             const dates = Object.keys(siteSummaries).sort().reverse();
             if (dates.length === 0) return '暂无';
-            const today = new Date().toISOString().split('T')[0];
-            const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+            
+            const today = getBeijingDate();
+            const yesterday = new Date(Date.now() - 86400000);
+            const yesterdayBeijing = new Date(yesterday.getTime() + (8 * 60 - yesterday.getTimezoneOffset()) * 60000);
+            const yesterdayStr = yesterdayBeijing.toISOString().split('T')[0];
+            
             const lastDate = dates[0];
             if (lastDate === today) return '今天';
-            if (lastDate === yesterday) return '昨天';
+            if (lastDate === yesterdayStr) return '昨天';
             return lastDate;
         }
 
