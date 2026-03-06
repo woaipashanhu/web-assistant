@@ -586,9 +586,9 @@
         .input-area {
             display: flex;
             align-items: center;
-            gap: 10px;
-            padding: 20px 16px;
-            padding-bottom: max(36px, calc(env(safe-area-inset-bottom) + 16px));
+            gap: 12px;
+            padding: 24px 16px;
+            padding-bottom: max(40px, calc(env(safe-area-inset-bottom) + 20px));
             background: #000000;
             flex-shrink: 0;
         }
@@ -1080,15 +1080,22 @@
                 // if (data.sites) sites = data.sites;
                 
                 if (data.data) {
-                    const today = data.date || new Date().toISOString().split('T')[0];
+                    // 使用数据中的日期，如果没有则使用今天
+                    const dataDate = data.date || new Date().toISOString().split('T')[0];
+                    console.log('加载数据日期:', dataDate);
+                    
                     for (const siteId in data.data) {
                         const siteData = data.data[siteId];
-                        if (!summaries[siteId]) summaries[siteId] = {};
-                        summaries[siteId][today] = siteData.items || [];
+                        if (siteData.items && siteData.items.length > 0) {
+                            if (!summaries[siteId]) summaries[siteId] = {};
+                            summaries[siteId][dataDate] = siteData.items || [];
+                            console.log(`加载 ${siteId}: ${siteData.items.length} 条`);
+                        }
                     }
                 }
                 
-                if (data.lastUpdate) console.log('数据最后更新:', data.lastUpdate);
+                console.log('数据最后更新:', data.lastUpdate);
+                console.log('summaries:', summaries);
             } catch (error) {
                 console.error('加载数据失败:', error);
                 showToast('加载数据失败，请稍后重试');
