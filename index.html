@@ -426,6 +426,7 @@
             position: relative;
             overflow: hidden;
             padding-bottom: 70px;
+            z-index: 1;
         }
 
         .chat-messages {
@@ -436,6 +437,7 @@
             padding-bottom: 20px;
             background: #000000;
             -webkit-overflow-scrolling: touch;
+            z-index: 1;
         }
 
         .message {
@@ -568,13 +570,13 @@
             gap: 10px;
             padding: 8px 12px;
             padding-bottom: calc(8px + env(safe-area-inset-bottom));
-            background: #000000;
+            background: rgba(0, 0, 0, 0.98);
             flex-shrink: 0;
-            position: fixed;
+            position: absolute;
             bottom: 0;
             left: 0;
             right: 0;
-            z-index: 300;
+            z-index: 50;
             border-top: 0.5px solid #38383a;
         }
 
@@ -608,13 +610,15 @@
             color: #48484a;
         }
 
-        /* 文字提示 */
+        /* 文字提示 - 居中显示 */
         .voice-placeholder {
             flex: 1;
             padding: 11px 14px;
             color: #8e8e93;
             font-size: 15px;
             display: none;
+            text-align: center;
+            cursor: pointer;
         }
 
         .voice-placeholder.active {
@@ -1217,7 +1221,7 @@
                         <div class="chat-list-item-inner" onclick="enterChatFromList('${siteId}')">
                             <div class="chat-list-icon">${site.icon}</div>
                             <div class="chat-list-info">
-                                <div class="chat-list-name">${site.name} <span style="color:#0a84ff;font-size:12px;">· ${getDateLabelForSite(siteId)}</span></div>
+                                <div class="chat-list-name">${site.name}</div>
                                 <div class="chat-list-preview">${lastMsg.content.substring(0, 30)}...</div>
                             </div>
                             <div class="chat-list-time">${formatTime(lastMsg.timestamp)}</div>
