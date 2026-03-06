@@ -95,35 +95,12 @@
             letter-spacing: -0.5px;
         }
 
-        /* ========== 日期选择器 ========== */
-        .date-selector {
-            display: flex;
-            gap: 8px;
+        /* ========== 今日标题 ========== */
+        .today-title {
             padding: 0 16px 16px;
-            overflow-x: auto;
-            -webkit-overflow-scrolling: touch;
-        }
-
-        .date-selector::-webkit-scrollbar {
-            display: none;
-        }
-
-        .date-btn {
-            padding: 8px 16px;
-            border-radius: 20px;
-            background: #1c1c1e;
-            border: none;
-            color: #8e8e93;
-            font-size: 14px;
-            font-weight: 500;
-            cursor: pointer;
-            white-space: nowrap;
-            transition: all 0.2s;
-        }
-
-        .date-btn.active {
-            background: #0a84ff;
-            color: #ffffff;
+            font-size: 17px;
+            font-weight: 600;
+            color: #0a84ff;
         }
 
         /* ========== 网站卡片 ========== */
@@ -448,6 +425,7 @@
             display: flex;
             position: relative;
             overflow: hidden;
+            padding-bottom: 70px;
         }
 
         .chat-messages {
@@ -455,6 +433,7 @@
             overflow-y: auto;
             padding: 12px 16px;
             padding-right: 50px;
+            padding-bottom: 20px;
             background: #000000;
             -webkit-overflow-scrolling: touch;
         }
@@ -588,9 +567,15 @@
             align-items: center;
             gap: 10px;
             padding: 8px 12px;
-            padding-bottom: max(8px, env(safe-area-inset-bottom));
+            padding-bottom: calc(8px + env(safe-area-inset-bottom));
             background: #000000;
             flex-shrink: 0;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 300;
+            border-top: 0.5px solid #38383a;
         }
 
         .input-wrapper {
@@ -892,11 +877,7 @@
             <h1 class="page-title">概览</h1>
         </div>
         
-        <div class="date-selector" id="dateSelector">
-            <button class="date-btn active" data-date="today">今天</button>
-            <button class="date-btn" data-date="yesterday">昨天</button>
-            <button class="date-btn" data-date="2days">前天</button>
-        </div>
+        <div class="today-title">今日概览</div>
 
         <div id="sitesContainer"></div>
     </div>
@@ -931,11 +912,11 @@
         <div class="input-area">
             <div class="input-wrapper">
                 <input type="text" id="promptInput" placeholder="输入消息...">
-                <div class="voice-placeholder" id="voicePlaceholder">点击麦克风开始语音输入</div>
-                <button class="voice-btn" id="voiceBtn">🎤</button>
+                <div class="voice-placeholder" id="voicePlaceholder">按住说话</div>
+                <button class="voice-btn" id="voiceBtn" style="display: none;">🎤</button>
             </div>
             <button class="mode-switch-btn" id="modeSwitchBtn" onclick="toggleInputMode()">⌨️</button>
-            <button id="sendBtn" onclick="sendMessage()">➤</button>
+            <button id="sendBtn" onclick="sendMessage()" style="display: none;">➤</button>
         </div>
         
         <!-- 录音状态提示 -->
@@ -1054,7 +1035,7 @@
         let settings = {};
         let chatHistories = {};
         let summaries = {};
-        let selectedDate = 'today';
+        // selectedDate 不再需要，始终显示今天的数据
 
         // ========== 初始化 ==========
         document.addEventListener('DOMContentLoaded', () => {
@@ -1183,22 +1164,12 @@
         }
 
         function getSelectedDate() {
-            // 使用北京时间计算日期
-            const now = new Date();
-            const beijingOffset = 8 * 60; // 北京时间 UTC+8
-            const beijingTime = new Date(now.getTime() + (beijingOffset - now.getTimezoneOffset()) * 60000);
-            
-            let targetDate = new Date(beijingTime);
-            if (selectedDate === 'yesterday') targetDate.setDate(targetDate.getDate() - 1);
-            else if (selectedDate === '2days') targetDate.setDate(targetDate.getDate() - 2);
-            
-            return targetDate.toISOString().split('T')[0];
+            // 始终返回今天的北京时间日期
+            return getBeijingDate();
         }
 
         function getDateLabel() {
-            if (selectedDate === 'today') return '今天';
-            if (selectedDate === 'yesterday') return '昨天';
-            return '前天';
+            return '今天';
         }
 
         // 获取北京时间日期字符串
@@ -1663,14 +1634,15 @@
             const modeSwitchBtn = document.getElementById('modeSwitchBtn');
 
             if (isVoiceMode) {
-                // 语音模式：输入框内显示话筒 + 提示文字，右侧显示键盘切换按钮
-                voiceBtn.style.display = 'flex';
+                // 语音模式：显示"按住说话"，右侧显示键盘切换按钮
+                voiceBtn.style.display = 'none';
                 voicePlaceholder.classList.add('active');
+                voicePlaceholder.textContent = '按住说话';
                 promptInput.classList.remove('active');
                 sendBtn.style.display = 'none';
                 modeSwitchBtn.textContent = '⌨️';
             } else {
-                // 键盘模式：输入框内隐藏话筒 + 显示输入框，右侧显示话筒切换按钮 + 发送按钮
+                // 键盘模式：显示输入框，右侧显示麦克风切换按钮 + 发送按钮
                 voiceBtn.style.display = 'none';
                 voicePlaceholder.classList.remove('active');
                 promptInput.classList.add('active');
@@ -1680,17 +1652,50 @@
             }
         }
 
-        // 语音按钮点击事件
+        // 语音按钮点击事件 - 改为长按说话
         function initVoiceEvents() {
-            const voiceBtn = document.getElementById('voiceBtn');
-            if (!voiceBtn) return;
+            const voicePlaceholder = document.getElementById('voicePlaceholder');
+            const inputWrapper = document.querySelector('.input-wrapper');
+            if (!voicePlaceholder || !inputWrapper) return;
             
-            voiceBtn.addEventListener('click', () => {
-                if (isRecording) {
-                    stopRecording();
-                } else {
-                    startRecording();
-                }
+            let touchStartTime = 0;
+            
+            // 触摸开始 - 开始录音
+            voicePlaceholder.addEventListener('touchstart', (e) => {
+                if (!isVoiceMode) return;
+                e.preventDefault();
+                touchStartTime = Date.now();
+                startRecording();
+            });
+            
+            // 触摸结束 - 停止录音
+            voicePlaceholder.addEventListener('touchend', (e) => {
+                if (!isVoiceMode) return;
+                e.preventDefault();
+                stopRecording();
+            });
+            
+            // 触摸取消
+            voicePlaceholder.addEventListener('touchcancel', () => {
+                if (!isVoiceMode) return;
+                stopRecording();
+            });
+            
+            // 鼠标事件（PC端）
+            voicePlaceholder.addEventListener('mousedown', (e) => {
+                if (!isVoiceMode) return;
+                e.preventDefault();
+                startRecording();
+            });
+            
+            voicePlaceholder.addEventListener('mouseup', (e) => {
+                if (!isVoiceMode) return;
+                e.preventDefault();
+                stopRecording();
+            });
+            
+            voicePlaceholder.addEventListener('mouseleave', () => {
+                if (isRecording) stopRecording();
             });
         }
 
@@ -1705,24 +1710,24 @@
                 return;
             }
             isRecording = true;
-            const voiceBtn = document.getElementById('voiceBtn');
             const recordingHint = document.getElementById('recordingHint');
             const voicePlaceholder = document.getElementById('voicePlaceholder');
-            voiceBtn.classList.add('recording');
-            voiceBtn.textContent = '🔴';
-            voicePlaceholder.textContent = '正在识别语音...';
+            const inputWrapper = document.querySelector('.input-wrapper');
+            inputWrapper.style.background = 'rgba(255, 69, 58, 0.3)';
+            voicePlaceholder.textContent = '松开发送';
+            voicePlaceholder.style.color = '#ff453a';
             recordingHint.classList.add('show');
             try { recognition.start(); } catch (e) { stopRecording(); }
         }
 
         function stopRecording() {
             isRecording = false;
-            const voiceBtn = document.getElementById('voiceBtn');
             const recordingHint = document.getElementById('recordingHint');
             const voicePlaceholder = document.getElementById('voicePlaceholder');
-            voiceBtn.classList.remove('recording');
-            voiceBtn.textContent = '🎤';
-            voicePlaceholder.textContent = '点击麦克风开始语音输入';
+            const inputWrapper = document.querySelector('.input-wrapper');
+            inputWrapper.style.background = '#1c1c1e';
+            voicePlaceholder.textContent = '按住说话';
+            voicePlaceholder.style.color = '#8e8e93';
             recordingHint.classList.remove('show');
             try { recognition.stop(); } catch (e) {}
         }
@@ -1774,14 +1779,7 @@
             }
         });
 
-        document.getElementById('dateSelector').addEventListener('click', (e) => {
-            if (e.target.classList.contains('date-btn')) {
-                document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
-                e.target.classList.add('active');
-                selectedDate = e.target.dataset.date;
-                renderOverview();
-            }
-        });
+        // 日期选择器已移除，不再需要事件监听
     </script>
 </body>
 </html>
