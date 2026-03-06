@@ -350,15 +350,22 @@
             width: 36px;
         }
 
-        /* ========== 历史摘要区（固定，不滚动） ========== */
+        /* ========== 历史摘要区（独立滚动） ========== */
         .history-section {
+            max-height: 120px;
             background: #1c1c1e;
             padding: 8px 12px;
             flex-shrink: 0;
             position: relative;
             z-index: 2;
-            -webkit-transform: translateZ(0);
-            transform: translateZ(0);
+            overflow: hidden;
+        }
+
+        .history-section-inner {
+            max-height: 104px;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+            will-change: scroll-position;
         }
 
         .history-label {
@@ -441,9 +448,7 @@
             padding-bottom: 20px;
             background: #000000;
             -webkit-overflow-scrolling: touch;
-            z-index: 1;
-            -webkit-transform: translateZ(0);
-            transform: translateZ(0);
+            will-change: scroll-position;
         }
 
         .message {
@@ -1325,13 +1330,15 @@
             const items = siteSummaries[dates[0]].slice(0, 3);
             container.innerHTML = `
                 <div class="history-label">今日摘要</div>
-                ${items.map((item, idx) => `
-                    <div class="history-item" data-item-index="${idx}">
-                        <div class="history-item-title">${escapeHtml(item.title)}</div>
-                        <div class="history-item-content">${escapeHtml(item.summary)}</div>
-                        <button class="quote-btn" data-quote="${escapeAttr(item.title + ": " + item.summary)}">引用</button>
-                    </div>
-                `).join('')}
+                <div class="history-section-inner">
+                    ${items.map((item, idx) => `
+                        <div class="history-item" data-item-index="${idx}">
+                            <div class="history-item-title">${escapeHtml(item.title)}</div>
+                            <div class="history-item-content">${escapeHtml(item.summary)}</div>
+                            <button class="quote-btn" data-quote="${escapeAttr(item.title + ": " + item.summary)}">引用</button>
+                        </div>
+                    `).join('')}
+                </div>
             `;
             
             // 绑定引用按钮事件
