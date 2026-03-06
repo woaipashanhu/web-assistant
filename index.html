@@ -586,9 +586,9 @@
         .input-area {
             display: flex;
             align-items: center;
-            gap: 12px;
-            padding: 24px 16px;
-            padding-bottom: max(40px, calc(env(safe-area-inset-bottom) + 20px));
+            gap: 10px;
+            padding: 10px 12px;
+            padding-bottom: max(12px, env(safe-area-inset-bottom));
             background: #000000;
             flex-shrink: 0;
         }
@@ -599,14 +599,14 @@
             display: flex;
             align-items: center;
             background: #1c1c1e;
-            border-radius: 24px;
+            border-radius: 22px;
             padding: 0 4px;
-            min-height: 48px;
+            min-height: 44px;
         }
 
         #promptInput {
             flex: 1;
-            padding: 12px 16px;
+            padding: 11px 14px;
             border: none;
             background: transparent;
             color: #ffffff;
@@ -626,7 +626,7 @@
         /* 文字提示 */
         .voice-placeholder {
             flex: 1;
-            padding: 12px 16px;
+            padding: 11px 14px;
             color: #8e8e93;
             font-size: 15px;
             display: none;
@@ -636,22 +636,22 @@
             display: block;
         }
 
-        /* 语音输入按钮 - 豆包风格 */
+        /* 语音输入按钮 - 在输入框内部 */
         .voice-btn {
-            width: 44px;
-            height: 44px;
+            width: 36px;
+            height: 36px;
             background: transparent;
             border: none;
             border-radius: 50%;
             color: #0a84ff;
-            font-size: 22px;
+            font-size: 20px;
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
             flex-shrink: 0;
             transition: all 0.2s;
-            margin-right: 2px;
+            margin-right: 4px;
         }
 
         .voice-btn:active {
@@ -672,14 +672,14 @@
         /* 录音状态提示 */
         .recording-hint {
             position: fixed;
-            bottom: 100px;
+            bottom: 80px;
             left: 50%;
             transform: translateX(-50%);
             background: rgba(255, 69, 58, 0.95);
             color: #fff;
-            padding: 12px 24px;
-            border-radius: 24px;
-            font-size: 15px;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-size: 14px;
             font-weight: 500;
             z-index: 100;
             display: none;
@@ -706,13 +706,13 @@
 
         /* 模式切换按钮 */
         .mode-switch-btn {
-            width: 50px;
-            height: 50px;
-            background: #2c2c2e;
+            width: 44px;
+            height: 44px;
+            background: #1c1c1e;
             border: none;
             border-radius: 50%;
             color: #8e8e93;
-            font-size: 20px;
+            font-size: 18px;
             cursor: pointer;
             display: flex;
             align-items: center;
@@ -721,13 +721,13 @@
         }
 
         .mode-switch-btn:active {
-            background: #3a3a3c;
+            background: #2c2c2e;
             color: #0a84ff;
         }
 
         #sendBtn {
-            width: 50px;
-            height: 50px;
+            width: 44px;
+            height: 44px;
             background: #0a84ff;
             border: none;
             border-radius: 50%;
@@ -749,7 +749,7 @@
         /* 语音提示文字 */
         .voice-hint {
             position: absolute;
-            bottom: 70px;
+            bottom: 60px;
             left: 50%;
             transform: translateX(-50%);
             background: rgba(28, 28, 30, 0.95);
@@ -1645,13 +1645,15 @@
             const modeSwitchBtn = document.getElementById('modeSwitchBtn');
 
             if (isVoiceMode) {
+                // 语音模式：输入框内显示话筒 + 提示文字，右侧显示键盘切换按钮
                 voiceBtn.style.display = 'flex';
                 voicePlaceholder.classList.add('active');
                 promptInput.classList.remove('active');
                 sendBtn.style.display = 'none';
                 modeSwitchBtn.textContent = '⌨️';
             } else {
-                voiceBtn.style.display = 'flex';
+                // 键盘模式：输入框内隐藏话筒 + 显示输入框，右侧显示话筒切换按钮 + 发送按钮
+                voiceBtn.style.display = 'none';
                 voicePlaceholder.classList.remove('active');
                 promptInput.classList.add('active');
                 sendBtn.style.display = 'flex';
