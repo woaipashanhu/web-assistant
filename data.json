@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-06T23:00:08.736Z",
-  "date": "2026-03-07",
+  "lastUpdate": "2026-03-07T23:00:32.899Z",
+  "date": "2026-03-08",
   "sites": [
     {
       "id": "site_0",
@@ -59,86 +59,86 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan",
-          "summary": "Marley Spoon has stripped Martha Stewart from its website, and seems to be cooking a little differently. Here's a review.",
-          "link": "https://www.wired.com/review/marley-spoon-meal-kit-2026/",
-          "pubDate": "Fri, 06 Mar 2026 22:41:10 +0000"
+          "title": "Why the Ratio Four Series Two Is What I Use to Test New Coffees",
+          "summary": "A new generation of home machines has made good old drip coffee a place for connoisseurs. For more than a year, the Four is the source of my morning cup.",
+          "link": "https://www.wired.com/story/ratio-four-drip-coffee-java-base/",
+          "pubDate": "Sat, 07 Mar 2026 22:35:00 +0000"
         },
         {
-          "title": "72 'Buy It for Life' Products: Cast-Iron, Tools, Speakers, Chairs, and More",
-          "summary": "From cast-iron pans to mechanical watches, we’ve rounded up products that are made to last for decades.",
-          "link": "https://www.wired.com/story/buy-it-for-life/",
-          "pubDate": "Fri, 06 Mar 2026 21:27:19 +0000"
+          "title": "The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk",
+          "summary": "You need to sort out that rat’s nest of cables under your desk. These cable management tips and products can help you do it.",
+          "link": "https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/",
+          "pubDate": "Sat, 07 Mar 2026 13:10:00 +0000"
         },
         {
-          "title": "The Best Google Pixel Phones of 2026, Tested and Reviewed",
-          "summary": "Here’s a guide to all the models—plus Pixel case recommendations and smart software tricks to try.",
-          "link": "https://www.wired.com/story/best-google-pixel-phone/",
-          "pubDate": "Fri, 06 Mar 2026 20:17:02 +0000"
+          "title": "The Best MIDI Controllers for Synths, Guitars, and More (2026)",
+          "summary": "Want to digitally control your favorite instruments? These tools will help.",
+          "link": "https://www.wired.com/gallery/best-midi-controllers/",
+          "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "X is testing a new ad format that connects posts with products",
-          "summary": "An ad test on X promotes Musk's Starlink beneath original content.",
-          "link": "https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/",
-          "pubDate": "Fri, 06 Mar 2026 22:41:26 +0000"
+          "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+          "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+          "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+          "pubDate": "Sat, 07 Mar 2026 22:56:31 +0000"
         },
         {
-          "title": "Nintendo sues the U.S. government for a refund on tariffs",
-          "summary": "This lawsuit comes after a Supreme Court decision struck down some of the president's sweeping tariffs, which had impacted Nintendo and thousands of other companies.",
-          "link": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/",
-          "pubDate": "Fri, 06 Mar 2026 22:35:35 +0000"
+          "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+          "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+          "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+          "pubDate": "Sat, 07 Mar 2026 20:44:25 +0000"
         },
         {
-          "title": "Life EV officially owns Rad Power Bikes now",
-          "summary": "The Rad Power brand is expected to live on.",
-          "link": "https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/",
-          "pubDate": "Fri, 06 Mar 2026 21:56:35 +0000"
+          "title": "PopSockets founder David Barnett talks about building a viral business",
+          "summary": "David Barnett, founder of PopSocket, stops by Equity to talk about scaling the business and what he's learned as a leader.",
+          "link": "https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/",
+          "pubDate": "Sat, 07 Mar 2026 18:40:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
-          "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
-          "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 05 Mar 2026 23:13:57 GMT"
+          "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+          "summary": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+          "link": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 07 Mar 2026 19:16:44 GMT"
         },
         {
-          "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-          "summary": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes.",
-          "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 06 Mar 2026 17:06:14 GMT"
+          "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
+          "summary": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
+          "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 07 Mar 2026 16:53:57 GMT"
         },
         {
-          "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
-          "summary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife.",
-          "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 06 Mar 2026 04:23:12 GMT"
+          "title": "Armed robots take to the battlefield in Ukraine war",
+          "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
+          "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 07 Mar 2026 00:36:19 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "CNBC市场",
       "items": [
         {
           "title": "Robinhood&apos;s venture fund, which gives investors access to private companies, tanks 11% on first day",
           "summary": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investment.",
           "link": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
-          "pubDate": "Fri, 06 Mar 2026 20:44:31 GMT"
+          "pubDate": "Fri, 06 Mar 2026 23:41:32 GMT"
         },
         {
           "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Man who killed parents to fund Trump assassination plot sentenced to life in prison",
-          "summary": "A Wisconsin man was sentenced to life in prison Thursday after he pleaded guilty to killing his parents in order to fund a plot to assassinate President Trump involving a drone with explosives or an AR-15 assault rifle. Nikita Casap, 18, pleaded guilty to two counts of first-degree intentional homicide in Waukesha County Circuit Court&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5772117-trump-assassination-plot-wisconsin/",
-          "pubDate": "Fri, 06 Mar 2026 22:16:37 +0000"
+          "title": "Trump honors fallen service members who died in Kuwait amid Iran conflict",
+          "summary": "President Trump on Saturday honored the six U.S. service members killed by an Iranian retaliatory strike in Kuwait during a dignified transfer event at Dover Air Force Base in Delaware. Trump attended the proceedings for Sgt. 1st Class Nicole Amor of White Bear Lake, Minn.; Capt. Cody Khork of Lakeland, Fla.; Sgt. 1st Class Noah&#8230;",
+          "link": "https://thehill.com/homenews/administration/5773292-trump-dignified-transfer-dover-base/",
+          "pubDate": "Sat, 07 Mar 2026 22:43:06 +0000"
         },
         {
-          "title": "California Democrat says Noem ouster is proof DHS shutdown is &#8216;working&#8217;",
-          "summary": "Rep. Sydney Kamlager-Dove (D-Calif.) on Friday pointed to the firing of Kristi Noem as proof that the shutdown of the Department of Homeland Security (DHS) was “working,” insisting it would not persuade Democrats to drop their demands for Republicans to rein in immigration enforcement operations. Kamlager-Dove told anchor Audie Cornish on “CNN This Morning” that&#8230;",
-          "link": "https://thehill.com/homenews/house/5772149-kamlager-dove-noem-firing-dhs-shutdown/",
-          "pubDate": "Fri, 06 Mar 2026 22:04:13 +0000"
+          "title": "Sunday shows preview: Trump under fire as Iran conflict nears second week",
+          "summary": "The Trump administration’s launch of joint strikes with Israel on Iran last weekend has put the Middle East on edge as the countries ramp up military operations in the region.&#160; President Trump said during an event with Latin American leaders on Saturday that “tremendous progress has been made” during Operation Epic Fury and that the&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5773285-middle-east-conflict-trump-iran/",
+          "pubDate": "Sat, 07 Mar 2026 22:16:00 +0000"
         },
         {
-          "title": "Trump says defense contractors agree to quadruple production of &#8216;exquisite class&#8217; weapons",
-          "summary": "President Trump said major defense contractors have agreed to quadruple the production of &#8220;exquisite class” weaponry following a meeting Friday at the White House. “They have agreed to quadruple Production of the ‘Exquisite Class’ Weaponry in that we want to reach, as rapidly as possible, the highest levels of quantity. Expansion began three months prior&#8230;",
-          "link": "https://thehill.com/policy/defense/5772125-quadruple-weaponry-production-trump/",
-          "pubDate": "Fri, 06 Mar 2026 21:40:10 +0000"
+          "title": "America’s military has an Iranian drone problem",
+          "summary": "The U.S. military and its allies across the Middle East are struggling to combat Iran’s swarms of cheap attack drones as the war enters its second week.&#160;&#160; Pentagon officials this past week reportedly conceded in closed-door briefings with lawmakers that waves of Iranian-launched drones are punching through air defenses, leaving American troops and bases in&#8230;",
+          "link": "https://thehill.com/policy/defense/5772379-iran-drone-threat-us-allies/",
+          "pubDate": "Sat, 07 Mar 2026 22:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Olaplex (OLPX) Q4 2025 Earnings Call Transcript",
-          "summary": "Olaplex (OLPX) Q4 2025 Earnings Call Transcript",
-          "link": "https://finance.yahoo.com/news/olaplex-olpx-q4-2025-earnings-153835388.html",
-          "pubDate": "2026-03-05T15:38:35Z"
+          "title": "Why The Trade Desk Stock Plunged 67% in 1 Year",
+          "summary": "Why The Trade Desk Stock Plunged 67% in 1 Year",
+          "link": "https://finance.yahoo.com/news/why-trade-desk-stock-plunged-223500250.html",
+          "pubDate": "2026-03-07T22:35:00Z"
         },
         {
-          "title": "Dollar Rises as Soaring Crude Prices Boost T-Note Yields",
-          "summary": "Dollar Rises as Soaring Crude Prices Boost T-Note Yields",
-          "link": "https://finance.yahoo.com/news/dollar-rises-soaring-crude-prices-153651994.html",
-          "pubDate": "2026-03-05T15:36:51Z"
+          "title": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move",
+          "summary": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move",
+          "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-iran-war-news-crude-oil-prices-trump/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-03-07T22:02:59Z"
         },
         {
-          "title": "Coherent Corp. (COHR) Gains on AI Data Center Networking Demand and Margin Expansion",
-          "summary": "Coherent Corp. (COHR) Gains on AI Data Center Networking Demand and Margin Expansion",
-          "link": "https://finance.yahoo.com/news/coherent-corp-cohr-gains-ai-154118262.html",
-          "pubDate": "2026-03-05T15:41:18Z"
+          "title": "The US is the world’s biggest oil producer — so why are gas prices rising here?",
+          "summary": "The US is the world’s biggest oil producer — so why are gas prices rising here?",
+          "link": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
+          "pubDate": "2026-03-07T12:32:11Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Astronomers discover giant cosmic sheet around the Milky Way",
-          "summary": "For decades, astronomers wondered why most nearby galaxies are speeding away from the Milky Way instead of being pulled in by its gravity. New simulations reveal the answer: our galaxy sits in a gigantic, flat sheet of matter surrounded by huge empty voids. This hidden structure—dominated by dark matter—balances gravitational forces and lets neighboring galaxies drift outward. The discovery finally explains the puzzling motions of galaxies just beyond our Local Group.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
-          "pubDate": "Fri, 06 Mar 2026 01:55:55 EST"
+          "title": "Mayo Clinic discovers rare gene mutation that causes fatty liver disease",
+          "summary": "Mayo Clinic researchers have identified a rare mutation in the MET gene that can directly cause metabolic dysfunction-associated steatotic liver disease. The mutation disrupts the liver’s ability to process fat, leading to inflammation, scarring, and potentially cirrhosis. The discovery began with a father and daughter who had the disease without typical risk factors. Large-scale genomic data suggests similar rare variants may quietly contribute to the disease in many more people.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260306224238.htm",
+          "pubDate": "Sat, 07 Mar 2026 06:04:29 EST"
         },
         {
-          "title": "Electrons catapult across solar materials in just 18 femtoseconds",
-          "summary": "Electrons in solar materials can be launched across molecules almost as fast as nature allows, thanks to tiny atomic vibrations acting like a “molecular catapult.” In experiments lasting just 18 femtoseconds, researchers at the University of Cambridge observed electrons blasting across a boundary in a single burst, far faster than long-standing theories predicted. Instead of slow, random movement, the electron rides the natural vibrations of the molecule itself, challenging decades of design rules for solar materials.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260305223219.htm",
-          "pubDate": "Fri, 06 Mar 2026 00:49:18 EST"
+          "title": "A 4,000-year-old sheep reveals the secret of an ancient plague",
+          "summary": "A mysterious form of plague that spread across Eurasia thousands of years before the Black Death has finally revealed a crucial clue. Scientists analyzing ancient DNA discovered the bacterium Yersinia pestis in a 4,000-year-old domesticated sheep from a Bronze Age settlement in the Ural Mountains—the first time the pathogen has ever been found in a non-human host from that era. Because this early strain couldn’t spread through fleas like the medieval plague, researchers have long puzzled over how it traveled so widely.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260306224232.htm",
+          "pubDate": "Sat, 07 Mar 2026 03:41:28 EST"
         },
         {
-          "title": "AI blood test finds silent liver disease years before symptoms",
-          "summary": "Researchers created an AI-driven liquid biopsy that scans patterns in fragments of DNA circulating in the blood. The system detected early liver fibrosis and cirrhosis—conditions that often go unnoticed until serious damage occurs. By analyzing genome-wide DNA fragmentation patterns rather than specific mutations, the approach captures hidden signals about a person’s overall health. Early detection could help doctors treat liver disease sooner and potentially prevent cancer.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260305223204.htm",
-          "pubDate": "Fri, 06 Mar 2026 00:20:31 EST"
+          "title": "Scientists discover protein that triggers diabetic blindness",
+          "summary": "A newly identified protein may hold the key to preventing diabetic blindness. Researchers discovered that LRG1 triggers the earliest damage in diabetic retinopathy by constricting tiny retinal blood vessels and reducing oxygen supply. In mice, shutting down this protein stopped the damage before it could take hold. The finding could pave the way for treatments that protect vision before symptoms ever begin.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260306224225.htm",
+          "pubDate": "Sat, 07 Mar 2026 04:48:42 EST"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-07",
+      "date": "2026-03-08",
       "siteName": "Science News",
       "items": [
         {
