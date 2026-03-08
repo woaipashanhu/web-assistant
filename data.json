@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-07T23:00:32.899Z",
-  "date": "2026-03-08",
+  "lastUpdate": "2026-03-08T23:00:20.483Z",
+  "date": "2026-03-09",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Why the Ratio Four Series Two Is What I Use to Test New Coffees",
-          "summary": "A new generation of home machines has made good old drip coffee a place for connoisseurs. For more than a year, the Four is the source of my morning cup.",
-          "link": "https://www.wired.com/story/ratio-four-drip-coffee-java-base/",
-          "pubDate": "Sat, 07 Mar 2026 22:35:00 +0000"
+          "title": "How to Run Ethernet Cables to Your Router and Keep Them Tidy",
+          "summary": "Boosting internet speeds around your home is easy with Ethernet cables, and these tips will help you keep things neat.",
+          "link": "https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/",
+          "pubDate": "Sun, 08 Mar 2026 11:30:00 +0000"
         },
         {
-          "title": "The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk",
-          "summary": "You need to sort out that rat’s nest of cables under your desk. These cable management tips and products can help you do it.",
-          "link": "https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/",
-          "pubDate": "Sat, 07 Mar 2026 13:10:00 +0000"
+          "title": "Force Your MacBook to Only Charge up to 80 Percent (and Why You Should)",
+          "summary": "Laptop batteries lag in performance as they age. But you can slow down their deterioration by tweaking your Mac’s charging settings.",
+          "link": "https://www.wired.com/story/only-charge-your-macbook-to-80-percent/",
+          "pubDate": "Sun, 08 Mar 2026 11:00:00 +0000"
         },
         {
-          "title": "The Best MIDI Controllers for Synths, Guitars, and More (2026)",
-          "summary": "Want to digitally control your favorite instruments? These tools will help.",
-          "link": "https://www.wired.com/gallery/best-midi-controllers/",
-          "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000"
+          "title": "Fender Mix Headphones Review: Modular Over-Ears",
+          "summary": "Say goodbye to disposable headphones with Fender’s customizable and replaceable parts.",
+          "link": "https://www.wired.com/review/fender-audio-mix/",
+          "pubDate": "Sun, 08 Mar 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-          "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
-          "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-          "pubDate": "Sat, 07 Mar 2026 22:56:31 +0000"
+          "title": "Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation",
+          "summary": "The company launched its first product, a Game Boy-style handheld device called the Chromatic, in 2024.",
+          "link": "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/",
+          "pubDate": "Sun, 08 Mar 2026 21:26:07 +0000"
         },
         {
-          "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
-          "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
-          "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-          "pubDate": "Sat, 07 Mar 2026 20:44:25 +0000"
+          "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+          "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+          "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+          "pubDate": "Sun, 08 Mar 2026 20:14:42 +0000"
         },
         {
-          "title": "PopSockets founder David Barnett talks about building a viral business",
-          "summary": "David Barnett, founder of PopSocket, stops by Equity to talk about scaling the business and what he's learned as a leader.",
-          "link": "https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/",
-          "pubDate": "Sat, 07 Mar 2026 18:40:00 +0000"
+          "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+          "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+          "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+          "pubDate": "Sun, 08 Mar 2026 16:30:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
-          "summary": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
-          "link": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 07 Mar 2026 19:16:44 GMT"
+          "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+          "summary": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
+          "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 08 Mar 2026 21:51:48 GMT"
         },
         {
-          "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-          "summary": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
-          "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 07 Mar 2026 16:53:57 GMT"
+          "title": "War fuels debate in Cyprus over UK military bases",
+          "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
+          "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 08 Mar 2026 08:03:40 GMT"
         },
         {
-          "title": "Armed robots take to the battlefield in Ukraine war",
-          "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
-          "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 07 Mar 2026 00:36:19 GMT"
+          "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+          "summary": "Police say they are investigating other motives after the blast caused minor damage to the embassy building.",
+          "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 08 Mar 2026 18:32:37 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "China says &apos;thorough preparations&apos; needed as Trump-Xi meeting hangs in the balance amid Iran war",
+          "summary": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China.",
+          "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+          "pubDate": "Sun, 08 Mar 2026 07:17:53 GMT"
+        },
         {
           "title": "Robinhood&apos;s venture fund, which gives investors access to private companies, tanks 11% on first day",
           "summary": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investment.",
@@ -145,17 +151,11 @@
           "summary": "Miran said in a CNBC interview that the Fed should be focusing more on supporting the labor market than worrying about inflation.",
           "link": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
           "pubDate": "Fri, 06 Mar 2026 18:14:50 GMT"
-        },
-        {
-          "title": "U.S.-Iran war exposes big market concentration risk. It isn&apos;t in S&P 500 stocks",
-          "summary": "Oil prices soar in the U.S.-Iran war, leading to volatility in emerging markets, and showing how concentrated EM funds are in Asian economies.",
-          "link": "https://www.cnbc.com/2026/03/06/iran-war-oil-energy-emerging-markets-stocks-south-korea.html",
-          "pubDate": "Fri, 06 Mar 2026 17:52:33 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump honors fallen service members who died in Kuwait amid Iran conflict",
-          "summary": "President Trump on Saturday honored the six U.S. service members killed by an Iranian retaliatory strike in Kuwait during a dignified transfer event at Dover Air Force Base in Delaware. Trump attended the proceedings for Sgt. 1st Class Nicole Amor of White Bear Lake, Minn.; Capt. Cody Khork of Lakeland, Fla.; Sgt. 1st Class Noah&#8230;",
-          "link": "https://thehill.com/homenews/administration/5773292-trump-dignified-transfer-dover-base/",
-          "pubDate": "Sat, 07 Mar 2026 22:43:06 +0000"
+          "title": "Centcom issues safety warning to Iranian civilians",
+          "summary": "U.S. Central Command (Centcom) has issued a safety warning to Iranian civilians amid the U.S.’s current conflict with Iran, stating that the country’s government “is using heavily populated civilian areas to conduct military operations.” “U.S. Central Command (CENTCOM) is issuing a safety warning to civilians in Iran, March 8, as Iran’s terrorist regime blatantly disregards&#8230;",
+          "link": "https://thehill.com/policy/defense/5774277-us-centcom-warns-iranian-civilians/",
+          "pubDate": "Sun, 08 Mar 2026 22:49:52 +0000"
         },
         {
-          "title": "Sunday shows preview: Trump under fire as Iran conflict nears second week",
-          "summary": "The Trump administration’s launch of joint strikes with Israel on Iran last weekend has put the Middle East on edge as the countries ramp up military operations in the region.&#160; President Trump said during an event with Latin American leaders on Saturday that “tremendous progress has been made” during Operation Epic Fury and that the&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5773285-middle-east-conflict-trump-iran/",
-          "pubDate": "Sat, 07 Mar 2026 22:16:00 +0000"
+          "title": "Former Joint Chiefs chair on Iran conflict: &#8216;I worry about this getting drawn out&#8217;",
+          "summary": "Former Joint Chiefs of Staff Chair Mike Mullen said Sunday that he has anxiety around the potential for a lasting U.S. conflict in Iran — which has led to the deaths of seven U.S. service members as of Sunday. “We&#8217;ve got friends and allies out there. We&#8217;ve got the economy of the world, in great&#8230;",
+          "link": "https://thehill.com/policy/defense/5774160-iran-us-escalation-concerns/",
+          "pubDate": "Sun, 08 Mar 2026 22:14:56 +0000"
         },
         {
-          "title": "America’s military has an Iranian drone problem",
-          "summary": "The U.S. military and its allies across the Middle East are struggling to combat Iran’s swarms of cheap attack drones as the war enters its second week.&#160;&#160; Pentagon officials this past week reportedly conceded in closed-door briefings with lawmakers that waves of Iranian-launched drones are punching through air defenses, leaving American troops and bases in&#8230;",
-          "link": "https://thehill.com/policy/defense/5772379-iran-drone-threat-us-allies/",
-          "pubDate": "Sat, 07 Mar 2026 22:00:00 +0000"
+          "title": "Iran &#8216;capable enough&#8217; to defend itself if US sends ground forces: Foreign minister",
+          "summary": "Iranian Foreign Minister Abbas Araghchi said Sunday his country could feasibly defend itself in the event of a U.S. ground incursion. “For the time being we are capable enough. We have very brave soldiers, who are waiting for any enemy who enters into our soil to fight with them, and to kill them and destroy&#8230;",
+          "link": "https://thehill.com/policy/international/5774153-araghchi-iran-us-conflict/",
+          "pubDate": "Sun, 08 Mar 2026 22:04:14 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Why The Trade Desk Stock Plunged 67% in 1 Year",
-          "summary": "Why The Trade Desk Stock Plunged 67% in 1 Year",
-          "link": "https://finance.yahoo.com/news/why-trade-desk-stock-plunged-223500250.html",
-          "pubDate": "2026-03-07T22:35:00Z"
+          "title": "Dow Jones Futures Dive, Oil Surges To $110. Iran Names Khamenei's Son As Supreme Leader.",
+          "summary": "Dow Jones Futures Dive, Oil Surges To $110. Iran Names Khamenei's Son As Supreme Leader.",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-iran-war-supreme-leader/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-03-08T22:52:22Z"
         },
         {
-          "title": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move",
-          "summary": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move",
-          "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-iran-war-news-crude-oil-prices-trump/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-03-07T22:02:59Z"
+          "title": "Oil crosses $100 for the first time since 2022 as Iran war keeps Strait or Hormuz closed, forces shut-ins",
+          "summary": "Oil crosses $100 for the first time since 2022 as Iran war keeps Strait or Hormuz closed, forces shut-ins",
+          "link": "https://finance.yahoo.com/news/oil-crosses-100-for-the-first-time-since-2022-as-iran-war-keeps-strait-or-hormuz-closed-forces-shut-ins-224917801.html",
+          "pubDate": "2026-03-08T22:49:17Z"
         },
         {
-          "title": "The US is the world’s biggest oil producer — so why are gas prices rising here?",
-          "summary": "The US is the world’s biggest oil producer — so why are gas prices rising here?",
-          "link": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
-          "pubDate": "2026-03-07T12:32:11Z"
+          "title": "Axia Energia (AXIA) Q4 Adjusted Net Income Surges 141% to BRL 1.2B",
+          "summary": "Axia Energia (AXIA) Q4 Adjusted Net Income Surges 141% to BRL 1.2B",
+          "link": "https://finance.yahoo.com/news/axia-energia-axia-q4-adjusted-224838128.html",
+          "pubDate": "2026-03-08T22:48:38Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Mayo Clinic discovers rare gene mutation that causes fatty liver disease",
-          "summary": "Mayo Clinic researchers have identified a rare mutation in the MET gene that can directly cause metabolic dysfunction-associated steatotic liver disease. The mutation disrupts the liver’s ability to process fat, leading to inflammation, scarring, and potentially cirrhosis. The discovery began with a father and daughter who had the disease without typical risk factors. Large-scale genomic data suggests similar rare variants may quietly contribute to the disease in many more people.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260306224238.htm",
-          "pubDate": "Sat, 07 Mar 2026 06:04:29 EST"
+          "title": "Satellites are exposing weak bridges in America and around the world",
+          "summary": "Satellites are giving scientists a powerful new way to watch over the world’s bridges. Using radar imaging, researchers can detect millimeter-scale movements that may signal early structural problems long before inspectors notice them. The study found many bridges—especially in North America—are aging and increasingly vulnerable, but satellite monitoring could sharply reduce the number classified as high-risk. The approach could be especially valuable in regions where traditional monitoring barely exists.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260307213350.htm",
+          "pubDate": "Sun, 08 Mar 2026 06:38:15 EDT"
         },
         {
-          "title": "A 4,000-year-old sheep reveals the secret of an ancient plague",
-          "summary": "A mysterious form of plague that spread across Eurasia thousands of years before the Black Death has finally revealed a crucial clue. Scientists analyzing ancient DNA discovered the bacterium Yersinia pestis in a 4,000-year-old domesticated sheep from a Bronze Age settlement in the Ural Mountains—the first time the pathogen has ever been found in a non-human host from that era. Because this early strain couldn’t spread through fleas like the medieval plague, researchers have long puzzled over how it traveled so widely.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260306224232.htm",
-          "pubDate": "Sat, 07 Mar 2026 03:41:28 EST"
+          "title": "Scientists say this simple diet change could transform your gut health",
+          "summary": "A growing trend called “fibermaxxing” is putting dietary fiber in the spotlight—and for good reason. Fiber plays a powerful role in keeping the body healthy, from supporting digestion and feeding beneficial gut microbes to helping regulate blood sugar and cholesterol. Researchers say getting enough fiber may even lower the risk of conditions like obesity, diabetes, and certain cancers.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260307213252.htm",
+          "pubDate": "Sun, 08 Mar 2026 15:57:15 EDT"
         },
         {
-          "title": "Scientists discover protein that triggers diabetic blindness",
-          "summary": "A newly identified protein may hold the key to preventing diabetic blindness. Researchers discovered that LRG1 triggers the earliest damage in diabetic retinopathy by constricting tiny retinal blood vessels and reducing oxygen supply. In mice, shutting down this protein stopped the damage before it could take hold. The finding could pave the way for treatments that protect vision before symptoms ever begin.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260306224225.htm",
-          "pubDate": "Sat, 07 Mar 2026 04:48:42 EST"
+          "title": "A perfectly balanced atom just broke one of nuclear physics’ biggest rules",
+          "summary": "Physicists have discovered a surprising new “Island of Inversion” in a place no one expected: among nuclei where the number of protons equals the number of neutrons. For decades, these strange regions—where atomic nuclei abandon their usual orderly structure and become strongly deformed—were thought to exist only in highly neutron-rich isotopes far from stability. But experiments on molybdenum isotopes revealed that molybdenum-84 behaves dramatically differently from its close neighbor molybdenum-86, even though they differ by just two neutrons.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260307213241.htm",
+          "pubDate": "Sun, 08 Mar 2026 01:01:02 EST"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "siteName": "Science News",
       "items": [
         {
