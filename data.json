@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-08T23:00:20.483Z",
-  "date": "2026-03-09",
+  "lastUpdate": "2026-03-09T23:00:16.771Z",
+  "date": "2026-03-10",
   "sites": [
     {
       "id": "site_0",
@@ -59,55 +59,55 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "How to Run Ethernet Cables to Your Router and Keep Them Tidy",
-          "summary": "Boosting internet speeds around your home is easy with Ethernet cables, and these tips will help you keep things neat.",
-          "link": "https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/",
-          "pubDate": "Sun, 08 Mar 2026 11:30:00 +0000"
+          "title": "‘Flying Cars’ Will Take Off in American Skies This Summer",
+          "summary": "The federal government announced a new pilot program designed to get new kinds of ultralight vehicles and \"eVTOLs\" up and running around the country—even if they're not fully FAA-certified.",
+          "link": "https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/",
+          "pubDate": "Mon, 09 Mar 2026 22:39:12 +0000"
         },
         {
-          "title": "Force Your MacBook to Only Charge up to 80 Percent (and Why You Should)",
-          "summary": "Laptop batteries lag in performance as they age. But you can slow down their deterioration by tweaking your Mac’s charging settings.",
-          "link": "https://www.wired.com/story/only-charge-your-macbook-to-80-percent/",
-          "pubDate": "Sun, 08 Mar 2026 11:00:00 +0000"
+          "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+          "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+          "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+          "pubDate": "Mon, 09 Mar 2026 20:49:29 +0000"
         },
         {
-          "title": "Fender Mix Headphones Review: Modular Over-Ears",
-          "summary": "Say goodbye to disposable headphones with Fender’s customizable and replaceable parts.",
-          "link": "https://www.wired.com/review/fender-audio-mix/",
-          "pubDate": "Sun, 08 Mar 2026 11:00:00 +0000"
+          "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+          "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
+          "link": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+          "pubDate": "Mon, 09 Mar 2026 20:38:12 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation",
-          "summary": "The company launched its first product, a Game Boy-style handheld device called the Chromatic, in 2024.",
-          "link": "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/",
-          "pubDate": "Sun, 08 Mar 2026 21:26:07 +0000"
+          "title": "Electric air taxis are about to take flight in 26 states",
+          "summary": "The federal government has selected eight proposals to test electric aircraft across 26 states.",
+          "link": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
+          "pubDate": "Mon, 09 Mar 2026 22:30:35 +0000"
         },
         {
-          "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
-          "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-          "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
-          "pubDate": "Sun, 08 Mar 2026 20:14:42 +0000"
+          "title": "OpenAI and Google employees rush to Anthropic&#8217;s defense in DOD lawsuit",
+          "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+          "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+          "pubDate": "Mon, 09 Mar 2026 21:15:17 +0000"
         },
         {
-          "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-          "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-          "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-          "pubDate": "Sun, 08 Mar 2026 16:30:00 +0000"
+          "title": "Anthropic launches code review tool to check flood of AI-generated code",
+          "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+          "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+          "pubDate": "Mon, 09 Mar 2026 19:41:34 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "BBC世界",
       "items": [
         {
@@ -117,45 +117,45 @@
           "pubDate": "Sun, 08 Mar 2026 21:51:48 GMT"
         },
         {
-          "title": "War fuels debate in Cyprus over UK military bases",
-          "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
-          "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 08 Mar 2026 08:03:40 GMT"
+          "title": "US teacher killed after toilet paper prank goes wrong",
+          "summary": "Jason Hughes's family does not want the students prosecuted after the prank turned into a fatal car accident.",
+          "link": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 09 Mar 2026 17:09:21 GMT"
         },
         {
-          "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
-          "summary": "Police say they are investigating other motives after the blast caused minor damage to the embassy building.",
-          "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 08 Mar 2026 18:32:37 GMT"
+          "title": "G7 to take 'necessary measures' to support energy supplies",
+          "summary": "Finance ministers and the IEA discussed options for stabilising oil prices which surpassed $100.",
+          "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 09 Mar 2026 20:40:38 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "There&apos;s another energy market that may get hit harder than oil by Strait of Hormuz closure",
+          "summary": "Roughly 20% of global liquefied natural gas flows through the Strait.",
+          "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
+          "pubDate": "Mon, 09 Mar 2026 20:51:55 GMT"
+        },
+        {
+          "title": "Why China can withstand oil&apos;s surge past $100 more easily than other countries",
+          "summary": "The latest Middle East tensions sheds light on how the world's three largest oil consumers have taken different approaches to energy, with global consequences.",
+          "link": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
+          "pubDate": "Mon, 09 Mar 2026 13:03:49 GMT"
+        },
         {
           "title": "China says &apos;thorough preparations&apos; needed as Trump-Xi meeting hangs in the balance amid Iran war",
           "summary": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China.",
           "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
           "pubDate": "Sun, 08 Mar 2026 07:17:53 GMT"
-        },
-        {
-          "title": "Robinhood&apos;s venture fund, which gives investors access to private companies, tanks 11% on first day",
-          "summary": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investment.",
-          "link": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
-          "pubDate": "Fri, 06 Mar 2026 23:41:32 GMT"
-        },
-        {
-          "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
-          "summary": "Miran said in a CNBC interview that the Fed should be focusing more on supporting the labor market than worrying about inflation.",
-          "link": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
-          "pubDate": "Fri, 06 Mar 2026 18:14:50 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Centcom issues safety warning to Iranian civilians",
-          "summary": "U.S. Central Command (Centcom) has issued a safety warning to Iranian civilians amid the U.S.’s current conflict with Iran, stating that the country’s government “is using heavily populated civilian areas to conduct military operations.” “U.S. Central Command (CENTCOM) is issuing a safety warning to civilians in Iran, March 8, as Iran’s terrorist regime blatantly disregards&#8230;",
-          "link": "https://thehill.com/policy/defense/5774277-us-centcom-warns-iranian-civilians/",
-          "pubDate": "Sun, 08 Mar 2026 22:49:52 +0000"
+          "title": "Trump&#8217;s denial on Iran school bombing cuts against mounting signs of US responsibility",
+          "summary": "President Trump’s remarks blaming Iran for the recent bombing of an all-girls school in southern Iran, where more than 160 people were killed, run counter to the mounting evidence that the U.S. military is likely responsible for the attack. The Shajarah Tayyebeh elementary school, located in Minab, Iran, in the nation’s southern Hormozgan Province, was&#8230;",
+          "link": "https://thehill.com/policy/defense/5775878-trump-iran-school-bombing/",
+          "pubDate": "Mon, 09 Mar 2026 22:36:41 +0000"
         },
         {
-          "title": "Former Joint Chiefs chair on Iran conflict: &#8216;I worry about this getting drawn out&#8217;",
-          "summary": "Former Joint Chiefs of Staff Chair Mike Mullen said Sunday that he has anxiety around the potential for a lasting U.S. conflict in Iran — which has led to the deaths of seven U.S. service members as of Sunday. “We&#8217;ve got friends and allies out there. We&#8217;ve got the economy of the world, in great&#8230;",
-          "link": "https://thehill.com/policy/defense/5774160-iran-us-escalation-concerns/",
-          "pubDate": "Sun, 08 Mar 2026 22:14:56 +0000"
+          "title": "Roughly 3 in 4 oppose sending US ground troops into Iran: Survey",
+          "summary": "Nearly three-quarters of respondents to a new Quinnipiac University poll do not support the U.S. sending ground troops into Iran, as the conflict in the Middle East hits 10 days on Monday. The survey, released Monday, found that 20 percent of respondents support such a move, while 74 percent oppose it. Just 3 percent of&#8230;",
+          "link": "https://thehill.com/policy/defense/5775816-us-ground-troops-iran-poll/",
+          "pubDate": "Mon, 09 Mar 2026 22:31:16 +0000"
         },
         {
-          "title": "Iran &#8216;capable enough&#8217; to defend itself if US sends ground forces: Foreign minister",
-          "summary": "Iranian Foreign Minister Abbas Araghchi said Sunday his country could feasibly defend itself in the event of a U.S. ground incursion. “For the time being we are capable enough. We have very brave soldiers, who are waiting for any enemy who enters into our soil to fight with them, and to kill them and destroy&#8230;",
-          "link": "https://thehill.com/policy/international/5774153-araghchi-iran-us-conflict/",
-          "pubDate": "Sun, 08 Mar 2026 22:04:14 +0000"
+          "title": "Democrats seek to impose political pain of Iran war on Trump",
+          "summary": "Democrats are pouncing on a spike in gas prices and expected soaring airline fares, blaming President Trump’s handling of the war in Iran for deepening economic pain on Americans.&#160; In interviews, statements and in a flurry of social media posts, Democrats have sharpened their arguments — repeatedly linking Trump’s decision to enter the Iran conflict&#8230;",
+          "link": "https://thehill.com/homenews/administration/5775814-gas-prices-spike-trump-iran/",
+          "pubDate": "Mon, 09 Mar 2026 22:31:14 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Dow Jones Futures Dive, Oil Surges To $110. Iran Names Khamenei's Son As Supreme Leader.",
-          "summary": "Dow Jones Futures Dive, Oil Surges To $110. Iran Names Khamenei's Son As Supreme Leader.",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-iran-war-supreme-leader/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-03-08T22:52:22Z"
+          "title": "Jack Dorsey displeased with stablecoin push",
+          "summary": "Jack Dorsey displeased with stablecoin push",
+          "link": "https://finance.yahoo.com/news/jack-dorsey-displeased-stablecoin-push-142352072.html",
+          "pubDate": "2026-03-08T14:23:52Z"
         },
         {
-          "title": "Oil crosses $100 for the first time since 2022 as Iran war keeps Strait or Hormuz closed, forces shut-ins",
-          "summary": "Oil crosses $100 for the first time since 2022 as Iran war keeps Strait or Hormuz closed, forces shut-ins",
-          "link": "https://finance.yahoo.com/news/oil-crosses-100-for-the-first-time-since-2022-as-iran-war-keeps-strait-or-hormuz-closed-forces-shut-ins-224917801.html",
-          "pubDate": "2026-03-08T22:49:17Z"
+          "title": "‘When You See One Cockroach, There are Probably More’: Blackrock Forced to Halt Redemptions As $2 Trillion Private Lending Bubble Starts Showing Cracks",
+          "summary": "‘When You See One Cockroach, There are Probably More’: Blackrock Forced to Halt Redemptions As $2 Trillion Private Lending Bubble Starts Showing Cracks",
+          "link": "https://finance.yahoo.com/news/see-one-cockroach-probably-more-140002105.html",
+          "pubDate": "2026-03-08T14:00:02Z"
         },
         {
-          "title": "Axia Energia (AXIA) Q4 Adjusted Net Income Surges 141% to BRL 1.2B",
-          "summary": "Axia Energia (AXIA) Q4 Adjusted Net Income Surges 141% to BRL 1.2B",
-          "link": "https://finance.yahoo.com/news/axia-energia-axia-q4-adjusted-224838128.html",
-          "pubDate": "2026-03-08T22:48:38Z"
+          "title": "‘If they rise, they rise’: Trump has zero concern for spiking US gas prices  — says Iran operation ‘far more important’",
+          "summary": "‘If they rise, they rise’: Trump has zero concern for spiking US gas prices  — says Iran operation ‘far more important’",
+          "link": "https://finance.yahoo.com/news/rise-rise-trump-zero-concern-131500240.html",
+          "pubDate": "2026-03-08T13:15:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Satellites are exposing weak bridges in America and around the world",
-          "summary": "Satellites are giving scientists a powerful new way to watch over the world’s bridges. Using radar imaging, researchers can detect millimeter-scale movements that may signal early structural problems long before inspectors notice them. The study found many bridges—especially in North America—are aging and increasingly vulnerable, but satellite monitoring could sharply reduce the number classified as high-risk. The approach could be especially valuable in regions where traditional monitoring barely exists.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260307213350.htm",
-          "pubDate": "Sun, 08 Mar 2026 06:38:15 EDT"
+          "title": "Scientists create slippery nanopores that supercharge blue energy",
+          "summary": "Scientists have found a way to significantly boost “blue energy,” which generates electricity from the mixing of saltwater and freshwater. By coating nanopores with lipid molecules that create a friction-reducing water layer, they enabled ions to pass through much more efficiently while keeping the process highly selective. Their prototype membrane produced about two to three times more power than current technologies. The discovery could help bring osmotic energy closer to becoming a practical renewable power source.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260308201623.htm",
+          "pubDate": "Mon, 09 Mar 2026 15:48:24 EDT"
         },
         {
-          "title": "Scientists say this simple diet change could transform your gut health",
-          "summary": "A growing trend called “fibermaxxing” is putting dietary fiber in the spotlight—and for good reason. Fiber plays a powerful role in keeping the body healthy, from supporting digestion and feeding beneficial gut microbes to helping regulate blood sugar and cholesterol. Researchers say getting enough fiber may even lower the risk of conditions like obesity, diabetes, and certain cancers.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260307213252.htm",
-          "pubDate": "Sun, 08 Mar 2026 15:57:15 EDT"
+          "title": "Scientists found a surprising way to make exercise work better",
+          "summary": "Exercise normally boosts the body’s ability to use oxygen, a key marker of health and longevity — but high blood sugar can block that benefit. Researchers found that a ketogenic diet helped mice normalize blood sugar and dramatically improved how their muscles responded to exercise. Their muscles became better at using oxygen and built more endurance fibers. The results suggest diet and exercise may work together in surprising ways to improve metabolic health.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260308201620.htm",
+          "pubDate": "Mon, 09 Mar 2026 18:24:51 EDT"
         },
         {
-          "title": "A perfectly balanced atom just broke one of nuclear physics’ biggest rules",
-          "summary": "Physicists have discovered a surprising new “Island of Inversion” in a place no one expected: among nuclei where the number of protons equals the number of neutrons. For decades, these strange regions—where atomic nuclei abandon their usual orderly structure and become strongly deformed—were thought to exist only in highly neutron-rich isotopes far from stability. But experiments on molybdenum isotopes revealed that molybdenum-84 behaves dramatically differently from its close neighbor molybdenum-86, even though they differ by just two neutrons.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260307213241.htm",
-          "pubDate": "Sun, 08 Mar 2026 01:01:02 EST"
+          "title": "Popular pre-workout supplements linked to dangerous sleep loss",
+          "summary": "Pre-workout supplements promising extra energy for workouts may come with a hidden cost: severely reduced sleep. A study of people aged 16–30 found users were more than twice as likely to sleep five hours or less per night. Many of these products pack huge doses of caffeine and stimulants that can linger for hours. Researchers say the findings raise concerns about the impact on young people’s health and development.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260308201618.htm",
+          "pubDate": "Mon, 09 Mar 2026 17:02:26 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "siteName": "Science News",
       "items": [
         {
-          "title": "NASA’s DART spacecraft changed an asteroid’s orbit around the sun",
-          "summary": "A 2022 NASA mission changed the orbit of the asteroid Dimorphos around its companion. New data shows their joint orbit around the sun also changed.",
-          "link": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
-          "pubDate": "Fri, 06 Mar 2026 19:00:00 +0000"
+          "title": "When the pressure’s off, this superconductor appears to break records",
+          "summary": "A sudden release of pressure allowed a copper-based compound to superconduct at the highest temperature yet for atmospheric pressure, a study claims.",
+          "link": "https://www.sciencenews.org/article/pressure-superconductor-record-break",
+          "pubDate": "Mon, 09 Mar 2026 19:00:00 +0000"
         },
         {
-          "title": "The remarkable brains of ‘SuperAgers’ hold clues about how we age",
-          "summary": "A new study reports signs that nerve cells in the brain keep dividing over the decades. It’s not so simple.",
-          "link": "https://www.sciencenews.org/article/superagers-brain-aging-nerve-cells",
-          "pubDate": "Fri, 06 Mar 2026 16:00:00 +0000"
+          "title": "Lakes are growing in Alaska. That&#8217;s not entirely a bad thing",
+          "summary": "Alaska’s glacial lakes are growing as glaciers retreat out of basins. These lakes will change desolate glacial rivers into thriving salmon habitat.",
+          "link": "https://www.sciencenews.org/article/glacier-lakes-alaska-growing-climate",
+          "pubDate": "Mon, 09 Mar 2026 19:00:00 +0000"
         },
         {
-          "title": "Robots with fingernails can grasp thin edges",
-          "summary": "A robotic hand with fingernail-like tips lets robots peel fruit, open lids and pick up thin, flat objects with more precise, human-like dexterity.",
-          "link": "https://www.sciencenews.org/article/robots-fingernails-grasp-thin-edges",
-          "pubDate": "Fri, 06 Mar 2026 14:00:00 +0000"
+          "title": "How does early pregnancy lower breast cancer risk? Odd cells could offer clues",
+          "summary": "Suspicious cells build up in mice that haven’t given birth, a new study finds. They could help explain a longstanding mystery of breast cancer biology.",
+          "link": "https://www.sciencenews.org/article/early-pregnancy-breast-cancer-risk-women",
+          "pubDate": "Mon, 09 Mar 2026 14:00:00 +0000"
         }
       ]
     }
