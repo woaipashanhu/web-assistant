@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-10T23:00:52.083Z",
-  "date": "2026-03-11",
+  "lastUpdate": "2026-03-11T23:00:56.789Z",
+  "date": "2026-03-12",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS",
-          "summary": "The defense secretary has made clear that Pentagon managers are to encourage workers, including civilians, to volunteer to assist in the administration’s immigration crackdown.",
-          "link": "https://www.wired.com/story/pete-hegseth-is-pushing-defense-employees-to-volunteer-for-dhs/",
-          "pubDate": "Tue, 10 Mar 2026 20:06:45 +0000"
+          "title": "The South Carolina Measles Outbreak Is Slowing Down",
+          "summary": "The biggest US measles outbreak in decades may be over sooner than expected.",
+          "link": "https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/",
+          "pubDate": "Wed, 11 Mar 2026 22:12:36 +0000"
         },
         {
-          "title": "Anker’s Discounted Power Station Can Power Your Next Camping Trip",
-          "summary": "Go off-grid camping for a long weekend with my favorite portable power station from Anker. It’s on sale.",
-          "link": "https://www.wired.com/story/anker-solix-c1000-spring-deal/",
-          "pubDate": "Tue, 10 Mar 2026 18:55:32 +0000"
+          "title": "How the Iran War Could Jack Up Prices on Store Shelves",
+          "summary": "The Strait of Hormuz, a busy waterway off the coast of Iran, has come to a near standstill. If the war drags on much longer, it could mean higher prices for consumer goods around the world.",
+          "link": "https://www.wired.com/story/how-the-iran-war-could-jack-up-prices-on-store-shelves/",
+          "pubDate": "Wed, 11 Mar 2026 21:59:00 +0000"
         },
         {
-          "title": "Interstellar Comet 3I/Atlas Has Another Surprise: It’s Full of Alcohol",
-          "summary": "Analysis of the tail of 3I/Atlas reveals that it contains an anomalous proportion of methanol, a class of alcohol used in fuels.",
-          "link": "https://www.wired.com/story/interstellar-comet-3i-atlas-has-another-surprise-its-full-of-alcohol/",
-          "pubDate": "Tue, 10 Mar 2026 18:48:25 +0000"
+          "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+          "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
+          "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+          "pubDate": "Wed, 11 Mar 2026 20:45:03 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Google and Tesla think we’re managing the electrical grid all wrong",
-          "summary": "The duo have teamed up with other companies to launch Utilize, which seeks to change how the grid is used and regulated.",
-          "link": "https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/",
-          "pubDate": "Tue, 10 Mar 2026 20:42:44 +0000"
+          "title": "Google Play is adding new paid and PC games, game trials, community posts, and more",
+          "summary": "The updates indicate that Google is focused on transforming Google Play into an enhanced gaming hub.",
+          "link": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
+          "pubDate": "Wed, 11 Mar 2026 23:00:00 +0000"
         },
         {
-          "title": "Amazon launches its healthcare AI assistant on its website and app",
-          "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
-          "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-          "pubDate": "Tue, 10 Mar 2026 20:10:06 +0000"
+          "title": "Ford&#8217;s new AI assistant will help fleet owners know if seatbelts are being used",
+          "summary": "Ford rolled out an AI assistant this week that can monitor and analyze millions of data points to help its Ford Pro commercial customers boost their bottom line. The bet, and one that most other automakers are making, is that there&#8217;s money to be made in software. Ford Pro AI debuted at Work Truck Week [&#8230;]",
+          "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+          "pubDate": "Wed, 11 Mar 2026 22:51:39 +0000"
         },
         {
-          "title": "DOGE employee stole Social Security data and put it on a thumb drive, report says",
-          "summary": "A whistleblower is accusing a former DOGE member of stealing a large number of Americans’ personal data while he was working at the Social Security Administration, with the plan of using it at his new job.",
-          "link": "https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/",
-          "pubDate": "Tue, 10 Mar 2026 20:09:51 +0000"
+          "title": "Ride hailing inDrive acquires Pakistan&#8217;s KraveMart to bolster grocery delivery",
+          "summary": "inDrive has closed its acquisition of KraveMart, expanding grocery delivery in a market dominated by Foodpanda.",
+          "link": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/",
+          "pubDate": "Wed, 11 Mar 2026 22:45:35 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
-          "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
-          "link": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 10 Mar 2026 13:26:17 GMT"
+          "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
+          "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
+          "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 11 Mar 2026 16:45:28 GMT"
         },
         {
-          "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
-          "summary": "President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.",
-          "link": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 10 Mar 2026 19:35:29 GMT"
+          "title": "Countries agree to record release of emergency oil reserves as prices surge",
+          "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+          "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 11 Mar 2026 15:51:11 GMT"
         },
         {
-          "title": "At least six dead in Switzerland bus fire",
-          "summary": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
-          "link": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 10 Mar 2026 22:35:37 GMT"
+          "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+          "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+          "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 11 Mar 2026 16:00:34 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
+          "summary": "JPMorgan's move shows that the biggest U.S. bank by assets wants to get ahead of potential turbulence involving private credit loans to software companies.",
+          "link": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html",
+          "pubDate": "Wed, 11 Mar 2026 12:57:44 GMT"
+        },
         {
           "title": "Surging oil prices could wipe out benefits from Trump&apos;s &apos;big beautiful bill&apos;",
           "summary": "Estimates from Wall Street project that if oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax law.",
@@ -145,17 +151,11 @@
           "summary": "Roughly 20% of global liquefied natural gas flows through the Strait.",
           "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
           "pubDate": "Tue, 10 Mar 2026 14:06:17 GMT"
-        },
-        {
-          "title": "Why China can withstand oil&apos;s surge past $100 more easily than other countries",
-          "summary": "The latest Middle East tensions sheds light on how the world's three largest oil consumers have taken different approaches to energy, with global consequences.",
-          "link": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
-          "pubDate": "Mon, 09 Mar 2026 13:03:49 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Mullin support for Trump immigration policies under microscope with DHS nomination",
-          "summary": "Sen. Markwayne Mullin (R-Okla.) has teased changes in the operations at the Department of Homeland Security (DHS), though the close ally of President Trump has largely backed the White House’s immigration moves. Mullin would take over DHS amid heightened scrutiny over its operations on everything from aggressive immigration enforcement to delays in distributing disaster funds&#8230;",
-          "link": "https://thehill.com/homenews/senate/5777698-markwayne-mullin-homeland-security-immigration-scrutiny/",
-          "pubDate": "Tue, 10 Mar 2026 22:27:08 +0000"
+          "title": "Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax",
+          "summary": "{beacon} Technology Technology &#8202; The Big Story&#160; Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax Rep. Ro Khanna (D-Calif.), once championed by Silicon Valley, is facing a primary challenge from a tech entrepreneur seeking to capitalize on the industry’s growing antipathy toward the progressive Democrat after he voiced support for a controversial&#8230;",
+          "link": "https://thehill.com/newsletters/technology/5779861-ro-khanna-faces-primary-challenge-silicon-valley-backlash-over-wealth-tax/",
+          "pubDate": "Wed, 11 Mar 2026 22:27:55 +0000"
         },
         {
-          "title": "Live updates: Georgia voters pick Greene’s replacement; Mississippi holds primaries",
-          "summary": "A special election in Georgia on Tuesday will narrow the field in the contest to replace former Rep. Marjorie Taylor Greene (R).&#160; The contest which is expected to head to an April 7 runoff, will put the power of President Trump’s endorsement to the test and offer insights into voter enthusiasm on both sides of&#8230;",
-          "link": "https://thehill.com/homenews/administration/5775414-live-updates-trump-iran/",
-          "pubDate": "Tue, 10 Mar 2026 22:25:51 +0000"
+          "title": "Senate Democrats press for investigation into moves to ease Russia oil sanctions",
+          "summary": "Democratic senators are demanding answers after the Trump administration moved to ease sanctions on Russian oil reserves in an attempt to offset the impact of the U.S.-Israeli strikes on global oil supplies. The minority members on the Senate Committee on Banking, Housing and Urban Affairs requested a congressional hearing with Treasury Secretary Scott Bessent by&#8230;",
+          "link": "https://thehill.com/homenews/senate/5779882-democrats-demand-answers-trump-russia/",
+          "pubDate": "Wed, 11 Mar 2026 22:14:06 +0000"
         },
         {
-          "title": "Israeli diplomat: &#8216;For us, nothing changed&#8217; with new Iran leader",
-          "summary": "Israeli Ambassador to the United Nations Danny Danon on Monday said that the selection of Iran’s new leader doesn’t change anything in regards to diplomatic relations between the countries. “Let me be clear, changing the man at the top does not change the regime. It is the same ideology, the same nuclear ambitions, the same&#8230;",
-          "link": "https://thehill.com/policy/international/5777824-khamenei-son-succession-iran/",
-          "pubDate": "Tue, 10 Mar 2026 22:24:34 +0000"
+          "title": "US to release oil from strategic reserve, Trump says",
+          "summary": "President Trump plans to tap into the U.S.’s oil stockpile, he said Wednesday, though additional details on the release, which comes amid high prices driven by the war in Iran, were not immediately clear. Asked about the Strategic Petroleum Reserve during a visit to Ohio, Trump told TV station Local 12,&#160;“I filled it up once,&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5779863-us-to-release-oil-from-strategic-reserve-trump-says/",
+          "pubDate": "Wed, 11 Mar 2026 21:53:15 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Bitcoin ETF Flows Cool to $619 Million as Oil Prices Spike",
-          "summary": "Bitcoin ETF Flows Cool to $619 Million as Oil Prices Spike",
-          "link": "https://finance.yahoo.com/news/bitcoin-etf-flows-cool-619-144540632.html",
-          "pubDate": "2026-03-09T14:45:40Z"
+          "title": "Nextech3D.ai reports new customer wins in early 2026",
+          "summary": "Nextech3D.ai reports new customer wins in early 2026",
+          "link": "https://finance.yahoo.com/news/nextech3d-ai-reports-customer-wins-135900641.html",
+          "pubDate": "2026-03-10T14:59:00Z"
         },
         {
-          "title": "As the Dollar and Energy Prices Spike on Continued Iran War, Make This 1 Trade Now",
-          "summary": "As the Dollar and Energy Prices Spike on Continued Iran War, Make This 1 Trade Now",
-          "link": "https://finance.yahoo.com/news/dollar-energy-prices-spike-continued-144832877.html",
-          "pubDate": "2026-03-09T14:48:32Z"
+          "title": "Trump Calms Oil Markets as Hormuz Crisis Persists",
+          "summary": "Trump Calms Oil Markets as Hormuz Crisis Persists",
+          "link": "https://finance.yahoo.com/news/trump-calms-oil-markets-hormuz-150000945.html",
+          "pubDate": "2026-03-10T15:00:00Z"
         },
         {
-          "title": "This Software Stock Is Shrugging Off Apocalypse Fears. Should You Chase the Rally Here?",
-          "summary": "This Software Stock Is Shrugging Off Apocalypse Fears. Should You Chase the Rally Here?",
-          "link": "https://finance.yahoo.com/news/software-stock-shrugging-off-apocalypse-145453534.html",
-          "pubDate": "2026-03-09T14:54:53Z"
+          "title": "How To Take Advantage Of Micron Stock's Current Prosperity",
+          "summary": "How To Take Advantage Of Micron Stock's Current Prosperity",
+          "link": "https://www.investors.com/research/options/micron-stock-mu-diagonal-put-spread-options/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-03-10T14:57:54Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Cosmic voids look empty but they may be tearing the universe apart",
-          "summary": "Cosmic voids may seem like the emptiest places in the universe, stripped of matter, radiation, and even dark matter. But they’re far from nothing. Even in these vast empty regions, the fundamental quantum fields that fill all of space remain, carrying a small but real amount of energy known as vacuum energy, or dark energy. While this energy is overwhelmed by matter in galaxies and clusters, in the deep emptiness of cosmic voids it becomes dominant.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260309225236.htm",
-          "pubDate": "Tue, 10 Mar 2026 06:10:26 EDT"
+          "title": "A massive asteroid hit the North Sea and triggered a 330-foot tsunami",
+          "summary": "A long-running debate about the Silverpit Crater beneath the North Sea has finally been resolved. Scientists now confirm it formed when a roughly 160-meter asteroid struck the seabed about 43–46 million years ago. New seismic imaging and rare shocked minerals in rock samples provided the crucial proof. The impact would have sent a massive plume skyward and unleashed a tsunami over 100 meters (330 feet) high.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm",
+          "pubDate": "Wed, 11 Mar 2026 01:34:49 EDT"
         },
         {
-          "title": "This 2-pound dinosaur is rewriting what scientists know about evolution",
-          "summary": "A nearly complete dinosaur skeleton discovered in Patagonia is helping scientists crack the mystery of alvarezsaurs, a bizarre group of bird-like dinosaurs. The fossil of Alnashetri cerropoliciensis reveals that these animals became tiny before developing their later specialized features, such as stubby arms and ant-eating adaptations. Weighing under two pounds, the dinosaur is one of the smallest known from South America.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
-          "pubDate": "Tue, 10 Mar 2026 06:50:39 EDT"
+          "title": "Scientists may have found a pill for sleep apnea",
+          "summary": "A European clinical trial found that the drug sulthiame significantly reduced breathing interruptions in people with moderate to severe sleep apnea. Patients taking higher doses experienced up to 47% fewer pauses in breathing and improved oxygen levels during sleep. The drug helps stabilize breathing signals in the brain, reducing airway collapse. Scientists say the findings could pave the way for a pill-based alternative to CPAP machines.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260311004816.htm",
+          "pubDate": "Wed, 11 Mar 2026 06:19:22 EDT"
         },
         {
-          "title": "Scientists may have discovered a brand-new mineral on Mars",
-          "summary": "Scientists studying Mars may have uncovered a brand-new mineral hidden in the planet’s ancient sulfate deposits. By combining laboratory experiments with orbital data, researchers identified an unusual iron sulfate—ferric hydroxysulfate—forming in layered deposits near the massive Valles Marineris canyon system. The mineral likely formed when sulfate-rich deposits left behind by ancient water were later heated by volcanic or geothermal activity, transforming their chemistry.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260309225228.htm",
-          "pubDate": "Tue, 10 Mar 2026 06:23:47 EDT"
+          "title": "Scientists discover tiny plant trick that could supercharge crop yields",
+          "summary": "Researchers have uncovered a molecular trick used by hornwort plants that could help future crops capture carbon dioxide more efficiently. A unique protein feature called RbcS-STAR causes the key photosynthesis enzyme Rubisco to cluster into dense compartments, helping it work more effectively. When scientists added this feature to other plants, Rubisco reorganized in the same way. The finding raises the possibility of engineering more efficient photosynthesis into major crops.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260311004716.htm",
+          "pubDate": "Wed, 11 Mar 2026 06:05:55 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "siteName": "Science News",
       "items": [
         {
-          "title": "‘Smart underwear’ measures how often humans fart",
-          "summary": "“Zen digesters” rarely fart. “Hydrogen hyperproducers” fart a lot. Scientists are investigating what is typical.",
-          "link": "https://www.sciencenews.org/article/smart-underwear-human-fart-frequency",
-          "pubDate": "Tue, 10 Mar 2026 15:00:00 +0000"
+          "title": "AI auto-complete may subtly shape views on social issues",
+          "summary": "People are increasingly using AI auto-complete features when writing. Unbeknownst to them, that feature may change how they think.",
+          "link": "https://www.sciencenews.org/article/ai-autocomplete-social-issues-views",
+          "pubDate": "Wed, 11 Mar 2026 18:00:00 +0000"
         },
         {
-          "title": "Tree tops sparkle with electricity during thunderstorms",
-          "summary": "Ultraviolet cameras captured faint electrical flashes from leaves and branches as storm charges built up in the atmosphere.",
-          "link": "https://www.sciencenews.org/article/tree-sparkle-electricity-thunderstorms",
-          "pubDate": "Tue, 10 Mar 2026 13:00:00 +0000"
+          "title": "One possible recipe for life on Titan is a bust",
+          "summary": "An experiment mimicking conditions on the Saturn moon suggests that cell-like bubbles don’t form in methane lakes, puncturing hopes for alien life.",
+          "link": "https://www.sciencenews.org/article/azotosome-alien-life-titan-moon-saturn",
+          "pubDate": "Wed, 11 Mar 2026 18:00:00 +0000"
         },
         {
-          "title": "When the pressure’s off, this superconductor appears to break records",
-          "summary": "A sudden release of pressure allowed a copper-based compound to superconduct at the highest temperature yet for atmospheric pressure, a study claims.",
-          "link": "https://www.sciencenews.org/article/pressure-superconductor-record-break",
-          "pubDate": "Mon, 09 Mar 2026 19:00:00 +0000"
+          "title": "A strange ‘chirp’ in a brilliant stellar blast points to a magnetar",
+          "summary": "Superluminous supernovas are the brightest stellar explosions in the universe. Astronomers may have found a mechanism that can trigger these events.",
+          "link": "https://www.sciencenews.org/article/superluminous-supernova-magnetar",
+          "pubDate": "Wed, 11 Mar 2026 16:00:00 +0000"
         }
       ]
     }
