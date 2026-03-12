@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-11T23:00:56.789Z",
-  "date": "2026-03-12",
+  "lastUpdate": "2026-03-12T23:00:56.647Z",
+  "date": "2026-03-13",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The South Carolina Measles Outbreak Is Slowing Down",
-          "summary": "The biggest US measles outbreak in decades may be over sooner than expected.",
-          "link": "https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/",
-          "pubDate": "Wed, 11 Mar 2026 22:12:36 +0000"
+          "title": "John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job",
+          "summary": "A whistleblower complaint alleges John Solly claimed to have stored highly sensitive Social Security data on a thumb drive. Solly and Leidos, his current employer, strongly deny the allegations.",
+          "link": "https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/",
+          "pubDate": "Thu, 12 Mar 2026 20:15:41 +0000"
         },
         {
-          "title": "How the Iran War Could Jack Up Prices on Store Shelves",
-          "summary": "The Strait of Hormuz, a busy waterway off the coast of Iran, has come to a near standstill. If the war drags on much longer, it could mean higher prices for consumer goods around the world.",
-          "link": "https://www.wired.com/story/how-the-iran-war-could-jack-up-prices-on-store-shelves/",
-          "pubDate": "Wed, 11 Mar 2026 21:59:00 +0000"
+          "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+          "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+          "pubDate": "Thu, 12 Mar 2026 19:48:21 +0000"
         },
         {
-          "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
-          "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
-          "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
-          "pubDate": "Wed, 11 Mar 2026 20:45:03 +0000"
+          "title": "Google Is Not Ruling Out Ads in Gemini",
+          "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
+          "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+          "pubDate": "Thu, 12 Mar 2026 18:15:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Google Play is adding new paid and PC games, game trials, community posts, and more",
-          "summary": "The updates indicate that Google is focused on transforming Google Play into an enhanced gaming hub.",
-          "link": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
-          "pubDate": "Wed, 11 Mar 2026 23:00:00 +0000"
+          "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+          "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+          "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+          "pubDate": "Thu, 12 Mar 2026 22:25:50 +0000"
         },
         {
-          "title": "Ford&#8217;s new AI assistant will help fleet owners know if seatbelts are being used",
-          "summary": "Ford rolled out an AI assistant this week that can monitor and analyze millions of data points to help its Ford Pro commercial customers boost their bottom line. The bet, and one that most other automakers are making, is that there&#8217;s money to be made in software. Ford Pro AI debuted at Work Truck Week [&#8230;]",
-          "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-          "pubDate": "Wed, 11 Mar 2026 22:51:39 +0000"
+          "title": "Channel Surfer lets you watch YouTube like it&#8217;s old-school cable TV",
+          "summary": "The web app lets you turn on YouTube and surf channels like you're watching cable TV in the '90s.",
+          "link": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/",
+          "pubDate": "Thu, 12 Mar 2026 20:27:17 +0000"
         },
         {
-          "title": "Ride hailing inDrive acquires Pakistan&#8217;s KraveMart to bolster grocery delivery",
-          "summary": "inDrive has closed its acquisition of KraveMart, expanding grocery delivery in a market dominated by Foodpanda.",
-          "link": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/",
-          "pubDate": "Wed, 11 Mar 2026 22:45:35 +0000"
+          "title": "Why Rivian is holding the $45,000 base model R2 until &#8216;late 2027&#8217;",
+          "summary": "Rivian spent the last two years promoting the R2 as a $45,000 SUV. But buyers won't be able to pay that price until late next year -- if at all.",
+          "link": "https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/",
+          "pubDate": "Thu, 12 Mar 2026 20:24:02 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
-          "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
-          "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 11 Mar 2026 16:45:28 GMT"
+          "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
+          "summary": "A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.",
+          "link": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 12 Mar 2026 20:32:55 GMT"
         },
         {
-          "title": "Countries agree to record release of emergency oil reserves as prices surge",
-          "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-          "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 11 Mar 2026 15:51:11 GMT"
+          "title": "Emirati minister tells BBC Iran must end strikes on Gulf",
+          "summary": "The UAE says more than 1,800 drones and missiles have been projected at the country since the war began.",
+          "link": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 12 Mar 2026 20:20:50 GMT"
         },
         {
-          "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
-          "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
-          "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 11 Mar 2026 16:00:34 GMT"
+          "title": "Rapper-politician Balendra Shah's party wins Nepal election",
+          "summary": "The Rastriya Swatatantra Party has won a large majority in an election dominated by issues including corruption.",
+          "link": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 12 Mar 2026 15:25:35 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Markets&apos; hopes for Fed interest rate cuts are rapidly fading away",
+          "summary": "As both energy prices and inflation fears pop higher, expectations for cuts are sliding lower.",
+          "link": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html",
+          "pubDate": "Thu, 12 Mar 2026 20:41:02 GMT"
+        },
+        {
+          "title": "Lobster buffet: China’s tech firms feast on OpenClaw as companies race to deploy AI agents",
+          "summary": "China-based usage of OpenClaw has already topped that of the U.S., while driving demand for Chinese lower-cost AI models.",
+          "link": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html",
+          "pubDate": "Thu, 12 Mar 2026 10:08:45 GMT"
+        },
         {
           "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
           "summary": "JPMorgan's move shows that the biggest U.S. bank by assets wants to get ahead of potential turbulence involving private credit loans to software companies.",
           "link": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html",
           "pubDate": "Wed, 11 Mar 2026 12:57:44 GMT"
-        },
-        {
-          "title": "Surging oil prices could wipe out benefits from Trump&apos;s &apos;big beautiful bill&apos;",
-          "summary": "Estimates from Wall Street project that if oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax law.",
-          "link": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
-          "pubDate": "Tue, 10 Mar 2026 14:16:40 GMT"
-        },
-        {
-          "title": "There&apos;s another energy market that may get hit harder than oil by Strait of Hormuz closure",
-          "summary": "Roughly 20% of global liquefied natural gas flows through the Strait.",
-          "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
-          "pubDate": "Tue, 10 Mar 2026 14:06:17 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax",
-          "summary": "{beacon} Technology Technology &#8202; The Big Story&#160; Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax Rep. Ro Khanna (D-Calif.), once championed by Silicon Valley, is facing a primary challenge from a tech entrepreneur seeking to capitalize on the industry’s growing antipathy toward the progressive Democrat after he voiced support for a controversial&#8230;",
-          "link": "https://thehill.com/newsletters/technology/5779861-ro-khanna-faces-primary-challenge-silicon-valley-backlash-over-wealth-tax/",
-          "pubDate": "Wed, 11 Mar 2026 22:27:55 +0000"
+          "title": "Iran vows more attacks, continued Strait of Hormuz closure",
+          "summary": "Welcome to The Hill&#8217;s Defense &#38; NatSec newsletter {beacon} Defense &#38;National Security The Big Story Iran vows more attacks, continued Strait of Hormuz closure Iran’s new supreme leader released his first statement asserting the Strait of Hormuz will remain closed and Tehran will continue attacks on its Persian Gulf neighbors. © Photo Credit In&#8230;",
+          "link": "https://thehill.com/newsletters/defense-national-security/5781884-iran-attacks-strait-hormuz-closure/",
+          "pubDate": "Thu, 12 Mar 2026 22:28:23 +0000"
         },
         {
-          "title": "Senate Democrats press for investigation into moves to ease Russia oil sanctions",
-          "summary": "Democratic senators are demanding answers after the Trump administration moved to ease sanctions on Russian oil reserves in an attempt to offset the impact of the U.S.-Israeli strikes on global oil supplies. The minority members on the Senate Committee on Banking, Housing and Urban Affairs requested a congressional hearing with Treasury Secretary Scott Bessent by&#8230;",
-          "link": "https://thehill.com/homenews/senate/5779882-democrats-demand-answers-trump-russia/",
-          "pubDate": "Wed, 11 Mar 2026 22:14:06 +0000"
+          "title": "Why naval escorts through Strait of Hormuz are so risky",
+          "summary": "The U.S. has yet to begin escorting oil tankers through the treacherous Strait of Hormuz, something that increasingly looks like a high-risk proposition during the war with Iran. President Trump, who floated using escorts to reopen the waterway and avoid an oil crisis amid soaring global prices, so far has held off, opting instead for&#8230;",
+          "link": "https://thehill.com/homenews/senate/5781887-us-navy-strait-hormuz-mission/",
+          "pubDate": "Thu, 12 Mar 2026 22:25:07 +0000"
         },
         {
-          "title": "US to release oil from strategic reserve, Trump says",
-          "summary": "President Trump plans to tap into the U.S.’s oil stockpile, he said Wednesday, though additional details on the release, which comes amid high prices driven by the war in Iran, were not immediately clear. Asked about the Strategic Petroleum Reserve during a visit to Ohio, Trump told TV station Local 12,&#160;“I filled it up once,&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5779863-us-to-release-oil-from-strategic-reserve-trump-says/",
-          "pubDate": "Wed, 11 Mar 2026 21:53:15 +0000"
+          "title": "Why time is on Iran&#8217;s side as Trump faces pressure to end conflict",
+          "summary": "Time may be on Iran’s side in its conflict with the United States as President Trump faces domestic and international pressure to end the war. U.S. and Israeli military superiority has wreaked havoc on Iran, pounding its navy, missile launch sites and other assets. But the conflict is also inflicting pain on the president as&#8230;",
+          "link": "https://thehill.com/policy/defense/5781823-iran-conflict-trump-pressure/",
+          "pubDate": "Thu, 12 Mar 2026 22:08:17 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Nextech3D.ai reports new customer wins in early 2026",
-          "summary": "Nextech3D.ai reports new customer wins in early 2026",
-          "link": "https://finance.yahoo.com/news/nextech3d-ai-reports-customer-wins-135900641.html",
-          "pubDate": "2026-03-10T14:59:00Z"
+          "title": "Refiners Are Quiet Winners in 2026: Wall Street’s Signals Are Hard to Ignore",
+          "summary": "Refiners Are Quiet Winners in 2026: Wall Street’s Signals Are Hard to Ignore",
+          "link": "https://finance.yahoo.com/news/refiners-quiet-winners-2026-wall-152554757.html",
+          "pubDate": "2026-03-11T15:25:54Z"
         },
         {
-          "title": "Trump Calms Oil Markets as Hormuz Crisis Persists",
-          "summary": "Trump Calms Oil Markets as Hormuz Crisis Persists",
-          "link": "https://finance.yahoo.com/news/trump-calms-oil-markets-hormuz-150000945.html",
-          "pubDate": "2026-03-10T15:00:00Z"
+          "title": "Oil is trading like a meme stock — here's why it isn't one",
+          "summary": "Oil is trading like a meme stock — here's why it isn't one",
+          "link": "https://finance.yahoo.com/news/oil-is-trading-like-a-meme-stock--heres-why-it-isnt-one-152423631.html",
+          "pubDate": "2026-03-11T15:24:23Z"
         },
         {
-          "title": "How To Take Advantage Of Micron Stock's Current Prosperity",
-          "summary": "How To Take Advantage Of Micron Stock's Current Prosperity",
-          "link": "https://www.investors.com/research/options/micron-stock-mu-diagonal-put-spread-options/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-03-10T14:57:54Z"
+          "title": "3 Top-Rated Stocks to Buy to Hedge Against Stagflation as Middle East Conflict Drags On",
+          "summary": "3 Top-Rated Stocks to Buy to Hedge Against Stagflation as Middle East Conflict Drags On",
+          "link": "https://finance.yahoo.com/news/3-top-rated-stocks-buy-152241164.html",
+          "pubDate": "2026-03-11T15:22:41Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A massive asteroid hit the North Sea and triggered a 330-foot tsunami",
-          "summary": "A long-running debate about the Silverpit Crater beneath the North Sea has finally been resolved. Scientists now confirm it formed when a roughly 160-meter asteroid struck the seabed about 43–46 million years ago. New seismic imaging and rare shocked minerals in rock samples provided the crucial proof. The impact would have sent a massive plume skyward and unleashed a tsunami over 100 meters (330 feet) high.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm",
-          "pubDate": "Wed, 11 Mar 2026 01:34:49 EDT"
+          "title": "Depression may start with an energy problem in brain cells",
+          "summary": "Researchers have discovered a surprising change in how cells produce energy in people with depression. Brain and blood cells in young adults with major depressive disorder produced more energy molecules at rest but had trouble increasing energy production when needed. Scientists believe this imbalance may contribute to symptoms such as fatigue and low motivation. The finding could help pave the way for earlier diagnosis and more personalized treatments.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260312020107.htm",
+          "pubDate": "Thu, 12 Mar 2026 07:09:13 EDT"
         },
         {
-          "title": "Scientists may have found a pill for sleep apnea",
-          "summary": "A European clinical trial found that the drug sulthiame significantly reduced breathing interruptions in people with moderate to severe sleep apnea. Patients taking higher doses experienced up to 47% fewer pauses in breathing and improved oxygen levels during sleep. The drug helps stabilize breathing signals in the brain, reducing airway collapse. Scientists say the findings could pave the way for a pill-based alternative to CPAP machines.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260311004816.htm",
-          "pubDate": "Wed, 11 Mar 2026 06:19:22 EDT"
+          "title": "A surprising blood protein pattern may reveal Alzheimer’s",
+          "summary": "A new study suggests Alzheimer’s disease may be detectable through subtle shape changes in proteins found in the blood. Researchers discovered that structural differences in three blood proteins closely track the progression of the disease. By analyzing these changes in more than 500 people, the team was able to distinguish healthy individuals from those with mild cognitive impairment or Alzheimer’s with impressive accuracy. The approach could help move diagnosis and treatment to earlier stages.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
+          "pubDate": "Thu, 12 Mar 2026 07:00:56 EDT"
         },
         {
-          "title": "Scientists discover tiny plant trick that could supercharge crop yields",
-          "summary": "Researchers have uncovered a molecular trick used by hornwort plants that could help future crops capture carbon dioxide more efficiently. A unique protein feature called RbcS-STAR causes the key photosynthesis enzyme Rubisco to cluster into dense compartments, helping it work more effectively. When scientists added this feature to other plants, Rubisco reorganized in the same way. The finding raises the possibility of engineering more efficient photosynthesis into major crops.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260311004716.htm",
-          "pubDate": "Wed, 11 Mar 2026 06:05:55 EDT"
+          "title": "Chickpeas could become the first food grown on the Moon",
+          "summary": "Scientists have grown chickpeas in simulated moon soil, offering a promising step toward farming on the lunar surface. Researchers mixed moon-like regolith with worm-produced compost and helpful fungi that protect plants from toxic metals. The combination allowed chickpeas to grow and produce a harvest in soil that normally cannot support plant life. Scientists now need to confirm the crops are safe and nutritious for astronauts.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260312020101.htm",
+          "pubDate": "Thu, 12 Mar 2026 06:56:39 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "siteName": "Science News",
       "items": [
         {
-          "title": "AI auto-complete may subtly shape views on social issues",
-          "summary": "People are increasingly using AI auto-complete features when writing. Unbeknownst to them, that feature may change how they think.",
-          "link": "https://www.sciencenews.org/article/ai-autocomplete-social-issues-views",
-          "pubDate": "Wed, 11 Mar 2026 18:00:00 +0000"
+          "title": "A large fossil leg bone hints at T. rex’s origins, but scientists disagree",
+          "summary": "A new analysis of a large fossil shinbone suggests T. rex ancestors came from North America instead of Asia. Not everyone agrees.",
+          "link": "https://www.sciencenews.org/article/fossil-leg-t-rex-origins-bones-dinosaur",
+          "pubDate": "Thu, 12 Mar 2026 16:00:00 +0000"
         },
         {
-          "title": "One possible recipe for life on Titan is a bust",
-          "summary": "An experiment mimicking conditions on the Saturn moon suggests that cell-like bubbles don’t form in methane lakes, puncturing hopes for alien life.",
-          "link": "https://www.sciencenews.org/article/azotosome-alien-life-titan-moon-saturn",
-          "pubDate": "Wed, 11 Mar 2026 18:00:00 +0000"
+          "title": "Why African striped mice can be the best of dads — or the worst",
+          "summary": "Environmental cues can flip a molecular switch in the brain, turning males from caregivers to killers.",
+          "link": "https://www.sciencenews.org/article/african-striped-mice-male-caregiving",
+          "pubDate": "Thu, 12 Mar 2026 14:00:00 +0000"
         },
         {
-          "title": "A strange ‘chirp’ in a brilliant stellar blast points to a magnetar",
-          "summary": "Superluminous supernovas are the brightest stellar explosions in the universe. Astronomers may have found a mechanism that can trigger these events.",
-          "link": "https://www.sciencenews.org/article/superluminous-supernova-magnetar",
-          "pubDate": "Wed, 11 Mar 2026 16:00:00 +0000"
+          "title": "AI may be giving teens bad nutrition advice",
+          "summary": "AI-generated meal plans for fictional teens cut an entire meal’s worth of calories and carbs while overemphasizing protein and fats, a new study reports.",
+          "link": "https://www.sciencenews.org/article/ai-teen-nutrition-advice-chatbot-diet-food",
+          "pubDate": "Thu, 12 Mar 2026 05:00:00 +0000"
         }
       ]
     }
