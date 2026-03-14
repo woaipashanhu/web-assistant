@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-13T23:00:32.858Z",
-  "date": "2026-03-14",
+  "lastUpdate": "2026-03-14T23:01:01.834Z",
+  "date": "2026-03-15",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans",
-          "summary": "Dreo’s spring sale offers a great deal on the Chefmaker combi cooker, plus discounts on WIRED’s favorite bathroom heater and tower fan.",
-          "link": "https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/",
-          "pubDate": "Fri, 13 Mar 2026 18:51:05 +0000"
+          "title": "How to Buy Used or Refurbished Electronics (2026)",
+          "summary": "Save money and reduce your carbon footprint with these tips to snag the best deals on quality refurbished and used electronics.",
+          "link": "https://www.wired.com/story/how-to-buy-refurbished-electronics/",
+          "pubDate": "Sat, 14 Mar 2026 11:30:00 +0000"
         },
         {
-          "title": "One of Our Favorite Large TVs Is $400 Off",
-          "summary": "The 85-inch Hisense U7 gets a big discount, with markdowns for smaller sizes too.",
-          "link": "https://www.wired.com/story/hisense-u75qc-deal-326/",
-          "pubDate": "Fri, 13 Mar 2026 17:42:30 +0000"
+          "title": "You Can Approximate Pi by Dropping Needles on the Floor",
+          "summary": "Who needs a supercomputer when you can calculate pi with a box of sewing needles?",
+          "link": "https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/",
+          "pubDate": "Sat, 14 Mar 2026 11:00:00 +0000"
         },
         {
-          "title": "Apple Studio Display XDR Review: Too Much but Not Enough",
-          "summary": "The Studio Display XDR monitor comes at a time when HDR-capable screens are everywhere. Apple still does it best, but at a hefty cost.",
-          "link": "https://www.wired.com/review/apple-studio-display-xdr/",
-          "pubDate": "Fri, 13 Mar 2026 17:16:32 +0000"
+          "title": "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
+          "summary": "There's not much else groundbreaking about the company's latest flagship, but the built-in privacy display works well without much trade-off.",
+          "link": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
+          "pubDate": "Sat, 14 Mar 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Digg lays off staff and shuts down app as company retools",
-          "summary": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup.",
-          "link": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
-          "pubDate": "Fri, 13 Mar 2026 21:51:17 +0000"
+          "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+          "summary": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+          "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+          "pubDate": "Sat, 14 Mar 2026 21:24:10 +0000"
         },
         {
-          "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-          "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-          "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-          "pubDate": "Fri, 13 Mar 2026 21:37:01 +0000"
+          "title": "US Army announces contract with Anduril worth up to $20B",
+          "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+          "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+          "pubDate": "Sat, 14 Mar 2026 20:47:47 +0000"
         },
         {
-          "title": "Facebook makes it easier for creators to report impersonators",
-          "summary": "Facebook is making it easier for creators to report impersonators while tightening rules around reposts and other unoriginal content.",
-          "link": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/",
-          "pubDate": "Fri, 13 Mar 2026 20:48:43 +0000"
+          "title": "Honda is killing its EVs — and any chance of competing in the future",
+          "summary": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
+          "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+          "pubDate": "Sat, 14 Mar 2026 17:23:24 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "All six crew members killed after US refuelling plane crashes in Iraq",
-          "summary": "The US Central Command says all six crew members died after a refuelling aircraft went down over western Iraq.",
-          "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 13 Mar 2026 14:29:12 GMT"
+          "title": "Three more Iran football team members change minds over asylum",
+          "summary": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
+          "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 14 Mar 2026 20:48:55 GMT"
         },
         {
-          "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
-          "summary": "Ukraine's president says the US decision \"certainly does not help achieve peace\".",
-          "link": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 13 Mar 2026 16:12:27 GMT"
+          "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+          "summary": "The Palestinian group also affirms Tehran's right to defend itself from \"aggression\" by the US and Israel.",
+          "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 14 Mar 2026 13:34:17 GMT"
         },
         {
-          "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
-          "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
-          "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 13 Mar 2026 22:02:39 GMT"
+          "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
+          "summary": "Tommy Thompson spent more than a decade in prison after refusing to disclose the whereabouts of 500 missing gold coins.",
+          "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 14 Mar 2026 22:27:41 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
+          "summary": "ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.",
+          "link": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html",
+          "pubDate": "Sat, 14 Mar 2026 15:00:01 GMT"
+        },
         {
           "title": "Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market",
           "summary": "Dividend stocks are closing the earnings growth gap with tech stocks, a reason for investors seeking safety in a volatile market to favor income opportunities.",
@@ -145,17 +151,11 @@
           "summary": "For JPMorgan Chase, winning the niche of startup banking from rivals is about more than just gaining deposits: It's a bet to future-proof the largest U.S. bank.",
           "link": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html",
           "pubDate": "Fri, 13 Mar 2026 18:02:26 GMT"
-        },
-        {
-          "title": "Markets&apos; hopes for Fed interest rate cuts are rapidly fading away",
-          "summary": "As both energy prices and inflation fears pop higher, expectations for cuts are sliding lower.",
-          "link": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html",
-          "pubDate": "Thu, 12 Mar 2026 20:41:02 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Senate Democrat calls for investigation into Texas drone incidents",
-          "summary": "Sen. Tammy Duckworth (D-Ill.), the ranking member on the Senate’s Aviation Subcommittee, is calling for an investigation into the government’s use of high-energy lasers in anti-drone technology following two incidents in Texas last month that led to airspace closures. Duckworth asked the inspectors general for the departments of Transportation, Defense and Homeland Security in a&#8230;",
-          "link": "https://thehill.com/homenews/senate/5783761-senate-probe-anti-drone-lasers/",
-          "pubDate": "Fri, 13 Mar 2026 22:22:03 +0000"
+          "title": "Paxton PAC running TV ads in Palm Beach while Trump at Mar-a-Lago",
+          "summary": "A super PAC backing Texas Attorney General Ken Paxton (R) for Senate is airing television ads in Palm Beach, Fla., where President Trump is spending the weekend at his Mar-a-Lago resort, as his endorsement in a competitive primary runoff hangs in the balance. Lone Star Liberty PAC came out with a new television ad on&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5784633-paxton-cornyn-trump-runoff/",
+          "pubDate": "Sat, 14 Mar 2026 22:34:45 +0000"
         },
         {
-          "title": "House Democrat moves to sanction Ogles over anti-Muslim posts",
-          "summary": "Rep. Shri Thanedar (D-Mich.) on Thursday filed a resolution to censure Rep. Andy Ogles (R-Tenn.) over several of his anti-Muslim posts on the social platform X, including one referring to New York Mayor Zohran Mamdani (D). &#8220;Ogles, a Congressman long known for his racist rhetoric, recently tweeted, &#8216;Muslims don&#8217;t belong in American society,&#8217; &#8216;Pluralism is&#8230;",
-          "link": "https://thehill.com/homenews/house/5783650-ogles-anti-muslim-posts-censure/",
-          "pubDate": "Fri, 13 Mar 2026 22:10:12 +0000"
+          "title": "Sunday shows preview: Trump faces questions about length of Iran conflict as war enters third week",
+          "summary": "The war with Iran entered its third week on Saturday, with military strikes, retaliatory attacks and economic disruption roiling the Middle East as President Trump sends mixed signals about how close the U.S. is to achieving its objectives and how long the conflict could last. More than 2,000 people have been killed across the region&#8230;",
+          "link": "https://thehill.com/homenews/5784591-sunday-shows-preview-trump-faces-questions-iran-conflict-third-week/",
+          "pubDate": "Sat, 14 Mar 2026 22:08:58 +0000"
         },
         {
-          "title": "Judge rules Trump administration unlawfully refused to request CFPB funding",
-          "summary": "A federal judge ruled Friday that the Trump administration unlawfully took the position last year that it couldn’t request more funding for the Consumer Financial Protection Bureau (CFPB). U.S. District Judge Edward Davila ordered the agency’s acting director, Russ Vought, to continue requesting the necessary funds from the Federal Reserve to carry out the CFPB’s obligations. It’s&#160;a&#160;legal&#160;loss for top&#160;Trump administration officials&#160;as they look to&#160;curtail&#160;the&#160;consumer watchdog&#160;agency. Created&#160;in the wake of&#160;the&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5783614-cfpb-consumer-watchdog-trump-vought/",
-          "pubDate": "Fri, 13 Mar 2026 21:10:33 +0000"
+          "title": "Trump: U.S. has beaten Iran “militarily, economically, and in every other way”",
+          "summary": "President Trump declared that the U.S. has beaten Iran “both militarily, economically, and in every other way” in a Truth Social post on Saturday, and called on countries that receive oil through the Strait of Hormuz to “take care” of the closed passage. “The Countries of the World that receive Oil through the Hormuz Strait&#8230;",
+          "link": "https://thehill.com/homenews/administration/5784610-trump-truthsocial-iran-war/",
+          "pubDate": "Sat, 14 Mar 2026 21:46:59 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Bumble Beats Estimates Because Thirst Is Macro-Proof",
-          "summary": "Bumble Beats Estimates Because Thirst Is Macro-Proof",
-          "link": "https://finance.yahoo.com/news/bumble-beats-estimates-because-thirst-153700106.html",
-          "pubDate": "2026-03-12T15:37:00Z"
+          "title": "Billionaire Dan Loeb Sold Shares of AI Leaders Including Amazon, Microsoft, and Meta and Added to His Position in This AI Player That's Soared 453,000% Since Its IPO",
+          "summary": "Billionaire Dan Loeb Sold Shares of AI Leaders Including Amazon, Microsoft, and Meta and Added to His Position in This AI Player That's Soared 453,000% Since Its IPO",
+          "link": "https://finance.yahoo.com/news/billionaire-dan-loeb-sold-shares-223000223.html",
+          "pubDate": "2026-03-14T22:30:00Z"
         },
         {
-          "title": "Should You Buy Enbridge While It's Below $60?",
-          "summary": "Should You Buy Enbridge While It's Below $60?",
-          "link": "https://finance.yahoo.com/news/buy-enbridge-while-below-60-154100439.html",
-          "pubDate": "2026-03-12T15:41:00Z"
+          "title": "William Blair Remains a Buy on AppLovin (APP), Here’s Why",
+          "summary": "William Blair Remains a Buy on AppLovin (APP), Here’s Why",
+          "link": "https://finance.yahoo.com/news/william-blair-remains-buy-applovin-203620606.html",
+          "pubDate": "2026-03-14T20:36:20Z"
         },
         {
-          "title": "Rothschild & Co Redburn Lowers Delta Air Lines, Inc. (DAL) Price Target to $70",
-          "summary": "Rothschild & Co Redburn Lowers Delta Air Lines, Inc. (DAL) Price Target to $70",
-          "link": "https://finance.yahoo.com/news/rothschild-co-redburn-lowers-delta-154144089.html",
-          "pubDate": "2026-03-12T15:41:44Z"
+          "title": "Malaysia’s Anti-Graft Agency Investigating Deal Between Arm Holdings (ARM) and the Malaysian Government",
+          "summary": "Malaysia’s Anti-Graft Agency Investigating Deal Between Arm Holdings (ARM) and the Malaysian Government",
+          "link": "https://finance.yahoo.com/news/malaysia-anti-graft-agency-investigating-203619987.html",
+          "pubDate": "2026-03-14T20:36:19Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Severe COVID or flu may raise lung cancer risk years later",
-          "summary": "A severe case of COVID-19 or influenza could increase the risk of lung cancer later on, according to new research. Scientists discovered that serious viral infections can alter immune cells in the lungs, leaving behind chronic inflammation that may help tumors develop months or years later. The increased risk was seen mainly after severe infections that required hospitalization. Vaccination, however, appears to prevent the dangerous lung changes.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260313055130.htm",
-          "pubDate": "Fri, 13 Mar 2026 05:56:17 EDT"
+          "title": "How often do people really fart? Scientists built smart underwear to find out",
+          "summary": "Researchers have created “Smart Underwear,” a wearable device that measures flatulence by detecting hydrogen produced by gut microbes. Early tests suggest people may pass gas about 32 times a day—much higher than previous estimates. The device gives scientists a new way to track gut microbial activity in everyday life. It will power a new nationwide study called the Human Flatus Atlas to map normal patterns of gas production.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260314030516.htm",
+          "pubDate": "Sat, 14 Mar 2026 18:36:43 EDT"
         },
         {
-          "title": "Study finds two types of colon polyps can raise bowel cancer risk fivefold",
-          "summary": "Researchers studying over 8,400 colonoscopies discovered that having both adenomas and serrated polyps in the bowel can raise the risk of serious precancerous changes by up to five times. These two polyp types may represent separate cancer pathways that can occur at the same time. Nearly half of patients with serrated polyps also had adenomas, making this high-risk combination more common than expected. The results emphasize the importance of early detection and regular colonoscopy monitoring.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260313002938.htm",
-          "pubDate": "Fri, 13 Mar 2026 06:14:14 EDT"
+          "title": "Scientists discover giant swirling plumes hidden deep inside Greenland’s ice sheet",
+          "summary": "Scientists may have finally solved the mystery of strange plume-like structures hidden deep inside the Greenland ice sheet. New research suggests they form through thermal convection—slow, swirling motions driven by temperature differences inside the ice. This means the deep ice could be far softer than scientists once believed. Understanding this hidden movement could improve predictions about how Greenland’s ice sheet behaves in a warming world.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260314030446.htm",
+          "pubDate": "Sat, 14 Mar 2026 08:00:08 EDT"
         },
         {
-          "title": "Scientists built the hardest AI test ever and the results are surprising",
-          "summary": "As AI systems began acing traditional tests, researchers realized those benchmarks were no longer tough enough. In response, nearly 1,000 experts created Humanity’s Last Exam, a massive 2,500-question challenge covering highly specialized topics across many fields. The exam was engineered so that any question solvable by current AI models was removed. Early results show even the most advanced systems still struggle — revealing a surprisingly large gap between AI performance and true expert-level knowledge.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
-          "pubDate": "Fri, 13 Mar 2026 02:08:43 EDT"
+          "title": "Our Sun may have escaped the Milky Way’s center with thousands of twin stars",
+          "summary": "Scientists have uncovered evidence that our Sun may have traveled across the Milky Way as part of a massive migration of Sun-like stars billions of years ago. The journey may have carried the solar system away from the galaxy’s crowded center into a calmer region where life could eventually emerge.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260313062543.htm",
+          "pubDate": "Fri, 13 Mar 2026 18:49:09 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "siteName": "Science News",
       "items": [
         {
