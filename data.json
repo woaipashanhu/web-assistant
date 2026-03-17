@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-16T23:00:53.693Z",
-  "date": "2026-03-17",
+  "lastUpdate": "2026-03-17T23:00:05.255Z",
+  "date": "2026-03-18",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "File Your Taxes With TurboTax Full Service Now Before Prices Go Up",
-          "summary": "Procrastinators get penalized. File your taxes through TurboTax before March 18 for $150.",
-          "link": "https://www.wired.com/story/turbotax-deal-326/",
-          "pubDate": "Mon, 16 Mar 2026 20:50:19 +0000"
+          "title": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
+          "summary": "Meta’s flailing virtual reality social experience is being discontinued in June. It's part of Meta’s broader moves to slim down the business that became its namesake.",
+          "link": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
+          "pubDate": "Tue, 17 Mar 2026 22:24:51 +0000"
         },
         {
-          "title": "What’s New in the AirPods Max 2? Breaking Down Apple’s Headphone Update",
-          "summary": "Apple’s premium over-ears finally have a proper successor, but after five years of waiting, it’s hard not to wonder: “Is that it?”",
-          "link": "https://www.wired.com/story/apple-airpods-max-2-news/",
-          "pubDate": "Mon, 16 Mar 2026 20:14:33 +0000"
+          "title": "DoorDash Reservations Scored America’s Most Exclusive Restaurants",
+          "summary": "After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country’s most exclusive restaurants.",
+          "link": "https://www.wired.com/story/doordash-reservations-exclusive-restaurants/",
+          "pubDate": "Tue, 17 Mar 2026 20:32:13 +0000"
         },
         {
-          "title": "Save Almost 20 Percent on Our Favorite Portable Bluetooth Speaker",
-          "summary": "The Tribit Stormbox Mini+ is as affordable as it is compact.",
-          "link": "https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/",
-          "pubDate": "Mon, 16 Mar 2026 19:00:25 +0000"
+          "title": "These Sonos Over-Ear Headphones Are $100 Off",
+          "summary": "This super comfortable headset has some top-tier active noise canceling. Unlike other headphones, it also integrates with your existing Sonos gear.",
+          "link": "https://www.wired.com/story/sonos-ace-deal-326/",
+          "pubDate": "Tue, 17 Mar 2026 17:45:22 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Nvidia&#8217;s version of OpenClaw could solve its biggest problem: security",
-          "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-          "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-          "pubDate": "Mon, 16 Mar 2026 22:45:51 +0000"
+          "title": "Kalshi&#8217;s legal troubles pile up, as Arizona files first ever criminal charges over &#8216;illegal gambling business&#8217;",
+          "summary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.",
+          "link": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
+          "pubDate": "Tue, 17 Mar 2026 21:39:17 +0000"
         },
         {
-          "title": "Jensen Huang just put Nvidia&#8217;s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-          "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-          "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-          "pubDate": "Mon, 16 Mar 2026 21:41:37 +0000"
+          "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+          "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+          "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+          "pubDate": "Tue, 17 Mar 2026 21:00:00 +0000"
         },
         {
-          "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-          "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-          "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-          "pubDate": "Mon, 16 Mar 2026 20:58:36 +0000"
+          "title": "Why Garry Tan&#8217;s Claude Code setup has gotten so much love, and hate",
+          "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+          "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+          "pubDate": "Tue, 17 Mar 2026 20:50:04 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
-          "summary": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.",
-          "link": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 16 Mar 2026 17:34:13 GMT"
+          "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+          "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
+          "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 17 Mar 2026 21:48:08 GMT"
         },
         {
-          "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
-          "summary": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears.",
-          "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 16 Mar 2026 06:10:55 GMT"
+          "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+          "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+          "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 17 Mar 2026 18:45:54 GMT"
         },
         {
-          "title": "Iran hits key UAE oil port and Dubai airport",
-          "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked.",
-          "link": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 16 Mar 2026 12:43:32 GMT"
+          "title": "Iranian security chief Ali Larijani killed in air strike",
+          "summary": "His death is confirmed on state TV, alongside that of another senior figure, Gholamreza Soleimani",
+          "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 17 Mar 2026 22:49:03 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Apollo&apos;s John Zito questions private equity&apos;s software valuations: &apos;All the marks are wrong&apos;",
-          "summary": "While Wall Street figures have flagged risks in private credit, Apollo's Zito is among the first within private credit to candidly acknowledge weakness.",
-          "link": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html",
-          "pubDate": "Mon, 16 Mar 2026 17:17:36 GMT"
+          "title": "The Fed issues its latest interest rate decision Wednesday. Here&apos;s what to expect",
+          "summary": "The Federal Reserve has little choice but to stay on the sidelines this week.",
+          "link": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+          "pubDate": "Tue, 17 Mar 2026 20:29:55 GMT"
         },
         {
-          "title": "China talks up oil sufficiency as Trump seeks Beijing&apos;s help on securing Hormuz energy route",
-          "summary": "The statistics bureau said that China's energy supply is \"relatively strong,\" while announcing an uptick in domestic production.",
-          "link": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html",
-          "pubDate": "Mon, 16 Mar 2026 13:56:51 GMT"
+          "title": "Orlando Bravo pushes back on private markets criticism: &apos;Everybody&apos;s extremely comfortable&apos;",
+          "summary": "Bravo said deep sector expertise is separating winners from losers as artificial intelligence creates disruption across the software industry.",
+          "link": "https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html",
+          "pubDate": "Tue, 17 Mar 2026 21:17:31 GMT"
         },
         {
-          "title": "Holiday spending, export demand drive China’s economic momentum as Iran war headwinds loom",
-          "summary": "Beijing tamped down its GDP growth target this year to a range of 4.5% to 5%, the least ambitious goal on record going back to the early 1990s.",
-          "link": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html",
-          "pubDate": "Mon, 16 Mar 2026 06:11:06 GMT"
+          "title": "Mastercard says it&apos;s acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
+          "summary": "Stablecoin startups have been a hot commodity since the reelection of President Donald Trump in late 2024 ushered in a new era of crypto-friendly regulation.",
+          "link": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html",
+          "pubDate": "Tue, 17 Mar 2026 14:40:39 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Sean Penn missed Oscars to meet with Zelensky in Ukraine",
-          "summary": "Actor Sean Penn was absent from the 98th Academy Awards on Sunday due to a meeting with Ukrainian President Volodymyr Zelensky.&#160; Penn has frequently advocated for Kyiv amid its war with Russia, and he spent the weekend abroad in an attempt to push his efforts forward. “Sean, thanks to you, we know what a true&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5786839-penn-skips-awards-zelensky-meeting/",
-          "pubDate": "Mon, 16 Mar 2026 22:30:22 +0000"
+          "title": "Missouri pastor suspended after church learns she managed Epstein&#8217;s private island",
+          "summary": "A former Missouri pastor was suspended last week after it was discovered she worked for and managed the private island of late-sex offender Jeffrey Epstein for nearly a year.",
+          "link": "https://thehill.com/homenews/state-watch/5788647-missouri-pastor-epstein-island/",
+          "pubDate": "Tue, 17 Mar 2026 22:12:56 +0000"
         },
         {
-          "title": "Jackson family clarifies late father did not endorse Stratton",
-          "summary": "The family of the late Rev. Jesse Jackson clarified on Monday that their father did not issue an endorsement&#160;for&#160;Illinois Lt. Gov. Juliana Stratton (D) in the Senate Democratic primary to succeed Sen. Dick Durbin (D-Ill.), explaining a drafted ballot “was released without authorization.”&#160; Yusef D. Jackson,&#160;one of the civil rights leader’s sons and the&#160;chief&#160;operating officer&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5786706-jesse-jackson-juliana-stratton-no-endorsement/",
-          "pubDate": "Mon, 16 Mar 2026 22:19:00 +0000"
+          "title": "Judge orders Texas voucher program deadline be extended amid controversy over exclusion of Islamic schools",
+          "summary": "U.S. District Judge Alfred Bennett ruled Tuesday that Texas must extend its deadline for private schools to apply for the state’s voucher program after a lawsuit alleged Islamic schools have been excluded from the school-choice initiative. The judge called it “troubling” that no Muslim schools were approved for the program and ordered the deadline to be extended&#8230;",
+          "link": "https://thehill.com/homenews/education/5788582-texas-vouchers-islamic-schools-cair/",
+          "pubDate": "Tue, 17 Mar 2026 22:05:14 +0000"
         },
         {
-          "title": "Trump says Newsom&#8217;s learning disabilities should prevent him from being president",
-          "summary": "President Trump suggested Monday that California Gov. Gavin Newsom’s (D) dyslexia should prevent the governor, who’s widely seen as a 2028 candidate, from being president. Speaking to reporters in the Oval Office while talking about voter identification in California, he described Newsom as a “low-IQ person.” “Gavin &#8216;Newscum&#8217; has admitted that he is a — that he has learning disabilities,”&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5786830-trump-newsom-dyslexia-presidency/",
-          "pubDate": "Mon, 16 Mar 2026 22:13:33 +0000"
+          "title": "Mullin support for Trump immigration policies under microscope with DHS nomination",
+          "summary": "Sen. Markwayne Mullin (R-Okla.) has teased changes in the operations at the Department of Homeland Security (DHS), though the close ally of President Trump has largely backed the White House’s immigration moves. Mullin would take over DHS amid heightened scrutiny over its operations on everything from aggressive immigration enforcement to delays in distributing disaster funds&#8230;",
+          "link": "https://thehill.com/homenews/senate/5777698-markwayne-mullin-homeland-security-immigration-scrutiny/",
+          "pubDate": "Tue, 17 Mar 2026 22:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Why Nvidia Could Remain the Most Important Stock of the 2020s",
-          "summary": "Why Nvidia Could Remain the Most Important Stock of the 2020s",
-          "link": "https://finance.yahoo.com/news/why-nvidia-could-remain-most-142000028.html",
-          "pubDate": "2026-03-15T14:20:00Z"
+          "title": "Forget the Lawsuit: Here’s How PayPal Could Double From Here",
+          "summary": "Forget the Lawsuit: Here’s How PayPal Could Double From Here",
+          "link": "https://finance.yahoo.com/news/forget-lawsuit-paypal-could-double-143520222.html",
+          "pubDate": "2026-03-16T14:35:20Z"
         },
         {
-          "title": "A Florida Trucking Company Raised $158 Million From 2,000 Investors by Promising 200% Monthly Returns – Here Is Exactly How It Worked and Why Every Small Carrier Needs to Read It",
-          "summary": "A Florida Trucking Company Raised $158 Million From 2,000 Investors by Promising 200% Monthly Returns – Here Is Exactly How It Worked and Why Every Small Carrier Needs to Read It",
-          "link": "https://finance.yahoo.com/news/florida-trucking-company-raised-158-142133037.html",
-          "pubDate": "2026-03-15T14:21:33Z"
+          "title": "Oil prices hold over $100 as Middle East conflict rages on: 'A high-stakes stalemate'",
+          "summary": "Oil prices hold over $100 as Middle East conflict rages on: 'A high-stakes stalemate'",
+          "link": "https://finance.yahoo.com/news/oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemate-143537218.html",
+          "pubDate": "2026-03-16T14:35:37Z"
         },
         {
-          "title": "Uber Expands Robotaxi Empire With Nissan Deal. Is UBER a Buy Now?",
-          "summary": "Uber Expands Robotaxi Empire With Nissan Deal. Is UBER a Buy Now?",
-          "link": "https://finance.yahoo.com/news/uber-expands-robotaxi-empire-nissan-140002115.html",
-          "pubDate": "2026-03-15T14:00:02Z"
+          "title": "AI Stocks: Nvidia GTC News Could Jolt Broadcom, Dell, CoreWeave, Arista, Lumentum",
+          "summary": "AI Stocks: Nvidia GTC News Could Jolt Broadcom, Dell, CoreWeave, Arista, Lumentum",
+          "link": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-nvidia-gtc-3162026/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-03-16T14:40:14Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "The smell of Egyptian mummies is revealing 2,000-year-old secrets",
-          "summary": "The distinctive smell of ancient mummies is helping scientists decode the secrets of Egyptian mummification. By analyzing tiny traces of chemicals in the air around mummy samples, researchers identified dozens of compounds linked to oils, resins, beeswax, and bitumen used during embalming. The chemical clues reveal that mummification grew increasingly complex over thousands of years.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260315225153.htm",
-          "pubDate": "Mon, 16 Mar 2026 06:46:21 EDT"
+          "title": "Scientists finally reveal how this Alzheimer’s drug really works",
+          "summary": "A key Alzheimer’s drug has finally revealed its secret. Researchers discovered that lecanemab works by activating the brain’s immune cells—but only through a specific part of the antibody called the Fc fragment. This piece acts like a trigger, prompting microglia to clear harmful amyloid plaques. The finding could reshape how future Alzheimer’s therapies are designed.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260317064457.htm",
+          "pubDate": "Tue, 17 Mar 2026 07:44:52 EDT"
         },
         {
-          "title": "Scientists unlock a powerful new way to turn sunlight into fuel",
-          "summary": "Scientists have developed a powerful new computational method that could accelerate the search for next-generation materials capable of turning sunlight into useful chemical energy. The work focuses on polyheptazine imides, a promising class of carbon nitride materials that absorb visible light and can drive reactions such as hydrogen production, carbon dioxide conversion, and hydrogen peroxide synthesis. By analyzing how 53 different metal ions influence the structure and electronic behavior of these materials, researchers created a framework that predicts which combinations will perform best.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260315225149.htm",
-          "pubDate": "Mon, 16 Mar 2026 04:01:39 EDT"
+          "title": "This massive crater could expose the heart of a lost planet",
+          "summary": "A mysterious metal-rich asteroid called Psyche has been baffling scientists for over two centuries, and its true origin remains one of the biggest unanswered questions in planetary science. Is it the exposed core of a failed planet, or a chaotic mix of rock and metal forged through countless violent collisions? To find out, researchers simulated how a massive crater near Psyche’s north pole formed, revealing that the asteroid’s internal “porosity” — how much empty space it contains — may hold the key to its secrets.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260317064440.htm",
+          "pubDate": "Tue, 17 Mar 2026 07:19:15 EDT"
         },
         {
-          "title": "A strange new quantum state appears when atoms get “frustrated”",
-          "summary": "Physicists at UC Santa Barbara have uncovered a new way to manipulate unusual magnetic states by exploiting “frustration” inside a crystal’s atomic structure. The team discovered a rare system where two different kinds of frustration—magnetic and electronic bond frustration—coexist and interact. By coupling these competing effects, researchers may be able to control exotic quantum states, potentially unlocking new ways to manipulate entangled spins for future quantum technologies.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260315225137.htm",
-          "pubDate": "Mon, 16 Mar 2026 06:19:03 EDT"
+          "title": "NASA’s Webb captures a bizarre brain-shaped nebula around a dying star",
+          "summary": "The James Webb Space Telescope has revealed new details in a bizarre nebula that looks like a brain floating in space. Formed by a dying star, the “Exposed Cranium” nebula shows layered gas and a dark central divide that creates its eerie shape. Webb’s infrared view suggests powerful jets may be shaping the structure. The images capture a brief and dramatic phase in a star’s final evolution.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260317015938.htm",
+          "pubDate": "Tue, 17 Mar 2026 01:59:38 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "City skylines influence cloud formation above them",
+          "summary": "Satellite data show that U.S. cities have more nighttime cloud cover than nearby countryside, and building height and density help explain why.",
+          "link": "https://www.sciencenews.org/article/city-skylines-cloud-formation",
+          "pubDate": "Tue, 17 Mar 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Are pig organs the future of transplantation?",
+          "summary": "Each year, thousands of people in the U.S. die waiting for donated organs. A new book shares how organs from other species could change that.",
+          "link": "https://www.sciencenews.org/article/every-living-creature-organ-transplant",
+          "pubDate": "Tue, 17 Mar 2026 14:00:00 +0000"
+        },
         {
           "title": "Smartwatch data can be used to assess early diabetes risk",
           "summary": "When combined with clinical markers, smartwatch data was able to help detect insulin resistance with nearly 90 percent accuracy.",
           "link": "https://www.sciencenews.org/article/smartwatch-data-early-diabetes-risk",
           "pubDate": "Mon, 16 Mar 2026 17:17:38 +0000"
-        },
-        {
-          "title": "Extreme heat is cutting the time people can safely be active outdoors",
-          "summary": "Heat and humidity now severely limit light physical activity for millions of people around the world, with older adults facing the greatest burden.",
-          "link": "https://www.sciencenews.org/article/extreme-heat-outdoor-activity-unsafe",
-          "pubDate": "Mon, 16 Mar 2026 14:30:00 +0000"
-        },
-        {
-          "title": "Wild monkeys invaded Florida. Should people protect them?",
-          "summary": "A colony of African vervets in Dania Beach raises big questions about how humans can and should manage nonnative species.",
-          "link": "https://www.sciencenews.org/article/wild-monkeys-florida-invasive-species",
-          "pubDate": "Mon, 16 Mar 2026 13:00:00 +0000"
         }
       ]
     }
