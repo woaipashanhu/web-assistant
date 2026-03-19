@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-18T23:00:47.251Z",
-  "date": "2026-03-19",
+  "lastUpdate": "2026-03-19T23:00:18.862Z",
+  "date": "2026-03-20",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Best Outdoor Deals From the REI Member Days Sale (2026)",
-          "summary": "REI’s Member Days sale has deals on our favorite tents, backpacks, rain jackets, and more gear to outfit you for summer.",
-          "link": "https://www.wired.com/story/rei-member-days-sale-2026/",
-          "pubDate": "Wed, 18 Mar 2026 19:34:39 +0000"
+          "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
+          "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+          "pubDate": "Thu, 19 Mar 2026 21:43:56 +0000"
         },
         {
-          "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
-          "summary": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
-          "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-          "pubDate": "Wed, 18 Mar 2026 18:01:18 +0000"
+          "title": "FCC Enforcement Chief Offered to Help Brendan Carr Target Disney, Records Show",
+          "summary": "Last year, as FCC chair Brendan Carr threatened ABC over a Jimmy Kimmel monolog, a civil servant overseeing West Coast stations privately pledged support, according to emails obtained by WIRED.",
+          "link": "https://www.wired.com/story/fcc-enforcement-chief-offered-to-help-brendan-carr-target-disney-records-show/",
+          "pubDate": "Thu, 19 Mar 2026 18:10:54 +0000"
         },
         {
-          "title": "The Best Sonos Bluetooth Speaker Is $40 Off",
-          "summary": "Add the Sonos Roam 2 to your existing home setup, or take it to go with Bluetooth.",
-          "link": "https://www.wired.com/story/sonos-roam-2-deal-326/",
-          "pubDate": "Wed, 18 Mar 2026 17:34:52 +0000"
+          "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
+          "summary": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
+          "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+          "pubDate": "Thu, 19 Mar 2026 18:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-          "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
-          "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-          "pubDate": "Wed, 18 Mar 2026 20:30:52 +0000"
+          "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+          "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+          "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+          "pubDate": "Thu, 19 Mar 2026 22:09:24 +0000"
         },
         {
-          "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-          "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-          "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-          "pubDate": "Wed, 18 Mar 2026 20:01:19 +0000"
+          "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+          "summary": "A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard.",
+          "link": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+          "pubDate": "Thu, 19 Mar 2026 21:13:50 +0000"
         },
         {
-          "title": "FBI is buying location data to track US citizens, director confirms",
-          "summary": "FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant.",
-          "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-          "pubDate": "Wed, 18 Mar 2026 18:32:32 +0000"
+          "title": "Polymarket continues its partnership spree with a Major League Baseball deal",
+          "summary": "MLB is only the latest in a string of recently announced partnerships involving the prediction market.",
+          "link": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/",
+          "pubDate": "Thu, 19 Mar 2026 19:46:30 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
-          "summary": "Israel said it had killed Khatib, whose death was confirmed by Iranian President Masoud Pezeshkian on Wednesday.",
-          "link": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 18 Mar 2026 17:05:46 GMT"
+          "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+          "summary": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
+          "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 19 Mar 2026 22:41:40 GMT"
         },
         {
-          "title": "Israel destroys river bridges in southern Lebanon",
-          "summary": "The health ministry says that 968 people, including more than 100 children, have been killed since 2 March.",
-          "link": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 18 Mar 2026 19:40:15 GMT"
+          "title": "US considers lifting sanctions on some Iranian oil",
+          "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
+          "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 19 Mar 2026 19:55:51 GMT"
         },
         {
-          "title": "One killed as ski gondola crashes down mountain at Swiss resort",
-          "summary": "Dramatic footage showed the gondola flipping over several times in the snow before coming to a halt in Engelberg.",
-          "link": "https://www.bbc.com/news/articles/cq575yp1lw6o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 18 Mar 2026 18:25:33 GMT"
+          "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+          "summary": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
+          "link": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 19 Mar 2026 19:31:21 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Copper joins gold in broad commodities sell-off. There&apos;s a worrying reason behind it",
+          "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+          "link": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+          "pubDate": "Thu, 19 Mar 2026 17:24:32 GMT"
+        },
+        {
+          "title": "OpenClaw demand in China is driving up the price of used MacBooks",
+          "summary": "People in China are rushing to buy preowned computers to try OpenClaw with demand for MacBooks particularly high, according to one reseller.",
+          "link": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html",
+          "pubDate": "Thu, 19 Mar 2026 11:02:11 GMT"
+        },
         {
           "title": "Here are the five key takeaways from this week&apos;s Fed meeting",
           "summary": "While no one expected the Fed to cut — much less hike — at this meeting, the market always looks for clues about what's next.",
           "link": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html",
-          "pubDate": "Wed, 18 Mar 2026 21:20:19 GMT"
-        },
-        {
-          "title": "Fed still expects to cut rates once this year despite spiking oil prices",
-          "summary": "The central bank's so-called dot plot showed a median estimate of 3.4% for the federal funds rate, the same as at the end of last year.",
-          "link": "https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html",
-          "pubDate": "Wed, 18 Mar 2026 18:59:40 GMT"
-        },
-        {
-          "title": "Here&apos;s what changed in the new Fed statement",
-          "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in January.",
-          "link": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
-          "pubDate": "Wed, 18 Mar 2026 18:05:12 GMT"
+          "pubDate": "Thu, 19 Mar 2026 03:01:27 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "The Memo: Trump fumes as foreign leaders show new willingness to defy him",
-          "summary": "German Chancellor Friedrich Merz has none of President Trump’s penchant for controversy or headline-grabbing language — but these days, he’s putting emphatic distance between Berlin and Washington all the same. Merz is not only declining to answer Trump’s call for help in reopening the vital Strait of Hormuz. He is being scathing of the president’s&#8230;",
-          "link": "https://thehill.com/homenews/administration/5790616-the-memo-trump-fumes-as-foreign-leaders-show-new-willingness-to-defy-him/",
-          "pubDate": "Wed, 18 Mar 2026 22:27:02 +0000"
+          "title": "John F. Kennedy Profile in Courage Award goes to &#8216;the people of the Twin Cities&#8217; and Jerome Powell",
+          "summary": "This year’s John F. Kennedy Profile in Courage Award is a tie between “the people of the Twin Cities, Minnesota” and Federal Reserve Chair Jerome Powell. The prestigious annual honor has been awarded since 1989 by the Kennedy family to celebrate people demonstrating “political courage.” A bipartisan panel reviews the nominations and selects winners each&#8230;",
+          "link": "https://thehill.com/homenews/5792730-kennedy-profile-courage-powell-twin-cities/",
+          "pubDate": "Thu, 19 Mar 2026 22:35:43 +0000"
         },
         {
-          "title": "Murphy: &#8216;Somebody becoming a millionaire&#8217; in White House &#8216;grift operation&#8217;",
-          "summary": "Sen. Chris Murphy (D-Conn.) on Tuesday accused the White House of running a “24/7 grift operation” that has allowed officials in President Trump’s orbit to personally profit off public donations. &#160; Trump has faced backlash after a political action committee tied to him sent out a fundraising email last week that included an image of&#8230;",
-          "link": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
-          "pubDate": "Wed, 18 Mar 2026 22:14:40 +0000"
+          "title": "The Memo: Frustrated Trump struggles against perception that he&#8217;s losing control of Iran war",
+          "summary": "A tide of political danger is rising around President Trump as criticism grows that he may be losing control of the war in Iran. The conflict that he started almost three weeks ago, in conjunction with Israeli Prime Minister Benjamin Netanyahu, was a war of choice. But even a weakened regime in Tehran still has&#8230;",
+          "link": "https://thehill.com/homenews/administration/5792686-iran-war-trump-oil-prices/",
+          "pubDate": "Thu, 19 Mar 2026 22:30:55 +0000"
         },
         {
-          "title": "Fetterman says Democrats governed by Trump Derangement Syndrome",
-          "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party in recent years, said in a Wednesday podcast episode that the Democrats are governed by Trump Derangement Syndrome (TDS). “Who do you think leads the Democratic Party today?” The “All-in” podcast’s David Friedberg asked Fetterman in an interview posted Wednesday. “Oh, we don&#8217;t,&#8230;",
-          "link": "https://thehill.com/homenews/senate/5790640-fetterman-democrats-trump-derangement/",
-          "pubDate": "Wed, 18 Mar 2026 22:13:52 +0000"
+          "title": "5 things to know about the Cesar Chavez sexual abuse allegations",
+          "summary": "Allegations of sexual abuse and assault against civil rights icon Cesar Chavez, first reported by The New York Times on Wednesday, were met with shock and anger toward the late activist alongside praise and solidarity for the victims, including Chavez ally and Chicano activist Dolores Huerta. The Times&#8217;s reporting, with detailed accounts from women who&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5792456-dolores-huerta-chavez-assault-claims/",
+          "pubDate": "Thu, 19 Mar 2026 22:25:10 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Michael Saylor Pushes Back After Boris Johnson Calls Bitcoin A 'Giant Ponzi Scheme,' Says Crypto Has 'No Issuer, No Promoter'",
-          "summary": "Michael Saylor Pushes Back After Boris Johnson Calls Bitcoin A 'Giant Ponzi Scheme,' Says Crypto Has 'No Issuer, No Promoter'",
-          "link": "https://finance.yahoo.com/news/michael-saylor-pushes-back-boris-150011528.html",
-          "pubDate": "2026-03-17T15:00:11Z"
+          "title": "SoFi Fires Back At Short Seller Muddy Waters, CEO Buys Shares",
+          "summary": "SoFi Fires Back At Short Seller Muddy Waters, CEO Buys Shares",
+          "link": "https://www.investors.com/news/technology/sofi-stock-company-fires-back-muddy-waters-ceo-buys-shares/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-03-18T15:13:57Z"
         },
         {
-          "title": "MicroStrategy Just Broke Through Its 50-Day Moving Average. Should You Buy MSTR Stock Here?",
-          "summary": "MicroStrategy Just Broke Through Its 50-Day Moving Average. Should You Buy MSTR Stock Here?",
-          "link": "https://finance.yahoo.com/news/microstrategy-just-broke-50-day-145753885.html",
-          "pubDate": "2026-03-17T14:57:53Z"
+          "title": "Massive Meatpacking Strike: What Does It Mean for Beef Prices, Cattle as 3,800 Workers Go on Strike?",
+          "summary": "Massive Meatpacking Strike: What Does It Mean for Beef Prices, Cattle as 3,800 Workers Go on Strike?",
+          "link": "https://finance.yahoo.com/news/massive-meatpacking-strike-does-mean-151220999.html",
+          "pubDate": "2026-03-18T15:12:20Z"
         },
         {
-          "title": "Energy War Escalates, but Tehran Quietly Courts Neighbors",
-          "summary": "Energy War Escalates, but Tehran Quietly Courts Neighbors",
-          "link": "https://finance.yahoo.com/news/energy-war-escalates-tehran-quietly-150000782.html",
-          "pubDate": "2026-03-17T15:00:00Z"
+          "title": "66% of CEOs are freezing hiring while betting billions on AI. It’s a costly miscalculation",
+          "summary": "66% of CEOs are freezing hiring while betting billions on AI. It’s a costly miscalculation",
+          "link": "https://finance.yahoo.com/news/66-ceos-freezing-hiring-while-151100587.html",
+          "pubDate": "2026-03-18T15:11:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Your daily coffee may be protecting your brain, 43-year study finds",
-          "summary": "Your morning coffee or tea could be quietly supporting your brain health. A long-term study found that moderate consumption of caffeinated coffee or tea was linked to an 18% lower risk of dementia and better cognitive performance over time. The benefits appeared strongest at 2–3 cups of coffee or 1–2 cups of tea daily—and even held true for people genetically predisposed to dementia.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm",
-          "pubDate": "Wed, 18 Mar 2026 06:47:36 EDT"
+          "title": "The best strength training plan might be simpler than you think",
+          "summary": "New strength training guidelines emphasize that doing any resistance training is what truly matters. Based on decades of research, experts say even simple routines can increase muscle, strength, and physical function. The key is not perfection but consistency. In fact, the best workout plan is the one you can maintain long term.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+          "pubDate": "Thu, 19 Mar 2026 08:09:07 EDT"
         },
         {
-          "title": "These strange pink rocks just revealed a hidden giant beneath Antarctica",
-          "summary": "Pink granite boulders sitting mysteriously atop Antarctica’s Hudson Mountains have led scientists to a stunning discovery: a hidden granite mass buried beneath Pine Island Glacier, stretching nearly 100 km wide and 7 km thick. By dating the rocks to the Jurassic period and matching them with gravity signals detected from aircraft, researchers solved a decades-old puzzle about their origin.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260318033126.htm",
-          "pubDate": "Wed, 18 Mar 2026 06:39:51 EDT"
+          "title": "Wildfires in carbon-rich tropical peatlands hit 2000-year high",
+          "summary": "Tropical peatlands, some of the planet’s largest underground carbon stores, are now burning at levels never seen in at least 2,000 years. By analyzing charcoal preserved in peat across multiple continents, scientists discovered that fires had actually been declining for more than a thousand years, largely shaped by natural climate patterns like drought. That long trend suddenly reversed in the 20th century, with a sharp surge in wildfires—especially in Southeast Asia and Australasia.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260319005110.htm",
+          "pubDate": "Thu, 19 Mar 2026 01:18:39 EDT"
         },
         {
-          "title": "These dinosaurs had wings but couldn’t fly",
-          "summary": "Some feathered dinosaurs may have briefly taken to the skies—only to give it up later. By studying rare fossils with preserved feathers, researchers uncovered a surprising clue hidden in molting patterns, revealing that Anchiornis likely couldn’t fly at all. Instead of the neat, symmetrical feather replacement seen in flying birds, these dinosaurs showed a messy, irregular molt—something only flightless animals exhibit.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260318033115.htm",
-          "pubDate": "Wed, 18 Mar 2026 06:08:57 EDT"
+          "title": "Physicists discover a heavy cousin of the proton at CERN’s Large Hadron Collider",
+          "summary": "A new subatomic particle known as the Ξcc⁺ has been discovered at CERN’s Large Hadron Collider. This heavy proton-like particle contains two charm quarks and was detected using the upgraded LHCb experiment. Scientists observed it through its decay into lighter particles in high-energy collisions. The finding confirms predictions and settles a decades-long question about its existence.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260319005106.htm",
+          "pubDate": "Thu, 19 Mar 2026 07:31:40 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A static electricity mystery comes to the surface",
-          "summary": "Seemingly random charging of identical materials depends on the carbonaceous molecules stuck to their surfaces",
-          "link": "https://www.sciencenews.org/article/static-electricity-mystery-to-surface",
-          "pubDate": "Wed, 18 Mar 2026 16:00:00 +0000"
+          "title": "Earth’s continental plates were moving 3.48 billion years ago",
+          "summary": "Magnetic crystals provide the earliest evidence yet of the plate tectonics that likely made Earth habitable, pushing its start back by 140 million years.",
+          "link": "https://www.sciencenews.org/article/earth-tectonic-plates-earliest-evidence",
+          "pubDate": "Thu, 19 Mar 2026 18:00:00 +0000"
         },
         {
-          "title": "To make a ‘Snowball Earth,’ sci-fi moves fast. Geology is far slower",
-          "summary": "The Day After Tomorrow, Snowpiercer, Snowball Earth: Such end-of-days visions of a frozen Earth are fantastical … but can contain a snowflake of truth.",
-          "link": "https://www.sciencenews.org/article/snowball-earth-ice-age-geoengineering",
-          "pubDate": "Wed, 18 Mar 2026 14:30:00 +0000"
+          "title": "A new study questions when people first reached South America",
+          "summary": "Data suggest people lived at Chile’s Monte Verde site thousands of years later than thought, challenging key “pre-Clovis” evidence. Not all agree.",
+          "link": "https://www.sciencenews.org/article/first-people-south-america-clovis",
+          "pubDate": "Thu, 19 Mar 2026 18:00:00 +0000"
         },
         {
-          "title": "Sharks are ingesting drugs in the Bahamas",
-          "summary": "Nearly one third of sharks studied near the Bahamas’ Eleuthera Island were found to have caffeine, painkillers and other drugs in their bloodstreams.",
-          "link": "https://www.sciencenews.org/article/cocaine-sharks-drugs-bahamas-eleuthera",
-          "pubDate": "Wed, 18 Mar 2026 13:00:00 +0000"
+          "title": "How warming is shifting microbial worlds",
+          "summary": "Climate change is affecting microbes, and that has implications for all life on Earth.",
+          "link": "https://www.sciencenews.org/article/climate-change-disrupts-microbes-soil",
+          "pubDate": "Thu, 19 Mar 2026 13:00:00 +0000"
         }
       ]
     }
