@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-20T23:01:14.325Z",
-  "date": "2026-03-21",
+  "lastUpdate": "2026-03-21T23:00:17.577Z",
+  "date": "2026-03-22",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "There Aren't a Lot of Reasons to Get Excited About a New Amazon Smartphone",
-          "summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-          "link": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
-          "pubDate": "Fri, 20 Mar 2026 22:03:09 +0000"
+          "title": "71 Best Podcasts (2026): True Crime, Culture, Science, Fiction",
+          "summary": "Get your fix of tech, true crime, pop culture, or comedy with these audio adventures.",
+          "link": "https://www.wired.com/story/best-podcasts/",
+          "pubDate": "Sat, 21 Mar 2026 12:00:00 +0000"
         },
         {
-          "title": "‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet",
-          "summary": "As the prediction market boom continues, backlash is growing, too, with Arizona filing criminal charges against Kalshi and public outcry after Polymarket traders threatened a journalist.",
-          "link": "https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/",
-          "pubDate": "Fri, 20 Mar 2026 21:07:04 +0000"
+          "title": "Best Protein Bars (2026): Vegan, Gluten-Free, High Fiber",
+          "summary": "What to prioritize, what to skip, when to enjoy—plus, we’ve selected WIRED's favorite bars worth trying.",
+          "link": "https://www.wired.com/story/best-protein-bars/",
+          "pubDate": "Sat, 21 Mar 2026 11:30:00 +0000"
         },
         {
-          "title": "A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine",
-          "summary": "Congressman Jim Himes claims a sweeping surveillance authority should stay intact because he hasn't seen abuses by Kash Patel's FBI, according to internal messaging obtained by WIRED.",
-          "link": "https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/",
-          "pubDate": "Fri, 20 Mar 2026 20:46:45 +0000"
+          "title": "Aiper Scuba V3 Pool Robot Review: Eye on the Prize",
+          "summary": "Now outfitted with AI computer vision, this new pool cleaner can actively search for debris.",
+          "link": "https://www.wired.com/review/aiper-scuba-v3-pool-robot/",
+          "pubDate": "Sat, 21 Mar 2026 11:02:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-          "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
-          "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-          "pubDate": "Fri, 20 Mar 2026 20:53:09 +0000"
+          "title": "It’s been 20 years since the first tweet",
+          "summary": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
+          "link": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+          "pubDate": "Sat, 21 Mar 2026 20:30:47 +0000"
         },
         {
-          "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-          "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia [&#8230;]",
-          "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-          "pubDate": "Fri, 20 Mar 2026 20:02:35 +0000"
+          "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+          "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+          "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+          "pubDate": "Sat, 21 Mar 2026 19:30:27 +0000"
         },
         {
-          "title": "Amidst legal turmoil, Kalshi is temporarily banned in Nevada",
-          "summary": "It's the latest escalation in a regulatory battle over the future of prediction markets.",
-          "link": "https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/",
-          "pubDate": "Fri, 20 Mar 2026 19:15:55 +0000"
+          "title": "Delve accused of misleading customers with ‘fake compliance’",
+          "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+          "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+          "pubDate": "Sat, 21 Mar 2026 17:00:05 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
-          "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
-          "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 20 Mar 2026 15:30:28 GMT"
+          "title": "Trump administration at crossroads in US-Israel war with Iran",
+          "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+          "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 21 Mar 2026 22:12:04 GMT"
         },
         {
-          "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
-          "summary": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended.",
-          "link": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 20 Mar 2026 20:16:29 GMT"
+          "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+          "summary": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
+          "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 21 Mar 2026 19:39:57 GMT"
         },
         {
-          "title": "Israel strikes Syria after Druze clashes",
-          "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty.",
-          "link": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 20 Mar 2026 16:02:50 GMT"
+          "title": "Trump threatens to send ICE into airports unless funding deal reached",
+          "summary": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
+          "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 21 Mar 2026 20:22:10 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "SEC Commissioner Hester Peirce on ETFs: &apos;We want to work with people on new products&apos;",
+          "summary": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+          "link": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
+          "pubDate": "Sat, 21 Mar 2026 15:00:01 GMT"
+        },
         {
           "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
           "summary": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
@@ -145,17 +151,11 @@
           "summary": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
           "link": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
           "pubDate": "Fri, 20 Mar 2026 13:36:43 GMT"
-        },
-        {
-          "title": "Copper joins gold in broad commodities sell-off. There&apos;s a worrying reason behind it",
-          "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
-          "link": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
-          "pubDate": "Fri, 20 Mar 2026 14:47:14 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,81 +179,87 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Heritage president: MAGA tensions over Iran war ‘good’",
-          "summary": "DORAL, Fla. — Tensions over President Trump’s war in Iran within the GOP and Make America Great Again movement are “good,”&#160; Heritage Foundation President Kevin Roberts told The Hill on Thursday at the group’s inaugural security conference.&#160;&#160; The head of the influential conservative think tank said it support Trump’s decision to launch the war on&#8230;",
-          "link": "https://thehill.com/policy/international/5794120-heritage-foundation-trump-iran-war/",
-          "pubDate": "Fri, 20 Mar 2026 22:34:52 +0000"
+          "title": "Maher outlines ways US &#8216;f&#8212;-ed up&#8217; Iran conflict strategy",
+          "summary": "Comedian Bill Maher on Friday outlined his list of ways that he thinks the U.S. &#8220;f&#8212;ed up&#8221; its strategy in attacking Iran. &#8220;You know where we f&#8212;ed up? A few places,&#8221; he told guests Rep. Anna Paulina Luna (R-Fla.) and Democratic strategist Paul Begala on his HBO show &#8220;Real Time.&#8221; &#8220;One, we&#8217;re blowing up each&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5795015-bill-maher-iran-strategy/",
+          "pubDate": "Sat, 21 Mar 2026 22:40:06 +0000"
         },
         {
-          "title": "DOJ wants charges dismissed against ex-officers in Breonna Taylor case",
-          "summary": "The Department of Justice (DOJ) asked a federal judge to dismiss a case against the two former officers connected to the Louisville, Ky., shooting that led to the death of Breonna Taylor. Taylor, a Black woman, was shot and killed by Louisville police officers carrying out a warrant at her apartment in March 2020.&#160; The&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5794080-justice-department-drops-charges/",
-          "pubDate": "Fri, 20 Mar 2026 22:24:03 +0000"
+          "title": "DHS funding deal stalls in Congress amid continuing negotiations",
+          "summary": "Senate Democrats and Republicans appeared no closer to reaching a deal to reopen the Department of Homeland Security (DHS) on Saturday, following weeks of negotiations with the White House. President Trump&#8217;s border czar Tom Homan has been meeting with centrist Democrats over the past few days to try to find a path forward on a&#8230;",
+          "link": "https://thehill.com/homenews/senate/5794954-negotiations-dhs-funding-impasse/",
+          "pubDate": "Sat, 21 Mar 2026 22:17:28 +0000"
         },
         {
-          "title": "Poll shows Paxton beating Cornyn in Texas if Trump doesn’t endorse",
-          "summary": "President Trump’s reluctance to endorse a candidate in the Texas Senate Republican primary race could prove perilous for Sen. John Cornyn’s (R-Texas) bid in the upcoming runoff between the sitting senator and Texas Attorney General Ken Paxton (R). A new Change Research poll found that 42 percent of likely Texas Republican primary voters said they&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5794029-cornyn-paxton-runoff-trump/",
-          "pubDate": "Fri, 20 Mar 2026 22:13:49 +0000"
+          "title": "Sunday shows preview: Iran conflict persists as DHS funding fight snarls travel",
+          "summary": "The U.S.-Israeli conflict with Iran stretches out for another week after President Trump said he is considering &#8220;winding down&#8221; military operations as the U.S. gets &#8220;very close&#8221; to its military objectives. Trump made the remarks on Friday, citing Iran&#8217;s diminished missile capacity, destroyed defense response and &#8220;Never allowing Iran to get even close to Nuclear&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5794938-sunday-shows-preview-iran-conflict-persists-as-dhs-funding-fight-snarls-travel/",
+          "pubDate": "Sat, 21 Mar 2026 21:57:51 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Apple salaries: From retail to engineering to CEO",
-          "summary": "Apple salaries: From retail to engineering to CEO",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/apple-salaries-retail-engineering-ceo-153900054.html",
-          "pubDate": "2026-03-19T15:39:00Z"
+          "title": "Is This Stock a Buy on the Dip?",
+          "summary": "Is This Stock a Buy on the Dip?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stock-buy-dip-225000511.html",
+          "pubDate": "2026-03-21T22:50:00Z"
         },
         {
-          "title": "Prologis forms $1.6B JV to develop logistics facilities",
-          "summary": "Prologis forms $1.6B JV to develop logistics facilities",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-forms-1-6b-jv-153701209.html",
-          "pubDate": "2026-03-19T15:37:01Z"
+          "title": "How Will Dow Jones Futures Open As Trump Mulls 'Winding Down' Iran War?",
+          "summary": "How Will Dow Jones Futures Open As Trump Mulls 'Winding Down' Iran War?",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-war-winding-down/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-03-21T22:24:53Z"
         },
         {
-          "title": "Is Amcor Stock Outperforming the Nasdaq?",
-          "summary": "Is Amcor Stock Outperforming the Nasdaq?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amcor-stock-outperforming-nasdaq-153708425.html",
-          "pubDate": "2026-03-19T15:37:08Z"
+          "title": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?",
+          "summary": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-inc-pstg-good-stock-211337284.html",
+          "pubDate": "2026-03-21T21:13:37Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Closing your eyes to hear better might be a big mistake",
-          "summary": "Many people believe closing their eyes sharpens hearing, but that is not always true. In noisy settings, participants struggled more to hear faint sounds with their eyes closed, while matching visuals made it easier. Researchers found that shutting the eyes leads the brain to over-filter incoming sounds. Keeping your eyes open may actually improve how well you hear in noise.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260320073819.htm",
-          "pubDate": "Fri, 20 Mar 2026 07:49:51 EDT"
+          "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
+          "summary": "A newly discovered Triassic reptile from the UK looked more like a racing greyhound than a crocodile, built for speed on land. With long legs and a lightweight body, it hunted small animals in a dry, upland environment millions of years ago. Scientists identified it as a new species after spotting key differences in its fossils. It’s also a tribute to an inspiring teacher who helped spark a future scientist’s curiosity.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260321012715.htm",
+          "pubDate": "Sat, 21 Mar 2026 04:57:59 EDT"
         },
         {
-          "title": "Ultra-processed foods linked to 67% higher risk of heart attack and stroke",
-          "summary": "Eating large amounts of ultra-processed foods like chips, frozen meals, sugary drinks, and packaged snacks may significantly raise the risk of serious heart problems. In a major U.S. study, people consuming around nine servings per day had a 67% higher risk of heart attacks, strokes, or death from heart disease compared to those eating about one serving. The risk didn’t just jump at high levels either. Each additional daily serving increased the likelihood of these events by more than 5%, even after accounting for calories, overall diet quality, and common health conditions.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260319074604.htm",
-          "pubDate": "Thu, 19 Mar 2026 20:54:23 EDT"
+          "title": "New AI tool predicts cancer spread with surprising accuracy",
+          "summary": "Researchers have discovered that cancer spread isn’t random—it follows a kind of biological “program.” By studying colon tumor cells, they identified gene patterns that signal whether a cancer is likely to metastasize. Their AI model, MangroveGS, can predict this risk with about 80% accuracy and even works across multiple cancer types. This could transform how doctors decide who needs aggressive treatment and who doesn’t.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260321012709.htm",
+          "pubDate": "Sat, 21 Mar 2026 07:44:32 EDT"
         },
         {
-          "title": "Belly fat linked to heart failure risk even in people with normal weight",
-          "summary": "Carrying extra fat around the waist may be more dangerous than the number on the scale suggests. Researchers found that belly fat was more strongly linked to heart failure risk than BMI, even in people with normal weight. Inflammation seems to play a key role, helping explain why this type of fat is especially harmful. Measuring waist size could offer a simple way to detect hidden risk earlier.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260319074558.htm",
-          "pubDate": "Thu, 19 Mar 2026 19:40:51 EDT"
+          "title": "Scientists just found a hidden 48-dimensional world in quantum light",
+          "summary": "A routine quantum optics technique just revealed an extraordinary secret: entangled light can carry incredibly complex topological structures. Researchers found these hidden patterns reach up to 48 dimensions, offering a vast new “alphabet” for encoding quantum information. Unlike previous assumptions, this topology can emerge from a single property of light—orbital angular momentum.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm",
+          "pubDate": "Sat, 21 Mar 2026 07:26:44 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Science and armed conflict",
+          "summary": "Editor in chief Nancy Shute discusses how science and armed conflict have been intertwined throughout history, from the Greeks in 400 B.C. to the use of tear gas in the protests across the United States as recently as a few months ago.",
+          "link": "https://www.sciencenews.org/article/ed-note-april-2026",
+          "pubDate": "Sat, 21 Mar 2026 11:00:00 +0000"
+        },
         {
           "title": "Amid vaccine policy whiplash, here&#8217;s how a pediatrician talks to families",
           "summary": "A court ruling that blocks Trump administration vaccine policy is a win for science. But much work remains to rebuild trust in vaccines.",
@@ -265,12 +271,6 @@
           "summary": "Ryan Gosling is on a mission to save the sun — and Earth — from star-killing microbes. Science News dissects the science behind the sci-fi movie.",
           "link": "https://www.sciencenews.org/article/the-science-of-project-hail-mary",
           "pubDate": "Fri, 20 Mar 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Check out 6 ways orchids use tricks to reproduce",
-          "summary": "This spring, these six orchids will lure pollinators with mimicry, scent or other unusual strategies.",
-          "link": "https://www.sciencenews.org/article/orchids-trick-pollinators-reproduce",
-          "pubDate": "Fri, 20 Mar 2026 16:30:00 +0000"
         }
       ]
     }
