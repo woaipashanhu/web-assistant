@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-21T23:00:17.577Z",
-  "date": "2026-03-22",
+  "lastUpdate": "2026-03-22T23:00:18.115Z",
+  "date": "2026-03-23",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "71 Best Podcasts (2026): True Crime, Culture, Science, Fiction",
-          "summary": "Get your fix of tech, true crime, pop culture, or comedy with these audio adventures.",
-          "link": "https://www.wired.com/story/best-podcasts/",
-          "pubDate": "Sat, 21 Mar 2026 12:00:00 +0000"
+          "title": "Airlines Are Already Preparing for an Oil Crisis",
+          "summary": "With the Iran war doubling oil prices, experts say the airline industry’s belt-tightening is an economic canary in the coal mine for the rest of the world.",
+          "link": "https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/",
+          "pubDate": "Sun, 22 Mar 2026 21:37:59 +0000"
         },
         {
-          "title": "Best Protein Bars (2026): Vegan, Gluten-Free, High Fiber",
-          "summary": "What to prioritize, what to skip, when to enjoy—plus, we’ve selected WIRED's favorite bars worth trying.",
-          "link": "https://www.wired.com/story/best-protein-bars/",
-          "pubDate": "Sat, 21 Mar 2026 11:30:00 +0000"
+          "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More",
+          "summary": "Merino is one of the best fabrics you can wear. We explain the different blends, what “gsm” means, and how to care for your clothes.",
+          "link": "https://www.wired.com/story/best-merino-wool-clothes/",
+          "pubDate": "Sun, 22 Mar 2026 12:00:00 +0000"
         },
         {
-          "title": "Aiper Scuba V3 Pool Robot Review: Eye on the Prize",
-          "summary": "Now outfitted with AI computer vision, this new pool cleaner can actively search for debris.",
-          "link": "https://www.wired.com/review/aiper-scuba-v3-pool-robot/",
-          "pubDate": "Sat, 21 Mar 2026 11:02:00 +0000"
+          "title": "Which Instax Camera Should You Buy? (2026)",
+          "summary": "Should you buy an Instax Mini or Mini Evo? Instax Square or Wide? We demystify Fujifilm’s Instax lineup to help you find the perfect instant camera (or printer).",
+          "link": "https://www.wired.com/gallery/which-instax-camera-should-you-buy/",
+          "pubDate": "Sun, 22 Mar 2026 11:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "It’s been 20 years since the first tweet",
-          "summary": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
-          "link": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
-          "pubDate": "Sat, 21 Mar 2026 20:30:47 +0000"
+          "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
+          "summary": "After four years, and multiple subpoenas and depositions, the beleaguered startup has dodged yet another bullet.",
+          "link": "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/",
+          "pubDate": "Sun, 22 Mar 2026 19:50:16 +0000"
         },
         {
-          "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-          "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
-          "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-          "pubDate": "Sat, 21 Mar 2026 19:30:27 +0000"
+          "title": "Do you want to build a robot snowman?",
+          "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+          "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+          "pubDate": "Sun, 22 Mar 2026 19:45:07 +0000"
         },
         {
-          "title": "Delve accused of misleading customers with ‘fake compliance’",
-          "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-          "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-          "pubDate": "Sat, 21 Mar 2026 17:00:05 +0000"
+          "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+          "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+          "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+          "pubDate": "Sun, 22 Mar 2026 18:41:09 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump administration at crossroads in US-Israel war with Iran",
-          "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
-          "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 21 Mar 2026 22:12:04 GMT"
+          "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+          "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+          "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 22 Mar 2026 22:38:24 GMT"
         },
         {
-          "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
-          "summary": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
-          "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 21 Mar 2026 19:39:57 GMT"
+          "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+          "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+          "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 22 Mar 2026 20:23:07 GMT"
         },
         {
-          "title": "Trump threatens to send ICE into airports unless funding deal reached",
-          "summary": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
-          "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 21 Mar 2026 20:22:10 GMT"
+          "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
+          "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
+          "link": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 22 Mar 2026 19:05:30 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Maher outlines ways US &#8216;f&#8212;-ed up&#8217; Iran conflict strategy",
-          "summary": "Comedian Bill Maher on Friday outlined his list of ways that he thinks the U.S. &#8220;f&#8212;ed up&#8221; its strategy in attacking Iran. &#8220;You know where we f&#8212;ed up? A few places,&#8221; he told guests Rep. Anna Paulina Luna (R-Fla.) and Democratic strategist Paul Begala on his HBO show &#8220;Real Time.&#8221; &#8220;One, we&#8217;re blowing up each&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5795015-bill-maher-iran-strategy/",
-          "pubDate": "Sat, 21 Mar 2026 22:40:06 +0000"
+          "title": "Manchin urges Democrats to &#8216;stand up&#8217; to Senate GOP amid push to nix filibuster",
+          "summary": "Former Sen. Joe Manchin (I-W.Va.) on Sunday said it was time to “stand up” to Senate Republicans who seek to abolish the filibuster. The filibuster, unique to the Senate, is more than 200 years old. The rule allows for debate until 60 votes are gathered to invoke cloture and end debate, a high bar when&#8230;",
+          "link": "https://thehill.com/homenews/senate/5795840-manchin-defends-filibuster-republicans/",
+          "pubDate": "Sun, 22 Mar 2026 22:44:08 +0000"
         },
         {
-          "title": "DHS funding deal stalls in Congress amid continuing negotiations",
-          "summary": "Senate Democrats and Republicans appeared no closer to reaching a deal to reopen the Department of Homeland Security (DHS) on Saturday, following weeks of negotiations with the White House. President Trump&#8217;s border czar Tom Homan has been meeting with centrist Democrats over the past few days to try to find a path forward on a&#8230;",
-          "link": "https://thehill.com/homenews/senate/5794954-negotiations-dhs-funding-impasse/",
-          "pubDate": "Sat, 21 Mar 2026 22:17:28 +0000"
+          "title": "Iranian foreign minister says country won&#8217;t be &#8216;swayed by more threats&#8217; on Strait of Hormuz",
+          "summary": "Iranian Foreign Minister Abbas Araghchi on Sunday said his country would not be “swayed by more threats” after President Trump threatened to “hit” and “obliterate” Iran&#8217;s power plants if the Strait of Hormuz is not reopened. “Strait of Hormuz is not closed. Ships hesitate because insurers fear the war of choice you initiated—not Iran,” Araghchi&#8230;",
+          "link": "https://thehill.com/homenews/5795820-araghchi-iran-us-conflict/",
+          "pubDate": "Sun, 22 Mar 2026 21:56:37 +0000"
         },
         {
-          "title": "Sunday shows preview: Iran conflict persists as DHS funding fight snarls travel",
-          "summary": "The U.S.-Israeli conflict with Iran stretches out for another week after President Trump said he is considering &#8220;winding down&#8221; military operations as the U.S. gets &#8220;very close&#8221; to its military objectives. Trump made the remarks on Friday, citing Iran&#8217;s diminished missile capacity, destroyed defense response and &#8220;Never allowing Iran to get even close to Nuclear&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5794938-sunday-shows-preview-iran-conflict-persists-as-dhs-funding-fight-snarls-travel/",
-          "pubDate": "Sat, 21 Mar 2026 21:57:51 +0000"
+          "title": "This week on the hill: Marathon debate on SAVE America Act enters second week",
+          "summary": "The Senate’s marathon debate on the Safeguard American Voter Eligibility (SAVE America) Act is set to enter its second week, as President Trump and conservative allies ramp up pressure to push the measure through the upper chamber. Trump declared on Truth Social last week that the SAVE America Act is “one of the most IMPORTANT&#8230;",
+          "link": "https://thehill.com/homenews/senate/5794004-save-america-act-dhs-mullin/",
+          "pubDate": "Sun, 22 Mar 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Is This Stock a Buy on the Dip?",
-          "summary": "Is This Stock a Buy on the Dip?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stock-buy-dip-225000511.html",
-          "pubDate": "2026-03-21T22:50:00Z"
-        },
-        {
-          "title": "How Will Dow Jones Futures Open As Trump Mulls 'Winding Down' Iran War?",
-          "summary": "How Will Dow Jones Futures Open As Trump Mulls 'Winding Down' Iran War?",
+          "title": "Dow Jones Futures, Oil Prices Shrug Off Trump Threatens To 'Obliterate' Iran's Power Plants",
+          "summary": "Dow Jones Futures, Oil Prices Shrug Off Trump Threatens To 'Obliterate' Iran's Power Plants",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-war-winding-down/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-03-21T22:24:53Z"
+          "pubDate": "2026-03-22T22:46:25Z"
         },
         {
-          "title": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?",
-          "summary": "Is Everpure, Inc. (PSTG) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-inc-pstg-good-stock-211337284.html",
-          "pubDate": "2026-03-21T21:13:37Z"
+          "title": "What I'm Watching With Western Union To See If They Beat The Market",
+          "summary": "What I'm Watching With Western Union To See If They Beat The Market",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/im-watching-western-union-see-223500858.html",
+          "pubDate": "2026-03-22T22:35:00Z"
+        },
+        {
+          "title": "Peter Thiel is betting big on a $2B AI cow collar startup powered by cowgorithms — and investors are fighting to get in",
+          "summary": "Peter Thiel is betting big on a $2B AI cow collar startup powered by cowgorithms — and investors are fighting to get in",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/peter-thiel-betting-big-2b-222000722.html",
+          "pubDate": "2026-03-22T22:20:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
-          "summary": "A newly discovered Triassic reptile from the UK looked more like a racing greyhound than a crocodile, built for speed on land. With long legs and a lightweight body, it hunted small animals in a dry, upland environment millions of years ago. Scientists identified it as a new species after spotting key differences in its fossils. It’s also a tribute to an inspiring teacher who helped spark a future scientist’s curiosity.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260321012715.htm",
-          "pubDate": "Sat, 21 Mar 2026 04:57:59 EDT"
+          "title": "This 67,800-year-old handprint is the oldest art ever found",
+          "summary": "Researchers have uncovered the world’s oldest known cave art—a 67,800-year-old hand stencil in Indonesia. The unusual, claw-like design hints at early symbolic thinking and possibly spiritual beliefs. This discovery also strengthens the case that humans reached Australia at least 65,000 years ago. It offers rare insight into the creative lives of some of our earliest ancestors.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260322020300.htm",
+          "pubDate": "Sun, 22 Mar 2026 05:38:42 EDT"
         },
         {
-          "title": "New AI tool predicts cancer spread with surprising accuracy",
-          "summary": "Researchers have discovered that cancer spread isn’t random—it follows a kind of biological “program.” By studying colon tumor cells, they identified gene patterns that signal whether a cancer is likely to metastasize. Their AI model, MangroveGS, can predict this risk with about 80% accuracy and even works across multiple cancer types. This could transform how doctors decide who needs aggressive treatment and who doesn’t.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260321012709.htm",
-          "pubDate": "Sat, 21 Mar 2026 07:44:32 EDT"
+          "title": "Webb Telescope spots “impossible” atmosphere on ancient super Earth",
+          "summary": "Astronomers have uncovered surprising evidence of a thick atmosphere surrounding TOI-561 b, a scorching, fast-orbiting rocky planet once thought too extreme to hold onto any gas. Using NASA’s James Webb Space Telescope, researchers found the planet is far cooler than expected for a bare rock, hinting at a heat-distributing atmosphere above a churning magma ocean. This strange world—where a year lasts just over 10 hours and one side is locked in eternal daylight—may even be rich in volatile materials, behaving like a “wet lava ball.”",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260322020255.htm",
+          "pubDate": "Sun, 22 Mar 2026 04:19:46 EDT"
         },
         {
-          "title": "Scientists just found a hidden 48-dimensional world in quantum light",
-          "summary": "A routine quantum optics technique just revealed an extraordinary secret: entangled light can carry incredibly complex topological structures. Researchers found these hidden patterns reach up to 48 dimensions, offering a vast new “alphabet” for encoding quantum information. Unlike previous assumptions, this topology can emerge from a single property of light—orbital angular momentum.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm",
-          "pubDate": "Sat, 21 Mar 2026 07:26:44 EDT"
+          "title": "Weight loss drug Ozempic cuts depression, anxiety, and addiction risk",
+          "summary": "GLP-1 medications like semaglutide (Ozempic) may offer unexpected mental health benefits alongside weight loss. A large study found major drops in depression, anxiety, and psychiatric-related hospital visits among users. Even substance use disorders were significantly lower during treatment. Researchers suspect both lifestyle improvements and direct brain effects could be at play.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm",
+          "pubDate": "Sun, 22 Mar 2026 08:03:11 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "siteName": "Science News",
       "items": [
         {
