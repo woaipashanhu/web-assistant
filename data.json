@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-22T23:00:18.115Z",
-  "date": "2026-03-23",
+  "lastUpdate": "2026-03-23T23:00:21.558Z",
+  "date": "2026-03-24",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Airlines Are Already Preparing for an Oil Crisis",
-          "summary": "With the Iran war doubling oil prices, experts say the airline industry’s belt-tightening is an economic canary in the coal mine for the rest of the world.",
-          "link": "https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/",
-          "pubDate": "Sun, 22 Mar 2026 21:37:59 +0000"
+          "title": "A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing",
+          "summary": "R3 Bio has a bold idea for replacing lab animals: genetically-engineered whole organ systems that lack a brain. The long-term goal, says a cofounder, is to make human versions.",
+          "link": "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
+          "pubDate": "Mon, 23 Mar 2026 19:46:05 +0000"
         },
         {
-          "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More",
-          "summary": "Merino is one of the best fabrics you can wear. We explain the different blends, what “gsm” means, and how to care for your clothes.",
-          "link": "https://www.wired.com/story/best-merino-wool-clothes/",
-          "pubDate": "Sun, 22 Mar 2026 12:00:00 +0000"
+          "title": "A Mysterious Numbers Station Is Broadcasting Through the Iran War",
+          "summary": "First heard as US and Israeli strikes on Iran began, the shortwave broadcast has since been traced to a US military base in Germany—but its purpose and its operator remain unclear.",
+          "link": "https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/",
+          "pubDate": "Mon, 23 Mar 2026 18:59:17 +0000"
         },
         {
-          "title": "Which Instax Camera Should You Buy? (2026)",
-          "summary": "Should you buy an Instax Mini or Mini Evo? Instax Square or Wide? We demystify Fujifilm’s Instax lineup to help you find the perfect instant camera (or printer).",
-          "link": "https://www.wired.com/gallery/which-instax-camera-should-you-buy/",
-          "pubDate": "Sun, 22 Mar 2026 11:30:00 +0000"
+          "title": "Our Favorite Budget Earbuds Are Literally $19",
+          "summary": "Do you need a pair of cheap earbuds? These JLabs are the ones.",
+          "link": "https://www.wired.com/story/jlab-go-pop-deal-326/",
+          "pubDate": "Mon, 23 Mar 2026 17:49:57 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
-          "summary": "After four years, and multiple subpoenas and depositions, the beleaguered startup has dodged yet another bullet.",
-          "link": "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/",
-          "pubDate": "Sun, 22 Mar 2026 19:50:16 +0000"
+          "title": "Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund",
+          "summary": "As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category.",
+          "link": "https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/",
+          "pubDate": "Mon, 23 Mar 2026 22:57:53 +0000"
         },
         {
-          "title": "Do you want to build a robot snowman?",
-          "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-          "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-          "pubDate": "Sun, 22 Mar 2026 19:45:07 +0000"
+          "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+          "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+          "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+          "pubDate": "Mon, 23 Mar 2026 22:36:39 +0000"
         },
         {
-          "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-          "summary": "Building on top of a Chinese model feels particularly fraught right now.",
-          "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-          "pubDate": "Sun, 22 Mar 2026 18:41:09 +0000"
+          "title": "Apple Maps may be about to get ads",
+          "summary": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\"",
+          "link": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
+          "pubDate": "Mon, 23 Mar 2026 22:33:03 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-          "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
-          "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 22 Mar 2026 22:38:24 GMT"
+          "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
+          "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
+          "link": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 23 Mar 2026 18:31:26 GMT"
         },
         {
-          "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
-          "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
-          "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 22 Mar 2026 20:23:07 GMT"
+          "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+          "summary": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives",
+          "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 23 Mar 2026 21:13:47 GMT"
         },
         {
-          "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
-          "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
-          "link": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 22 Mar 2026 19:05:30 GMT"
+          "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+          "summary": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
+          "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 23 Mar 2026 20:25:32 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "SEC Commissioner Hester Peirce on ETFs: &apos;We want to work with people on new products&apos;",
-          "summary": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
-          "link": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
-          "pubDate": "Sat, 21 Mar 2026 15:00:01 GMT"
+          "title": "Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund",
+          "summary": "The withdrawals show that Apollo didn't avoid the rush of investor redemptions plaguing rivals, driven by concern over private credit loans to software firms.",
+          "link": "https://www.cnbc.com/2026/03/23/apollo-private-credit-fund-gives-investors-only-45percent-of-requested-withdrawals.html",
+          "pubDate": "Mon, 23 Mar 2026 22:43:35 GMT"
         },
         {
-          "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
-          "summary": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
-          "link": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html",
-          "pubDate": "Fri, 20 Mar 2026 21:41:56 GMT"
+          "title": "Volume in stock and oil futures surged minutes before Trump&apos;s market-turning post",
+          "summary": "The timing of the earlier volume spikes — across both equities and crude — caught the attention of traders.",
+          "link": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html",
+          "pubDate": "Mon, 23 Mar 2026 21:27:00 GMT"
         },
         {
-          "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
-          "summary": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
-          "link": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
-          "pubDate": "Fri, 20 Mar 2026 13:36:43 GMT"
+          "title": "BlackRock’s Larry Fink warns against market timing, says missing best days can halve returns",
+          "summary": "BlackRock CEO Larry Fink said staying invested through periods of turmoil has historically delivered far stronger returns.",
+          "link": "https://www.cnbc.com/2026/03/23/blackrocks-larry-fink-warns-against-trying-to-time-the-market-.html",
+          "pubDate": "Mon, 23 Mar 2026 14:06:43 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Manchin urges Democrats to &#8216;stand up&#8217; to Senate GOP amid push to nix filibuster",
-          "summary": "Former Sen. Joe Manchin (I-W.Va.) on Sunday said it was time to “stand up” to Senate Republicans who seek to abolish the filibuster. The filibuster, unique to the Senate, is more than 200 years old. The rule allows for debate until 60 votes are gathered to invoke cloture and end debate, a high bar when&#8230;",
-          "link": "https://thehill.com/homenews/senate/5795840-manchin-defends-filibuster-republicans/",
-          "pubDate": "Sun, 22 Mar 2026 22:44:08 +0000"
+          "title": "The Memo: Trump looks for the off-ramp on Iran",
+          "summary": "President Trump seemed to begin a de-escalation of the war on Iran on Monday, sparking a relief rally in financial markets and sending the price of oil tumbling.&#160; But Trump did not dispel confusion over exactly what’s going on, nor did he erase deeper doubts about what comes next. It seems clear that Trump is&#8230;",
+          "link": "https://thehill.com/homenews/5797090-trump-iran-war-oil-prices-negotiations/",
+          "pubDate": "Mon, 23 Mar 2026 22:33:46 +0000"
         },
         {
-          "title": "Iranian foreign minister says country won&#8217;t be &#8216;swayed by more threats&#8217; on Strait of Hormuz",
-          "summary": "Iranian Foreign Minister Abbas Araghchi on Sunday said his country would not be “swayed by more threats” after President Trump threatened to “hit” and “obliterate” Iran&#8217;s power plants if the Strait of Hormuz is not reopened. “Strait of Hormuz is not closed. Ships hesitate because insurers fear the war of choice you initiated—not Iran,” Araghchi&#8230;",
-          "link": "https://thehill.com/homenews/5795820-araghchi-iran-us-conflict/",
-          "pubDate": "Sun, 22 Mar 2026 21:56:37 +0000"
+          "title": "Van Hollen: Trump is &#8216;lying&#8217; about talks with Iranians",
+          "summary": "Sen. Chris Van Hollen (D-Md.) said Monday that President Trump is “lying” about holding talks with Iranian officials. “We know he&#8217;s lying when he says that the Iranians are talking with us and they&#8217;re about to give Donald Trump everything he wants. Yes, that&#8217;s a lie,” Van Hollen told host Kasie Hunt on CNN’s “The&#8230;",
+          "link": "https://thehill.com/homenews/senate/5797061-trump-iran-war-crime/",
+          "pubDate": "Mon, 23 Mar 2026 22:24:36 +0000"
         },
         {
-          "title": "This week on the hill: Marathon debate on SAVE America Act enters second week",
-          "summary": "The Senate’s marathon debate on the Safeguard American Voter Eligibility (SAVE America) Act is set to enter its second week, as President Trump and conservative allies ramp up pressure to push the measure through the upper chamber. Trump declared on Truth Social last week that the SAVE America Act is “one of the most IMPORTANT&#8230;",
-          "link": "https://thehill.com/homenews/senate/5794004-save-america-act-dhs-mullin/",
-          "pubDate": "Sun, 22 Mar 2026 21:00:00 +0000"
+          "title": "US issues &#8216;worldwide caution&#8217; alert to travelers",
+          "summary": "The U.S. government has issued a “worldwide caution” alert for American travelers, with the conflict against Iran nearing the one-month mark. “The Department of State advises Americans worldwide, and especially in the Middle East, to exercise increased caution. Americans abroad should follow the guidance in security alerts issued by the nearest U.S. embassy or consulate,”&#8230;",
+          "link": "https://thehill.com/homenews/administration/5797170-state-department-us-travelers-security-alert-iran/",
+          "pubDate": "Mon, 23 Mar 2026 22:08:15 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Dow Jones Futures, Oil Prices Shrug Off Trump Threatens To 'Obliterate' Iran's Power Plants",
-          "summary": "Dow Jones Futures, Oil Prices Shrug Off Trump Threatens To 'Obliterate' Iran's Power Plants",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-war-winding-down/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-03-22T22:46:25Z"
+          "title": "1 Incredible Value Stock Down 68% to Buy Now Before It Rebounds",
+          "summary": "1 Incredible Value Stock Down 68% to Buy Now Before It Rebounds",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/1-incredible-value-stock-down-142500807.html",
+          "pubDate": "2026-03-22T14:25:00Z"
         },
         {
-          "title": "What I'm Watching With Western Union To See If They Beat The Market",
-          "summary": "What I'm Watching With Western Union To See If They Beat The Market",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/im-watching-western-union-see-223500858.html",
-          "pubDate": "2026-03-22T22:35:00Z"
+          "title": "Micron Technology Hikes Its Dividend 30% Due to Surging FCF - MU Is Worth 34% More - What's the Best Play?",
+          "summary": "Micron Technology Hikes Its Dividend 30% Due to Surging FCF - MU Is Worth 34% More - What's the Best Play?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-hikes-dividend-30-140002543.html",
+          "pubDate": "2026-03-22T14:00:02Z"
         },
         {
-          "title": "Peter Thiel is betting big on a $2B AI cow collar startup powered by cowgorithms — and investors are fighting to get in",
-          "summary": "Peter Thiel is betting big on a $2B AI cow collar startup powered by cowgorithms — and investors are fighting to get in",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/peter-thiel-betting-big-2b-222000722.html",
-          "pubDate": "2026-03-22T22:20:00Z"
+          "title": "Is an OpenClaw Partnership the Next Big Thing for Nvidia Stock? How to Position Now.",
+          "summary": "Is an OpenClaw Partnership the Next Big Thing for Nvidia Stock? How to Position Now.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/openclaw-partnership-next-big-thing-140002092.html",
+          "pubDate": "2026-03-22T14:00:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "This 67,800-year-old handprint is the oldest art ever found",
-          "summary": "Researchers have uncovered the world’s oldest known cave art—a 67,800-year-old hand stencil in Indonesia. The unusual, claw-like design hints at early symbolic thinking and possibly spiritual beliefs. This discovery also strengthens the case that humans reached Australia at least 65,000 years ago. It offers rare insight into the creative lives of some of our earliest ancestors.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260322020300.htm",
-          "pubDate": "Sun, 22 Mar 2026 05:38:42 EDT"
+          "title": "A promising fatty liver treatment may raise cancer risk",
+          "summary": "A surprising new study reveals that blocking a supposedly protective enzyme, Caspase-2, could actually backfire—raising the risk of chronic liver damage and cancer over time. Researchers found that without this enzyme, liver cells grow abnormally large and accumulate genetic damage, leading to inflammation, scarring, and eventually tumors, especially with age. While inhibiting Caspase-2 may offer short-term benefits, such as reducing fatty liver disease, the long-term consequences appear dangerous.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260323005545.htm",
+          "pubDate": "Mon, 23 Mar 2026 03:13:52 EDT"
         },
         {
-          "title": "Webb Telescope spots “impossible” atmosphere on ancient super Earth",
-          "summary": "Astronomers have uncovered surprising evidence of a thick atmosphere surrounding TOI-561 b, a scorching, fast-orbiting rocky planet once thought too extreme to hold onto any gas. Using NASA’s James Webb Space Telescope, researchers found the planet is far cooler than expected for a bare rock, hinting at a heat-distributing atmosphere above a churning magma ocean. This strange world—where a year lasts just over 10 hours and one side is locked in eternal daylight—may even be rich in volatile materials, behaving like a “wet lava ball.”",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260322020255.htm",
-          "pubDate": "Sun, 22 Mar 2026 04:19:46 EDT"
+          "title": "New blood test could catch pancreatic cancer before it’s too late",
+          "summary": "A new blood test could change the outlook for one of the deadliest cancers—pancreatic cancer—by catching it much earlier than ever before. Researchers identified two previously unknown proteins in the blood that, when combined with existing markers, dramatically improved detection accuracy. The four-marker test was able to spot pancreatic cancer in over 90% of cases and performed especially well even in early stages, when treatment has the best chance of success.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260323005540.htm",
+          "pubDate": "Mon, 23 Mar 2026 03:33:52 EDT"
         },
         {
-          "title": "Weight loss drug Ozempic cuts depression, anxiety, and addiction risk",
-          "summary": "GLP-1 medications like semaglutide (Ozempic) may offer unexpected mental health benefits alongside weight loss. A large study found major drops in depression, anxiety, and psychiatric-related hospital visits among users. Even substance use disorders were significantly lower during treatment. Researchers suspect both lifestyle improvements and direct brain effects could be at play.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm",
-          "pubDate": "Sun, 22 Mar 2026 08:03:11 EDT"
+          "title": "Microplastics are falling from the sky and polluting forests",
+          "summary": "Tiny plastic particles aren’t just choking oceans and cities—they’re quietly infiltrating forests too. Scientists discovered that most microplastics arrive through the air, settling onto treetops before being washed or dropped to the forest floor in rain and falling leaves. Once there, natural processes like leaf decay help bury and store these particles deep in the soil. The findings reveal forests as hidden reservoirs of airborne pollution—and potentially a new frontline in the growing microplastics crisis.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260323005535.htm",
+          "pubDate": "Mon, 23 Mar 2026 04:34:53 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Science and armed conflict",
-          "summary": "Editor in chief Nancy Shute discusses how science and armed conflict have been intertwined throughout history, from the Greeks in 400 B.C. to the use of tear gas in the protests across the United States as recently as a few months ago.",
-          "link": "https://www.sciencenews.org/article/ed-note-april-2026",
-          "pubDate": "Sat, 21 Mar 2026 11:00:00 +0000"
+          "title": "In a rare event, the moon got a massive new crater",
+          "summary": "A crater as wide as two American football fields formed in spring 2024, a size expected roughly once a century. A NASA orbiter got to watch.",
+          "link": "https://www.sciencenews.org/article/moon-new-crater-nasa-orbiter",
+          "pubDate": "Mon, 23 Mar 2026 15:00:00 +0000"
         },
         {
-          "title": "Amid vaccine policy whiplash, here&#8217;s how a pediatrician talks to families",
-          "summary": "A court ruling that blocks Trump administration vaccine policy is a win for science. But much work remains to rebuild trust in vaccines.",
-          "link": "https://www.sciencenews.org/article/vaccine-policy-pediatric-advice-trump",
-          "pubDate": "Fri, 20 Mar 2026 19:08:55 +0000"
+          "title": "Female giant rainforest mantises grow up to strike harder than males",
+          "summary": "Scientists tracked mantis strike force from youth to adulthood, showing females eventually hit far harder than males. Why is a mystery.",
+          "link": "https://www.sciencenews.org/article/female-mantises-strike-harder-strike",
+          "pubDate": "Mon, 23 Mar 2026 13:00:00 +0000"
         },
         {
-          "title": "How realistic is Project Hail Mary?",
-          "summary": "Ryan Gosling is on a mission to save the sun — and Earth — from star-killing microbes. Science News dissects the science behind the sci-fi movie.",
-          "link": "https://www.sciencenews.org/article/the-science-of-project-hail-mary",
-          "pubDate": "Fri, 20 Mar 2026 18:00:00 +0000"
+          "title": "Long nails don’t work on touchscreens. An experimental polish could help",
+          "summary": "Proton movement in the nail polish probably activates the touchscreen, but the formula isn’t ready to hit shelves yet.",
+          "link": "https://www.sciencenews.org/article/touchscreen-experimental-nail-polish",
+          "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000"
         }
       ]
     }
