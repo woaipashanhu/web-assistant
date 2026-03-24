@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-23T23:00:21.558Z",
-  "date": "2026-03-24",
+  "lastUpdate": "2026-03-24T23:00:29.007Z",
+  "date": "2026-03-25",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing",
-          "summary": "R3 Bio has a bold idea for replacing lab animals: genetically-engineered whole organ systems that lack a brain. The long-term goal, says a cofounder, is to make human versions.",
-          "link": "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
-          "pubDate": "Mon, 23 Mar 2026 19:46:05 +0000"
+          "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+          "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
+          "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+          "pubDate": "Tue, 24 Mar 2026 22:13:17 +0000"
         },
         {
-          "title": "A Mysterious Numbers Station Is Broadcasting Through the Iran War",
-          "summary": "First heard as US and Israeli strikes on Iran began, the shortwave broadcast has since been traced to a US military base in Germany—but its purpose and its operator remain unclear.",
-          "link": "https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/",
-          "pubDate": "Mon, 23 Mar 2026 18:59:17 +0000"
+          "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
+          "summary": "The FCC just banned the sale of new consumer-grade Wi-Fi routers manufactured outside the US. Here’s what it means for you.",
+          "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+          "pubDate": "Tue, 24 Mar 2026 18:59:10 +0000"
         },
         {
-          "title": "Our Favorite Budget Earbuds Are Literally $19",
-          "summary": "Do you need a pair of cheap earbuds? These JLabs are the ones.",
-          "link": "https://www.wired.com/story/jlab-go-pop-deal-326/",
-          "pubDate": "Mon, 23 Mar 2026 17:49:57 +0000"
+          "title": "Our Favorite Turntable Is $51 Off Before Record Store Day",
+          "summary": "Audio-Technica is a leading name in home and professional audio, and the AT-LP120XUSB is a great turntable for most listeners.",
+          "link": "https://www.wired.com/story/atlp120x-deal-326/",
+          "pubDate": "Tue, 24 Mar 2026 17:41:44 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund",
-          "summary": "As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category.",
-          "link": "https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/",
-          "pubDate": "Mon, 23 Mar 2026 22:57:53 +0000"
+          "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+          "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+          "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+          "pubDate": "Tue, 24 Mar 2026 22:22:57 +0000"
         },
         {
-          "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-          "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-          "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-          "pubDate": "Mon, 23 Mar 2026 22:36:39 +0000"
+          "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+          "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+          "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+          "pubDate": "Tue, 24 Mar 2026 21:00:30 +0000"
         },
         {
-          "title": "Apple Maps may be about to get ads",
-          "summary": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\"",
-          "link": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
-          "pubDate": "Mon, 23 Mar 2026 22:33:03 +0000"
+          "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+          "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+          "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+          "pubDate": "Tue, 24 Mar 2026 20:56:25 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
-          "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
-          "link": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 23 Mar 2026 18:31:26 GMT"
+          "title": "Iran war shows norms of international conflicts have been overturned",
+          "summary": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.",
+          "link": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 24 Mar 2026 15:55:08 GMT"
         },
         {
-          "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
-          "summary": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives",
-          "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 23 Mar 2026 21:13:47 GMT"
+          "title": "Pilots killed in LaGuardia plane crash named",
+          "summary": "Investigators released details from the final three minutes of cockpit and tower communications, which showed controllers cleared both the plane and a fire truck to cross the runway.",
+          "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 24 Mar 2026 20:34:20 GMT"
         },
         {
-          "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
-          "summary": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
-          "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 23 Mar 2026 20:25:32 GMT"
+          "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
+          "summary": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
+          "link": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 24 Mar 2026 21:47:10 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund",
-          "summary": "The withdrawals show that Apollo didn't avoid the rush of investor redemptions plaguing rivals, driven by concern over private credit loans to software firms.",
-          "link": "https://www.cnbc.com/2026/03/23/apollo-private-credit-fund-gives-investors-only-45percent-of-requested-withdrawals.html",
-          "pubDate": "Mon, 23 Mar 2026 22:43:35 GMT"
+          "title": "World has &apos;never experienced&apos; soaring refining margins like this, TotalEnergies CEO tells CNBC",
+          "summary": "TotalEnergies CEO Patrick Pouyanné on the Iran war, the $1 billion deal with the White House, investment in the U.S., and more.",
+          "link": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html",
+          "pubDate": "Tue, 24 Mar 2026 19:28:56 GMT"
         },
         {
-          "title": "Volume in stock and oil futures surged minutes before Trump&apos;s market-turning post",
-          "summary": "The timing of the earlier volume spikes — across both equities and crude — caught the attention of traders.",
-          "link": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html",
-          "pubDate": "Mon, 23 Mar 2026 21:27:00 GMT"
+          "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
+          "summary": "JPMorgan Chase CEO Jamie Dimon issued an optimistic viewpoint on Middle East peace, weeks into the war with Iran.",
+          "link": "https://www.cnbc.com/2026/03/24/jamie-dimon-iran-war-middle-east-peace-prospects-long-term.html",
+          "pubDate": "Tue, 24 Mar 2026 18:14:24 GMT"
         },
         {
-          "title": "BlackRock’s Larry Fink warns against market timing, says missing best days can halve returns",
-          "summary": "BlackRock CEO Larry Fink said staying invested through periods of turmoil has historically delivered far stronger returns.",
-          "link": "https://www.cnbc.com/2026/03/23/blackrocks-larry-fink-warns-against-trying-to-time-the-market-.html",
-          "pubDate": "Mon, 23 Mar 2026 14:06:43 GMT"
+          "title": "Moody&apos;s cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow",
+          "summary": "The move by Moody's is the latest sign of distress in private credit; retail investors have been rushing to withdraw funds, from Blackstone to Apollo.",
+          "link": "https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html",
+          "pubDate": "Tue, 24 Mar 2026 14:55:50 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "The Memo: Trump looks for the off-ramp on Iran",
-          "summary": "President Trump seemed to begin a de-escalation of the war on Iran on Monday, sparking a relief rally in financial markets and sending the price of oil tumbling.&#160; But Trump did not dispel confusion over exactly what’s going on, nor did he erase deeper doubts about what comes next. It seems clear that Trump is&#8230;",
-          "link": "https://thehill.com/homenews/5797090-trump-iran-war-oil-prices-negotiations/",
-          "pubDate": "Mon, 23 Mar 2026 22:33:46 +0000"
+          "title": "What changes could come to FEMA under Mullin?",
+          "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story&#160; What changes could come to FEMA? The Trump administration’s next self-imposed deadline for reforms to the Federal Emergency Management Agency (FEMA) is this week — and uncertainty looms about potential changes as Markwayne Mullin takes the reins at the Department of Homeland Security (DHS).&#8230;",
+          "link": "https://thehill.com/homenews/5799190-what-changes-could-come-to-fema-under-mullin/",
+          "pubDate": "Tue, 24 Mar 2026 21:59:35 +0000"
         },
         {
-          "title": "Van Hollen: Trump is &#8216;lying&#8217; about talks with Iranians",
-          "summary": "Sen. Chris Van Hollen (D-Md.) said Monday that President Trump is “lying” about holding talks with Iranian officials. “We know he&#8217;s lying when he says that the Iranians are talking with us and they&#8217;re about to give Donald Trump everything he wants. Yes, that&#8217;s a lie,” Van Hollen told host Kasie Hunt on CNN’s “The&#8230;",
-          "link": "https://thehill.com/homenews/senate/5797061-trump-iran-war-crime/",
-          "pubDate": "Mon, 23 Mar 2026 22:24:36 +0000"
+          "title": "Cruz asks Senate to hold his salary during DHS shutdown",
+          "summary": "Sen. Ted Cruz (R-Texas) asked on Tuesday for his congressional salary to be withheld until the shutdown at the Department of Homeland Security (DHS) is over.&#160; “Due to the Democrat’s Shutdown, I’ve asked the Financial Clerk of the Senate to hold my salary,” the Texas senator wrote on the social platform X. “It’s not right&#8230;",
+          "link": "https://thehill.com/homenews/senate/5799202-ted-cruz-salary-withhold-dhs/",
+          "pubDate": "Tue, 24 Mar 2026 21:58:07 +0000"
         },
         {
-          "title": "US issues &#8216;worldwide caution&#8217; alert to travelers",
-          "summary": "The U.S. government has issued a “worldwide caution” alert for American travelers, with the conflict against Iran nearing the one-month mark. “The Department of State advises Americans worldwide, and especially in the Middle East, to exercise increased caution. Americans abroad should follow the guidance in security alerts issued by the nearest U.S. embassy or consulate,”&#8230;",
-          "link": "https://thehill.com/homenews/administration/5797170-state-department-us-travelers-security-alert-iran/",
-          "pubDate": "Mon, 23 Mar 2026 22:08:15 +0000"
+          "title": "House Republicans pan proposal to split up DHS bill despite openness from Trump",
+          "summary": "House Republicans are pushing back stiffly against the idea of splitting up legislation to fund the Department of Homeland Security (DHS), despite the White House and Senate Republicans saying President Trump is open to doing just that. For weeks, GOP leaders have rejected the idea of funding most of the DHS, including airport screeners and&#8230;",
+          "link": "https://thehill.com/homenews/house/5799168-house-republicans-dhs-bill-trump/",
+          "pubDate": "Tue, 24 Mar 2026 21:47:38 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "1 Incredible Value Stock Down 68% to Buy Now Before It Rebounds",
-          "summary": "1 Incredible Value Stock Down 68% to Buy Now Before It Rebounds",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/1-incredible-value-stock-down-142500807.html",
-          "pubDate": "2026-03-22T14:25:00Z"
+          "title": "Banks begin $4.7bn loan sale for Sealed Air buyout – report",
+          "summary": "Banks begin $4.7bn loan sale for Sealed Air buyout – report",
+          "link": "https://finance.yahoo.com/markets/options/articles/banks-begin-4-7bn-loan-144139076.html",
+          "pubDate": "2026-03-23T14:41:39Z"
         },
         {
-          "title": "Micron Technology Hikes Its Dividend 30% Due to Surging FCF - MU Is Worth 34% More - What's the Best Play?",
-          "summary": "Micron Technology Hikes Its Dividend 30% Due to Surging FCF - MU Is Worth 34% More - What's the Best Play?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-hikes-dividend-30-140002543.html",
-          "pubDate": "2026-03-22T14:00:02Z"
+          "title": "GE Vernova (GEV) Up Heavily After Jim Cramer It Was A “Real Good Story”",
+          "summary": "GE Vernova (GEV) Up Heavily After Jim Cramer It Was A “Real Good Story”",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-heavily-jim-144316605.html",
+          "pubDate": "2026-03-23T14:43:16Z"
         },
         {
-          "title": "Is an OpenClaw Partnership the Next Big Thing for Nvidia Stock? How to Position Now.",
-          "summary": "Is an OpenClaw Partnership the Next Big Thing for Nvidia Stock? How to Position Now.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/openclaw-partnership-next-big-thing-140002092.html",
-          "pubDate": "2026-03-22T14:00:02Z"
+          "title": "Dollar Falls as Stocks Rally in Hopes Iran War Will Soon End",
+          "summary": "Dollar Falls as Stocks Rally in Hopes Iran War Will Soon End",
+          "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-falls-stocks-rally-hopes-143631703.html",
+          "pubDate": "2026-03-23T14:36:31Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A promising fatty liver treatment may raise cancer risk",
-          "summary": "A surprising new study reveals that blocking a supposedly protective enzyme, Caspase-2, could actually backfire—raising the risk of chronic liver damage and cancer over time. Researchers found that without this enzyme, liver cells grow abnormally large and accumulate genetic damage, leading to inflammation, scarring, and eventually tumors, especially with age. While inhibiting Caspase-2 may offer short-term benefits, such as reducing fatty liver disease, the long-term consequences appear dangerous.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260323005545.htm",
-          "pubDate": "Mon, 23 Mar 2026 03:13:52 EDT"
+          "title": "Insulin pills may soon replace daily injections",
+          "summary": "For over a century, scientists have chased the dream of insulin pills, but the digestive system kept destroying the drug before it could work—forcing millions of patients to rely on daily injections. Now, researchers at Kumamoto University have developed a clever workaround using a tiny peptide that helps insulin slip through the intestinal wall.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260324024302.htm",
+          "pubDate": "Tue, 24 Mar 2026 04:08:11 EDT"
         },
         {
-          "title": "New blood test could catch pancreatic cancer before it’s too late",
-          "summary": "A new blood test could change the outlook for one of the deadliest cancers—pancreatic cancer—by catching it much earlier than ever before. Researchers identified two previously unknown proteins in the blood that, when combined with existing markers, dramatically improved detection accuracy. The four-marker test was able to spot pancreatic cancer in over 90% of cases and performed especially well even in early stages, when treatment has the best chance of success.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260323005540.htm",
-          "pubDate": "Mon, 23 Mar 2026 03:33:52 EDT"
+          "title": "Supercomputers just solved a 50-year-old mystery about giant stars",
+          "summary": "Astronomers have finally cracked a decades-old mystery about red giant stars—how material from their deep interiors makes its way to the surface. Using cutting-edge supercomputer simulations, researchers discovered that stellar rotation plays a powerful role in mixing elements across a previously unexplained barrier inside the star.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260324024300.htm",
+          "pubDate": "Tue, 24 Mar 2026 07:52:48 EDT"
         },
         {
-          "title": "Microplastics are falling from the sky and polluting forests",
-          "summary": "Tiny plastic particles aren’t just choking oceans and cities—they’re quietly infiltrating forests too. Scientists discovered that most microplastics arrive through the air, settling onto treetops before being washed or dropped to the forest floor in rain and falling leaves. Once there, natural processes like leaf decay help bury and store these particles deep in the soil. The findings reveal forests as hidden reservoirs of airborne pollution—and potentially a new frontline in the growing microplastics crisis.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260323005535.htm",
-          "pubDate": "Mon, 23 Mar 2026 04:34:53 EDT"
+          "title": "New light trap design supercharges atom-thin semiconductors",
+          "summary": "Scientists have found a clever way to supercharge ultra-thin semiconductors by reshaping the space beneath them rather than altering the material itself. By placing a single-atom-thick layer of tungsten disulfide over tiny air cavities carved into a crystal, they created miniature “light traps” that dramatically boost brightness and optical effects—up to 20 times stronger emission and 25 times stronger nonlinear signals. These hollow structures, called Mie voids, concentrate light exactly where the material sits, overcoming a major limitation of atomically thin devices.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260324024257.htm",
+          "pubDate": "Tue, 24 Mar 2026 03:25:15 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "siteName": "Science News",
       "items": [
         {
-          "title": "In a rare event, the moon got a massive new crater",
-          "summary": "A crater as wide as two American football fields formed in spring 2024, a size expected roughly once a century. A NASA orbiter got to watch.",
-          "link": "https://www.sciencenews.org/article/moon-new-crater-nasa-orbiter",
-          "pubDate": "Mon, 23 Mar 2026 15:00:00 +0000"
+          "title": "Antimatter traveled by truck for the first time",
+          "summary": "Scientists are envisioning an antimatter delivery program that could ferry antiprotons from CERN to other labs around Europe.",
+          "link": "https://www.sciencenews.org/article/antimatter-traveled-truck-delivery-cern",
+          "pubDate": "Tue, 24 Mar 2026 20:43:26 +0000"
         },
         {
-          "title": "Female giant rainforest mantises grow up to strike harder than males",
-          "summary": "Scientists tracked mantis strike force from youth to adulthood, showing females eventually hit far harder than males. Why is a mystery.",
-          "link": "https://www.sciencenews.org/article/female-mantises-strike-harder-strike",
-          "pubDate": "Mon, 23 Mar 2026 13:00:00 +0000"
+          "title": "These insects fly with their legs. Physics explains how",
+          "summary": "Phantom crane flies change the angle of their splayed legs to increase or reduce drag, helping them navigate varying winds.",
+          "link": "https://www.sciencenews.org/article/phantom-crane-fly-legs-physics",
+          "pubDate": "Tue, 24 Mar 2026 15:00:00 +0000"
         },
         {
-          "title": "Long nails don’t work on touchscreens. An experimental polish could help",
-          "summary": "Proton movement in the nail polish probably activates the touchscreen, but the formula isn’t ready to hit shelves yet.",
-          "link": "https://www.sciencenews.org/article/touchscreen-experimental-nail-polish",
-          "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000"
+          "title": "Neandertals made antibacterial ointment, but may not have known it",
+          "summary": "A team of scientists re-created the way Neandertals made birch tar and found its antibacterial properties could fight off skin infections.",
+          "link": "https://www.sciencenews.org/article/neandertals-antibacterial-birch-tar",
+          "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000"
         }
       ]
     }
