@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-26T23:00:26.343Z",
-  "date": "2026-03-27",
+  "lastUpdate": "2026-03-27T23:00:26.774Z",
+  "date": "2026-03-28",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "How Trump’s Plot to Grab Iran's Nuclear Fuel Would Actually Work",
-          "summary": "Experts say that an American ground operation targeting nuclear sites in Iran would be incredibly complicated, put troops’ lives at great risk—and might still fail.",
-          "link": "https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/",
-          "pubDate": "Thu, 26 Mar 2026 21:42:52 +0000"
+          "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+          "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+          "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+          "pubDate": "Fri, 27 Mar 2026 21:46:39 +0000"
         },
         {
-          "title": "You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade",
-          "summary": "This viral magnetic travel-toiletry system is rarely on sale, and this discount is legitimately good.",
-          "link": "https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/",
-          "pubDate": "Thu, 26 Mar 2026 18:16:28 +0000"
+          "title": "The Best Office Chair Is $50 Cheaper Than We've Seen Before",
+          "summary": "The Branch Ergonomic Chair Pro offers great value at full price—but right now, it's $100 off.",
+          "link": "https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/",
+          "pubDate": "Fri, 27 Mar 2026 20:45:41 +0000"
         },
         {
-          "title": "These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
-          "summary": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
-          "link": "https://www.wired.com/story/the-amazon-spring-sale-2026-1/",
-          "pubDate": "Thu, 26 Mar 2026 18:07:20 +0000"
+          "title": "10 Things You Can Do While Waiting in the TSA Line",
+          "summary": "As Washington wrangles over the future of federal employees’ pay, here are some ideas for passing the time.",
+          "link": "https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/",
+          "pubDate": "Fri, 27 Mar 2026 20:44:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Wikipedia cracks down on the use of AI in article writing",
-          "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
-          "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-          "pubDate": "Thu, 26 Mar 2026 21:50:10 +0000"
+          "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+          "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+          "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+          "pubDate": "Fri, 27 Mar 2026 21:44:45 +0000"
         },
         {
-          "title": "Mastodon is making its decentralized social network easier to use with its latest revamp",
-          "summary": "Mastodon is redesigning user profiles to simplify the experience and better appeal to mainstream users and organizations.",
-          "link": "https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/",
-          "pubDate": "Thu, 26 Mar 2026 20:42:50 +0000"
+          "title": "Memory chip giant SK hynix could help end &#8216;RAMmageddon&#8217; with blockbuster US IPO",
+          "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+          "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+          "pubDate": "Fri, 27 Mar 2026 19:11:28 +0000"
         },
         {
-          "title": "Netflix confirms it’s raising prices again",
-          "summary": "The standard plan without ads now costs $19.99 per month, a $2 increase from the previous $17.99 subscription fee, while the premium plan is also going up by $2 and will now cost $26.99 per month.",
-          "link": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
-          "pubDate": "Thu, 26 Mar 2026 20:39:17 +0000"
+          "title": "Waymo’s skyrocketing ridership in one chart",
+          "summary": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
+          "link": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+          "pubDate": "Fri, 27 Mar 2026 19:11:10 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
-          "summary": "There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.",
-          "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 26 Mar 2026 18:24:13 GMT"
+          "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+          "summary": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
+          "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 27 Mar 2026 19:21:19 GMT"
         },
         {
-          "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
-          "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
-          "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 26 Mar 2026 17:57:41 GMT"
+          "title": "Tiger Woods charged with driving under influence after crash",
+          "summary": "Tiger Woods is charged with driving under the influence after rolling his car in a crash in Florida, police confirm.",
+          "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 27 Mar 2026 21:24:44 GMT"
         },
         {
-          "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
-          "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers.",
-          "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 26 Mar 2026 18:49:46 GMT"
+          "title": "Spanish woman who died through euthanasia failed by state, say critics",
+          "summary": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father.",
+          "link": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 27 Mar 2026 12:09:06 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Why one hedge fund veteran is urging investors to &apos;prepare for the worst&apos;",
+          "summary": "DBi's Andrew Beer suggests the market's crystal ball is broken.",
+          "link": "https://www.cnbc.com/2026/03/27/iran-to-economic-risks-markets-ability-to-forecast-world-in-question.html",
+          "pubDate": "Fri, 27 Mar 2026 11:00:01 GMT"
+        },
+        {
+          "title": "Private credit&apos;s cracks open door for Wall Street banks&apos; comeback: &apos;The tug of war is just starting&apos;",
+          "summary": "Wall Street banks may finally be getting a long-awaited opening to claw back market share from private credit lenders.",
+          "link": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html",
+          "pubDate": "Fri, 27 Mar 2026 06:15:02 GMT"
+        },
         {
           "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: &apos;You have learned nothing from your failures&apos;",
           "summary": "Kevin Warsh's nomination as chair of the Federal Reserve has been in limbo because of a criminal investigation of Chair Jerome Powell.",
           "link": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html",
-          "pubDate": "Thu, 26 Mar 2026 22:06:20 GMT"
-        },
-        {
-          "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-          "summary": "Citrini Research said persistently high energy prices risk weighing on consumers and corporate earnings, creating a tough backdrop for equities.",
-          "link": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html",
-          "pubDate": "Wed, 25 Mar 2026 16:49:06 GMT"
-        },
-        {
-          "title": "Former SEC Chair Jay Clayton says regulators would scrutinize trading ahead of Trump post",
-          "summary": "\"Any move like that in advance of any announcement, the regulators are going to look at,\" said Clayton, former SEC chair.",
-          "link": "https://www.cnbc.com/2026/03/25/former-sec-chair-jay-clayton-says-regulators-would-scrutinize-trading-ahead-of-trump-post.html",
-          "pubDate": "Wed, 25 Mar 2026 15:21:44 GMT"
+          "pubDate": "Fri, 27 Mar 2026 15:52:49 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump praises JFK Jr., says he could have been president",
-          "summary": "President Trump said on Thursday that he believes John F. Kennedy Jr. would have gone on to be president and recounted knowing the famed Kennedy in the 1990s. “I think he would have gone on, perhaps, to be the president,” Trump said when asked by host Dana Perino in an interview on “The Five” on&#8230;",
-          "link": "https://thehill.com/homenews/administration/5803360-trump-remembers-kennedy-jr/",
-          "pubDate": "Thu, 26 Mar 2026 22:27:38 +0000"
+          "title": "Houthis threaten to join Iran war if these 3 red lines crossed",
+          "summary": "The Houthis on Friday warned that if three lines are crossed by the U.S., Israel or other Middle East countries, they will join the Iran war and fight back. The Yemen-based group backed by Iran&#8217;s Islamic Revolutionary Guard Corps released five points, issued by the Yemeni Armed Forces, regarding the conflict. They include demands for&#8230;",
+          "link": "https://thehill.com/policy/international/5805195-houthi-threat-us-israel-iran/",
+          "pubDate": "Fri, 27 Mar 2026 22:35:51 +0000"
         },
         {
-          "title": "Kennedy, Oz announce new health care advisory committee",
-          "summary": "The Health and Human Services Department (HHS) and Centers for Medicare and Medicaid Services (CMS) on Thursday announced the formation of a new expert advisory panel that will make recommendations on how to modernize the U.S. health care system. The 18-member Healthcare Advisory Committee will be tasked with advising HHS Secretary Robert F. Kennedy Jr.&#8230;",
-          "link": "https://thehill.com/homenews/5803303-kennedy-oz-healthcare-reform/",
-          "pubDate": "Thu, 26 Mar 2026 22:17:05 +0000"
+          "title": "Live updates: House tees up vote on DHS stopgap after rejecting Senate bill; Trump orders TSA paid",
+          "summary": "House Republicans have teed up a vote Friday night on a stopgap bill to fund the Department of Homeland Security (DHS) at fiscal year 2025 levels for an additional eight weeks, after their stunning rebuke of a Senate-passed deal to fund most of the department. The bill is expected to pass, assuming the GOP doesn&#8217;t&#8230;",
+          "link": "https://thehill.com/homenews/administration/5802558-live-updates-trump-dhs-shutdown-tsa-iran/",
+          "pubDate": "Fri, 27 Mar 2026 22:25:00 +0000"
         },
         {
-          "title": "Education Department, greatly reduced by Trump, changing DC headquarters",
-          "summary": "The Department of Education announced Thursday it would be moving out of its current headquarters in Washington, D.C., which has been 70 percent vacant after half of its workforce was cut as part of President Trump&#8217;s efforts to eliminate the agency. The Education Department will move to another smaller building in the city, with projected&#8230;",
-          "link": "https://thehill.com/homenews/education/5803312-education-department-dc-hq-trump-mcmahon/",
-          "pubDate": "Thu, 26 Mar 2026 22:10:30 +0000"
+          "title": "Artists, celebrities protest outside Kennedy Center against Trump takeover",
+          "summary": "Actor Jane Fonda and singer Joan Baez were among the most notable celebrities at a demonstration of musicians, actors and artists in front of the Kennedy Center building Friday to denounce what they described as threats to free speech during President Trump&#8217;s second term. “We chose to hold today’s action in front of the John&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5805109-kennedy-center-protest-artists-united/",
+          "pubDate": "Fri, 27 Mar 2026 22:18:49 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "OpenAI Flags Microsoft as ‘Top Risk’ in Pre-IPO Document",
-          "summary": "OpenAI Flags Microsoft as ‘Top Risk’ in Pre-IPO Document",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/openai-flags-microsoft-top-risk-152100320.html",
-          "pubDate": "2026-03-25T15:21:00Z"
+          "title": "Private Credit Funds Trap $5 Billion as Investors Rush for Exit",
+          "summary": "Private Credit Funds Trap $5 Billion as Investors Rush for Exit",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/private-credit-funds-trap-5-153943870.html",
+          "pubDate": "2026-03-26T15:39:43Z"
         },
         {
-          "title": "Stocks Climb on Hopes of US-Iran Diplomacy",
-          "summary": "Stocks Climb on Hopes of US-Iran Diplomacy",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-climb-hopes-us-iran-151926940.html",
-          "pubDate": "2026-03-25T15:19:26Z"
+          "title": "Elliott Management Is Betting Billions on Synopsys. Should You Buy SNPS Stock Too?",
+          "summary": "Elliott Management Is Betting Billions on Synopsys. Should You Buy SNPS Stock Too?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/elliott-management-betting-billions-synopsys-154129289.html",
+          "pubDate": "2026-03-26T15:41:29Z"
         },
         {
-          "title": "Rising gas prices could be good news for EVs",
-          "summary": "Rising gas prices could be good news for EVs",
-          "link": "https://finance.yahoo.com/economy/policy/article/rising-gas-prices-could-be-good-news-for-evs-151643093.html",
-          "pubDate": "2026-03-25T15:16:43Z"
+          "title": "Crude Oil Sharply Higher on Concerns About Escalation of the Iran War",
+          "summary": "Crude Oil Sharply Higher on Concerns About Escalation of the Iran War",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-sharply-higher-concerns-153035860.html",
+          "pubDate": "2026-03-26T15:30:35Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "This cow uses tools like a primate—and scientists are stunned",
-          "summary": "A cow named Veronika has stunned scientists by using tools in a flexible and purposeful way. She chooses different ends of a brush depending on the part of her body and adjusts her movements accordingly. This level of tool use is incredibly rare and was previously seen mainly in primates. The finding hints that cows may be much smarter than we assume.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260326075611.htm",
-          "pubDate": "Thu, 26 Mar 2026 08:28:40 EDT"
+          "title": "Scientists uncovered the nutrients bees were missing — Colonies surged 15-fold",
+          "summary": "Scientists have developed a breakthrough “superfood” for honeybees by engineering yeast to produce the essential nutrients normally found in pollen. In controlled trials, colonies fed this specially designed diet produced up to 15 times more young, showing a dramatic boost in reproduction and overall health. As climate change and modern agriculture reduce the availability of natural pollen, this innovation could offer a practical way to support struggling bee populations.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260327000518.htm",
+          "pubDate": "Fri, 27 Mar 2026 00:17:49 EDT"
         },
         {
-          "title": "Vivid dreams may be the secret to deeper, more restful sleep",
-          "summary": "Vivid dreams might be doing more than just entertaining your mind at night. Researchers found that immersive dreaming can actually make sleep feel deeper and more refreshing, even when brain activity is high. Surprisingly, people reported their deepest sleep after intense dream experiences, not just during quiet, inactive periods. This suggests dreams may play a key role in helping us feel truly rested.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
-          "pubDate": "Thu, 26 Mar 2026 02:00:56 EDT"
+          "title": "Scientists find gut bacteria inject proteins that control your immune system",
+          "summary": "Gut bacteria aren’t just passive passengers—they can actively send proteins straight into our cells. Using microscopic injection systems, even harmless microbes can influence immune responses and metabolic pathways. Researchers found these interactions may play a role in inflammatory diseases like Crohn’s. It’s a major shift in how scientists understand the microbiome’s power over human health.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260326080752.htm",
+          "pubDate": "Fri, 27 Mar 2026 08:23:14 EDT"
         },
         {
-          "title": "Scientists found a bug that generates its own heat in freezing cold",
-          "summary": "Snow flies have an unexpected way of surviving freezing temperatures. They produce antifreeze proteins to block ice formation and can even generate their own heat. Scientists also found that their genes are unusually unique, and they feel less cold-related pain than other insects. These combined traits let them stay active in conditions that would freeze most species.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260326011455.htm",
-          "pubDate": "Thu, 26 Mar 2026 01:26:31 EDT"
+          "title": "Scientists discover “alien space weather stations” that could reveal habitable planets",
+          "summary": "Scientists have uncovered a surprising way to study the harsh space weather around young M dwarf stars. Mysterious dips in starlight turned out to be massive rings of plasma swirling in the stars’ magnetic fields. These structures act like built-in space weather monitors, revealing how energetic particles affect nearby planets. The findings could reshape how we think about whether planets around these common stars can survive—or even host life.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260326075618.htm",
+          "pubDate": "Fri, 27 Mar 2026 04:53:17 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Watch the first video of a sperm whale birth captured by scientists",
-          "summary": "In a sperm whale birth recorded in more intimate detail than ever before, local whales huddled around the mother and lifted the calf to the surface.",
-          "link": "https://www.sciencenews.org/article/first-video-sperm-whale-birth",
-          "pubDate": "Thu, 26 Mar 2026 18:15:02 +0000"
+          "title": "How snakes defy gravity to stand tall",
+          "summary": "Limbless tree snakes can lift most of their body into the air without toppling. They manage this by focusing all their bending forces at their base.",
+          "link": "https://www.sciencenews.org/article/how-snakes-defy-gravity-to-stand-tall",
+          "pubDate": "Fri, 27 Mar 2026 16:00:00 +0000"
         },
         {
-          "title": "Early apes may not have evolved in East Africa",
-          "summary": "Fossil jaw remains found in Egypt suggest that the earliest modern apes evolved in North Africa, not in East Africa where most fossils have been found.",
-          "link": "https://www.sciencenews.org/article/early-apes-not-evolved-east-africa",
-          "pubDate": "Thu, 26 Mar 2026 18:00:00 +0000"
+          "title": "Welcome to the weird world of AI agent teams",
+          "summary": "AI agents are starting to work in teams, but without careful organization, groups of bots can easily fall into chaos.",
+          "link": "https://www.sciencenews.org/article/ai-agent-teams-fail-succeed-bots-chaos",
+          "pubDate": "Fri, 27 Mar 2026 14:00:00 +0000"
         },
         {
-          "title": "Water has a newfound ‘critical point’ that may help explain its quirks",
-          "summary": "At cold temperatures, water has two different liquid phases, which become one at the critical point. The discovery could help explain water’s quirks.",
-          "link": "https://www.sciencenews.org/article/water-critical-point-supercooled-liquid",
-          "pubDate": "Thu, 26 Mar 2026 18:00:00 +0000"
+          "title": "A rare star in a tiny galaxy preserves a record of the early universe",
+          "summary": "Found in an ultrafaint dwarf galaxy, the ancient star’s unusual chemistry indicates it formed from gas enriched by a single early supernova.",
+          "link": "https://www.sciencenews.org/article/primitive-star-galaxy-early-universe",
+          "pubDate": "Fri, 27 Mar 2026 12:00:00 +0000"
         }
       ]
     }
