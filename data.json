@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-27T23:00:26.774Z",
-  "date": "2026-03-28",
+  "lastUpdate": "2026-03-28T23:00:30.665Z",
+  "date": "2026-03-29",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "AI Research Is Getting Harder to Separate From Geopolitics",
-          "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
-          "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
-          "pubDate": "Fri, 27 Mar 2026 21:46:39 +0000"
+          "title": "What Is the Best Garmin Watch Right Now? (2026)",
+          "summary": "We tested Garmin’s GPS-enabled fitness trackers and found the perfect picks for casual hikers, backcountry skiers, and more.",
+          "link": "https://www.wired.com/story/best-garmin-watch/",
+          "pubDate": "Sat, 28 Mar 2026 11:30:00 +0000"
         },
         {
-          "title": "The Best Office Chair Is $50 Cheaper Than We've Seen Before",
-          "summary": "The Branch Ergonomic Chair Pro offers great value at full price—but right now, it's $100 off.",
-          "link": "https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/",
-          "pubDate": "Fri, 27 Mar 2026 20:45:41 +0000"
+          "title": "The Best Pixel 10 Cases and Accessories (2026): We’ve Tested Dozens",
+          "summary": "Slap a case on your shiny new Pixel, whether you have the Pixel 10a, Pixel 10, or Pixel 10 Pro XL. We also have recommendations for Qi2 chargers and other accessories.",
+          "link": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
+          "pubDate": "Sat, 28 Mar 2026 11:08:00 +0000"
         },
         {
-          "title": "10 Things You Can Do While Waiting in the TSA Line",
-          "summary": "As Washington wrangles over the future of federal employees’ pay, here are some ideas for passing the time.",
-          "link": "https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/",
-          "pubDate": "Fri, 27 Mar 2026 20:44:00 +0000"
+          "title": "Your Vape Wants to Know How Old You Are",
+          "summary": "Companies hope that biometric age-verification tech in cartridges could put flavored vapes back in business. But it's unlikely to solve the real problems.",
+          "link": "https://www.wired.com/story/your-vape-wants-to-know-how-old-you-are/",
+          "pubDate": "Sat, 28 Mar 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-          "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-          "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-          "pubDate": "Fri, 27 Mar 2026 21:44:45 +0000"
+          "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+          "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+          "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+          "pubDate": "Sat, 28 Mar 2026 23:00:00 +0000"
         },
         {
-          "title": "Memory chip giant SK hynix could help end &#8216;RAMmageddon&#8217; with blockbuster US IPO",
-          "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
-          "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-          "pubDate": "Fri, 27 Mar 2026 19:11:28 +0000"
+          "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+          "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+          "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+          "pubDate": "Sat, 28 Mar 2026 21:23:58 +0000"
         },
         {
-          "title": "Waymo’s skyrocketing ridership in one chart",
-          "summary": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
-          "link": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
-          "pubDate": "Fri, 27 Mar 2026 19:11:10 +0000"
+          "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+          "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+          "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+          "pubDate": "Sat, 28 Mar 2026 20:45:54 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
-          "summary": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
-          "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 27 Mar 2026 19:21:19 GMT"
+          "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+          "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+          "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 28 Mar 2026 21:50:40 GMT"
         },
         {
-          "title": "Tiger Woods charged with driving under influence after crash",
-          "summary": "Tiger Woods is charged with driving under the influence after rolling his car in a crash in Florida, police confirm.",
+          "title": "No Kings protests across the US rally against Donald Trump",
+          "summary": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen preformed to crowds.",
+          "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 28 Mar 2026 22:48:02 GMT"
+        },
+        {
+          "title": "Tiger Woods released on bail after DUI arrest",
+          "summary": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Florida.",
           "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 27 Mar 2026 21:24:44 GMT"
-        },
-        {
-          "title": "Spanish woman who died through euthanasia failed by state, say critics",
-          "summary": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father.",
-          "link": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 27 Mar 2026 12:09:06 GMT"
+          "pubDate": "Sat, 28 Mar 2026 06:47:10 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
+          "summary": "Managed futures, which track macro themes expected to play out over months, do well when traditional assets are falling. This could be one of those times.",
+          "link": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html",
+          "pubDate": "Sat, 28 Mar 2026 12:00:01 GMT"
+        },
         {
           "title": "Why one hedge fund veteran is urging investors to &apos;prepare for the worst&apos;",
           "summary": "DBi's Andrew Beer suggests the market's crystal ball is broken.",
@@ -145,17 +151,11 @@
           "summary": "Wall Street banks may finally be getting a long-awaited opening to claw back market share from private credit lenders.",
           "link": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html",
           "pubDate": "Fri, 27 Mar 2026 06:15:02 GMT"
-        },
-        {
-          "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: &apos;You have learned nothing from your failures&apos;",
-          "summary": "Kevin Warsh's nomination as chair of the Federal Reserve has been in limbo because of a criminal investigation of Chair Jerome Powell.",
-          "link": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html",
-          "pubDate": "Fri, 27 Mar 2026 15:52:49 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Houthis threaten to join Iran war if these 3 red lines crossed",
-          "summary": "The Houthis on Friday warned that if three lines are crossed by the U.S., Israel or other Middle East countries, they will join the Iran war and fight back. The Yemen-based group backed by Iran&#8217;s Islamic Revolutionary Guard Corps released five points, issued by the Yemeni Armed Forces, regarding the conflict. They include demands for&#8230;",
-          "link": "https://thehill.com/policy/international/5805195-houthi-threat-us-israel-iran/",
-          "pubDate": "Fri, 27 Mar 2026 22:35:51 +0000"
+          "title": "Sunday shows preview: GOP divide spills into DHS funding battle; Iran conflict widens",
+          "summary": "The funding fight to reopen the Department of Homeland Security (DHS) left a rupture among Republican lawmakers after the House voted against a Senate bill to partially fund the department. The Senate early Friday approved a bill by unanimous consent to fund DHS but not Immigration and Customs Enforcement (ICE) and the U.S. Border Patrol.&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5806066-sunday-shows-preview-gop-divide-spills-into-dhs-funding-battle-iran-conflict-widens/",
+          "pubDate": "Sat, 28 Mar 2026 22:25:03 +0000"
         },
         {
-          "title": "Live updates: House tees up vote on DHS stopgap after rejecting Senate bill; Trump orders TSA paid",
-          "summary": "House Republicans have teed up a vote Friday night on a stopgap bill to fund the Department of Homeland Security (DHS) at fiscal year 2025 levels for an additional eight weeks, after their stunning rebuke of a Senate-passed deal to fund most of the department. The bill is expected to pass, assuming the GOP doesn&#8217;t&#8230;",
-          "link": "https://thehill.com/homenews/administration/5802558-live-updates-trump-dhs-shutdown-tsa-iran/",
-          "pubDate": "Fri, 27 Mar 2026 22:25:00 +0000"
+          "title": "VP Vance wins CPAC straw poll for 2028 GOP presidential nod",
+          "summary": "Vice President JD Vance is the favorite to earn the Republican nomination for president in 2028, according to a new straw poll taken at the Conservative Political Action Conference (CPAC) on Saturday. Vance earned support from about 53 percent of attendees who participated in the presidential preference poll at the annual gathering in Grapevine, Texas,&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5806096-cpac-straw-poll-vance-rubio/",
+          "pubDate": "Sat, 28 Mar 2026 22:17:34 +0000"
         },
         {
-          "title": "Artists, celebrities protest outside Kennedy Center against Trump takeover",
-          "summary": "Actor Jane Fonda and singer Joan Baez were among the most notable celebrities at a demonstration of musicians, actors and artists in front of the Kennedy Center building Friday to denounce what they described as threats to free speech during President Trump&#8217;s second term. “We chose to hold today’s action in front of the John&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5805109-kennedy-center-protest-artists-united/",
-          "pubDate": "Fri, 27 Mar 2026 22:18:49 +0000"
+          "title": "Here&#8217;s where the funding fight for TSA, ICE and other DHS agencies stands amid shutdown",
+          "summary": "Congress and President Trump have made three separate attempts to direct government money toward the Department of Homeland Security (DHS) amid a funding lapse that has lasted 43 days with no end in sight. Funding toward DHS ceased after Senate Democrats blocked a bill to keep the department running. They called for sweeping reforms at&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5806028-congress-dhs-funding-attempts/",
+          "pubDate": "Sat, 28 Mar 2026 21:37:09 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Private Credit Funds Trap $5 Billion as Investors Rush for Exit",
-          "summary": "Private Credit Funds Trap $5 Billion as Investors Rush for Exit",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/private-credit-funds-trap-5-153943870.html",
-          "pubDate": "2026-03-26T15:39:43Z"
+          "title": "SpaceX And Anthropic IPO Frenzy Begins Early As REX Shares, Tuttle Capital File For 2x Leveraged ETFs",
+          "summary": "SpaceX And Anthropic IPO Frenzy Begins Early As REX Shares, Tuttle Capital File For 2x Leveraged ETFs",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-anthropic-ipo-frenzy-begins-223141127.html",
+          "pubDate": "2026-03-28T22:31:41Z"
         },
         {
-          "title": "Elliott Management Is Betting Billions on Synopsys. Should You Buy SNPS Stock Too?",
-          "summary": "Elliott Management Is Betting Billions on Synopsys. Should You Buy SNPS Stock Too?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/elliott-management-betting-billions-synopsys-154129289.html",
-          "pubDate": "2026-03-26T15:41:29Z"
+          "title": "Jim Cramer Says Stocks Like Generac (GNRC) “Make a Ton of Sense to Own Right Here” in Theory",
+          "summary": "Jim Cramer Says Stocks Like Generac (GNRC) “Make a Ton of Sense to Own Right Here” in Theory",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-stocks-generac-211719827.html",
+          "pubDate": "2026-03-28T21:17:19Z"
         },
         {
-          "title": "Crude Oil Sharply Higher on Concerns About Escalation of the Iran War",
-          "summary": "Crude Oil Sharply Higher on Concerns About Escalation of the Iran War",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-sharply-higher-concerns-153035860.html",
-          "pubDate": "2026-03-26T15:30:35Z"
+          "title": "Jim Cramer Provides the “Bear Case” for Paychex, Inc. (PAYX)",
+          "summary": "Jim Cramer Provides the “Bear Case” for Paychex, Inc. (PAYX)",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-provides-bear-case-211559670.html",
+          "pubDate": "2026-03-28T21:15:59Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists uncovered the nutrients bees were missing — Colonies surged 15-fold",
-          "summary": "Scientists have developed a breakthrough “superfood” for honeybees by engineering yeast to produce the essential nutrients normally found in pollen. In controlled trials, colonies fed this specially designed diet produced up to 15 times more young, showing a dramatic boost in reproduction and overall health. As climate change and modern agriculture reduce the availability of natural pollen, this innovation could offer a practical way to support struggling bee populations.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260327000518.htm",
-          "pubDate": "Fri, 27 Mar 2026 00:17:49 EDT"
+          "title": "Popular sugar substitute linked to brain damage and stroke risk",
+          "summary": "A widely used sugar substitute found in everything from keto snacks to diet drinks may not be as harmless as it seems. New research shows that erythritol can disrupt brain blood vessel cells, reducing their ability to relax, increasing harmful oxidative stress, and impairing the body’s ability to break down clots. These changes create conditions that could raise stroke risk, even at typical consumption levels.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260328065333.htm",
+          "pubDate": "Sat, 28 Mar 2026 07:01:23 EDT"
         },
         {
-          "title": "Scientists find gut bacteria inject proteins that control your immune system",
-          "summary": "Gut bacteria aren’t just passive passengers—they can actively send proteins straight into our cells. Using microscopic injection systems, even harmless microbes can influence immune responses and metabolic pathways. Researchers found these interactions may play a role in inflammatory diseases like Crohn’s. It’s a major shift in how scientists understand the microbiome’s power over human health.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260326080752.htm",
-          "pubDate": "Fri, 27 Mar 2026 08:23:14 EDT"
+          "title": "After 20 years, scientists finally explain the Crab Pulsar’s strange “zebra stripes”",
+          "summary": "For decades, astronomers have been puzzled by strange “zebra stripe” patterns in radio waves from the Crab Pulsar — bright bands separated by complete darkness. Now, new research suggests the answer lies in a cosmic tug-of-war between gravity and plasma. The pulsar’s plasma spreads light apart, while gravity bends it back together, creating interference patterns that form the striking stripes.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260328043605.htm",
+          "pubDate": "Sat, 28 Mar 2026 07:24:47 EDT"
         },
         {
-          "title": "Scientists discover “alien space weather stations” that could reveal habitable planets",
-          "summary": "Scientists have uncovered a surprising way to study the harsh space weather around young M dwarf stars. Mysterious dips in starlight turned out to be massive rings of plasma swirling in the stars’ magnetic fields. These structures act like built-in space weather monitors, revealing how energetic particles affect nearby planets. The findings could reshape how we think about whether planets around these common stars can survive—or even host life.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260326075618.htm",
-          "pubDate": "Fri, 27 Mar 2026 04:53:17 EDT"
+          "title": "This new carbon material could make carbon capture far more affordable",
+          "summary": "Scientists have created a new kind of carbon material that could make carbon capture much cheaper and more efficient. By carefully controlling how nitrogen atoms are arranged, they found certain structures capture CO2 better and release it using far less heat. One version works at temperatures below 60 °C, meaning it could run on waste heat instead of costly energy. The discovery offers a powerful new blueprint for next-generation climate technology.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260328043549.htm",
+          "pubDate": "Sat, 28 Mar 2026 08:05:36 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "siteName": "Science News",
       "items": [
         {
