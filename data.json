@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-29T23:00:56.215Z",
-  "date": "2026-03-30",
+  "lastUpdate": "2026-03-30T23:00:35.772Z",
+  "date": "2026-03-31",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "9 Best Android Phones of 2026, Tested and Reviewed",
-          "summary": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money.",
-          "link": "https://www.wired.com/gallery/best-android-phones/",
-          "pubDate": "Sun, 29 Mar 2026 11:00:00 +0000"
+          "title": "Our Favorite Amazon Streaming Stick Is Almost Half Off",
+          "summary": "The Fire TV Stick 4K Max is great for the Prime Video devout and handles other streaming services just as well.",
+          "link": "https://www.wired.com/story/fire-tv-stick-max-deal-326/",
+          "pubDate": "Mon, 30 Mar 2026 17:58:39 +0000"
         },
         {
-          "title": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
-          "summary": "The incidents in Austin raise questions about how self-driving cars “learn” and adapt to their surroundings.",
-          "link": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/",
-          "pubDate": "Sun, 29 Mar 2026 11:00:00 +0000"
+          "title": "5 Best Video Doorbell Cameras (2026): Smart, Battery, AI, Budget, and Subscription-Free",
+          "summary": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
+          "link": "https://www.wired.com/gallery/best-video-doorbells/",
+          "pubDate": "Mon, 30 Mar 2026 11:30:00 +0000"
         },
         {
-          "title": "Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That",
-          "summary": "All your snaps come with metadata containing more information than you might realize.",
-          "link": "https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/",
-          "pubDate": "Sun, 29 Mar 2026 10:30:00 +0000"
+          "title": "The Best Earplugs for Protecting Your Hearing (2026)",
+          "summary": "Whether you want to sleep through the party or rock out (safely) to your favorite band, these earplugs will help block out the noise.",
+          "link": "https://www.wired.com/story/best-earplugs/",
+          "pubDate": "Mon, 30 Mar 2026 11:01:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "The Pixel 10a doesn&#8217;t have a camera bump, and it&#8217;s great",
-          "summary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
-          "link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
-          "pubDate": "Sun, 29 Mar 2026 21:30:00 +0000"
+          "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
+          "summary": "A few things turned investors' heads and drew them to participate in such a big round out of the gate.",
+          "link": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+          "pubDate": "Mon, 30 Mar 2026 21:53:09 +0000"
         },
         {
-          "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
-          "summary": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
-          "link": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
-          "pubDate": "Sun, 29 Mar 2026 21:17:52 +0000"
+          "title": "15% of Americans say they&#8217;d be willing to work for an AI boss",
+          "summary": "Your human manager may soon be a chatbot. Across organizations, AI is being used to replace layers of management in what some are calling \"The Great Flattening.\"",
+          "link": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
+          "pubDate": "Mon, 30 Mar 2026 21:39:51 +0000"
         },
         {
-          "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
-          "summary": "Amazon’s bet on “Project Hail Mary” has paid off handsomely.",
-          "link": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
-          "pubDate": "Sun, 29 Mar 2026 19:50:57 +0000"
+          "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+          "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+          "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+          "pubDate": "Mon, 30 Mar 2026 20:24:53 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-          "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
-          "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 29 Mar 2026 00:02:46 GMT"
+          "title": "Spain closes airspace to US aircraft involved in Iran war",
+          "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
+          "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 30 Mar 2026 15:29:15 GMT"
         },
         {
-          "title": "Iranian attacks across Gulf continue as major industrial sites hit",
-          "summary": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.",
-          "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 29 Mar 2026 13:32:49 GMT"
+          "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+          "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it.",
+          "link": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 30 Mar 2026 14:46:15 GMT"
         },
         {
-          "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-          "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
-          "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 29 Mar 2026 07:51:04 GMT"
+          "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+          "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 30 Mar 2026 17:53:51 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
-          "summary": "Managed futures, which track macro themes expected to play out over months, do well when traditional assets are falling. This could be one of those times.",
-          "link": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html",
-          "pubDate": "Sat, 28 Mar 2026 12:00:01 GMT"
+          "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+          "summary": "Federal Reserve Chair Jerome Powell spoke Monday at Harvard University.",
+          "link": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
+          "pubDate": "Mon, 30 Mar 2026 19:34:25 GMT"
         },
         {
-          "title": "Why one hedge fund veteran is urging investors to &apos;prepare for the worst&apos;",
-          "summary": "DBi's Andrew Beer suggests the market's crystal ball is broken.",
-          "link": "https://www.cnbc.com/2026/03/27/iran-to-economic-risks-markets-ability-to-forecast-world-in-question.html",
-          "pubDate": "Fri, 27 Mar 2026 11:00:01 GMT"
+          "title": "Bill Ackman says it’s one of the best times in a long time to buy quality stocks",
+          "summary": "Ackman's bullish stance comes at a time when markets have been rattled by rising energy prices and sticky inflation concerns.",
+          "link": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
+          "pubDate": "Mon, 30 Mar 2026 15:46:33 GMT"
         },
         {
-          "title": "Private credit&apos;s cracks open door for Wall Street banks&apos; comeback: &apos;The tug of war is just starting&apos;",
-          "summary": "Wall Street banks may finally be getting a long-awaited opening to claw back market share from private credit lenders.",
-          "link": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html",
-          "pubDate": "Fri, 27 Mar 2026 06:15:02 GMT"
+          "title": "Fed Governor Miran still backs cuts, says interest rates could be &apos;about a point&apos; lower this year",
+          "summary": "Federal Reserve Governor Stephen Miran spoke Monday on CNBC's \"Squawk on the Street.\"",
+          "link": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
+          "pubDate": "Mon, 30 Mar 2026 14:54:18 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "North Korea conducts test for missile it claims can target US mainland",
-          "summary": "North Korea on Sunday conducted a missile test for an upgraded solid-fuel engine it says can reach the U.S. mainland, according to state media.&#160; The country reported the engine’s maximum thrust is 2,500 kilonewtons, noting an increase from a 1,970-kilonewtons test in September, according to the official Korean Central News Agency. The test took place&#8230;",
-          "link": "https://thehill.com/policy/international/5806816-north-korea-missile-test/",
-          "pubDate": "Sun, 29 Mar 2026 22:44:20 +0000"
+          "title": "TLC singer says she &#8216;made a mistake&#8217; with Trump donations: &#8216;I am not MAGA&#8217;",
+          "summary": "TLC singer Chilli said Sunday she “made a mistake” by donating to President Trump and distanced herself from the MAGA movement. “I WANT TO BE CLEAR: I am not MAGA and do not support any of the many policies that are causing great harm to the American people. I made a mistake too many make:&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5808138-tlc-chilli-trump-maga-donations/",
+          "pubDate": "Mon, 30 Mar 2026 22:04:45 +0000"
         },
         {
-          "title": "Former Centcom commander: US military has been working on Iran ground raid plans for years",
-          "summary": "Retired Gen. Frank McKenzie, the former commander of U.S. Central Command (Centcom), said Sunday that the U.S. military has been working on plans for a ground raid in Iran for years, as President Trump is reportedly considering sending troops into the war. “Margaret, for many years we&#8217;ve considered options along the southern coast of Iran,&#8230;",
-          "link": "https://thehill.com/policy/defense/5806811-mckenzie-us-iran-raids/",
-          "pubDate": "Sun, 29 Mar 2026 22:02:48 +0000"
+          "title": "Raskin rips Patel over reported plan to release decade-old Swalwell files",
+          "summary": "Rep. Jamie Raskin (D-Md.) on Saturday slammed FBI Director Kash Patel for reportedly pushing to release files related to Rep. Eric Swalwell’s (D-Calif.) interactions with a suspected Chinese spy.&#160; “The FBI is attempting to smear a sitting U.S. Congressman, candidate for governor, and vocal opponent of the president,” Raskin, the ranking member of the House&#8230;",
+          "link": "https://thehill.com/homenews/house/5807934-jamie-raskin-kash-patel-fbi-eric-swalwell/",
+          "pubDate": "Mon, 30 Mar 2026 21:56:05 +0000"
         },
         {
-          "title": "House Democrat warns of &#8216;boots-on-the-ground quagmire&#8217; in Iran",
-          "summary": "Rep. Jake Auchincloss (D-Mass.) on Sunday warned against putting American boots on the ground on Iran’s mainland and Kharg Island, noting it could lead to future requests that suggest the possibility of a longer war.&#160; President Trump hasn’t ruled out the possibility of a ground invasion but has in recent weeks suggested Operation Epic Fury&#8230;",
-          "link": "https://thehill.com/homenews/house/5806767-auchincloss-warns-against-iran-invasion/",
-          "pubDate": "Sun, 29 Mar 2026 21:07:59 +0000"
+          "title": "‘Do the math’: Trump hits critical timeline marker as Iran war wages on",
+          "summary": "The U.S.-Israeli war in Iran hit one month Monday, marking a critical mile marker for the Trump administration amid pressure to wrap the operation. President Trump and his deputies initially suggested the conflict would last four to six weeks following the initial strikes on the country late last month. However, despite saying the U.S. has&#8230;",
+          "link": "https://thehill.com/homenews/administration/5808137-trump-war-timeline-pressure/",
+          "pubDate": "Mon, 30 Mar 2026 21:55:39 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Dow Jones Futures Fall, Oil Prices Run Past $100 Amid Latest Iran News; Market At Six-Month Lows",
-          "summary": "Dow Jones Futures Fall, Oil Prices Run Past $100 Amid Latest Iran News; Market At Six-Month Lows",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-near-100-iran-war-drags-tesla-deliveries/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-03-29T22:44:11Z"
+          "title": "Can Capital One Prove Itself in 2026?",
+          "summary": "Can Capital One Prove Itself in 2026?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-prove-itself-2026-142200042.html",
+          "pubDate": "2026-03-29T14:22:00Z"
         },
         {
-          "title": "Why Buying the Market Dip Right Now Could Be the Best Financial Decision of 2026",
-          "summary": "Why Buying the Market Dip Right Now Could Be the Best Financial Decision of 2026",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-buying-market-dip-now-223000954.html",
-          "pubDate": "2026-03-29T22:30:00Z"
+          "title": "As Meta Doubles Down on Data Center Investment, AMD and American Tower Could Be the Top Stocks to Buy",
+          "summary": "As Meta Doubles Down on Data Center Investment, AMD and American Tower Could Be the Top Stocks to Buy",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/meta-doubles-down-data-center-140002961.html",
+          "pubDate": "2026-03-29T14:00:02Z"
         },
         {
-          "title": "How to get a business loan",
-          "summary": "How to get a business loan",
-          "link": "https://finance.yahoo.com/economy/policy/articles/business-loan-6-steps-191951647.html",
-          "pubDate": "2026-03-29T21:36:47Z"
+          "title": "Occidental Petroleum Stock May Be at a Peak - Time to Sell OXY Covered Calls?",
+          "summary": "Occidental Petroleum Stock May Be at a Peak - Time to Sell OXY Covered Calls?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-may-peak-140002101.html",
+          "pubDate": "2026-03-29T14:00:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists solved the mystery of missing ocean plastic—and the answer is alarming",
-          "summary": "Scientists have discovered that the ocean’s “missing” plastic hasn’t vanished—it has broken down into trillions of invisible nanoplastics now spread through water, air, and living organisms. These tiny particles may be everywhere, including inside our bodies, raising serious concerns about their impact.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260329041649.htm",
-          "pubDate": "Sun, 29 Mar 2026 08:41:00 EDT"
+          "title": "Simple therapies beat drugs for knee arthritis pain relief",
+          "summary": "A major analysis of nearly 10,000 patients shows that simple, non-drug treatments like knee braces, hydrotherapy, and exercise can significantly ease knee osteoarthritis symptoms. These approaches not only reduce pain and improve mobility, but also avoid the risks tied to common medications. The findings suggest that low-cost, accessible therapies could play a bigger role in how doctors treat arthritis in the future.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260330084511.htm",
+          "pubDate": "Mon, 30 Mar 2026 08:52:03 EDT"
         },
         {
-          "title": "Scientists just found a way to store massive data using light in 3 dimensions",
-          "summary": "A new holographic storage technique uses light in three dimensions to dramatically increase how much data can be stored. It encodes information throughout a material using amplitude, phase, and polarization, rather than just on a surface. An AI model then reconstructs the data from light patterns, simplifying the process. This could pave the way for faster, denser, and more efficient data storage systems.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260328212132.htm",
-          "pubDate": "Sun, 29 Mar 2026 00:58:47 EDT"
+          "title": "Webb telescope spots mysterious explosion that defies known physics",
+          "summary": "Astronomers have spotted a bizarre cosmic explosion that refuses to play by the rules—and it’s leaving scientists scrambling for answers. GRB 250702B, detected by NASA’s James Webb Space Telescope and a global network of observatories, lasted an astonishing seven hours—far longer than typical gamma-ray bursts, which usually fade in under a minute.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260330001156.htm",
+          "pubDate": "Mon, 30 Mar 2026 08:33:20 EDT"
         },
         {
-          "title": "Popular sugar substitute linked to brain damage and stroke risk",
-          "summary": "A widely used sugar substitute found in everything from keto snacks to diet drinks may not be as harmless as it seems. New research shows that erythritol can disrupt brain blood vessel cells, reducing their ability to relax, increasing harmful oxidative stress, and impairing the body’s ability to break down clots. These changes create conditions that could raise stroke risk, even at typical consumption levels.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260328065333.htm",
-          "pubDate": "Sat, 28 Mar 2026 07:01:23 EDT"
+          "title": "Monster black holes are silencing star formation across the universe",
+          "summary": "A blazing supermassive black hole can influence far more than its own galaxy. Scientists found that quasars emit radiation strong enough to shut down star formation in nearby galaxies millions of light-years away. This could explain why some galaxies near early quasars appear faint or missing. The finding suggests galaxies grow and evolve together, not in isolation.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260330001145.htm",
+          "pubDate": "Mon, 30 Mar 2026 08:23:11 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Heavy soil tilling for agriculture can do more harm than good",
+          "summary": "The tiny seismic signals of rainwater moving through the ground show how heavy tilling damage soil.",
+          "link": "https://www.sciencenews.org/article/soil-tilling-flood-drought-resilience",
+          "pubDate": "Mon, 30 Mar 2026 16:30:00 +0000"
+        },
+        {
+          "title": "Quantum physics can confirm where someone is located",
+          "summary": "The concept of entanglement links far-flung particles. That relationship can prove that someone is in the location they claim to be.",
+          "link": "https://www.sciencenews.org/article/quantum-physics-location-security",
+          "pubDate": "Mon, 30 Mar 2026 15:00:00 +0000"
+        },
         {
           "title": "How snakes defy gravity to stand tall",
           "summary": "Limbless tree snakes can lift most of their body into the air without toppling. They manage this by focusing all their bending forces at their base.",
           "link": "https://www.sciencenews.org/article/how-snakes-defy-gravity-to-stand-tall",
           "pubDate": "Fri, 27 Mar 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Welcome to the weird world of AI agent teams",
-          "summary": "AI agents are starting to work in teams, but without careful organization, groups of bots can easily fall into chaos.",
-          "link": "https://www.sciencenews.org/article/ai-agent-teams-fail-succeed-bots-chaos",
-          "pubDate": "Fri, 27 Mar 2026 14:00:00 +0000"
-        },
-        {
-          "title": "A rare star in a tiny galaxy preserves a record of the early universe",
-          "summary": "Found in an ultrafaint dwarf galaxy, the ancient star’s unusual chemistry indicates it formed from gas enriched by a single early supernova.",
-          "link": "https://www.sciencenews.org/article/primitive-star-galaxy-early-universe",
-          "pubDate": "Fri, 27 Mar 2026 12:00:00 +0000"
         }
       ]
     }
