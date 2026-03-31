@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-30T23:00:35.772Z",
-  "date": "2026-03-31",
+  "lastUpdate": "2026-03-31T23:00:23.029Z",
+  "date": "2026-04-01",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Our Favorite Amazon Streaming Stick Is Almost Half Off",
-          "summary": "The Fire TV Stick 4K Max is great for the Prime Video devout and handles other streaming services just as well.",
-          "link": "https://www.wired.com/story/fire-tv-stick-max-deal-326/",
-          "pubDate": "Mon, 30 Mar 2026 17:58:39 +0000"
+          "title": "Artemis II Countdown: How and When to Watch the Launch",
+          "summary": "Here’s everything you need to know about the Artemis II mission, the long-awaited (and long-delayed) human return to the moon.",
+          "link": "https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/",
+          "pubDate": "Tue, 31 Mar 2026 21:48:52 +0000"
         },
         {
-          "title": "5 Best Video Doorbell Cameras (2026): Smart, Battery, AI, Budget, and Subscription-Free",
-          "summary": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
-          "link": "https://www.wired.com/gallery/best-video-doorbells/",
-          "pubDate": "Mon, 30 Mar 2026 11:30:00 +0000"
+          "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
+          "summary": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran’s Islamic Revolutionary Guard Corps.",
+          "link": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
+          "pubDate": "Tue, 31 Mar 2026 21:25:12 +0000"
         },
         {
-          "title": "The Best Earplugs for Protecting Your Hearing (2026)",
-          "summary": "Whether you want to sleep through the party or rock out (safely) to your favorite band, these earplugs will help block out the noise.",
-          "link": "https://www.wired.com/story/best-earplugs/",
-          "pubDate": "Mon, 30 Mar 2026 11:01:00 +0000"
+          "title": "Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper",
+          "summary": "Amazon has the Coway Airmega Mighty marked down to two-thirds its normal price.",
+          "link": "https://www.wired.com/story/coway-airmega-mighty-deal-326/",
+          "pubDate": "Tue, 31 Mar 2026 18:02:31 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
-          "summary": "A few things turned investors' heads and drew them to participate in such a big round out of the gate.",
-          "link": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
-          "pubDate": "Mon, 30 Mar 2026 21:53:09 +0000"
+          "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+          "summary": "Slack just got a whole lot more useful.",
+          "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+          "pubDate": "Tue, 31 Mar 2026 22:46:25 +0000"
         },
         {
-          "title": "15% of Americans say they&#8217;d be willing to work for an AI boss",
-          "summary": "Your human manager may soon be a chatbot. Across organizations, AI is being used to replace layers of management in what some are calling \"The Great Flattening.\"",
-          "link": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
-          "pubDate": "Mon, 30 Mar 2026 21:39:51 +0000"
+          "title": "Robotaxi companies refuse to say how often their AVs need remote help",
+          "summary": "Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox all refused to cough up a number during Senator Ed Markey's recent investigation.",
+          "link": "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/",
+          "pubDate": "Tue, 31 Mar 2026 21:35:51 +0000"
         },
         {
-          "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-          "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
-          "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-          "pubDate": "Mon, 30 Mar 2026 20:24:53 +0000"
+          "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+          "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+          "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+          "pubDate": "Tue, 31 Mar 2026 21:25:04 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Spain closes airspace to US aircraft involved in Iran war",
-          "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
-          "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 30 Mar 2026 15:29:15 GMT"
+          "title": "Iran using children in security roles in war, reports and witnesses say",
+          "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+          "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 31 Mar 2026 12:56:45 GMT"
         },
         {
-          "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
-          "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it.",
-          "link": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 30 Mar 2026 14:46:15 GMT"
+          "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+          "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+          "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 31 Mar 2026 18:57:25 GMT"
         },
         {
-          "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
-          "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
-          "link": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 30 Mar 2026 17:53:51 GMT"
+          "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+          "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+          "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 31 Mar 2026 21:08:35 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
-          "summary": "Federal Reserve Chair Jerome Powell spoke Monday at Harvard University.",
-          "link": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
-          "pubDate": "Mon, 30 Mar 2026 19:34:25 GMT"
+          "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
+          "summary": "The Berkshire Hathaway chairman said the growing number of nuclear-armed states has fundamentally altered the global risk landscape.",
+          "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html",
+          "pubDate": "Tue, 31 Mar 2026 17:16:22 GMT"
         },
         {
-          "title": "Bill Ackman says it’s one of the best times in a long time to buy quality stocks",
-          "summary": "Ackman's bullish stance comes at a time when markets have been rattled by rising energy prices and sticky inflation concerns.",
-          "link": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
-          "pubDate": "Mon, 30 Mar 2026 15:46:33 GMT"
+          "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
+          "summary": "Apple remains Berkshire Hathaway's largest holding even after the conglomerate trimmed its stake at the end of last year.",
+          "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html",
+          "pubDate": "Tue, 31 Mar 2026 15:31:12 GMT"
         },
         {
-          "title": "Fed Governor Miran still backs cuts, says interest rates could be &apos;about a point&apos; lower this year",
-          "summary": "Federal Reserve Governor Stephen Miran spoke Monday on CNBC's \"Squawk on the Street.\"",
-          "link": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
-          "pubDate": "Mon, 30 Mar 2026 14:54:18 GMT"
+          "title": "Warren Buffett says he&apos;s still making calls on investments at Berkshire, flags &apos;tiny&apos; new buy",
+          "summary": "The 95-year-old investor said he still comes into the office daily and stays engaged with markets.",
+          "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-hes-still-making-calls-on-investments-at-berkshire-flags-tiny-new-buy.html",
+          "pubDate": "Tue, 31 Mar 2026 15:02:49 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "TLC singer says she &#8216;made a mistake&#8217; with Trump donations: &#8216;I am not MAGA&#8217;",
-          "summary": "TLC singer Chilli said Sunday she “made a mistake” by donating to President Trump and distanced herself from the MAGA movement. “I WANT TO BE CLEAR: I am not MAGA and do not support any of the many policies that are causing great harm to the American people. I made a mistake too many make:&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5808138-tlc-chilli-trump-maga-donations/",
-          "pubDate": "Mon, 30 Mar 2026 22:04:45 +0000"
+          "title": "Jan. 6 rioters seek millions in lawsuit accusing police of excessive force",
+          "summary": "A group of people who stormed the Capitol on Jan. 6, 2021, sued the federal government on Friday, alleging that police officers used excessive force to crack down on the riot. The lawsuit, filed in federal court in the Middle District of Florida’s Ocala Division, alleges that Capitol Police and Metropolitan Police Department (MPD) officers&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5809800-jan-6-rioters-seek-millions-in-lawsuit-accusing-police-of-excessive-force/",
+          "pubDate": "Tue, 31 Mar 2026 22:15:46 +0000"
         },
         {
-          "title": "Raskin rips Patel over reported plan to release decade-old Swalwell files",
-          "summary": "Rep. Jamie Raskin (D-Md.) on Saturday slammed FBI Director Kash Patel for reportedly pushing to release files related to Rep. Eric Swalwell’s (D-Calif.) interactions with a suspected Chinese spy.&#160; “The FBI is attempting to smear a sitting U.S. Congressman, candidate for governor, and vocal opponent of the president,” Raskin, the ranking member of the House&#8230;",
-          "link": "https://thehill.com/homenews/house/5807934-jamie-raskin-kash-patel-fbi-eric-swalwell/",
-          "pubDate": "Mon, 30 Mar 2026 21:56:05 +0000"
+          "title": "Rhode Island rep hosting &#8216;Real Housewives&#8217; premiere watch party",
+          "summary": "Rep. Seth Magaziner (D-R.I.) is set to host an April 2 watch party for the premiere of &#8220;The Real Housewives of Rhode Island&#8221; alongside two state lawmakers, according to TMZ. The outlet reported that state Rep. Jacquelyn Baginski (D) and state Sen. Hanna Gallo (D) will help host the event to celebrate the newest edition&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5809934-ri-housewives-watch-party-magaziner/",
+          "pubDate": "Tue, 31 Mar 2026 22:04:45 +0000"
         },
         {
-          "title": "‘Do the math’: Trump hits critical timeline marker as Iran war wages on",
-          "summary": "The U.S.-Israeli war in Iran hit one month Monday, marking a critical mile marker for the Trump administration amid pressure to wrap the operation. President Trump and his deputies initially suggested the conflict would last four to six weeks following the initial strikes on the country late last month. However, despite saying the U.S. has&#8230;",
-          "link": "https://thehill.com/homenews/administration/5808137-trump-war-timeline-pressure/",
-          "pubDate": "Mon, 30 Mar 2026 21:55:39 +0000"
+          "title": "Live updates: Trump signs mail-in voting order; judge rules president overstepped authority in ballroom construction",
+          "summary": "President Trump on Tuesday signed an executive order that targets mail-in voting, harnessing federal data and adding verification by the U.S. Postal Service. Commerce Secretary Howard Lutnick, at the signing, said Trump is &#8220;going to make sure that mail-in ballots are safe, secure and accurate.&#8221; A federal judge on Tuesday afternoon halted construction of Trump&#8217;s&#8230;",
+          "link": "https://thehill.com/homenews/administration/5807651-live-updates-trump-hegseth-iran-supreme-court/",
+          "pubDate": "Tue, 31 Mar 2026 21:40:57 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Can Capital One Prove Itself in 2026?",
-          "summary": "Can Capital One Prove Itself in 2026?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-prove-itself-2026-142200042.html",
-          "pubDate": "2026-03-29T14:22:00Z"
+          "title": "Alcoa leads aluminium rally after Iranian strikes hit gulf smelters",
+          "summary": "Alcoa leads aluminium rally after Iranian strikes hit gulf smelters",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/alcoa-leads-aluminium-rally-iranian-144100204.html",
+          "pubDate": "2026-03-30T14:41:00Z"
         },
         {
-          "title": "As Meta Doubles Down on Data Center Investment, AMD and American Tower Could Be the Top Stocks to Buy",
-          "summary": "As Meta Doubles Down on Data Center Investment, AMD and American Tower Could Be the Top Stocks to Buy",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/meta-doubles-down-data-center-140002961.html",
-          "pubDate": "2026-03-29T14:00:02Z"
+          "title": "Trump Says Micron Is One of the 'Hottest' Stocks. Does That Make MU a Buy Here?",
+          "summary": "Trump Says Micron Is One of the 'Hottest' Stocks. Does That Make MU a Buy Here?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/trump-says-micron-one-hottest-144100426.html",
+          "pubDate": "2026-03-30T14:41:00Z"
         },
         {
-          "title": "Occidental Petroleum Stock May Be at a Peak - Time to Sell OXY Covered Calls?",
-          "summary": "Occidental Petroleum Stock May Be at a Peak - Time to Sell OXY Covered Calls?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-may-peak-140002101.html",
-          "pubDate": "2026-03-29T14:00:02Z"
+          "title": "Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases",
+          "summary": "Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases",
+          "link": "https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-03-30T14:37:57Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+          "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
+          "link": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+          "pubDate": "Mon, 30 Mar 2026 21:39:42 EDT"
+        },
         {
           "title": "Simple therapies beat drugs for knee arthritis pain relief",
           "summary": "A major analysis of nearly 10,000 patients shows that simple, non-drug treatments like knee braces, hydrotherapy, and exercise can significantly ease knee osteoarthritis symptoms. These approaches not only reduce pain and improve mobility, but also avoid the risks tied to common medications. The findings suggest that low-cost, accessible therapies could play a bigger role in how doctors treat arthritis in the future.",
@@ -241,36 +247,30 @@
           "summary": "Astronomers have spotted a bizarre cosmic explosion that refuses to play by the rules—and it’s leaving scientists scrambling for answers. GRB 250702B, detected by NASA’s James Webb Space Telescope and a global network of observatories, lasted an astonishing seven hours—far longer than typical gamma-ray bursts, which usually fade in under a minute.",
           "link": "https://www.sciencedaily.com/releases/2026/03/260330001156.htm",
           "pubDate": "Mon, 30 Mar 2026 08:33:20 EDT"
-        },
-        {
-          "title": "Monster black holes are silencing star formation across the universe",
-          "summary": "A blazing supermassive black hole can influence far more than its own galaxy. Scientists found that quasars emit radiation strong enough to shut down star formation in nearby galaxies millions of light-years away. This could explain why some galaxies near early quasars appear faint or missing. The finding suggests galaxies grow and evolve together, not in isolation.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260330001145.htm",
-          "pubDate": "Mon, 30 Mar 2026 08:23:11 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Heavy soil tilling for agriculture can do more harm than good",
-          "summary": "The tiny seismic signals of rainwater moving through the ground show how heavy tilling damage soil.",
-          "link": "https://www.sciencenews.org/article/soil-tilling-flood-drought-resilience",
-          "pubDate": "Mon, 30 Mar 2026 16:30:00 +0000"
+          "title": "Pronatalists want more babies. Their solutions aren’t rooted in science",
+          "summary": "Conservative pronatalists want a return to the traditional nuclear family. But that family structure is at odds with how humans evolved.",
+          "link": "https://www.sciencenews.org/article/pronatalists-babies-birth-rate-family",
+          "pubDate": "Tue, 31 Mar 2026 19:00:00 +0000"
         },
         {
-          "title": "Quantum physics can confirm where someone is located",
-          "summary": "The concept of entanglement links far-flung particles. That relationship can prove that someone is in the location they claim to be.",
-          "link": "https://www.sciencenews.org/article/quantum-physics-location-security",
-          "pubDate": "Mon, 30 Mar 2026 15:00:00 +0000"
+          "title": "A comet may have flipped its spin and entered into a death spiral",
+          "summary": "Gases jetting out of Comet 41P/Tuttle-Giacobini-Kresák may have caused it to reverse its spin in 2017, possibly leading to its eventual destruction.",
+          "link": "https://www.sciencenews.org/article/comet-41p-reversed-spin-death-spiral",
+          "pubDate": "Tue, 31 Mar 2026 16:00:00 +0000"
         },
         {
-          "title": "How snakes defy gravity to stand tall",
-          "summary": "Limbless tree snakes can lift most of their body into the air without toppling. They manage this by focusing all their bending forces at their base.",
-          "link": "https://www.sciencenews.org/article/how-snakes-defy-gravity-to-stand-tall",
-          "pubDate": "Fri, 27 Mar 2026 16:00:00 +0000"
+          "title": "Secrets of the Bees zooms in on life in a hive",
+          "summary": "A new documentary available on Disney+ and Hulu appeals to our sense of wonder to highlight why bees need saving.",
+          "link": "https://www.sciencenews.org/article/secrets-bees-james-cameron",
+          "pubDate": "Tue, 31 Mar 2026 13:00:00 +0000"
         }
       ]
     }
