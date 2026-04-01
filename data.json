@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-31T23:00:23.029Z",
-  "date": "2026-04-01",
+  "lastUpdate": "2026-04-01T23:00:37.142Z",
+  "date": "2026-04-02",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Artemis II Countdown: How and When to Watch the Launch",
-          "summary": "Here’s everything you need to know about the Artemis II mission, the long-awaited (and long-delayed) human return to the moon.",
-          "link": "https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/",
-          "pubDate": "Tue, 31 Mar 2026 21:48:52 +0000"
+          "title": "Samsung’s Best OLED TV Is $300 Off",
+          "summary": "The gorgeous Samsung S95F QD-OLED is on super sale ahead of the newest models hitting stores.",
+          "link": "https://www.wired.com/story/samsung-s95f-tv-deal-326/",
+          "pubDate": "Wed, 01 Apr 2026 20:00:00 +0000"
         },
         {
-          "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
-          "summary": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran’s Islamic Revolutionary Guard Corps.",
-          "link": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
-          "pubDate": "Tue, 31 Mar 2026 21:25:12 +0000"
+          "title": "FDA Approves Eli Lilly’s GLP-1 Pill",
+          "summary": "Eli Lilly’s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk’s pill version of Wegovy.",
+          "link": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
+          "pubDate": "Wed, 01 Apr 2026 18:56:03 +0000"
         },
         {
-          "title": "Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper",
-          "summary": "Amazon has the Coway Airmega Mighty marked down to two-thirds its normal price.",
-          "link": "https://www.wired.com/story/coway-airmega-mighty-deal-326/",
-          "pubDate": "Tue, 31 Mar 2026 18:02:31 +0000"
+          "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+          "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+          "link": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+          "pubDate": "Wed, 01 Apr 2026 18:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-          "summary": "Slack just got a whole lot more useful.",
-          "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-          "pubDate": "Tue, 31 Mar 2026 22:46:25 +0000"
+          "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+          "summary": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.",
+          "link": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+          "pubDate": "Wed, 01 Apr 2026 22:58:39 +0000"
         },
         {
-          "title": "Robotaxi companies refuse to say how often their AVs need remote help",
-          "summary": "Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox all refused to cough up a number during Senator Ed Markey's recent investigation.",
-          "link": "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/",
-          "pubDate": "Tue, 31 Mar 2026 21:35:51 +0000"
+          "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+          "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+          "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+          "pubDate": "Wed, 01 Apr 2026 22:12:13 +0000"
         },
         {
-          "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-          "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-          "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-          "pubDate": "Tue, 31 Mar 2026 21:25:04 +0000"
+          "title": "The reputation of troubled YC startup Delve has gotten even worse",
+          "summary": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
+          "link": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+          "pubDate": "Wed, 01 Apr 2026 21:23:47 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran using children in security roles in war, reports and witnesses say",
-          "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
-          "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 31 Mar 2026 12:56:45 GMT"
+          "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+          "summary": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
+          "link": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 01 Apr 2026 16:31:17 GMT"
         },
         {
-          "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-          "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
-          "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 31 Mar 2026 18:57:25 GMT"
+          "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+          "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
+          "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 01 Apr 2026 10:33:35 GMT"
         },
         {
-          "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
-          "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
-          "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 31 Mar 2026 21:08:35 GMT"
+          "title": "Families cram into Greek court for trial into deadliest train crash",
+          "summary": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.",
+          "link": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 01 Apr 2026 16:30:17 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Visa launches new AI tools to manage the charge dispute process",
+          "summary": "Visa's new tools are part of a larger push by major banks and financial institutions to incorporate AI into their businesses.",
+          "link": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
+          "pubDate": "Wed, 01 Apr 2026 15:26:51 GMT"
+        },
         {
           "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
           "summary": "The Berkshire Hathaway chairman said the growing number of nuclear-armed states has fundamentally altered the global risk landscape.",
@@ -145,17 +151,11 @@
           "summary": "Apple remains Berkshire Hathaway's largest holding even after the conglomerate trimmed its stake at the end of last year.",
           "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html",
           "pubDate": "Tue, 31 Mar 2026 15:31:12 GMT"
-        },
-        {
-          "title": "Warren Buffett says he&apos;s still making calls on investments at Berkshire, flags &apos;tiny&apos; new buy",
-          "summary": "The 95-year-old investor said he still comes into the office daily and stays engaged with markets.",
-          "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-hes-still-making-calls-on-investments-at-berkshire-flags-tiny-new-buy.html",
-          "pubDate": "Tue, 31 Mar 2026 15:02:49 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Jan. 6 rioters seek millions in lawsuit accusing police of excessive force",
-          "summary": "A group of people who stormed the Capitol on Jan. 6, 2021, sued the federal government on Friday, alleging that police officers used excessive force to crack down on the riot. The lawsuit, filed in federal court in the Middle District of Florida’s Ocala Division, alleges that Capitol Police and Metropolitan Police Department (MPD) officers&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5809800-jan-6-rioters-seek-millions-in-lawsuit-accusing-police-of-excessive-force/",
-          "pubDate": "Tue, 31 Mar 2026 22:15:46 +0000"
+          "title": "NATO&#8217;s Rutte schedules Washington trip as Trump reevaluates alliance",
+          "summary": "NATO Secretary General Mark Rutte will meet with President Trump in Washington next week as Trump publicly weighs pulling the U.S. out of the alliance over the war in Iran.&#160; A White House official confirmed the development to The Hill after The Wall Street Journal first reported on Rutte’s visit. NATO spokeswoman Allison Hart told&#8230;",
+          "link": "https://thehill.com/homenews/5812066-natos-rutte-schedules-washington-trip-as-trump-reevaluates-alliance/",
+          "pubDate": "Wed, 01 Apr 2026 22:36:01 +0000"
         },
         {
-          "title": "Rhode Island rep hosting &#8216;Real Housewives&#8217; premiere watch party",
-          "summary": "Rep. Seth Magaziner (D-R.I.) is set to host an April 2 watch party for the premiere of &#8220;The Real Housewives of Rhode Island&#8221; alongside two state lawmakers, according to TMZ. The outlet reported that state Rep. Jacquelyn Baginski (D) and state Sen. Hanna Gallo (D) will help host the event to celebrate the newest edition&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5809934-ri-housewives-watch-party-magaziner/",
-          "pubDate": "Tue, 31 Mar 2026 22:04:45 +0000"
+          "title": "Iranian president leaves door open to diplomacy in open letter to US",
+          "summary": "Iranian President Masoud Pezeshkian released a letter addressed to “the people of the United States of America” on Wednesday, hours before President Trump is scheduled to address the nation about the U.S. military’s ongoing operations against Iran.&#160; &#8220;Today, the world stands at a crossroads,” Pezeshkian wrote in a letter posted on the social platform X.&#160;&#8230;",
+          "link": "https://thehill.com/policy/international/5812032-iran-president-letter-us-trump/",
+          "pubDate": "Wed, 01 Apr 2026 22:29:50 +0000"
         },
         {
-          "title": "Live updates: Trump signs mail-in voting order; judge rules president overstepped authority in ballroom construction",
-          "summary": "President Trump on Tuesday signed an executive order that targets mail-in voting, harnessing federal data and adding verification by the U.S. Postal Service. Commerce Secretary Howard Lutnick, at the signing, said Trump is &#8220;going to make sure that mail-in ballots are safe, secure and accurate.&#8221; A federal judge on Tuesday afternoon halted construction of Trump&#8217;s&#8230;",
-          "link": "https://thehill.com/homenews/administration/5807651-live-updates-trump-hegseth-iran-supreme-court/",
-          "pubDate": "Tue, 31 Mar 2026 21:40:57 +0000"
+          "title": "FDA’s Makary touts ‘healing’ following DOGE cuts",
+          "summary": "Click in for more news from The Hill {beacon} Health Care Health Care &#8202; The Big Story&#160; FDA commissioner credits himself with ‘healing’ agency after DOGE cuts Food and Drug Administration (FDA) Commissioner Marty Makary&#160;commemorated&#160;one year as head of the country’s drug regulatory authority on Wednesday,&#160;saying he helped bring “healing” to the agency following cuts&#8230;",
+          "link": "https://thehill.com/newsletters/health-care/5812020-makary-credits-healing-fda-cuts/",
+          "pubDate": "Wed, 01 Apr 2026 22:21:29 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Alcoa leads aluminium rally after Iranian strikes hit gulf smelters",
-          "summary": "Alcoa leads aluminium rally after Iranian strikes hit gulf smelters",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/alcoa-leads-aluminium-rally-iranian-144100204.html",
-          "pubDate": "2026-03-30T14:41:00Z"
+          "title": "Why Phreesia Stock Flopped Today",
+          "summary": "Why Phreesia Stock Flopped Today",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-phreesia-stock-flopped-today-150028042.html",
+          "pubDate": "2026-03-31T15:00:28Z"
         },
         {
-          "title": "Trump Says Micron Is One of the 'Hottest' Stocks. Does That Make MU a Buy Here?",
-          "summary": "Trump Says Micron Is One of the 'Hottest' Stocks. Does That Make MU a Buy Here?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/trump-says-micron-one-hottest-144100426.html",
-          "pubDate": "2026-03-30T14:41:00Z"
+          "title": "Financial Stocks Are Waving a Red Flag That Reminds Me of 2008: Is ‘Big Short 2.0’ Brewing?",
+          "summary": "Financial Stocks Are Waving a Red Flag That Reminds Me of 2008: Is ‘Big Short 2.0’ Brewing?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/financial-stocks-waving-red-flag-145912152.html",
+          "pubDate": "2026-03-31T14:59:12Z"
         },
         {
-          "title": "Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases",
-          "summary": "Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases",
-          "link": "https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-03-30T14:37:57Z"
+          "title": "The Bond Market Is Flashing a Warning. Most Investors Aren’t Watching.",
+          "summary": "The Bond Market Is Flashing a Warning. Most Investors Aren’t Watching.",
+          "link": "https://finance.yahoo.com/markets/articles/bond-market-flashing-warning-most-145910339.html",
+          "pubDate": "2026-03-31T14:59:10Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
-          "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
-          "pubDate": "Mon, 30 Mar 2026 21:39:42 EDT"
+          "title": "Millions start work too early. This drug helps them stay awake",
+          "summary": "Millions of people start work before sunrise—but their brains aren’t ready for it. A new clinical trial has found that the wake-promoting drug solriamfetol can significantly boost alertness in early-morning shift workers struggling with shift work disorder. Participants who took the drug were able to stay awake and function better throughout full shifts, with improvements in productivity, safety, and daily performance.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
+          "pubDate": "Wed, 01 Apr 2026 08:10:42 EDT"
         },
         {
-          "title": "Simple therapies beat drugs for knee arthritis pain relief",
-          "summary": "A major analysis of nearly 10,000 patients shows that simple, non-drug treatments like knee braces, hydrotherapy, and exercise can significantly ease knee osteoarthritis symptoms. These approaches not only reduce pain and improve mobility, but also avoid the risks tied to common medications. The findings suggest that low-cost, accessible therapies could play a bigger role in how doctors treat arthritis in the future.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260330084511.htm",
-          "pubDate": "Mon, 30 Mar 2026 08:52:03 EDT"
+          "title": "A 200-year-old light trick just transformed quantum encryption",
+          "summary": "Scientists have unveiled a new approach to ultra-secure communication that could make quantum encryption simpler and more efficient than ever before. By harnessing a 19th-century optics phenomenon called the Talbot effect, researchers developed a system that sends information using multiple states of single photons instead of just two, dramatically boosting data capacity. Even more impressive, the setup works with standard components and requires only a single detector, reducing cost and complexity.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260401071933.htm",
+          "pubDate": "Wed, 01 Apr 2026 08:37:13 EDT"
         },
         {
-          "title": "Webb telescope spots mysterious explosion that defies known physics",
-          "summary": "Astronomers have spotted a bizarre cosmic explosion that refuses to play by the rules—and it’s leaving scientists scrambling for answers. GRB 250702B, detected by NASA’s James Webb Space Telescope and a global network of observatories, lasted an astonishing seven hours—far longer than typical gamma-ray bursts, which usually fade in under a minute.",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260330001156.htm",
-          "pubDate": "Mon, 30 Mar 2026 08:33:20 EDT"
+          "title": "Scientists found a baby dinosaur hidden in rock and it is surprisingly cute",
+          "summary": "Scientists uncovered a rare baby dinosaur in South Korea and named it Doolysaurus after a famous cartoon character. Using cutting-edge CT scans, they discovered hidden bones—including a skull—inside rock much faster than traditional methods. The young dinosaur, possibly fluffy and lamb-like, even had stomach stones that reveal it ate a mix of plants and small animals. The discovery suggests many more dinosaurs may still be hidden in Korea’s rocks.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260401071923.htm",
+          "pubDate": "Wed, 01 Apr 2026 09:16:18 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Pronatalists want more babies. Their solutions aren’t rooted in science",
-          "summary": "Conservative pronatalists want a return to the traditional nuclear family. But that family structure is at odds with how humans evolved.",
-          "link": "https://www.sciencenews.org/article/pronatalists-babies-birth-rate-family",
-          "pubDate": "Tue, 31 Mar 2026 19:00:00 +0000"
+          "title": "Artemis II sends humans around the moon for first time since Apollo",
+          "summary": "Artemis II is underway, carrying four astronauts around the moon on a 10-day mission to test systems for later lunar flights and an eventual moon base.",
+          "link": "https://www.sciencenews.org/article/nasa-artemis-launch-humans-moon",
+          "pubDate": "Wed, 01 Apr 2026 22:49:46 +0000"
         },
         {
-          "title": "A comet may have flipped its spin and entered into a death spiral",
-          "summary": "Gases jetting out of Comet 41P/Tuttle-Giacobini-Kresák may have caused it to reverse its spin in 2017, possibly leading to its eventual destruction.",
-          "link": "https://www.sciencenews.org/article/comet-41p-reversed-spin-death-spiral",
-          "pubDate": "Tue, 31 Mar 2026 16:00:00 +0000"
+          "title": "Digital heart twins can guide a lifesaving procedure",
+          "summary": "Heart replicas helped doctors spot good targets for ablation in 10 patients. Months later, all of them are free of sustained faulty rhythms.",
+          "link": "https://www.sciencenews.org/article/digital-heart-replica-guide-ablation",
+          "pubDate": "Wed, 01 Apr 2026 21:00:00 +0000"
         },
         {
-          "title": "Secrets of the Bees zooms in on life in a hive",
-          "summary": "A new documentary available on Disney+ and Hulu appeals to our sense of wonder to highlight why bees need saving.",
-          "link": "https://www.sciencenews.org/article/secrets-bees-james-cameron",
-          "pubDate": "Tue, 31 Mar 2026 13:00:00 +0000"
+          "title": "A fossil reveals early relatives of spiders — armed with claws",
+          "summary": "A Utah fossil shows early relatives of spiders and scorpions already had distinctive front claws 500 million years ago.",
+          "link": "https://www.sciencenews.org/article/fossil-claws-spider-scorpions-evolution",
+          "pubDate": "Wed, 01 Apr 2026 15:00:00 +0000"
         }
       ]
     }
