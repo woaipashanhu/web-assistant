@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-02T23:00:41.107Z",
-  "date": "2026-04-03",
+  "lastUpdate": "2026-04-03T23:00:35.122Z",
+  "date": "2026-04-04",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
-          "summary": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
-          "pubDate": "Thu, 02 Apr 2026 21:04:22 +0000"
+          "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+          "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+          "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+          "pubDate": "Fri, 03 Apr 2026 21:28:14 +0000"
         },
         {
-          "title": "The Google Pixel 10 Is $150 Off",
-          "summary": "Amazon marks Google's flagship down to just $650 for 128 GB or $750 for 256 GB.",
-          "link": "https://www.wired.com/story/pixel-10-deal-3426/",
-          "pubDate": "Thu, 02 Apr 2026 20:50:18 +0000"
+          "title": "Scientists Have Made a French Fry Breakthrough",
+          "summary": "Researchers have developed a method of making french fries that results in a healthier bite without sacrificing crispiness.",
+          "link": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
+          "pubDate": "Fri, 03 Apr 2026 21:23:33 +0000"
         },
         {
-          "title": "Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law",
-          "summary": "A bill in Colorado is a glimpse into the future of how corporations are working to limit the freedom people have to make their own fixes and upgrades.",
-          "link": "https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-          "pubDate": "Thu, 02 Apr 2026 20:36:27 +0000"
+          "title": "Our Favorite iPad Is $50 Off",
+          "summary": "Score an 11th-generation A16-powered iPad for just $300.",
+          "link": "https://www.wired.com/story/ipad-a16-deal-426/",
+          "pubDate": "Fri, 03 Apr 2026 20:06:20 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Amazon hits sellers with &#8216;fuel surcharge&#8217; as Iran war roils global energy markets",
-          "summary": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
-          "link": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
-          "pubDate": "Thu, 02 Apr 2026 22:56:29 +0000"
+          "title": "The anonymous social app that thinks it can work in Saudi Arabia",
+          "summary": "When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did.",
+          "link": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
+          "pubDate": "Fri, 03 Apr 2026 22:24:57 +0000"
         },
         {
-          "title": "Telehealth giant Hims &#038; Hers says its customer support system was hacked",
-          "summary": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
-          "link": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
-          "pubDate": "Thu, 02 Apr 2026 21:26:48 +0000"
+          "title": "Tesla&#8217;s Texas factory workforce reportedly shrunk 22% in 2025",
+          "summary": "Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales.",
+          "link": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
+          "pubDate": "Fri, 03 Apr 2026 20:43:25 +0000"
         },
         {
-          "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
-          "summary": "Next time around, the pressure will be on SpaceX and Blue Origin.",
-          "link": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
-          "pubDate": "Thu, 02 Apr 2026 20:06:29 +0000"
+          "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead &#8216;special projects&#8217;",
+          "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+          "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+          "pubDate": "Fri, 03 Apr 2026 20:35:34 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump removes US Attorney General Pam Bondi",
-          "summary": "Bondi's time as America's top law enforcement officer was overshadowed by the justice department's handling of the Jeffrey Epstein investigation.",
-          "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 02 Apr 2026 20:39:32 GMT"
+          "title": "How elite US teams tackle combat rescue missions",
+          "summary": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+          "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 03 Apr 2026 20:42:56 GMT"
         },
         {
-          "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-          "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
-          "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 02 Apr 2026 16:09:24 GMT"
+          "title": "Artemis II crew take 'spectacular' image of Earth",
+          "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
+          "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 03 Apr 2026 21:44:31 GMT"
         },
         {
-          "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
-          "summary": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian economy.",
-          "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 02 Apr 2026 17:01:08 GMT"
+          "title": "Burkina Faso must 'forget' about democracy, military leader says",
+          "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
+          "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 03 Apr 2026 11:11:42 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Hegseth lifts ban on service members carrying personal firearms on base",
-          "summary": "Defense Secretary Pete Hegseth announced Thursday that he was lifting a ban on service members’ ability to carry personal firearms on U.S. military bases. “Our warfighters defend the rights to carry. They should be able to carry themselves,” Hegseth said in a video posted on social platform X. Hegseth said his memo directs installation commanders&#8230;",
-          "link": "https://thehill.com/policy/defense/5814119-defense-secretary-lifts-gun-ban/",
-          "pubDate": "Thu, 02 Apr 2026 22:12:56 +0000"
+          "title": "Blanche: No evidence in Epstein files he was a spy",
+          "summary": "Acting Attorney General Todd Blanche on Thursday said he did not know if convicted sex offender Jeffrey Epstein spied for anybody before adding that there was no evidence in the Epstein files that the disgraced financier was a spy. Fox News&#8217;s Jesse Watters, the host of &#8220;Jesse Watters Primetime,&#8221; asked Blanche who &#8220;was Epstein spying&#8230;",
+          "link": "https://thehill.com/homenews/administration/5815644-epstein-spy-evidence-blanche/",
+          "pubDate": "Fri, 03 Apr 2026 22:10:44 +0000"
         },
         {
-          "title": "&#8216;Bob&#8217;s Burgers&#8217; actor rescued from fiery crash by New Hampshire governor&#8217;s security detail",
-          "summary": "A voice actor on the popular animation series “Bob’s Burgers” was seriously injured after crashing his vehicle into a toll plaza in New Hampshire on Tuesday, according to New Hampshire State Police. Eurgene Mirman, 51, was traveling northbound on the Everett Turnpike shortly before noon on March 31 when he struck the Bedford Toll Plaza.&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5814092-bobs-burgers-voice-actor-injured/",
-          "pubDate": "Thu, 02 Apr 2026 22:08:19 +0000"
+          "title": "Senate Democrats press Treasury Department on decision to add Trump name to currency",
+          "summary": "Two Senate Democrats are seeking answers from the Treasury Department about a plan to add President Trump’s signature to newly minted U.S. paper currency. Sens. Elizabeth Warren (Mass.), the top Democrat on the Senate Banking Committee, and Jeff Merkley (D-Ore.) pressed Treasury Secretary Scott Bessent in a letter Thursday to explain how the decision “will&#8230;",
+          "link": "https://thehill.com/homenews/administration/5815709-senators-question-trump-currency/",
+          "pubDate": "Fri, 03 Apr 2026 21:59:41 +0000"
         },
         {
-          "title": "5 notable moments from Pam Bondi&#8217;s tenure as attorney general",
-          "summary": "The Pam Bondi era at the Department of Justice (DOJ) is coming to an end, less than 14 months after it began.&#160; President Trump announced Bondi’s departure from the DOJ on Thursday, after she spent her tenure frequently defending the president and overseeing the rollout of files related to convicted sex offender Jeffrey Epstein. “Pam&#8230;",
-          "link": "https://thehill.com/homenews/administration/5813987-five-notable-moments-from-pam-bondis-tenure-as-attorney-general/",
-          "pubDate": "Thu, 02 Apr 2026 21:53:12 +0000"
+          "title": "Tillis sets Jan. 6 red line on attorney general nominee",
+          "summary": "Sen. Thom Tillis (R-N.C.) said Thursday he will not support any nominee for attorney general if the candidate makes excuses for the Jan. 6 Capitol riot. President Trump dismissed Pam Bondi from the attorney general post before Tillis&#8217;s comments, which is expected to set up a confirmation battle on her successor later this year. “For&#8230;",
+          "link": "https://thehill.com/homenews/senate/5815671-tillis-jan6-riot-nominee/",
+          "pubDate": "Fri, 03 Apr 2026 21:31:11 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake",
-          "summary": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/las-vegas-sands-corp-lvs-151926251.html",
-          "pubDate": "2026-04-01T15:19:26Z"
+          "title": "Starbucks to offer baristas up to $1,200 a year in bonuses",
+          "summary": "Starbucks to offer baristas up to $1,200 a year in bonuses",
+          "link": "https://finance.yahoo.com/economy/policy/articles/starbucks-offer-baristas-1-200-152855514.html",
+          "pubDate": "2026-04-02T15:28:55Z"
         },
         {
-          "title": "Palantir Technologies Inc. (PLTR): D. E. Shaw Admires This AI Powerhouse",
-          "summary": "Palantir Technologies Inc. (PLTR): D. E. Shaw Admires This AI Powerhouse",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-d-152030299.html",
-          "pubDate": "2026-04-01T15:20:30Z"
+          "title": "Here's What to Expect From NXP Semiconductors' Next Earnings Report",
+          "summary": "Here's What to Expect From NXP Semiconductors' Next Earnings Report",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-nxp-semiconductors-next-153100289.html",
+          "pubDate": "2026-04-02T15:31:00Z"
         },
         {
-          "title": "Stocks Climb on War-End Optimism",
-          "summary": "Stocks Climb on War-End Optimism",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-climb-war-end-optimism-151943755.html",
-          "pubDate": "2026-04-01T15:19:43Z"
+          "title": "Stocks Pare Losses on Hormuz Report",
+          "summary": "Stocks Pare Losses on Hormuz Report",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-pare-losses-hormuz-report-153145160.html",
+          "pubDate": "2026-04-02T15:31:45Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Ancient bone dice reveal 12,000-year history of gambling in America",
-          "summary": "More than 12,000 years ago, Native American hunter-gatherers were already making and using dice—thousands of years before similar tools appeared elsewhere. These bone “binary lots” acted like primitive coins, producing random outcomes for games of chance. A new study shows these weren’t accidental objects but carefully designed tools used across many regions and cultures.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260402042731.htm",
-          "pubDate": "Thu, 02 Apr 2026 08:01:21 EDT"
+          "title": "Deafness reversed: One injection restores hearing in just weeks",
+          "summary": "A new gene therapy is giving people born deaf the chance to hear, often within just weeks. In a small but groundbreaking study, researchers delivered a working copy of a key hearing gene directly into the inner ear using a single injection. All ten patients, ranging from young children to adults, experienced improved hearing, with some showing rapid gains in just one month.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm",
+          "pubDate": "Fri, 03 Apr 2026 04:50:43 EDT"
         },
         {
-          "title": "NASA launches Artemis II for first crewed Moon flyby in 50 years",
-          "summary": "A new era of lunar exploration has begun as NASA launches four astronauts on Artemis II—the first crewed mission to fly around the Moon in over 50 years. Riding aboard the powerful SLS rocket, the Orion spacecraft is now on a 10-day journey that will test critical systems, push human spaceflight farther than it’s gone in decades, and set the stage for future Moon landings and eventual missions to Mars.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260402004721.htm",
-          "pubDate": "Thu, 02 Apr 2026 01:08:04 EDT"
+          "title": "Scientists discover why flu and COVID hit older adults so hard",
+          "summary": "A new study reveals that aging lungs may play a major role in why flu and COVID can become so dangerous for older adults. Researchers found that certain lung cells can trigger an exaggerated immune response, creating clusters of inflammatory cells that end up damaging lung tissue instead of protecting it. In experiments, activating this aging-related signal in young mice caused their lungs to behave like older ones, leading to severe illness.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260403002027.htm",
+          "pubDate": "Fri, 03 Apr 2026 00:20:27 EDT"
         },
         {
-          "title": "Breakthrough could protect the vision cells that let you see faces and colors",
-          "summary": "Scientists have taken a major step toward protecting the very cells that make sharp, colorful vision possible. By testing more than 2,700 compounds in thousands of lab-grown human retinal models, researchers uncovered several molecules that can shield cone photoreceptors—the cells responsible for reading, recognizing faces, and seeing color—from degeneration. They also identified a key protective mechanism involving casein kinase 1, offering a promising new target for treatment.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260402000225.htm",
-          "pubDate": "Thu, 02 Apr 2026 09:13:04 EDT"
+          "title": "This tiny claw in a 500-million-year-old fossil just rewrote the origin of spiders",
+          "summary": "What started as routine fossil cleaning turned into a major scientific surprise when researchers uncovered a tiny claw in a 500-million-year-old specimen where no claw should exist. That detail revealed Megachelicerax cousteaui, the oldest known relative of spiders, pushing the origins of this group back by 20 million years. The fossil shows that key features of modern spiders and horseshoe crabs were already emerging during the Cambrian Explosion.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260403002023.htm",
+          "pubDate": "Fri, 03 Apr 2026 05:11:17 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Fossils reveal many complex animals existed before the Cambrian explosion",
-          "summary": "Hundreds of Chinese fossils from the dawn of animal evolution may change how scientists think of this critical period of prehistory.",
-          "link": "https://www.sciencenews.org/article/fossils-complex-early-animals-diversity",
-          "pubDate": "Thu, 02 Apr 2026 18:00:26 +0000"
+          "title": "When our minds wander to the body, it may affect mental health",
+          "summary": "People’s minds sometimes wander to their bodily sensations, which may reduce symptoms of depression and ADHD, a new study suggests.",
+          "link": "https://www.sciencenews.org/article/mind-wander-body-mental-health",
+          "pubDate": "Fri, 03 Apr 2026 17:00:00 +0000"
         },
         {
-          "title": "To climb trees, cicadas look to the shadows",
-          "summary": "Tree-climbing cicadas find their perches by looking for patches of darkness, a strategy known as skototaxis.",
-          "link": "https://www.sciencenews.org/article/cicadas-climb-trees-shadows",
-          "pubDate": "Thu, 02 Apr 2026 14:00:00 +0000"
+          "title": "Supreme Court ruling on ‘conversion therapy’ puts medical talk in the hot seat",
+          "summary": "In Chiles v. Salazar, the court ruled that a therapist has First Amendment protections. That could impact how talk therapy is regulated.",
+          "link": "https://www.sciencenews.org/article/conversion-therapy-supreme-court-lgbtq",
+          "pubDate": "Fri, 03 Apr 2026 15:03:56 +0000"
         },
         {
-          "title": "The oldest known dice date back about 12,000 years in North America",
-          "summary": "A study of ancient artifacts suggests Native American dice games began thousands of years earlier than previously documented.",
-          "link": "https://www.sciencenews.org/article/oldest-known-dice-north-america",
-          "pubDate": "Thu, 02 Apr 2026 04:01:00 +0000"
+          "title": "Huge Numbers tackles mathematics at its most incomprehensibly large",
+          "summary": "Mathematician Richard Elwes surveys googology, the study of enormous numbers, in a new book.",
+          "link": "https://www.sciencenews.org/article/huge-numbers-book-math-googology",
+          "pubDate": "Fri, 03 Apr 2026 13:00:00 +0000"
         }
       ]
     }
