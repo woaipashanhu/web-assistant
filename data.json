@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-03T23:00:35.122Z",
-  "date": "2026-04-04",
+  "lastUpdate": "2026-04-04T23:00:15.848Z",
+  "date": "2026-04-05",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-          "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-          "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-          "pubDate": "Fri, 03 Apr 2026 21:28:14 +0000"
+          "title": "Sonos Play Review: Performance Meets Convenience",
+          "summary": "With great sound and versatility, this new speaker may be Sonos’ best.",
+          "link": "https://www.wired.com/review/sonos-play/",
+          "pubDate": "Sat, 04 Apr 2026 13:00:00 +0000"
         },
         {
-          "title": "Scientists Have Made a French Fry Breakthrough",
-          "summary": "Researchers have developed a method of making french fries that results in a healthier bite without sacrificing crispiness.",
-          "link": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
-          "pubDate": "Fri, 03 Apr 2026 21:23:33 +0000"
+          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+          "summary": "From weatherproof jackets and pants to puffers, gloves, and socks, WIRED’s winter sports experts have you covered.",
+          "link": "https://www.wired.com/gallery/best-ski-clothes/",
+          "pubDate": "Sat, 04 Apr 2026 12:00:00 +0000"
         },
         {
-          "title": "Our Favorite iPad Is $50 Off",
-          "summary": "Score an 11th-generation A16-powered iPad for just $300.",
-          "link": "https://www.wired.com/story/ipad-a16-deal-426/",
-          "pubDate": "Fri, 03 Apr 2026 20:06:20 +0000"
+          "title": "Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven",
+          "summary": "This hose-attached smart sprinkler maps your yard, rotates on command, and measures water use. Despite these clever features, the results are a little uneven.",
+          "link": "https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/",
+          "pubDate": "Sat, 04 Apr 2026 11:01:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "The anonymous social app that thinks it can work in Saudi Arabia",
-          "summary": "When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did.",
-          "link": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
-          "pubDate": "Fri, 03 Apr 2026 22:24:57 +0000"
+          "title": "Peter Thiel&#8217;s big bet on solar-powered cow collars",
+          "summary": "Why did Founders Fund invest $220 million in cattle management startup Halter?",
+          "link": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+          "pubDate": "Sat, 04 Apr 2026 21:30:00 +0000"
         },
         {
-          "title": "Tesla&#8217;s Texas factory workforce reportedly shrunk 22% in 2025",
-          "summary": "Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales.",
-          "link": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
-          "pubDate": "Fri, 03 Apr 2026 20:43:25 +0000"
+          "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+          "summary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
+          "link": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+          "pubDate": "Sat, 04 Apr 2026 21:03:43 +0000"
         },
         {
-          "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead &#8216;special projects&#8217;",
-          "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-          "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-          "pubDate": "Fri, 03 Apr 2026 20:35:34 +0000"
+          "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+          "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+          "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+          "pubDate": "Sat, 04 Apr 2026 16:32:22 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "How elite US teams tackle combat rescue missions",
-          "summary": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
-          "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 03 Apr 2026 20:42:56 GMT"
+          "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
+          "summary": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
+          "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 04 Apr 2026 22:54:06 GMT"
         },
         {
-          "title": "Artemis II crew take 'spectacular' image of Earth",
-          "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
-          "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 03 Apr 2026 21:44:31 GMT"
+          "title": "Search for missing airman presents serious test for US",
+          "summary": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
+          "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 04 Apr 2026 20:13:41 GMT"
         },
         {
-          "title": "Burkina Faso must 'forget' about democracy, military leader says",
-          "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
-          "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 03 Apr 2026 11:11:42 GMT"
+          "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+          "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+          "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 04 Apr 2026 21:29:46 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Blanche: No evidence in Epstein files he was a spy",
-          "summary": "Acting Attorney General Todd Blanche on Thursday said he did not know if convicted sex offender Jeffrey Epstein spied for anybody before adding that there was no evidence in the Epstein files that the disgraced financier was a spy. Fox News&#8217;s Jesse Watters, the host of &#8220;Jesse Watters Primetime,&#8221; asked Blanche who &#8220;was Epstein spying&#8230;",
-          "link": "https://thehill.com/homenews/administration/5815644-epstein-spy-evidence-blanche/",
-          "pubDate": "Fri, 03 Apr 2026 22:10:44 +0000"
+          "title": "Sunday shows preview: Trump ups threats on Iran after saying war ‘near completion’",
+          "summary": "President Trump escalated his warnings to Tehran on Saturday, threatening to rain “all hell” down on the country as the U.S. barrels toward a self-imposed Monday deadline for Iran to reopen the Strait of Hormuz. “Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT,” Trump wrote on&#160;Truth&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5816638-sunday-shows-preview-trump-ups-threats-on-iran-after-saying-war-near-completion/",
+          "pubDate": "Sat, 04 Apr 2026 22:09:16 +0000"
         },
         {
-          "title": "Senate Democrats press Treasury Department on decision to add Trump name to currency",
-          "summary": "Two Senate Democrats are seeking answers from the Treasury Department about a plan to add President Trump’s signature to newly minted U.S. paper currency. Sens. Elizabeth Warren (Mass.), the top Democrat on the Senate Banking Committee, and Jeff Merkley (D-Ore.) pressed Treasury Secretary Scott Bessent in a letter Thursday to explain how the decision “will&#8230;",
-          "link": "https://thehill.com/homenews/administration/5815709-senators-question-trump-currency/",
-          "pubDate": "Fri, 03 Apr 2026 21:59:41 +0000"
+          "title": "Wisconsin judicial race spotlights state GOP&#8217;s struggles",
+          "summary": "Wisconsin Republicans are bracing for a lopsided state Supreme Court race next week,&#160;as liberals are all but expected to expand their majority. It underscores how the state GOP has struggled to compete in critical elections over&#160;nearly the&#160;last decade.&#160; Democratic-backed judicial candidate Chris Taylor leads the conservative favorite, Maria Lazar, in recent polling, and Taylor’s campaign&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5815729-wisconsin-republicans-state-supreme-court-race/",
+          "pubDate": "Sat, 04 Apr 2026 21:00:00 +0000"
         },
         {
-          "title": "Tillis sets Jan. 6 red line on attorney general nominee",
-          "summary": "Sen. Thom Tillis (R-N.C.) said Thursday he will not support any nominee for attorney general if the candidate makes excuses for the Jan. 6 Capitol riot. President Trump dismissed Pam Bondi from the attorney general post before Tillis&#8217;s comments, which is expected to set up a confirmation battle on her successor later this year. “For&#8230;",
-          "link": "https://thehill.com/homenews/senate/5815671-tillis-jan6-riot-nominee/",
-          "pubDate": "Fri, 03 Apr 2026 21:31:11 +0000"
+          "title": "Crews making progress containing Southern California wildfire as some mandatory evacuations remain",
+          "summary": "RIVERSIDE, Calif. (AP) — Crews made progress Saturday battling a smoky&#160;wildfire in southern California&#160;that broke out a day earlier and prompted mandatory evacuations. Encompassing roughly 6.3 square miles (about 16 square kilometers) in Riverside County, about 64 miles (103 kilometers) east of Los Angeles, the Springs Fire was at least 45% percent contained on Saturday,&#8230;",
+          "link": "https://thehill.com/homenews/ap/ap-u-s-news/5816303-crews-making-progress-containing-southern-california-wildfire-as-some-mandatory-evacuations-remain/",
+          "pubDate": "Sat, 04 Apr 2026 20:57:32 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Starbucks to offer baristas up to $1,200 a year in bonuses",
-          "summary": "Starbucks to offer baristas up to $1,200 a year in bonuses",
-          "link": "https://finance.yahoo.com/economy/policy/articles/starbucks-offer-baristas-1-200-152855514.html",
-          "pubDate": "2026-04-02T15:28:55Z"
+          "title": "In a Volatile Market, This Is the Smartest Dividend Stock to Buy With $120",
+          "summary": "In a Volatile Market, This Is the Smartest Dividend Stock to Buy With $120",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/volatile-market-smartest-dividend-stock-223500863.html",
+          "pubDate": "2026-04-04T22:35:00Z"
         },
         {
-          "title": "Here's What to Expect From NXP Semiconductors' Next Earnings Report",
-          "summary": "Here's What to Expect From NXP Semiconductors' Next Earnings Report",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-nxp-semiconductors-next-153100289.html",
-          "pubDate": "2026-04-02T15:31:00Z"
+          "title": "America's largest homebuilder faces claims of 'defective pipes' in Georgia — it could be more widespread than reported",
+          "summary": "America's largest homebuilder faces claims of 'defective pipes' in Georgia — it could be more widespread than reported",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/americas-largest-homebuilder-faces-claims-210500482.html",
+          "pubDate": "2026-04-04T21:05:00Z"
         },
         {
-          "title": "Stocks Pare Losses on Hormuz Report",
-          "summary": "Stocks Pare Losses on Hormuz Report",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-pare-losses-hormuz-report-153145160.html",
-          "pubDate": "2026-04-02T15:31:45Z"
+          "title": "U.S. Auto Industry Proposes Vehicle Fee to Replace Gas Tax",
+          "summary": "U.S. Auto Industry Proposes Vehicle Fee to Replace Gas Tax",
+          "link": "https://finance.yahoo.com/economy/policy/articles/u-auto-industry-proposes-vehicle-210000176.html",
+          "pubDate": "2026-04-04T21:00:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Deafness reversed: One injection restores hearing in just weeks",
-          "summary": "A new gene therapy is giving people born deaf the chance to hear, often within just weeks. In a small but groundbreaking study, researchers delivered a working copy of a key hearing gene directly into the inner ear using a single injection. All ten patients, ranging from young children to adults, experienced improved hearing, with some showing rapid gains in just one month.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm",
-          "pubDate": "Fri, 03 Apr 2026 04:50:43 EDT"
+          "title": "Binge drinking just once a month may triple your risk of liver scarring",
+          "summary": "Many people think that occasional binge drinking is harmless if they otherwise drink in moderation, but new research suggests that assumption may be dangerously wrong. A large U.S. study found that people with metabolic dysfunction–associated steatotic liver disease (MASLD), a condition affecting about one in three adults, face a much higher risk of serious liver scarring if they engage in heavy drinking even just once a month.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260404082652.htm",
+          "pubDate": "Sat, 04 Apr 2026 08:29:44 EDT"
         },
         {
-          "title": "Scientists discover why flu and COVID hit older adults so hard",
-          "summary": "A new study reveals that aging lungs may play a major role in why flu and COVID can become so dangerous for older adults. Researchers found that certain lung cells can trigger an exaggerated immune response, creating clusters of inflammatory cells that end up damaging lung tissue instead of protecting it. In experiments, activating this aging-related signal in young mice caused their lungs to behave like older ones, leading to severe illness.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260403002027.htm",
-          "pubDate": "Fri, 03 Apr 2026 00:20:27 EDT"
+          "title": "Scientists reveal new blood pressure treatment that works when others fail",
+          "summary": "A new pill called baxdrostat is showing strong results in lowering dangerously high blood pressure in people who don’t respond to standard treatments. In a large global trial, patients saw their blood pressure drop by nearly 10 mmHg, a meaningful reduction that can significantly lower the risk of heart attack, stroke, and kidney disease. By targeting a hormone that causes the body to retain salt and water, this treatment could offer a much-needed solution for millions struggling with uncontrolled hypertension.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260403232124.htm",
+          "pubDate": "Fri, 03 Apr 2026 23:38:49 EDT"
         },
         {
-          "title": "This tiny claw in a 500-million-year-old fossil just rewrote the origin of spiders",
-          "summary": "What started as routine fossil cleaning turned into a major scientific surprise when researchers uncovered a tiny claw in a 500-million-year-old specimen where no claw should exist. That detail revealed Megachelicerax cousteaui, the oldest known relative of spiders, pushing the origins of this group back by 20 million years. The fossil shows that key features of modern spiders and horseshoe crabs were already emerging during the Cambrian Explosion.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260403002023.htm",
-          "pubDate": "Fri, 03 Apr 2026 05:11:17 EDT"
+          "title": "These overlooked brain cells may control fear and PTSD",
+          "summary": "Astrocytes, once thought to be mere brain “support cells,” are now revealed to be key players in fear memory. Researchers found they actively help form, recall, and weaken fear responses by interacting with neurons in real time. Changing astrocyte activity directly altered how strong fear memories became. This breakthrough could lead to entirely new treatments for anxiety-related disorders.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260403224508.htm",
+          "pubDate": "Sat, 04 Apr 2026 07:47:25 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "siteName": "Science News",
       "items": [
         {
