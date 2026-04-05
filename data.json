@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-04T23:00:15.848Z",
-  "date": "2026-04-05",
+  "lastUpdate": "2026-04-05T23:00:45.444Z",
+  "date": "2026-04-06",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Sonos Play Review: Performance Meets Convenience",
-          "summary": "With great sound and versatility, this new speaker may be Sonos’ best.",
-          "link": "https://www.wired.com/review/sonos-play/",
-          "pubDate": "Sat, 04 Apr 2026 13:00:00 +0000"
+          "title": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
+          "summary": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
+          "link": "https://www.wired.com/story/best-apple-watch-bands/",
+          "pubDate": "Sun, 05 Apr 2026 12:00:00 +0000"
         },
         {
-          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
-          "summary": "From weatherproof jackets and pants to puffers, gloves, and socks, WIRED’s winter sports experts have you covered.",
-          "link": "https://www.wired.com/gallery/best-ski-clothes/",
-          "pubDate": "Sat, 04 Apr 2026 12:00:00 +0000"
+          "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
+          "summary": "Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.",
+          "link": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/",
+          "pubDate": "Sun, 05 Apr 2026 11:04:00 +0000"
         },
         {
-          "title": "Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven",
-          "summary": "This hose-attached smart sprinkler maps your yard, rotates on command, and measures water use. Despite these clever features, the results are a little uneven.",
-          "link": "https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/",
-          "pubDate": "Sat, 04 Apr 2026 11:01:00 +0000"
+          "title": "3 Best Robot Lawn Mowers (2026), Tested and Reviewed",
+          "summary": "These smart mowers are expensive alternatives to some good old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch the robot go by.",
+          "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+          "pubDate": "Sun, 05 Apr 2026 10:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Peter Thiel&#8217;s big bet on solar-powered cow collars",
-          "summary": "Why did Founders Fund invest $220 million in cattle management startup Halter?",
-          "link": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
-          "pubDate": "Sat, 04 Apr 2026 21:30:00 +0000"
+          "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+          "summary": "A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S. would confirm the rescue of Air Force service members shot down over Iran.",
+          "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+          "pubDate": "Sun, 05 Apr 2026 19:36:03 +0000"
         },
         {
-          "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
-          "summary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
-          "link": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
-          "pubDate": "Sat, 04 Apr 2026 21:03:43 +0000"
+          "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+          "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+          "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+          "pubDate": "Sun, 05 Apr 2026 18:51:37 +0000"
         },
         {
-          "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-          "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-          "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-          "pubDate": "Sat, 04 Apr 2026 16:32:22 +0000"
+          "title": "As people look for ways to make new friends, here are the apps promising to help",
+          "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+          "link": "https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+          "pubDate": "Sun, 05 Apr 2026 18:01:37 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-          "summary": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
-          "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 04 Apr 2026 22:54:06 GMT"
+          "title": "Trump issues expletive-laden threat  to Iran over Hormuz Strait blockage",
+          "summary": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
+          "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 05 Apr 2026 21:10:06 GMT"
         },
         {
-          "title": "Search for missing airman presents serious test for US",
-          "summary": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
-          "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 04 Apr 2026 20:13:41 GMT"
+          "title": "How rescue of US airman in remote part of Iran unfolded",
+          "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 05 Apr 2026 21:19:02 GMT"
         },
         {
-          "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-          "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
-          "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 04 Apr 2026 21:29:46 GMT"
+          "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+          "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+          "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 05 Apr 2026 20:02:01 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Sunday shows preview: Trump ups threats on Iran after saying war ‘near completion’",
-          "summary": "President Trump escalated his warnings to Tehran on Saturday, threatening to rain “all hell” down on the country as the U.S. barrels toward a self-imposed Monday deadline for Iran to reopen the Strait of Hormuz. “Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT,” Trump wrote on&#160;Truth&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5816638-sunday-shows-preview-trump-ups-threats-on-iran-after-saying-war-near-completion/",
-          "pubDate": "Sat, 04 Apr 2026 22:09:16 +0000"
+          "title": "Iran says US aircraft destroyed during recovery mission for missing service member",
+          "summary": "An Iranian news outlet on Sunday reported that multiple U.S. aircraft were destroyed during the mission to rescue a stranded American service member in Iran. The Iranian Fars News Agency, which is close to the Islamic Revolutionary Guard Corps, reported that two C-130 aircraft and two UH-60 Black Hawk helicopters were destroyed during the mission. &#8230;",
+          "link": "https://thehill.com/policy/defense/5817315-daring-rescue-mission-iran/",
+          "pubDate": "Sun, 05 Apr 2026 22:43:12 +0000"
         },
         {
-          "title": "Wisconsin judicial race spotlights state GOP&#8217;s struggles",
-          "summary": "Wisconsin Republicans are bracing for a lopsided state Supreme Court race next week,&#160;as liberals are all but expected to expand their majority. It underscores how the state GOP has struggled to compete in critical elections over&#160;nearly the&#160;last decade.&#160; Democratic-backed judicial candidate Chris Taylor leads the conservative favorite, Maria Lazar, in recent polling, and Taylor’s campaign&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5815729-wisconsin-republicans-state-supreme-court-race/",
-          "pubDate": "Sat, 04 Apr 2026 21:00:00 +0000"
+          "title": "SNL rips Bondi’s departure in cold open",
+          "summary": "&#8220;Saturday Night Live&#8221; kicked off its latest cold open with a parody skit featuring Attorney General Pam Bondi&#8217;s recent firing. The sketch depicted an NCAA Final Four postgame show in which Charles Barkley, played by Kenan Thompson, kept going off-topic and spoke on Bondi&#8217;s ouster. &#8220;It is a shame when somebody gets fired. But we&#8230;",
+          "link": "https://thehill.com/media/5817305-snl-rips-bondis-departure-in-cold-open/",
+          "pubDate": "Sun, 05 Apr 2026 22:06:37 +0000"
         },
         {
-          "title": "Crews making progress containing Southern California wildfire as some mandatory evacuations remain",
-          "summary": "RIVERSIDE, Calif. (AP) — Crews made progress Saturday battling a smoky&#160;wildfire in southern California&#160;that broke out a day earlier and prompted mandatory evacuations. Encompassing roughly 6.3 square miles (about 16 square kilometers) in Riverside County, about 64 miles (103 kilometers) east of Los Angeles, the Springs Fire was at least 45% percent contained on Saturday,&#8230;",
-          "link": "https://thehill.com/homenews/ap/ap-u-s-news/5816303-crews-making-progress-containing-southern-california-wildfire-as-some-mandatory-evacuations-remain/",
-          "pubDate": "Sat, 04 Apr 2026 20:57:32 +0000"
+          "title": "Savannah Guthrie returns to &#8216;Today&#8217; after search for mother passes 2 months",
+          "summary": "Savannah Guthrie will return to NBC’s “Today” show on Monday, the day after Easter, more than two months after the disappearance of her mother, Nancy Guthrie. “It’s hard to imagine doing it because it’s such a place of joy and lightness, and I can’t come back and try to be something that I’m not,” Savannah&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5817282-savannah-guthrie-returns-today/",
+          "pubDate": "Sun, 05 Apr 2026 21:34:49 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "In a Volatile Market, This Is the Smartest Dividend Stock to Buy With $120",
-          "summary": "In a Volatile Market, This Is the Smartest Dividend Stock to Buy With $120",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/volatile-market-smartest-dividend-stock-223500863.html",
-          "pubDate": "2026-04-04T22:35:00Z"
+          "title": "Dow Jones Futures Fall As Trump Says Iran Faces 'Hell' If No Deal; Sandisk Leads 7 Stocks To Watch",
+          "summary": "Dow Jones Futures Fall As Trump Says Iran Faces 'Hell' If No Deal; Sandisk Leads 7 Stocks To Watch",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-04-05T22:43:22Z"
         },
         {
-          "title": "America's largest homebuilder faces claims of 'defective pipes' in Georgia — it could be more widespread than reported",
-          "summary": "America's largest homebuilder faces claims of 'defective pipes' in Georgia — it could be more widespread than reported",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/americas-largest-homebuilder-faces-claims-210500482.html",
-          "pubDate": "2026-04-04T21:05:00Z"
+          "title": "Should You Buy This Vanguard Fund That's Soared 136% Over 3 Years Before April 17?",
+          "summary": "Should You Buy This Vanguard Fund That's Soared 136% Over 3 Years Before April 17?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-vanguard-fund-thats-soared-223500812.html",
+          "pubDate": "2026-04-05T22:35:00Z"
         },
         {
-          "title": "U.S. Auto Industry Proposes Vehicle Fee to Replace Gas Tax",
-          "summary": "U.S. Auto Industry Proposes Vehicle Fee to Replace Gas Tax",
-          "link": "https://finance.yahoo.com/economy/policy/articles/u-auto-industry-proposes-vehicle-210000176.html",
-          "pubDate": "2026-04-04T21:00:00Z"
+          "title": "A new MIT-backed tool shows exactly why your electricity bill is going up in your neighborhood — you should be concerned",
+          "summary": "A new MIT-backed tool shows exactly why your electricity bill is going up in your neighborhood — you should be concerned",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/mit-backed-tool-shows-exactly-205500689.html",
+          "pubDate": "2026-04-05T20:55:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Binge drinking just once a month may triple your risk of liver scarring",
-          "summary": "Many people think that occasional binge drinking is harmless if they otherwise drink in moderation, but new research suggests that assumption may be dangerously wrong. A large U.S. study found that people with metabolic dysfunction–associated steatotic liver disease (MASLD), a condition affecting about one in three adults, face a much higher risk of serious liver scarring if they engage in heavy drinking even just once a month.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260404082652.htm",
-          "pubDate": "Sat, 04 Apr 2026 08:29:44 EDT"
+          "title": "Scientists found a protein that drives brain aging — and how to stop it",
+          "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
+          "pubDate": "Sun, 05 Apr 2026 07:08:57 EDT"
         },
         {
-          "title": "Scientists reveal new blood pressure treatment that works when others fail",
-          "summary": "A new pill called baxdrostat is showing strong results in lowering dangerously high blood pressure in people who don’t respond to standard treatments. In a large global trial, patients saw their blood pressure drop by nearly 10 mmHg, a meaningful reduction that can significantly lower the risk of heart attack, stroke, and kidney disease. By targeting a hormone that causes the body to retain salt and water, this treatment could offer a much-needed solution for millions struggling with uncontrolled hypertension.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260403232124.htm",
-          "pubDate": "Fri, 03 Apr 2026 23:38:49 EDT"
+          "title": "Scientists trap light in a layer 1,000x thinner than hair",
+          "summary": "Researchers have created a nanoscale structure that traps infrared light in a layer just 40 nanometers thick—over 1,000 times thinner than a human hair. By using a unique material with exceptional light-bending properties, they can confine and intensify light far beyond previous limits. This setup also dramatically boosts light conversion effects, turning infrared into visible blue light. The advance could pave the way for smaller, faster photonic technologies.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260405003957.htm",
+          "pubDate": "Sun, 05 Apr 2026 06:43:13 EDT"
         },
         {
-          "title": "These overlooked brain cells may control fear and PTSD",
-          "summary": "Astrocytes, once thought to be mere brain “support cells,” are now revealed to be key players in fear memory. Researchers found they actively help form, recall, and weaken fear responses by interacting with neurons in real time. Changing astrocyte activity directly altered how strong fear memories became. This breakthrough could lead to entirely new treatments for anxiety-related disorders.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260403224508.htm",
-          "pubDate": "Sat, 04 Apr 2026 07:47:25 EDT"
+          "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
+          "summary": "A hidden Roman sanctuary discovered beneath Frankfurt is offering rare clues about ancient rituals, including possible human sacrifice. With major funding secured, scientists are now racing to uncover how this mysterious, multi-god cult site operated.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260405003937.htm",
+          "pubDate": "Sun, 05 Apr 2026 00:39:37 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "siteName": "Science News",
       "items": [
         {
