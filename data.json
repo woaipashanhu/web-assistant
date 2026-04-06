@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-05T23:00:45.444Z",
-  "date": "2026-04-06",
+  "lastUpdate": "2026-04-06T23:00:42.291Z",
+  "date": "2026-04-07",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
-          "summary": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
-          "link": "https://www.wired.com/story/best-apple-watch-bands/",
-          "pubDate": "Sun, 05 Apr 2026 12:00:00 +0000"
+          "title": "A Single Strike Won’t Shut Off the Gulf’s Desalination System",
+          "summary": "The Gulf’s water system is built with layers of backup, but it relies on continuous operation to hold.",
+          "link": "https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/",
+          "pubDate": "Mon, 06 Apr 2026 20:23:04 +0000"
         },
         {
-          "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
-          "summary": "Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.",
-          "link": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/",
-          "pubDate": "Sun, 05 Apr 2026 11:04:00 +0000"
+          "title": "Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear",
+          "summary": "Nonprofits run out of US Border Patrol stations are also selling other “operation”-themed coins that include a phrase popularized by the Proud Boys, potentially in violation of government rules.",
+          "link": "https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/",
+          "pubDate": "Mon, 06 Apr 2026 18:16:27 +0000"
         },
         {
-          "title": "3 Best Robot Lawn Mowers (2026), Tested and Reviewed",
-          "summary": "These smart mowers are expensive alternatives to some good old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch the robot go by.",
-          "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-          "pubDate": "Sun, 05 Apr 2026 10:00:00 +0000"
+          "title": "One of Our Favorite 360 Cams Is 35 Percent Off",
+          "summary": "You can score over $200 off the DJI Osmo 360.",
+          "link": "https://www.wired.com/story/dji-osmo-360-deal-426/",
+          "pubDate": "Mon, 06 Apr 2026 17:03:05 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
-          "summary": "A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S. would confirm the rescue of Air Force service members shot down over Iran.",
-          "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-          "pubDate": "Sun, 05 Apr 2026 19:36:03 +0000"
+          "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+          "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+          "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+          "pubDate": "Mon, 06 Apr 2026 21:54:26 +0000"
         },
         {
-          "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-          "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-          "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-          "pubDate": "Sun, 05 Apr 2026 18:51:37 +0000"
+          "title": "Gas prices aren&#8217;t the only factor fueling used EV sales",
+          "summary": "The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction.",
+          "link": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
+          "pubDate": "Mon, 06 Apr 2026 21:15:09 +0000"
         },
         {
-          "title": "As people look for ways to make new friends, here are the apps promising to help",
-          "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-          "link": "https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-          "pubDate": "Sun, 05 Apr 2026 18:01:37 +0000"
+          "title": "Google quietly launched an AI dictation app that works offline",
+          "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+          "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+          "pubDate": "Mon, 06 Apr 2026 18:54:33 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump issues expletive-laden threat  to Iran over Hormuz Strait blockage",
-          "summary": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
-          "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 05 Apr 2026 21:10:06 GMT"
+          "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
+          "summary": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
+          "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 06 Apr 2026 15:40:35 GMT"
+        },
+        {
+          "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+          "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
+          "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 06 Apr 2026 19:11:20 GMT"
         },
         {
           "title": "How rescue of US airman in remote part of Iran unfolded",
           "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
           "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 05 Apr 2026 21:19:02 GMT"
-        },
-        {
-          "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
-          "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
-          "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 05 Apr 2026 20:02:01 GMT"
+          "pubDate": "Mon, 06 Apr 2026 21:31:24 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here&apos;s what they learned",
+          "summary": "Before the U.S and Israel began their war against Iran, about 20% of the world's oil was shipped through the narrow Strait of Hormuz.",
+          "link": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html",
+          "pubDate": "Mon, 06 Apr 2026 20:47:02 GMT"
+        },
+        {
+          "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
+          "summary": "JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.",
+          "link": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
+          "pubDate": "Mon, 06 Apr 2026 11:55:38 GMT"
+        },
         {
           "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
           "summary": "Blue Owl attributed the higher-than-usual requests to \"heightened market concerns around AI-related disruption to software companies.\"",
           "link": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html",
           "pubDate": "Thu, 02 Apr 2026 20:08:15 GMT"
-        },
-        {
-          "title": "Visa launches new AI tools to manage the charge dispute process",
-          "summary": "Visa's new tools are part of a larger push by major banks and financial institutions to incorporate AI into their businesses.",
-          "link": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
-          "pubDate": "Wed, 01 Apr 2026 15:26:51 GMT"
-        },
-        {
-          "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
-          "summary": "The Berkshire Hathaway chairman said the growing number of nuclear-armed states has fundamentally altered the global risk landscape.",
-          "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html",
-          "pubDate": "Tue, 31 Mar 2026 17:16:22 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Iran says US aircraft destroyed during recovery mission for missing service member",
-          "summary": "An Iranian news outlet on Sunday reported that multiple U.S. aircraft were destroyed during the mission to rescue a stranded American service member in Iran. The Iranian Fars News Agency, which is close to the Islamic Revolutionary Guard Corps, reported that two C-130 aircraft and two UH-60 Black Hawk helicopters were destroyed during the mission. &#8230;",
-          "link": "https://thehill.com/policy/defense/5817315-daring-rescue-mission-iran/",
-          "pubDate": "Sun, 05 Apr 2026 22:43:12 +0000"
+          "title": "EPA takes early step in methane rule rollback",
+          "summary": "The Trump administration undertook an early step Monday in what is expected to be a significant rollback of a Biden-era rule restricting methane emissions from oil and gas production. Last year, the Environmental Protection Agency (EPA)&#160;announced that it would revisit&#160;the methane rule, arguing that it was “throttling the oil and gas industry.”&#160; On Monday, the EPA&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5818608-epa-methane-rule-flaring/",
+          "pubDate": "Mon, 06 Apr 2026 22:06:02 +0000"
         },
         {
-          "title": "SNL rips Bondi’s departure in cold open",
-          "summary": "&#8220;Saturday Night Live&#8221; kicked off its latest cold open with a parody skit featuring Attorney General Pam Bondi&#8217;s recent firing. The sketch depicted an NCAA Final Four postgame show in which Charles Barkley, played by Kenan Thompson, kept going off-topic and spoke on Bondi&#8217;s ouster. &#8220;It is a shame when somebody gets fired. But we&#8230;",
-          "link": "https://thehill.com/media/5817305-snl-rips-bondis-departure-in-cold-open/",
-          "pubDate": "Sun, 05 Apr 2026 22:06:37 +0000"
+          "title": "Trump rips Supreme Court over birthright citizenship, tariffs",
+          "summary": "President Trump on Monday said the Supreme Court just “doesn’t seem to care” about the country after its ruling against his tariffs, and the considerable doubts many of the justices showed toward striking down birthright citizenship. &#8220;It’s too bad that the Supreme Court can’t watch and study the Mark Levin Show tonight on the Birthright&#8230;",
+          "link": "https://thehill.com/homenews/administration/5818557-birthright-citizenship-trump-sc/",
+          "pubDate": "Mon, 06 Apr 2026 22:03:45 +0000"
         },
         {
-          "title": "Savannah Guthrie returns to &#8216;Today&#8217; after search for mother passes 2 months",
-          "summary": "Savannah Guthrie will return to NBC’s “Today” show on Monday, the day after Easter, more than two months after the disappearance of her mother, Nancy Guthrie. “It’s hard to imagine doing it because it’s such a place of joy and lightness, and I can’t come back and try to be something that I’m not,” Savannah&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5817282-savannah-guthrie-returns-today/",
-          "pubDate": "Sun, 05 Apr 2026 21:34:49 +0000"
+          "title": "Sam Altman&#8217;s &#8216;New Deal&#8217; for superintelligence",
+          "summary": "{beacon} Technology &#8202; The Big Story&#160; Sam Altman&#8217;s &#8216;New Deal&#8217; for superintelligence OpenAI unveiled a series of policy proposals Monday, with hopes the conversation will lead to a new &#8220;social contract&#8221; in a world with artificial intelligence.&#160; © AP Photo The policy blueprint, published Monday, suggests superintelligence, an AI that will surpass the smartest humans,&#8230;",
+          "link": "https://thehill.com/newsletters/technology/5818609-sam-altman-openai-superintelligence/",
+          "pubDate": "Mon, 06 Apr 2026 22:02:33 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Dow Jones Futures Fall As Trump Says Iran Faces 'Hell' If No Deal; Sandisk Leads 7 Stocks To Watch",
-          "summary": "Dow Jones Futures Fall As Trump Says Iran Faces 'Hell' If No Deal; Sandisk Leads 7 Stocks To Watch",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-04-05T22:43:22Z"
+          "title": "JPMorgan has a stark message on the next Fed rate cut",
+          "summary": "JPMorgan has a stark message on the next Fed rate cut",
+          "link": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html",
+          "pubDate": "2026-04-06T18:03:00Z"
         },
         {
-          "title": "Should You Buy This Vanguard Fund That's Soared 136% Over 3 Years Before April 17?",
-          "summary": "Should You Buy This Vanguard Fund That's Soared 136% Over 3 Years Before April 17?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-vanguard-fund-thats-soared-223500812.html",
-          "pubDate": "2026-04-05T22:35:00Z"
+          "title": "Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out",
+          "summary": "Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out",
+          "link": "https://finance.yahoo.com/markets/options/articles/tesla-stock-keeps-falling-10-143002004.html",
+          "pubDate": "2026-04-05T14:30:02Z"
         },
         {
-          "title": "A new MIT-backed tool shows exactly why your electricity bill is going up in your neighborhood — you should be concerned",
-          "summary": "A new MIT-backed tool shows exactly why your electricity bill is going up in your neighborhood — you should be concerned",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/mit-backed-tool-shows-exactly-205500689.html",
-          "pubDate": "2026-04-05T20:55:00Z"
+          "title": "Retiring head of FINRA foundation: FOMO is investors' biggest mistake",
+          "summary": "Retiring head of FINRA foundation: FOMO is investors' biggest mistake",
+          "link": "https://finance.yahoo.com/news/retiring-head-of-finra-foundation-fomo-is-investors-biggest-mistake-143053886.html",
+          "pubDate": "2026-04-05T14:30:53Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -243,34 +243,34 @@
           "pubDate": "Sun, 05 Apr 2026 06:43:13 EDT"
         },
         {
-          "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
-          "summary": "A hidden Roman sanctuary discovered beneath Frankfurt is offering rare clues about ancient rituals, including possible human sacrifice. With major funding secured, scientists are now racing to uncover how this mysterious, multi-god cult site operated.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260405003937.htm",
-          "pubDate": "Sun, 05 Apr 2026 00:39:37 EDT"
+          "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+          "summary": "AI is consuming staggering amounts of energy—already over 10% of U.S. electricity—and the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that could slash AI energy use by up to 100× while actually improving accuracy. By combining neural networks with human-like symbolic reasoning, their system helps robots think more logically instead of relying on brute-force trial and error.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+          "pubDate": "Sun, 05 Apr 2026 21:23:54 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "siteName": "Science News",
       "items": [
         {
-          "title": "When our minds wander to the body, it may affect mental health",
-          "summary": "People’s minds sometimes wander to their bodily sensations, which may reduce symptoms of depression and ADHD, a new study suggests.",
-          "link": "https://www.sciencenews.org/article/mind-wander-body-mental-health",
-          "pubDate": "Fri, 03 Apr 2026 17:00:00 +0000"
+          "title": "Human echolocation works step by step",
+          "summary": "Experts in echolocation use multiple clicks and echoes to sense objects, offering insight into how the brain builds perception.",
+          "link": "https://www.sciencenews.org/article/human-echolocation-blind-brain",
+          "pubDate": "Mon, 06 Apr 2026 17:00:00 +0000"
         },
         {
-          "title": "Supreme Court ruling on ‘conversion therapy’ puts medical talk in the hot seat",
-          "summary": "In Chiles v. Salazar, the court ruled that a therapist has First Amendment protections. That could impact how talk therapy is regulated.",
-          "link": "https://www.sciencenews.org/article/conversion-therapy-supreme-court-lgbtq",
-          "pubDate": "Fri, 03 Apr 2026 15:03:56 +0000"
+          "title": "Artemis II Live: NASA’s Orion speeds toward a historic loop around the moon",
+          "summary": "The astronauts will have a front-row view of the farside of the moon, including sunlit features, an eclipse and a re-creation of the famous Earthrise.",
+          "link": "https://www.sciencenews.org/article/nasa-artemis-astronauts-farside-moon-blog",
+          "pubDate": "Mon, 06 Apr 2026 15:17:08 +0000"
         },
         {
-          "title": "Huge Numbers tackles mathematics at its most incomprehensibly large",
-          "summary": "Mathematician Richard Elwes surveys googology, the study of enormous numbers, in a new book.",
-          "link": "https://www.sciencenews.org/article/huge-numbers-book-math-googology",
-          "pubDate": "Fri, 03 Apr 2026 13:00:00 +0000"
+          "title": "Snippets of hair may expose chronic stress in war refugees",
+          "summary": "Cortisol in hair shows sharper differences in chronic stress among Ukraine war refugees than standard questionnaires.",
+          "link": "https://www.sciencenews.org/article/hair-chronic-stress-war-refugees",
+          "pubDate": "Mon, 06 Apr 2026 13:00:00 +0000"
         }
       ]
     }
