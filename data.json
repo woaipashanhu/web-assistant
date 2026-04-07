@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-06T23:00:42.291Z",
-  "date": "2026-04-07",
+  "lastUpdate": "2026-04-07T23:00:31.902Z",
+  "date": "2026-04-08",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "A Single Strike Won’t Shut Off the Gulf’s Desalination System",
-          "summary": "The Gulf’s water system is built with layers of backup, but it relies on continuous operation to hold.",
-          "link": "https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/",
-          "pubDate": "Mon, 06 Apr 2026 20:23:04 +0000"
+          "title": "The iPhone Gets a D– for Repairability",
+          "summary": "It’s a better rating than the company has gotten from repairability experts before, at least. Samsung is second worst with a D.",
+          "link": "https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/",
+          "pubDate": "Tue, 07 Apr 2026 20:59:10 +0000"
         },
         {
-          "title": "Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear",
-          "summary": "Nonprofits run out of US Border Patrol stations are also selling other “operation”-themed coins that include a phrase popularized by the Proud Boys, potentially in violation of government rules.",
-          "link": "https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/",
-          "pubDate": "Mon, 06 Apr 2026 18:16:27 +0000"
+          "title": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
+          "summary": "As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure.",
+          "link": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
+          "pubDate": "Tue, 07 Apr 2026 20:13:51 +0000"
         },
         {
-          "title": "One of Our Favorite 360 Cams Is 35 Percent Off",
-          "summary": "You can score over $200 off the DJI Osmo 360.",
-          "link": "https://www.wired.com/story/dji-osmo-360-deal-426/",
-          "pubDate": "Mon, 06 Apr 2026 17:03:05 +0000"
+          "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+          "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
+          "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+          "pubDate": "Tue, 07 Apr 2026 18:49:50 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-          "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
-          "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-          "pubDate": "Mon, 06 Apr 2026 21:54:26 +0000"
+          "title": "I can&#8217;t help rooting for tiny open source AI model maker Arcee",
+          "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+          "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+          "pubDate": "Tue, 07 Apr 2026 21:35:02 +0000"
         },
         {
-          "title": "Gas prices aren&#8217;t the only factor fueling used EV sales",
-          "summary": "The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction.",
-          "link": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
-          "pubDate": "Mon, 06 Apr 2026 21:15:09 +0000"
+          "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+          "summary": "Eclipse will put some of that money towards incubating, or building startups.",
+          "link": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+          "pubDate": "Tue, 07 Apr 2026 21:24:54 +0000"
         },
         {
-          "title": "Google quietly launched an AI dictation app that works offline",
-          "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-          "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-          "pubDate": "Mon, 06 Apr 2026 18:54:33 +0000"
+          "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+          "summary": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran.",
+          "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+          "pubDate": "Tue, 07 Apr 2026 19:59:06 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-          "summary": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
-          "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 06 Apr 2026 15:40:35 GMT"
+          "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+          "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
+          "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 07 Apr 2026 17:15:34 GMT"
         },
         {
-          "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-          "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
-          "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 06 Apr 2026 19:11:20 GMT"
+          "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+          "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
+          "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 07 Apr 2026 19:40:05 GMT"
         },
         {
-          "title": "How rescue of US airman in remote part of Iran unfolded",
-          "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
-          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 06 Apr 2026 21:31:24 GMT"
+          "title": "Has Artemis II shown we can land on the Moon again?",
+          "summary": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
+          "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 07 Apr 2026 15:23:05 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "EPA takes early step in methane rule rollback",
-          "summary": "The Trump administration undertook an early step Monday in what is expected to be a significant rollback of a Biden-era rule restricting methane emissions from oil and gas production. Last year, the Environmental Protection Agency (EPA)&#160;announced that it would revisit&#160;the methane rule, arguing that it was “throttling the oil and gas industry.”&#160; On Monday, the EPA&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5818608-epa-methane-rule-flaring/",
-          "pubDate": "Mon, 06 Apr 2026 22:06:02 +0000"
+          "title": "Crow urges US service members to &#8216;follow the law&#8217; if ordered to carry out strikes on Iranian civilians",
+          "summary": "Rep. Jason Crow (D-Colo.) on Tuesday urged U.S. service members to “follow the law” if directed to strike Iranian civilians targets, after President Trump issued a dire threat to Iran earlier in the day. &#8220;Well, it&#8217;s a war crime. It&#8217;s a very clear war crime,” Crow, a former Army Ranger who served in Afghanistan and&#8230;",
+          "link": "https://thehill.com/homenews/house/5820444-jason-crow-trump-iran-war-crime-troops/",
+          "pubDate": "Tue, 07 Apr 2026 22:26:48 +0000"
         },
         {
-          "title": "Trump rips Supreme Court over birthright citizenship, tariffs",
-          "summary": "President Trump on Monday said the Supreme Court just “doesn’t seem to care” about the country after its ruling against his tariffs, and the considerable doubts many of the justices showed toward striking down birthright citizenship. &#8220;It’s too bad that the Supreme Court can’t watch and study the Mark Levin Show tonight on the Birthright&#8230;",
-          "link": "https://thehill.com/homenews/administration/5818557-birthright-citizenship-trump-sc/",
-          "pubDate": "Mon, 06 Apr 2026 22:03:45 +0000"
+          "title": "Murkowski: Trump, Iran must de-escalate &#8216;unprecedented saber-rattling before it is too late&#8217;",
+          "summary": "Sen. Lisa Murkowski (R-Alaska) on Tuesday called on President Trump and Iran to de-escalate from their &#8220;unprecedented saber-rattling before it is too late&#8221; after the president issued an ominous warning toward the Middle Eastern country. Trump threatened Tuesday morning that Iran&#8217;s &#8220;whole civilization will die tonight, never to be brought back again&#8221; unless &#8220;maybe something&#8230;",
+          "link": "https://thehill.com/homenews/senate/5820531-trump-iran-threat-murkowski-criticism/",
+          "pubDate": "Tue, 07 Apr 2026 22:11:51 +0000"
         },
         {
-          "title": "Sam Altman&#8217;s &#8216;New Deal&#8217; for superintelligence",
-          "summary": "{beacon} Technology &#8202; The Big Story&#160; Sam Altman&#8217;s &#8216;New Deal&#8217; for superintelligence OpenAI unveiled a series of policy proposals Monday, with hopes the conversation will lead to a new &#8220;social contract&#8221; in a world with artificial intelligence.&#160; © AP Photo The policy blueprint, published Monday, suggests superintelligence, an AI that will surpass the smartest humans,&#8230;",
-          "link": "https://thehill.com/newsletters/technology/5818609-sam-altman-openai-superintelligence/",
-          "pubDate": "Mon, 06 Apr 2026 22:02:33 +0000"
+          "title": "Pelosi calls for Cabinet to invoke 25th Amendment on Trump over Iran remarks",
+          "summary": "Former House Speaker Nancy Pelosi (D-Calif.) on Tuesday urged members of President Trump’s Cabinet to invoke the 25th Amendment and hand his powers to the vice president over his remarks about wiping out Iran&#8217;s civilization. If the Cabinet is unwilling to take that action, Pelosi said Republicans in the House and Senate should move to&#8230;",
+          "link": "https://thehill.com/homenews/house/5820539-pelosi-urges-25th-amendment/",
+          "pubDate": "Tue, 07 Apr 2026 22:08:04 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,64 +213,64 @@
           "pubDate": "2026-04-06T18:03:00Z"
         },
         {
-          "title": "Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out",
-          "summary": "Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out",
-          "link": "https://finance.yahoo.com/markets/options/articles/tesla-stock-keeps-falling-10-143002004.html",
-          "pubDate": "2026-04-05T14:30:02Z"
+          "title": "India's Back Buying Iranian Oil, and It's Costing Them",
+          "summary": "India's Back Buying Iranian Oil, and It's Costing Them",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/indias-back-buying-iranian-oil-144205972.html",
+          "pubDate": "2026-04-06T14:42:05Z"
         },
         {
-          "title": "Retiring head of FINRA foundation: FOMO is investors' biggest mistake",
-          "summary": "Retiring head of FINRA foundation: FOMO is investors' biggest mistake",
-          "link": "https://finance.yahoo.com/news/retiring-head-of-finra-foundation-fomo-is-investors-biggest-mistake-143053886.html",
-          "pubDate": "2026-04-05T14:30:53Z"
+          "title": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job",
+          "summary": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job",
+          "link": "https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html",
+          "pubDate": "2026-04-06T14:38:08Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists found a protein that drives brain aging — and how to stop it",
-          "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-          "pubDate": "Sun, 05 Apr 2026 07:08:57 EDT"
+          "title": "Scientists found a “lost world” of animals that shouldn’t exist yet",
+          "summary": "A remarkable fossil discovery in southwest China is rewriting the story of how complex animal life began, showing that many key animal groups appeared millions of years earlier than scientists once believed. Dating back over 540 million years, the fossils reveal a surprisingly diverse and advanced ecosystem from the late Ediacaran period—before the famous Cambrian explosion. Among the finds are early relatives of starfish, worm-like creatures, and even ancestors of animals with backbones, suggesting that the roots of modern life were already taking shape.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260406234153.htm",
+          "pubDate": "Mon, 06 Apr 2026 23:41:53 EDT"
         },
         {
-          "title": "Scientists trap light in a layer 1,000x thinner than hair",
-          "summary": "Researchers have created a nanoscale structure that traps infrared light in a layer just 40 nanometers thick—over 1,000 times thinner than a human hair. By using a unique material with exceptional light-bending properties, they can confine and intensify light far beyond previous limits. This setup also dramatically boosts light conversion effects, turning infrared into visible blue light. The advance could pave the way for smaller, faster photonic technologies.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260405003957.htm",
-          "pubDate": "Sun, 05 Apr 2026 06:43:13 EDT"
+          "title": "Scientists discover the “Goldilocks” secret behind life on Earth",
+          "summary": "Earth may have won a cosmic chemistry lottery. Researchers found that during the planet’s earliest formation, oxygen had to be in an extremely narrow “Goldilocks zone” for two life-essential elements, phosphorus and nitrogen, to stay where life could use them. Too much or too little oxygen, and those ingredients could be lost or trapped deep inside the planet. This could reshape the search for life by showing that water alone is not enough.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260406192917.htm",
+          "pubDate": "Mon, 06 Apr 2026 23:36:59 EDT"
         },
         {
-          "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
-          "summary": "AI is consuming staggering amounts of energy—already over 10% of U.S. electricity—and the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that could slash AI energy use by up to 100× while actually improving accuracy. By combining neural networks with human-like symbolic reasoning, their system helps robots think more logically instead of relying on brute-force trial and error.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-          "pubDate": "Sun, 05 Apr 2026 21:23:54 EDT"
+          "title": "Scientists say 7 days of meditation can rewire your brain",
+          "summary": "A single week of intensive meditation and mind-body practices led to measurable changes across the brain and body. Researchers observed improved brain efficiency, boosted immune signaling, and increased natural pain relief chemicals in participants’ blood. The effects even promoted neuron growth and stronger brain connectivity. Surprisingly, the experience mirrored psychedelic-like brain states—without any drugs involved.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260406192913.htm",
+          "pubDate": "Tue, 07 Apr 2026 03:56:04 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "The first-ever ‘Earthset’ image marks another Artemis II milestone",
+          "summary": "As NASA’s Orion spacecraft slipped behind the farside of the moon, the astronauts captured the crescent of Earth setting over the moon’s horizon.",
+          "link": "https://www.sciencenews.org/article/first-earthset-moon-artemis-ii-mission",
+          "pubDate": "Tue, 07 Apr 2026 15:53:29 +0000"
+        },
+        {
+          "title": "A new book finds parenting inspiration in the animal kingdom",
+          "summary": "In The Creatures’ Guide to Caring, science journalist Elizabeth Preston looks to the animal kingdom to explore what it means to be a good parent.",
+          "link": "https://www.sciencenews.org/article/animal-parenting-tips-preston-book",
+          "pubDate": "Tue, 07 Apr 2026 13:00:00 +0000"
+        },
         {
           "title": "Human echolocation works step by step",
           "summary": "Experts in echolocation use multiple clicks and echoes to sense objects, offering insight into how the brain builds perception.",
           "link": "https://www.sciencenews.org/article/human-echolocation-blind-brain",
           "pubDate": "Mon, 06 Apr 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Artemis II Live: NASA’s Orion speeds toward a historic loop around the moon",
-          "summary": "The astronauts will have a front-row view of the farside of the moon, including sunlit features, an eclipse and a re-creation of the famous Earthrise.",
-          "link": "https://www.sciencenews.org/article/nasa-artemis-astronauts-farside-moon-blog",
-          "pubDate": "Mon, 06 Apr 2026 15:17:08 +0000"
-        },
-        {
-          "title": "Snippets of hair may expose chronic stress in war refugees",
-          "summary": "Cortisol in hair shows sharper differences in chronic stress among Ukraine war refugees than standard questionnaires.",
-          "link": "https://www.sciencenews.org/article/hair-chronic-stress-war-refugees",
-          "pubDate": "Mon, 06 Apr 2026 13:00:00 +0000"
         }
       ]
     }
