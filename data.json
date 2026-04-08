@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-07T23:00:31.902Z",
-  "date": "2026-04-08",
+  "lastUpdate": "2026-04-08T23:00:36.058Z",
+  "date": "2026-04-09",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The iPhone Gets a D– for Repairability",
-          "summary": "It’s a better rating than the company has gotten from repairability experts before, at least. Samsung is second worst with a D.",
-          "link": "https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/",
-          "pubDate": "Tue, 07 Apr 2026 20:59:10 +0000"
+          "title": "Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says",
+          "summary": "The AI company now faces conflicting rulings in its fight over how Claude can be used by the US military.",
+          "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+          "pubDate": "Wed, 08 Apr 2026 22:27:26 +0000"
         },
         {
-          "title": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
-          "summary": "As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure.",
-          "link": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
-          "pubDate": "Tue, 07 Apr 2026 20:13:51 +0000"
+          "title": "As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover",
+          "summary": "After weeks of disruption, a ceasefire is easing pressure on the Strait of Hormuz. But backlogs, infrastructure damage, and delayed supply mean the system won’t return to normal overnight.",
+          "link": "https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/",
+          "pubDate": "Wed, 08 Apr 2026 19:33:57 +0000"
         },
         {
-          "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
-          "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
-          "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
-          "pubDate": "Tue, 07 Apr 2026 18:49:50 +0000"
+          "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+          "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+          "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+          "pubDate": "Wed, 08 Apr 2026 18:51:09 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "I can&#8217;t help rooting for tiny open source AI model maker Arcee",
-          "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
-          "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-          "pubDate": "Tue, 07 Apr 2026 21:35:02 +0000"
+          "title": "WireGuard VPN developer can&#8217;t ship software updates after Microsoft locks account",
+          "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
+          "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+          "pubDate": "Wed, 08 Apr 2026 21:50:41 +0000"
         },
         {
-          "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
-          "summary": "Eclipse will put some of that money towards incubating, or building startups.",
-          "link": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-          "pubDate": "Tue, 07 Apr 2026 21:24:54 +0000"
+          "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+          "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
+          "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+          "pubDate": "Wed, 08 Apr 2026 21:19:07 +0000"
         },
         {
-          "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
-          "summary": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran.",
-          "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
-          "pubDate": "Tue, 07 Apr 2026 19:59:06 +0000"
+          "title": "AI agent Poke makes setting up automations as easy as sending a text",
+          "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+          "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+          "pubDate": "Wed, 08 Apr 2026 21:05:13 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
-          "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
-          "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 07 Apr 2026 17:15:34 GMT"
+          "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+          "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+          "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 08 Apr 2026 03:30:55 GMT"
         },
         {
-          "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-          "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
-          "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 07 Apr 2026 19:40:05 GMT"
+          "title": "What we know about the two-week ceasefire between the US and Iran",
+          "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
+          "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 08 Apr 2026 20:25:49 GMT"
         },
         {
-          "title": "Has Artemis II shown we can land on the Moon again?",
-          "summary": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
-          "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 07 Apr 2026 15:23:05 GMT"
+          "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+          "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
+          "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 08 Apr 2026 20:54:59 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
+          "summary": "Policymakers said they would need to remain \"nimble\" as they weighed the impact the war had on inflation.",
+          "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
+          "pubDate": "Wed, 08 Apr 2026 18:26:37 GMT"
+        },
+        {
+          "title": "Ray Dalio: Trump-Xi meeting to focus on trade, capital flows",
+          "summary": "Bridgewater founder Ray Dalio told CNBC he is optimistic about the outcome of a meeting between the U.S. and Chinese presidents next month.",
+          "link": "https://www.cnbc.com/2026/04/08/ray-dalio-trump-xi-meeting-to-focus-on-trade-capital-flows.html",
+          "pubDate": "Wed, 08 Apr 2026 15:07:38 GMT"
+        },
         {
           "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here&apos;s what they learned",
           "summary": "Before the U.S and Israel began their war against Iran, about 20% of the world's oil was shipped through the narrow Strait of Hormuz.",
           "link": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html",
           "pubDate": "Mon, 06 Apr 2026 20:47:02 GMT"
-        },
-        {
-          "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
-          "summary": "JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.",
-          "link": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
-          "pubDate": "Mon, 06 Apr 2026 11:55:38 GMT"
-        },
-        {
-          "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
-          "summary": "Blue Owl attributed the higher-than-usual requests to \"heightened market concerns around AI-related disruption to software companies.\"",
-          "link": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html",
-          "pubDate": "Thu, 02 Apr 2026 20:08:15 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Crow urges US service members to &#8216;follow the law&#8217; if ordered to carry out strikes on Iranian civilians",
-          "summary": "Rep. Jason Crow (D-Colo.) on Tuesday urged U.S. service members to “follow the law” if directed to strike Iranian civilians targets, after President Trump issued a dire threat to Iran earlier in the day. &#8220;Well, it&#8217;s a war crime. It&#8217;s a very clear war crime,” Crow, a former Army Ranger who served in Afghanistan and&#8230;",
-          "link": "https://thehill.com/homenews/house/5820444-jason-crow-trump-iran-war-crime-troops/",
-          "pubDate": "Tue, 07 Apr 2026 22:26:48 +0000"
+          "title": "The Memo: Trump’s dash for off-ramp in Iran fuels fears of strategic defeat",
+          "summary": "There are huge questions hanging over the Trump administration’s strategic objectives in Iran, especially now that a tentative ceasefire has hit immediate turbulence. Global relief on Tuesday evening, when President Trump backed off his ominous threat to lay waste to Iranian “civilization,” gave way to uncertainty and confusion Wednesday. A key figure in Tehran, the&#8230;",
+          "link": "https://thehill.com/homenews/administration/5822968-trump-iran-strait-hormuz-ceasefire/",
+          "pubDate": "Wed, 08 Apr 2026 22:17:55 +0000"
         },
         {
-          "title": "Murkowski: Trump, Iran must de-escalate &#8216;unprecedented saber-rattling before it is too late&#8217;",
-          "summary": "Sen. Lisa Murkowski (R-Alaska) on Tuesday called on President Trump and Iran to de-escalate from their &#8220;unprecedented saber-rattling before it is too late&#8221; after the president issued an ominous warning toward the Middle Eastern country. Trump threatened Tuesday morning that Iran&#8217;s &#8220;whole civilization will die tonight, never to be brought back again&#8221; unless &#8220;maybe something&#8230;",
-          "link": "https://thehill.com/homenews/senate/5820531-trump-iran-threat-murkowski-criticism/",
-          "pubDate": "Tue, 07 Apr 2026 22:11:51 +0000"
+          "title": "March sets new record for most abnormally hot month in continental US",
+          "summary": "Last month was the hottest March on record in U.S. history, according to data released by the National Oceanic and Atmospheric Administration (NOAA) on Wednesday. Average temperatures across continental America in March 2026 topped the 20th-century average by 9.4 degrees Fahrenheit, according to the new data. A total of 10 states set records for the&#8230;",
+          "link": "https://thehill.com/homenews/state-watch/5822980-el-nino-rising-temperatures/",
+          "pubDate": "Wed, 08 Apr 2026 22:16:46 +0000"
         },
         {
-          "title": "Pelosi calls for Cabinet to invoke 25th Amendment on Trump over Iran remarks",
-          "summary": "Former House Speaker Nancy Pelosi (D-Calif.) on Tuesday urged members of President Trump’s Cabinet to invoke the 25th Amendment and hand his powers to the vice president over his remarks about wiping out Iran&#8217;s civilization. If the Cabinet is unwilling to take that action, Pelosi said Republicans in the House and Senate should move to&#8230;",
-          "link": "https://thehill.com/homenews/house/5820539-pelosi-urges-25th-amendment/",
-          "pubDate": "Tue, 07 Apr 2026 22:08:04 +0000"
+          "title": "4 big questions hanging over Trump’s ceasefire with Iran",
+          "summary": "Within 24 hours this week, President Trump jumped from threats to wipe out Iran’s civilization to announcing that Tehran had presented a plan that led him to agree to a 14-day ceasefire — less than two hours before his deadline to attack Iranian infrastructure. About 24 hours later, the ceasefire is already showing severe cracks,&#8230;",
+          "link": "https://thehill.com/policy/defense/5822948-iran-us-ceasefire-questions/",
+          "pubDate": "Wed, 08 Apr 2026 21:57:42 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "JPMorgan has a stark message on the next Fed rate cut",
-          "summary": "JPMorgan has a stark message on the next Fed rate cut",
-          "link": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html",
-          "pubDate": "2026-04-06T18:03:00Z"
+          "title": "Bitcoin (BTC) Jumps Back Near $70,000 on Hopes for Iran Ceasefire",
+          "summary": "Bitcoin (BTC) Jumps Back Near $70,000 on Hopes for Iran Ceasefire",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-btc-jumps-back-near-150006554.html",
+          "pubDate": "2026-04-07T15:00:06Z"
         },
         {
-          "title": "India's Back Buying Iranian Oil, and It's Costing Them",
-          "summary": "India's Back Buying Iranian Oil, and It's Costing Them",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/indias-back-buying-iranian-oil-144205972.html",
-          "pubDate": "2026-04-06T14:42:05Z"
+          "title": "Despite Lowering Price Target, TD Cowen Sees Upside in Capital One Financial (COF) Stock",
+          "summary": "Despite Lowering Price Target, TD Cowen Sees Upside in Capital One Financial (COF) Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/despite-lowering-price-target-td-145535364.html",
+          "pubDate": "2026-04-07T14:55:35Z"
         },
         {
-          "title": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job",
-          "summary": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job",
-          "link": "https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html",
-          "pubDate": "2026-04-06T14:38:08Z"
+          "title": "Is Wix.com (WIX) Among The Most Affordable Growth Stocks For The Next 5 Years?",
+          "summary": "Is Wix.com (WIX) Among The Most Affordable Growth Stocks For The Next 5 Years?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-among-most-145608421.html",
+          "pubDate": "2026-04-07T14:56:08Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists found a “lost world” of animals that shouldn’t exist yet",
-          "summary": "A remarkable fossil discovery in southwest China is rewriting the story of how complex animal life began, showing that many key animal groups appeared millions of years earlier than scientists once believed. Dating back over 540 million years, the fossils reveal a surprisingly diverse and advanced ecosystem from the late Ediacaran period—before the famous Cambrian explosion. Among the finds are early relatives of starfish, worm-like creatures, and even ancestors of animals with backbones, suggesting that the roots of modern life were already taking shape.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260406234153.htm",
-          "pubDate": "Mon, 06 Apr 2026 23:41:53 EDT"
+          "title": "Something just hit the Moon and left a bright new scar",
+          "summary": "For all its ancient, familiar features, the Moon is still changing—and sometimes in dramatic ways. Scientists recently identified a fresh 22-meter-wide crater by comparing orbital images taken years apart, revealing a relatively recent impact that no one actually saw happen. The collision blasted bright material outward in striking rays, making the new crater stand out sharply against the darker lunar surface.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260407193919.htm",
+          "pubDate": "Wed, 08 Apr 2026 08:43:43 EDT"
         },
         {
-          "title": "Scientists discover the “Goldilocks” secret behind life on Earth",
-          "summary": "Earth may have won a cosmic chemistry lottery. Researchers found that during the planet’s earliest formation, oxygen had to be in an extremely narrow “Goldilocks zone” for two life-essential elements, phosphorus and nitrogen, to stay where life could use them. Too much or too little oxygen, and those ingredients could be lost or trapped deep inside the planet. This could reshape the search for life by showing that water alone is not enough.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260406192917.htm",
-          "pubDate": "Mon, 06 Apr 2026 23:36:59 EDT"
+          "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
+          "summary": "Scientists have zoomed in on how phosphoric acid moves electrical charges so efficiently in both biology and technology. By freezing a key molecular pair to extremely low temperatures, they found it forms just one stable structure—contrary to predictions. This structure relies on a specific hydrogen-bond network that may be universal in similar systems. The discovery helps explain how protons travel so quickly and could inspire better energy materials.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260407193915.htm",
+          "pubDate": "Tue, 07 Apr 2026 22:20:03 EDT"
         },
         {
-          "title": "Scientists say 7 days of meditation can rewire your brain",
-          "summary": "A single week of intensive meditation and mind-body practices led to measurable changes across the brain and body. Researchers observed improved brain efficiency, boosted immune signaling, and increased natural pain relief chemicals in participants’ blood. The effects even promoted neuron growth and stronger brain connectivity. Surprisingly, the experience mirrored psychedelic-like brain states—without any drugs involved.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260406192913.htm",
-          "pubDate": "Tue, 07 Apr 2026 03:56:04 EDT"
+          "title": "Scientists say we’ve been wrong about what makes sprinters fast",
+          "summary": "A new international study is shaking up how we think about elite sprinting, arguing there’s no single “perfect” running style behind the world’s fastest athletes. Instead, speed emerges from a complex mix of an individual’s body, coordination, strength, and training—meaning every top sprinter moves differently. Using examples like rising Australian star Gout Gout, researchers show that unique physical traits can produce world-class speed without copying anyone else’s technique.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260407193911.htm",
+          "pubDate": "Wed, 08 Apr 2026 09:17:58 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "siteName": "Science News",
       "items": [
         {
-          "title": "The first-ever ‘Earthset’ image marks another Artemis II milestone",
-          "summary": "As NASA’s Orion spacecraft slipped behind the farside of the moon, the astronauts captured the crescent of Earth setting over the moon’s horizon.",
-          "link": "https://www.sciencenews.org/article/first-earthset-moon-artemis-ii-mission",
-          "pubDate": "Tue, 07 Apr 2026 15:53:29 +0000"
+          "title": "Even before splashdown, Artemis II is delivering a scientific treasure trove",
+          "summary": "The Artemis II moon flyby may be over, but the hunt for scientific treasures in the trove of data collected is just starting.",
+          "link": "https://www.sciencenews.org/article/splashdown-artemis-ii-science-moon",
+          "pubDate": "Wed, 08 Apr 2026 21:53:00 +0000"
         },
         {
-          "title": "A new book finds parenting inspiration in the animal kingdom",
-          "summary": "In The Creatures’ Guide to Caring, science journalist Elizabeth Preston looks to the animal kingdom to explore what it means to be a good parent.",
-          "link": "https://www.sciencenews.org/article/animal-parenting-tips-preston-book",
-          "pubDate": "Tue, 07 Apr 2026 13:00:00 +0000"
+          "title": "Hawaii is turning ocean plastic into roads to fight pollution",
+          "summary": "The ocean plastic that washes up on Hawaii’s beaches is recycled into asphalt to pave roads. The roads are then tested for microplastic pollution.",
+          "link": "https://www.sciencenews.org/article/hawaii-plastic-pollution-recycle-roads",
+          "pubDate": "Wed, 08 Apr 2026 17:00:00 +0000"
         },
         {
-          "title": "Human echolocation works step by step",
-          "summary": "Experts in echolocation use multiple clicks and echoes to sense objects, offering insight into how the brain builds perception.",
-          "link": "https://www.sciencenews.org/article/human-echolocation-blind-brain",
-          "pubDate": "Mon, 06 Apr 2026 17:00:00 +0000"
+          "title": "Mummified reptile hints at the origins of how we breathe",
+          "summary": "A cave preserved two animals’ rib cages, cartilage and even traces of protein, revealing a flexible breathing apparatus like that of today’s land dwellers.",
+          "link": "https://www.sciencenews.org/article/mummified-reptile-origins-breathing",
+          "pubDate": "Wed, 08 Apr 2026 15:00:00 +0000"
         }
       ]
     }
