@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-08T23:00:36.058Z",
-  "date": "2026-04-09",
+  "lastUpdate": "2026-04-09T23:00:43.904Z",
+  "date": "2026-04-10",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says",
-          "summary": "The AI company now faces conflicting rulings in its fight over how Claude can be used by the US military.",
-          "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
-          "pubDate": "Wed, 08 Apr 2026 22:27:26 +0000"
+          "title": "China Is Cracking Down on Scams. Just Not the Ones Hitting Americans",
+          "summary": "As Beijing clamps down on fraud at home, researchers say crime syndicates are shifting their focus to victims elsewhere.",
+          "link": "https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/",
+          "pubDate": "Thu, 09 Apr 2026 19:14:42 +0000"
         },
         {
-          "title": "As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover",
-          "summary": "After weeks of disruption, a ceasefire is easing pressure on the Strait of Hormuz. But backlogs, infrastructure damage, and delayed supply mean the system won’t return to normal overnight.",
-          "link": "https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/",
-          "pubDate": "Wed, 08 Apr 2026 19:33:57 +0000"
+          "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
+          "summary": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
+          "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+          "pubDate": "Thu, 09 Apr 2026 18:00:00 +0000"
         },
         {
-          "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
-          "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
-          "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
-          "pubDate": "Wed, 08 Apr 2026 18:51:09 +0000"
+          "title": "Save $20 on This Already Inexpensive Wireless Mic Set",
+          "summary": "Take your smartphone videos to the next level with impressive audio quality in a tiny package.",
+          "link": "https://www.wired.com/story/dji-mic-mini-deal-426/",
+          "pubDate": "Thu, 09 Apr 2026 17:31:11 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "WireGuard VPN developer can&#8217;t ship software updates after Microsoft locks account",
-          "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
-          "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
-          "pubDate": "Wed, 08 Apr 2026 21:50:41 +0000"
+          "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+          "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State University last year.",
+          "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+          "pubDate": "Thu, 09 Apr 2026 22:13:26 +0000"
         },
         {
-          "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
-          "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
-          "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
-          "pubDate": "Wed, 08 Apr 2026 21:19:07 +0000"
+          "title": "ChatGPT finally offers $100/month Pro plan",
+          "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+          "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+          "pubDate": "Thu, 09 Apr 2026 21:29:11 +0000"
         },
         {
-          "title": "AI agent Poke makes setting up automations as easy as sending a text",
-          "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-          "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-          "pubDate": "Wed, 08 Apr 2026 21:05:13 +0000"
+          "title": "EFF is the latest organization to leave X",
+          "summary": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
+          "link": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+          "pubDate": "Thu, 09 Apr 2026 21:26:18 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
-          "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
-          "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 08 Apr 2026 03:30:55 GMT"
+          "title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
+          "summary": "Lebanese officials had called for a ceasefire before talks begin.",
+          "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 09 Apr 2026 20:47:02 GMT"
         },
         {
-          "title": "What we know about the two-week ceasefire between the US and Iran",
-          "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
-          "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 08 Apr 2026 20:25:49 GMT"
+          "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+          "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 09 Apr 2026 01:59:34 GMT"
         },
         {
-          "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-          "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
-          "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 08 Apr 2026 20:54:59 GMT"
+          "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
+          "summary": "The Israeli military claims Mohammed Wishah was a \"Hamas terrorist\" - which the Qatar-based network has previously denied.",
+          "link": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 09 Apr 2026 11:39:56 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "The Memo: Trump’s dash for off-ramp in Iran fuels fears of strategic defeat",
-          "summary": "There are huge questions hanging over the Trump administration’s strategic objectives in Iran, especially now that a tentative ceasefire has hit immediate turbulence. Global relief on Tuesday evening, when President Trump backed off his ominous threat to lay waste to Iranian “civilization,” gave way to uncertainty and confusion Wednesday. A key figure in Tehran, the&#8230;",
-          "link": "https://thehill.com/homenews/administration/5822968-trump-iran-strait-hormuz-ceasefire/",
-          "pubDate": "Wed, 08 Apr 2026 22:17:55 +0000"
+          "title": "High-stakes talks set for Islamabad over US-Iran war: What to know",
+          "summary": "High-stakes talks are set for Islamabad this weekend where U.S. and Iranian officials plan to meet to negotiate the terms of a tenuous ceasefire to end the war in Iran. The White House called the talks “ongoing” but any agreement remains extremely fragile as fighting continues across the Middle East. “As the White House has&#8230;",
+          "link": "https://thehill.com/homenews/administration/5824835-high-stakes-talks-islamabad-ceasefire/",
+          "pubDate": "Thu, 09 Apr 2026 22:34:44 +0000"
         },
         {
-          "title": "March sets new record for most abnormally hot month in continental US",
-          "summary": "Last month was the hottest March on record in U.S. history, according to data released by the National Oceanic and Atmospheric Administration (NOAA) on Wednesday. Average temperatures across continental America in March 2026 topped the 20th-century average by 9.4 degrees Fahrenheit, according to the new data. A total of 10 states set records for the&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5822980-el-nino-rising-temperatures/",
-          "pubDate": "Wed, 08 Apr 2026 22:16:46 +0000"
+          "title": "McCarthy: &#8216;Right now, Trump has more power than Reagan&#8217;",
+          "summary": "Former House Speaker Kevin McCarthy (R-Calif.) on Wednesday said President Trump &#8220;has more power&#8221; than former President Reagan. McCarthy emphasized Trump&#8217;s executive strength during a talk at Harvard University&#8217;s Kennedy School in Cambridge, Mass., where he spoke about his time in the House and the future of democracy in the U.S. &#8220;Right now,&#160;Trump has more&#8230;",
+          "link": "https://thehill.com/homenews/house/5824702-kevin-mccarthy-trump-presidential-power-reagan/",
+          "pubDate": "Thu, 09 Apr 2026 22:30:20 +0000"
         },
         {
-          "title": "4 big questions hanging over Trump’s ceasefire with Iran",
-          "summary": "Within 24 hours this week, President Trump jumped from threats to wipe out Iran’s civilization to announcing that Tehran had presented a plan that led him to agree to a 14-day ceasefire — less than two hours before his deadline to attack Iranian infrastructure. About 24 hours later, the ceasefire is already showing severe cracks,&#8230;",
-          "link": "https://thehill.com/policy/defense/5822948-iran-us-ceasefire-questions/",
-          "pubDate": "Wed, 08 Apr 2026 21:57:42 +0000"
+          "title": "RSV season runs into spring",
+          "summary": "Click in for more news from The Hill {beacon} View Online Health Care Health Care &#8202; The Big Story&#160; An unusually late RSV season runs into spring&#160; A later-than-expected season of respiratory syncytial virus (RSV) has states extending eligibility for preventive measures in children. Experts are urging parents to keep in mind the measures that&#8230;",
+          "link": "https://thehill.com/homenews/5824829-rsv-season-runs-into-spring/",
+          "pubDate": "Thu, 09 Apr 2026 22:27:21 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Bitcoin (BTC) Jumps Back Near $70,000 on Hopes for Iran Ceasefire",
-          "summary": "Bitcoin (BTC) Jumps Back Near $70,000 on Hopes for Iran Ceasefire",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-btc-jumps-back-near-150006554.html",
-          "pubDate": "2026-04-07T15:00:06Z"
+          "title": "Major alcohol distributor shuts down operations, lays off over 500 workers",
+          "summary": "Major alcohol distributor shuts down operations, lays off over 500 workers",
+          "link": "https://finance.yahoo.com/economy/policy/articles/major-alcohol-distributor-shuts-down-161700316.html",
+          "pubDate": "2026-04-08T16:17:00Z"
         },
         {
-          "title": "Despite Lowering Price Target, TD Cowen Sees Upside in Capital One Financial (COF) Stock",
-          "summary": "Despite Lowering Price Target, TD Cowen Sees Upside in Capital One Financial (COF) Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/despite-lowering-price-target-td-145535364.html",
-          "pubDate": "2026-04-07T14:55:35Z"
+          "title": "Oil Prices Bounce; Iran Says Hormuz Opening Hinges On Israel, But S&P 500 Rallies",
+          "summary": "Oil Prices Bounce; Iran Says Hormuz Opening Hinges On Israel, But S&P 500 Rallies",
+          "link": "https://www.investors.com/news/oil-prices-dive-hormuz-strait-opening-sp-500-stocks-ual-ccl-fcx-nem-cat/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-04-08T15:21:44Z"
         },
         {
-          "title": "Is Wix.com (WIX) Among The Most Affordable Growth Stocks For The Next 5 Years?",
-          "summary": "Is Wix.com (WIX) Among The Most Affordable Growth Stocks For The Next 5 Years?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-among-most-145608421.html",
-          "pubDate": "2026-04-07T14:56:08Z"
+          "title": "The dollar is losing its war premium, and emerging markets are loving it: Chart of the Day",
+          "summary": "The dollar is losing its war premium, and emerging markets are loving it: Chart of the Day",
+          "link": "https://finance.yahoo.com/news/the-dollar-is-losing-its-war-premium-and-emerging-markets-are-loving-it-chart-of-the-day-152058874.html",
+          "pubDate": "2026-04-08T15:20:58Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Something just hit the Moon and left a bright new scar",
-          "summary": "For all its ancient, familiar features, the Moon is still changing—and sometimes in dramatic ways. Scientists recently identified a fresh 22-meter-wide crater by comparing orbital images taken years apart, revealing a relatively recent impact that no one actually saw happen. The collision blasted bright material outward in striking rays, making the new crater stand out sharply against the darker lunar surface.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260407193919.htm",
-          "pubDate": "Wed, 08 Apr 2026 08:43:43 EDT"
+          "title": "Breakthrough water filter removes 98% of toxic PFAS forever chemicals",
+          "summary": "Scientists have developed a clever new way to trap “forever chemicals” in water using nano-sized cages that lock onto PFAS molecules. Unlike current methods, this approach can capture short-chain PFAS—the hardest type to remove. Tests show it can eliminate up to 98% of these pollutants and still work after multiple uses. The discovery could lead to more effective water filtration systems worldwide.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260408225951.htm",
+          "pubDate": "Wed, 08 Apr 2026 23:57:17 EDT"
         },
         {
-          "title": "Scientists just uncovered the secret behind nature’s “proton highway”",
-          "summary": "Scientists have zoomed in on how phosphoric acid moves electrical charges so efficiently in both biology and technology. By freezing a key molecular pair to extremely low temperatures, they found it forms just one stable structure—contrary to predictions. This structure relies on a specific hydrogen-bond network that may be universal in similar systems. The discovery helps explain how protons travel so quickly and could inspire better energy materials.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260407193915.htm",
-          "pubDate": "Tue, 07 Apr 2026 22:20:03 EDT"
+          "title": "Scientists discover spice synergy that boosts anti-inflammation 100x",
+          "summary": "Chronic inflammation often works quietly in the background but can fuel serious diseases like diabetes, heart disease, and cancer. New research reveals that everyday plant compounds—like menthol from mint, cineole from eucalyptus, and capsaicin from chili peppers—can team up inside immune cells to dramatically boost their anti-inflammatory power. While individual compounds showed modest effects, certain combinations amplified results hundreds of times over by activating different cellular pathways at once.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260408225950.htm",
+          "pubDate": "Thu, 09 Apr 2026 02:57:22 EDT"
         },
         {
-          "title": "Scientists say we’ve been wrong about what makes sprinters fast",
-          "summary": "A new international study is shaking up how we think about elite sprinting, arguing there’s no single “perfect” running style behind the world’s fastest athletes. Instead, speed emerges from a complex mix of an individual’s body, coordination, strength, and training—meaning every top sprinter moves differently. Using examples like rising Australian star Gout Gout, researchers show that unique physical traits can produce world-class speed without copying anyone else’s technique.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260407193911.htm",
-          "pubDate": "Wed, 08 Apr 2026 09:17:58 EDT"
+          "title": "The hidden tradeoff behind today’s most popular weight loss drugs",
+          "summary": "Weight loss drugs and bariatric surgery may work differently, but they lead to surprisingly similar results inside the body. Both significantly reduce fat while also causing a modest loss of muscle, reshaping overall body composition. Since muscle helps protect against early death, this balance matters more than the number on the scale. The study suggests these treatments improve health—but not without trade-offs.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260408225948.htm",
+          "pubDate": "Thu, 09 Apr 2026 03:09:30 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Seeing and imagining activate some of the same brain cells",
+          "summary": "By recording brain activity directly, scientists showed that imagining an object can revive parts of the neural pattern used to see it.",
+          "link": "https://www.sciencenews.org/article/seeing-imagining-activate-brain-cells",
+          "pubDate": "Thu, 09 Apr 2026 18:00:00 +0000"
+        },
+        {
+          "title": "Emperor penguins are marching toward extinction. Antarctica fur seals too",
+          "summary": "Conservationists now list the penguins and seals as “Endangered.” Climate change in Antarctica has led to plunging populations.",
+          "link": "https://www.sciencenews.org/article/emperor-penguins-endangered-extinction-iucn",
+          "pubDate": "Thu, 09 Apr 2026 17:06:35 +0000"
+        },
         {
           "title": "Even before splashdown, Artemis II is delivering a scientific treasure trove",
           "summary": "The Artemis II moon flyby may be over, but the hunt for scientific treasures in the trove of data collected is just starting.",
           "link": "https://www.sciencenews.org/article/splashdown-artemis-ii-science-moon",
           "pubDate": "Wed, 08 Apr 2026 21:53:00 +0000"
-        },
-        {
-          "title": "Hawaii is turning ocean plastic into roads to fight pollution",
-          "summary": "The ocean plastic that washes up on Hawaii’s beaches is recycled into asphalt to pave roads. The roads are then tested for microplastic pollution.",
-          "link": "https://www.sciencenews.org/article/hawaii-plastic-pollution-recycle-roads",
-          "pubDate": "Wed, 08 Apr 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Mummified reptile hints at the origins of how we breathe",
-          "summary": "A cave preserved two animals’ rib cages, cartilage and even traces of protein, revealing a flexible breathing apparatus like that of today’s land dwellers.",
-          "link": "https://www.sciencenews.org/article/mummified-reptile-origins-breathing",
-          "pubDate": "Wed, 08 Apr 2026 15:00:00 +0000"
         }
       ]
     }
