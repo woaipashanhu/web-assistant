@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-10T23:00:30.117Z",
-  "date": "2026-04-11",
+  "lastUpdate": "2026-04-11T23:00:29.444Z",
+  "date": "2026-04-12",
   "sites": [
     {
       "id": "site_0",
@@ -59,84 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Home Depot Spring Black Friday (2026): Best Tool and Grill Deals",
-          "summary": "Home Depot's spring sale offers deals on some of WIRED's favorite grills, plus \"buy one get one free\" deals on tools from Ryobi, DeWalt, and Milwaukee.",
-          "link": "https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/",
-          "pubDate": "Fri, 10 Apr 2026 19:31:26 +0000"
+          "title": "‘Crimson Desert’ Is a Cat Dad Simulator",
+          "summary": "Step into the shoes of the strongest, goodest boy in a game that is beautiful, baffling, and impossible to put down.",
+          "link": "https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/",
+          "pubDate": "Sat, 11 Apr 2026 12:30:00 +0000"
         },
         {
-          "title": "Motorola’s Souped-Up Folding Phone Is Almost Half Off",
-          "summary": "Amazon has the Razr Ultra marked down by $600 for a limited time.",
-          "link": "https://www.wired.com/story/motorola-razr-ultra-deal-426/",
-          "pubDate": "Fri, 10 Apr 2026 18:14:38 +0000"
+          "title": "Zuvi ColorBox Review: A Hair Dye Printer That Struggles",
+          "summary": "This hair dye printer promises hundreds of shades. It couldn't even manage two.",
+          "link": "https://www.wired.com/review/zuvi-colorbox/",
+          "pubDate": "Sat, 11 Apr 2026 12:11:00 +0000"
         },
         {
-          "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-          "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-          "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-          "pubDate": "Fri, 10 Apr 2026 18:08:37 +0000"
+          "title": "MacBook Neo vs. MacBook Air: Which One Should You Buy?",
+          "summary": "After conducting long-term testing on both the MacBook Neo and MacBook Air, I have a good idea who should buy which laptop.",
+          "link": "https://www.wired.com/story/macbook-neo-vs-macbook-air/",
+          "pubDate": "Sat, 11 Apr 2026 11:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "How to watch NASA&#8217;s Artemis II splash back down to Earth",
-          "summary": "NASA's Artemis II mission has traveled farther from Earth than any mission before. Here's how to watch the crew's return landing in the Pacific Ocean.",
-          "link": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
-          "pubDate": "Fri, 10 Apr 2026 21:18:09 +0000"
+          "title": "Kalshi wins temporary pause in Arizona criminal case",
+          "summary": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi.",
+          "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+          "pubDate": "Sat, 11 Apr 2026 21:20:24 +0000"
         },
         {
-          "title": "Anthropic temporarily banned OpenClaw&#8217;s creator from accessing Claude",
-          "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-          "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-          "pubDate": "Fri, 10 Apr 2026 20:27:52 +0000"
+          "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+          "summary": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?",
+          "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+          "pubDate": "Sat, 11 Apr 2026 20:32:23 +0000"
         },
         {
-          "title": "Battery recycler Ascend Elements files for bankruptcy",
-          "summary": "Ascend Elements said that it will be filing for Chapter 11 bankruptcy in the wake of a canceled government grant and a challenging market for lithium-ion batteries.",
-          "link": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
-          "pubDate": "Fri, 10 Apr 2026 19:16:52 +0000"
+          "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+          "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+          "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+          "pubDate": "Sat, 11 Apr 2026 17:18:22 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Lebanon and Israel officials to meet in US on Tuesday",
-          "summary": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
-          "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 10 Apr 2026 22:43:03 GMT"
+          "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+          "summary": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
+          "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 11 Apr 2026 21:23:07 GMT"
         },
         {
-          "title": "The five big sticking points in US-Iran talks",
-          "summary": "Peace talks between the US and Iran are due to begin in Pakistan on Saturday.",
-          "link": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 10 Apr 2026 18:13:25 GMT"
+          "title": "Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central",
+          "summary": "Police fatally shot the assailant after he ignored at least 20 demands to drop the weapon, said NYPD.",
+          "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 11 Apr 2026 18:08:46 GMT"
         },
         {
-          "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
-          "summary": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control.",
-          "link": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 10 Apr 2026 17:08:27 GMT"
+          "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+          "summary": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
+          "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 11 Apr 2026 22:57:28 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "CNBC市场",
-      "items": []
+      "items": [
+        {
+          "title": "How bond market&apos;s private credit crisis fears are playing out in fixed-income ETFs",
+          "summary": "Fears of a private credit crisis arrived just as the growing and less transparent bond market was being included in more fixed-income ETFs.",
+          "link": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
+          "pubDate": "Sat, 11 Apr 2026 21:37:12 GMT"
+        },
+        {
+          "title": "Michael Burry says he&apos;s still betting against Palantir after Trump post boosts stock",
+          "summary": "The investor of the \"Big Short\" fame said he continues to hold long-dated put options on the artificial intelligence software firm.",
+          "link": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html",
+          "pubDate": "Fri, 10 Apr 2026 20:20:12 GMT"
+        },
+        {
+          "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
+          "summary": "BlackRock's Jeffrey Rosenberg has a leading role in the firm's liquid alt ETFs — which use a long-short strategy in ETF wrappers.",
+          "link": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html",
+          "pubDate": "Fri, 10 Apr 2026 15:23:50 GMT"
+        }
+      ]
     },
     "site_4": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -160,84 +179,84 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Iranian delegation arrives in Islamabad for US talks",
-          "summary": "The Iranian delegation has arrived in the Pakistani capital of Islamabad ahead of high-stakes negotiations with the U.S. on Saturday regarding the fragile ceasefire reached by the two countries this week. Pakistan’s Foreign Affairs Ministry shared video footage on the social platform X of Tehran’s representatives stepping off a plane and greeting officials on the&#8230;",
-          "link": "https://thehill.com/policy/international/5826531-iranian-delegation-arrives-islamabad/",
-          "pubDate": "Fri, 10 Apr 2026 22:30:47 +0000"
+          "title": "White House ballroom construction can continue, federal appeals court says",
+          "summary": "A U.S. Court of Appeals on Saturday said that construction of the White House ballroom can carry on temporarily after a judge halted construction late last month. A three-judge panel from the U.S. Court of Appeals for the D.C. Circuit ruled 2-1 that the preliminary injunction be put on pause until April 17, allowing for&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5827374-appeals-court-white-house-ballroom/",
+          "pubDate": "Sat, 11 Apr 2026 22:24:35 +0000"
         },
         {
-          "title": "Macron invites Trump to Palace of Versailles dinner",
-          "summary": "French President Emmanuel Macron reportedly invited President Trump to a dinner at the Palace of Versailles following the upcoming Group of Seven (G7) summit in June. France will host this year’s G7 summit, an annual forum among the leading industrialized democracies of the world to collaborate on global policy, in the French town Évian-les-Bains June&#8230;",
-          "link": "https://thehill.com/policy/international/5826509-macron-invites-trump-versailles/",
-          "pubDate": "Fri, 10 Apr 2026 22:23:14 +0000"
+          "title": "Sunday shows preview: Ceasefire on shaky ground as US, Iran hold direct talks in Pakistan",
+          "summary": "Senior delegations from the U.S. and Iran arrived in Islamabad this week, where Pakistan hosted a high-stakes meeting between the countries just days after announcing a temporary ceasefire had been reached in the Middle East conflict. Vice President JD Vance, special envoy Steve Witkoff and President Trump’s son-in-law, Jared Kushner, landed in Pakistan on Saturday&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5827398-sunday-shows-preview-ceasefire-on-shaky-ground-as-us-iran-hold-direct-talks-in-pakistan/",
+          "pubDate": "Sat, 11 Apr 2026 21:50:36 +0000"
         },
         {
-          "title": "EPA tells some scientific research staffers to relocate",
-          "summary": "The Environmental Protection Agency (EPA) is making some of its staffers relocate and reassigning an even larger share of employees as part of its efforts to reorganize its scientific research. The agency is reassigning a total of 124 staffers, 35 of whom are being asked to relocate.&#160; The move comes as the Trump administration seeks&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5826488-environmental-protection-agency-reorganizes-scientific-research/",
-          "pubDate": "Fri, 10 Apr 2026 22:11:20 +0000"
+          "title": "Ex-diplomat ranks US-Vatican tensions as ‘maybe a 23’ on a 1-10 scale of unusual",
+          "summary": "Former diplomat Richard Haass on Saturday said that tensions between the U.S. and the Vatican have reached a 23 out of a 1-to-10 scale. &#8220;Morning Joe Weekend&#8221; co-host Willie Geist asked Haass how unusual a reported threat from the Pentagon to the Vatican&#8217;s former diplomat was during a meeting in January. &#8220;On a scale of&#8230;",
+          "link": "https://thehill.com/policy/international/5827329-us-vatican-tensions-haass/",
+          "pubDate": "Sat, 11 Apr 2026 21:13:05 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Nexus Mutual wants to be the insurance policy your crypto never had",
-          "summary": "Nexus Mutual wants to be the insurance policy your crypto never had",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/nexus-mutual-wants-insurance-policy-214900982.html",
-          "pubDate": "2026-04-09T21:49:00Z"
+          "title": "Eric Jackson Bets On Housing Freeze To Be Opendoor's 1,800% Upside Catalyst: Turnarounds Are 'Messy'",
+          "summary": "Eric Jackson Bets On Housing Freeze To Be Opendoor's 1,800% Upside Catalyst: Turnarounds Are 'Messy'",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/eric-jackson-bets-housing-freeze-223112648.html",
+          "pubDate": "2026-04-11T22:31:12Z"
         },
         {
-          "title": "Intel On A Roll, Extends Rally To 7th Day",
-          "summary": "Intel On A Roll, Extends Rally To 7th Day",
-          "link": "https://www.investors.com/news/technology/intel-on-a-roll-extends-rally-to-7th-day/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-04-09T15:31:45Z"
+          "title": "Aehr Test (AEHR) Soars 59% on Strong Chip Demand",
+          "summary": "Aehr Test (AEHR) Soars 59% on Strong Chip Demand",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-aehr-soars-59-220847295.html",
+          "pubDate": "2026-04-11T22:08:47Z"
         },
         {
-          "title": "US software stocks slump on renewed AI disruption jitters",
-          "summary": "US software stocks slump on renewed AI disruption jitters",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/us-software-stocks-fall-anthropics-152738477.html",
-          "pubDate": "2026-04-09T15:27:38Z"
+          "title": "Frontier Group Holdings, Inc. (ULCC) Defers Airplane Delivery and Terminates Leases amid Restructuring",
+          "summary": "Frontier Group Holdings, Inc. (ULCC) Defers Airplane Delivery and Terminates Leases amid Restructuring",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/frontier-group-holdings-inc-ulcc-220823137.html",
+          "pubDate": "2026-04-11T22:08:23Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A common nutrient could supercharge cancer treatment",
-          "summary": "A common eye-health nutrient, zeaxanthin, may also help the body fight cancer more effectively. Scientists discovered it strengthens T cells and enhances the impact of immunotherapy treatments. Found in everyday vegetables and supplements, it’s safe, accessible, and shows strong potential as a cancer therapy booster. Human trials are the next step.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260410083114.htm",
-          "pubDate": "Fri, 10 Apr 2026 09:55:45 EDT"
+          "title": "Two simple eating habits linked to lower weight, study finds",
+          "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock. But skipping breakfast as part of intermittent fasting didn’t offer the same advantage—and may even be tied to unhealthy habits.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
+          "pubDate": "Sat, 11 Apr 2026 09:24:37 EDT"
         },
         {
-          "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
-          "summary": "A breakthrough in microbiome research could change how colorectal cancer is detected—no colonoscopy required. Scientists used AI to map gut bacteria at an unprecedented level of detail, revealing subtle microbial patterns linked to cancer. By analyzing simple stool samples, their method identified 90% of cases, rivaling one of medicine’s most trusted diagnostic tools.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
-          "pubDate": "Thu, 09 Apr 2026 22:23:41 EDT"
+          "title": "Unusual airborne toxin detected in the U.S. for the first time",
+          "summary": "Scientists searching for air pollution clues stumbled onto something unexpected: toxic MCCPs drifting through the air for the first time in the Western Hemisphere. The likely source—fertilizer made from sewage sludge—points to a hidden route for contamination.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260411084441.htm",
+          "pubDate": "Sat, 11 Apr 2026 08:58:31 EDT"
         },
         {
-          "title": "Scientists say we’ve been treating Alzheimer’s all wrong",
-          "summary": "Alzheimer’s isn’t just one problem—it’s a tangled mix of biology, aging, and overall health. That’s why drugs targeting a single factor have fallen short, even as new treatments show modest benefits. Scientists are now pushing toward multi-pronged strategies, from gene editing to brain-cell rejuvenation and gut health interventions. The goal: stop treating Alzheimer’s as one disease and start tackling it as a complex system.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
-          "pubDate": "Fri, 10 Apr 2026 10:12:15 EDT"
+          "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
+          "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
+          "pubDate": "Sat, 11 Apr 2026 08:33:37 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Artemis II nears its finale",
-          "summary": "After looping around the moon, the Artemis II crew — and their capsule’s heat shield — are preparing for the mission’s final major test: coming home.",
+          "title": "Artemis II ends its historic lunar journey",
+          "summary": "After looping around the moon, the Artemis II crew — and their capsule’s heat shield — passed the mission’s final major test: coming home.",
           "link": "https://www.sciencenews.org/article/artemis-ii-moon-finale",
           "pubDate": "Fri, 10 Apr 2026 15:00:00 +0000"
         },
