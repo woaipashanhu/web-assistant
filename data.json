@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-11T23:00:29.444Z",
-  "date": "2026-04-12",
+  "lastUpdate": "2026-04-12T23:00:40.360Z",
+  "date": "2026-04-13",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "‘Crimson Desert’ Is a Cat Dad Simulator",
-          "summary": "Step into the shoes of the strongest, goodest boy in a game that is beautiful, baffling, and impossible to put down.",
-          "link": "https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/",
-          "pubDate": "Sat, 11 Apr 2026 12:30:00 +0000"
+          "title": "‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For",
+          "summary": "AMC’s new black comedy about a manchild tech titan spinning out of control is a skewering Silicon Valley’s billionaire class deserves.",
+          "link": "https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/",
+          "pubDate": "Sun, 12 Apr 2026 12:00:00 +0000"
         },
         {
-          "title": "Zuvi ColorBox Review: A Hair Dye Printer That Struggles",
-          "summary": "This hair dye printer promises hundreds of shades. It couldn't even manage two.",
-          "link": "https://www.wired.com/review/zuvi-colorbox/",
-          "pubDate": "Sat, 11 Apr 2026 12:11:00 +0000"
+          "title": "Why Is It So Hard to Fix an Electric Bike? (2026)",
+          "summary": "Bike shop mechanics have lost fingers and their shirts while repairing ebikes of dubious origins. Make sure yours is repairable and third-party certified.",
+          "link": "https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/",
+          "pubDate": "Sun, 12 Apr 2026 12:00:00 +0000"
         },
         {
-          "title": "MacBook Neo vs. MacBook Air: Which One Should You Buy?",
-          "summary": "After conducting long-term testing on both the MacBook Neo and MacBook Air, I have a good idea who should buy which laptop.",
-          "link": "https://www.wired.com/story/macbook-neo-vs-macbook-air/",
-          "pubDate": "Sat, 11 Apr 2026 11:30:00 +0000"
+          "title": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
+          "summary": "Whether you want a detachable tablet or a laptop screen that spins, these 2-in-1 devices manage to balance being both a tablet and a laptop.",
+          "link": "https://www.wired.com/story/best-2-in-1-laptops/",
+          "pubDate": "Sun, 12 Apr 2026 11:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Kalshi wins temporary pause in Arizona criminal case",
-          "summary": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi.",
-          "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
-          "pubDate": "Sat, 11 Apr 2026 21:20:24 +0000"
+          "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+          "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+          "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+          "pubDate": "Sun, 12 Apr 2026 21:14:38 +0000"
         },
         {
-          "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
-          "summary": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?",
-          "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
-          "pubDate": "Sat, 11 Apr 2026 20:32:23 +0000"
+          "title": "Apple reportedly testing four designs for upcoming smart glasses",
+          "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+          "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+          "pubDate": "Sun, 12 Apr 2026 19:58:42 +0000"
         },
         {
-          "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-          "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-          "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-          "pubDate": "Sat, 11 Apr 2026 17:18:22 +0000"
+          "title": "X says it’s reducing payments to clickbait accounts",
+          "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
+          "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+          "pubDate": "Sun, 12 Apr 2026 17:02:20 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
-          "summary": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
-          "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 11 Apr 2026 21:23:07 GMT"
+          "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+          "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
+          "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 12 Apr 2026 22:57:22 GMT"
         },
         {
-          "title": "Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central",
-          "summary": "Police fatally shot the assailant after he ignored at least 20 demands to drop the weapon, said NYPD.",
-          "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 11 Apr 2026 18:08:46 GMT"
+          "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+          "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+          "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 12 Apr 2026 16:56:08 GMT"
         },
         {
-          "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-          "summary": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
-          "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 11 Apr 2026 22:57:28 GMT"
+          "title": "Civilians feared killed after reports of air strike on Nigerian market",
+          "summary": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
+          "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 12 Apr 2026 18:11:04 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "White House ballroom construction can continue, federal appeals court says",
-          "summary": "A U.S. Court of Appeals on Saturday said that construction of the White House ballroom can carry on temporarily after a judge halted construction late last month. A three-judge panel from the U.S. Court of Appeals for the D.C. Circuit ruled 2-1 that the preliminary injunction be put on pause until April 17, allowing for&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5827374-appeals-court-white-house-ballroom/",
-          "pubDate": "Sat, 11 Apr 2026 22:24:35 +0000"
+          "title": "Israeli ambassador to US points to &#8216;potential&#8217; for &#8216;continued talks&#8217; with Iran",
+          "summary": "Michael Leiter, the Israeli ambassador to the U.S., said Sunday that there could be a “potential” for “continued talks” with Iran about the U.S.-Israeli conflict against the country after Vice President Vance said no progress was made in the direction of a peace agreement in recent negotiations. “When you said the talks are still going&#8230;",
+          "link": "https://thehill.com/policy/international/5828247-leiter-vance-iran-peace/",
+          "pubDate": "Sun, 12 Apr 2026 21:36:20 +0000"
         },
         {
-          "title": "Sunday shows preview: Ceasefire on shaky ground as US, Iran hold direct talks in Pakistan",
-          "summary": "Senior delegations from the U.S. and Iran arrived in Islamabad this week, where Pakistan hosted a high-stakes meeting between the countries just days after announcing a temporary ceasefire had been reached in the Middle East conflict. Vice President JD Vance, special envoy Steve Witkoff and President Trump’s son-in-law, Jared Kushner, landed in Pakistan on Saturday&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5827398-sunday-shows-preview-ceasefire-on-shaky-ground-as-us-iran-hold-direct-talks-in-pakistan/",
-          "pubDate": "Sat, 11 Apr 2026 21:50:36 +0000"
+          "title": "Lawmakers set to return to Washington as TSA paycheck uncertainty looms over partial shutdown negotiations",
+          "summary": "Lawmakers are set to return to Washington this week as&#160;questions over future pay&#160;for Department of Homeland Security (DHS) employees — including Transportation Security Administration (TSA) officers — loom over efforts to end the partial shutdown.&#160; The impasse follows a last-minute split before the Easter recess, when Senate Republicans advanced a measure to fund most of&#8230;",
+          "link": "https://thehill.com/policy/transportation/5826637-lawmakers-return-dhs-pay-uncertainty/",
+          "pubDate": "Sun, 12 Apr 2026 21:00:00 +0000"
         },
         {
-          "title": "Ex-diplomat ranks US-Vatican tensions as ‘maybe a 23’ on a 1-10 scale of unusual",
-          "summary": "Former diplomat Richard Haass on Saturday said that tensions between the U.S. and the Vatican have reached a 23 out of a 1-to-10 scale. &#8220;Morning Joe Weekend&#8221; co-host Willie Geist asked Haass how unusual a reported threat from the Pentagon to the Vatican&#8217;s former diplomat was during a meeting in January. &#8220;On a scale of&#8230;",
-          "link": "https://thehill.com/policy/international/5827329-us-vatican-tensions-haass/",
-          "pubDate": "Sat, 11 Apr 2026 21:13:05 +0000"
+          "title": "Trump ally Orbán sees government fall despite Vance visit",
+          "summary": "In one of Europe&#8217;s most consequential elections of the year, Hungarian Prime Minister Viktor Orbán&#160;has conceded to the party led by Péter Magyar, ending his run as Hungary&#8217;s leader after more than 16 years. With 60 percent of the votes counted, Magyar&#8217;s Tisza Party had more than 52 percent of the vote compared with Orbán’s&#8230;",
+          "link": "https://thehill.com/homenews/5828165-trump-ally-orban-sees-government-fall-despite-vance-visit/",
+          "pubDate": "Sun, 12 Apr 2026 20:59:04 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Eric Jackson Bets On Housing Freeze To Be Opendoor's 1,800% Upside Catalyst: Turnarounds Are 'Messy'",
-          "summary": "Eric Jackson Bets On Housing Freeze To Be Opendoor's 1,800% Upside Catalyst: Turnarounds Are 'Messy'",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/eric-jackson-bets-housing-freeze-223112648.html",
-          "pubDate": "2026-04-11T22:31:12Z"
+          "title": "Sleep-Deprived Mom Spent $16,000 And Built A Business: The Side Hustle Now Brings In Close To Six Figures Each Month",
+          "summary": "Sleep-Deprived Mom Spent $16,000 And Built A Business: The Side Hustle Now Brings In Close To Six Figures Each Month",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/sleep-deprived-mom-spent-16-223115389.html",
+          "pubDate": "2026-04-12T22:31:15Z"
         },
         {
-          "title": "Aehr Test (AEHR) Soars 59% on Strong Chip Demand",
-          "summary": "Aehr Test (AEHR) Soars 59% on Strong Chip Demand",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-aehr-soars-59-220847295.html",
-          "pubDate": "2026-04-11T22:08:47Z"
+          "title": "Dow Jones Futures Fall, Oil Prices Spike; U.S. Navy To Blockade Iran's Ports After Talks Fail",
+          "summary": "Dow Jones Futures Fall, Oil Prices Spike; U.S. Navy To Blockade Iran's Ports After Talks Fail",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-us-iran-talks-no-deal-vp-jd-vance/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-04-12T22:27:32Z"
         },
         {
-          "title": "Frontier Group Holdings, Inc. (ULCC) Defers Airplane Delivery and Terminates Leases amid Restructuring",
-          "summary": "Frontier Group Holdings, Inc. (ULCC) Defers Airplane Delivery and Terminates Leases amid Restructuring",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/frontier-group-holdings-inc-ulcc-220823137.html",
-          "pubDate": "2026-04-11T22:08:23Z"
+          "title": "Citi Lowered PT on Astera Labs (ALAB), Is It Still the Best Growth Stock?",
+          "summary": "Citi Lowered PT on Astera Labs (ALAB), Is It Still the Best Growth Stock?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/citi-lowered-pt-astera-labs-221039977.html",
+          "pubDate": "2026-04-12T22:10:39Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+          "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and behavioral innovations, such as formal burial practices and the symbolic use of ochre for decoration. The findings suggest that human connections, rather than isolation, were key drivers of technological and cultural advancements, highlighting the Levant as a crucial crossroads in early human history.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+          "pubDate": "Sun, 12 Apr 2026 07:32:05 EDT"
+        },
         {
           "title": "Two simple eating habits linked to lower weight, study finds",
           "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock. But skipping breakfast as part of intermittent fasting didn’t offer the same advantage—and may even be tied to unhealthy habits.",
@@ -241,17 +247,11 @@
           "summary": "Scientists searching for air pollution clues stumbled onto something unexpected: toxic MCCPs drifting through the air for the first time in the Western Hemisphere. The likely source—fertilizer made from sewage sludge—points to a hidden route for contamination.",
           "link": "https://www.sciencedaily.com/releases/2026/04/260411084441.htm",
           "pubDate": "Sat, 11 Apr 2026 08:58:31 EDT"
-        },
-        {
-          "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
-          "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
-          "pubDate": "Sat, 11 Apr 2026 08:33:37 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "siteName": "Science News",
       "items": [
         {
