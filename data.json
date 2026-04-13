@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-12T23:00:40.360Z",
-  "date": "2026-04-13",
+  "lastUpdate": "2026-04-13T23:00:36.210Z",
+  "date": "2026-04-14",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For",
-          "summary": "AMC’s new black comedy about a manchild tech titan spinning out of control is a skewering Silicon Valley’s billionaire class deserves.",
-          "link": "https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/",
-          "pubDate": "Sun, 12 Apr 2026 12:00:00 +0000"
+          "title": "What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal",
+          "summary": "The internet’s most jacked leftist shares the tech and daily rituals that fuel his marathon streams.",
+          "link": "https://www.wired.com/story/hasan-pikers-starter-pack/",
+          "pubDate": "Mon, 13 Apr 2026 20:44:16 +0000"
         },
         {
-          "title": "Why Is It So Hard to Fix an Electric Bike? (2026)",
-          "summary": "Bike shop mechanics have lost fingers and their shirts while repairing ebikes of dubious origins. Make sure yours is repairable and third-party certified.",
-          "link": "https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/",
-          "pubDate": "Sun, 12 Apr 2026 12:00:00 +0000"
+          "title": "Marine Animals in the Strait of Hormuz Don’t Get a Ceasefire",
+          "summary": "As ships return to the Strait of Hormuz, mines, sonar, and congestion continue to reshape the Gulf beneath the surface.",
+          "link": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/",
+          "pubDate": "Mon, 13 Apr 2026 20:20:04 +0000"
         },
         {
-          "title": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
-          "summary": "Whether you want a detachable tablet or a laptop screen that spins, these 2-in-1 devices manage to balance being both a tablet and a laptop.",
-          "link": "https://www.wired.com/story/best-2-in-1-laptops/",
-          "pubDate": "Sun, 12 Apr 2026 11:30:00 +0000"
+          "title": "Staunch Trump Supporters Are Now Asking if He’s the Antichrist",
+          "summary": "The Iran war and a series of social media posts, including one depicting Trump as Jesus Christ, have some conservative commentators and fans suspecting the president may be the antichrist.",
+          "link": "https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist/",
+          "pubDate": "Mon, 13 Apr 2026 17:17:51 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-          "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-          "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-          "pubDate": "Sun, 12 Apr 2026 21:14:38 +0000"
+          "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
+          "summary": "Uber employees can now hail a Lucid robotaxi as part of the testing.",
+          "link": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
+          "pubDate": "Mon, 13 Apr 2026 21:11:58 +0000"
         },
         {
-          "title": "Apple reportedly testing four designs for upcoming smart glasses",
-          "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-          "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-          "pubDate": "Sun, 12 Apr 2026 19:58:42 +0000"
+          "title": "Microsoft is officially killing its Outlook Lite app next month",
+          "summary": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections. The app had already been scheduled for retirement.",
+          "link": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
+          "pubDate": "Mon, 13 Apr 2026 20:59:12 +0000"
         },
         {
-          "title": "X says it’s reducing payments to clickbait accounts",
-          "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
-          "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
-          "pubDate": "Sun, 12 Apr 2026 17:02:20 +0000"
+          "title": "Thousands of rare concert recordings are landing on the Internet Archive &#8212; listen now",
+          "summary": "Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes.",
+          "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+          "pubDate": "Mon, 13 Apr 2026 20:20:47 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
-          "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
-          "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 12 Apr 2026 22:57:22 GMT"
+          "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+          "summary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
+          "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 13 Apr 2026 21:28:14 GMT"
         },
         {
-          "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-          "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-          "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 12 Apr 2026 16:56:08 GMT"
+          "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+          "summary": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.",
+          "link": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 13 Apr 2026 21:29:23 GMT"
         },
         {
-          "title": "Civilians feared killed after reports of air strike on Nigerian market",
-          "summary": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
-          "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 12 Apr 2026 18:11:04 GMT"
+          "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
+          "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
+          "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 13 Apr 2026 17:32:43 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Goldman Sachs tops estimates on record equities trading",
+          "summary": "Goldman Sachs posted record equities trading revenue for the first quarter, helping propel the overall firm to its second-highest quarterly revenue.",
+          "link": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
+          "pubDate": "Mon, 13 Apr 2026 21:21:59 GMT"
+        },
         {
           "title": "How bond market&apos;s private credit crisis fears are playing out in fixed-income ETFs",
           "summary": "Fears of a private credit crisis arrived just as the growing and less transparent bond market was being included in more fixed-income ETFs.",
           "link": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
-          "pubDate": "Sat, 11 Apr 2026 21:37:12 GMT"
+          "pubDate": "Mon, 13 Apr 2026 21:02:22 GMT"
         },
         {
           "title": "Michael Burry says he&apos;s still betting against Palantir after Trump post boosts stock",
           "summary": "The investor of the \"Big Short\" fame said he continues to hold long-dated put options on the artificial intelligence software firm.",
           "link": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html",
           "pubDate": "Fri, 10 Apr 2026 20:20:12 GMT"
-        },
-        {
-          "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
-          "summary": "BlackRock's Jeffrey Rosenberg has a leading role in the firm's liquid alt ETFs — which use a long-short strategy in ETF wrappers.",
-          "link": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html",
-          "pubDate": "Fri, 10 Apr 2026 15:23:50 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Israeli ambassador to US points to &#8216;potential&#8217; for &#8216;continued talks&#8217; with Iran",
-          "summary": "Michael Leiter, the Israeli ambassador to the U.S., said Sunday that there could be a “potential” for “continued talks” with Iran about the U.S.-Israeli conflict against the country after Vice President Vance said no progress was made in the direction of a peace agreement in recent negotiations. “When you said the talks are still going&#8230;",
-          "link": "https://thehill.com/policy/international/5828247-leiter-vance-iran-peace/",
-          "pubDate": "Sun, 12 Apr 2026 21:36:20 +0000"
+          "title": "Trump puts squeeze on Iran as GOP worries about price at the pump",
+          "summary": "President Trump is putting the squeeze on Iran’s economy with a U.S. blockade in the Strait of Hormuz, a move he hopes will break deadlocked negotiations with Iran.&#160; The naval blockade is also meant to raise pressure on Iran&#8217;s allies like China, who rely on its oil exports. China played a major behind-the-scenes role in&#8230;",
+          "link": "https://thehill.com/policy/defense/5829566-trump-iran-blockade-strait-hormuz/",
+          "pubDate": "Mon, 13 Apr 2026 22:03:50 +0000"
         },
         {
-          "title": "Lawmakers set to return to Washington as TSA paycheck uncertainty looms over partial shutdown negotiations",
-          "summary": "Lawmakers are set to return to Washington this week as&#160;questions over future pay&#160;for Department of Homeland Security (DHS) employees — including Transportation Security Administration (TSA) officers — loom over efforts to end the partial shutdown.&#160; The impasse follows a last-minute split before the Easter recess, when Senate Republicans advanced a measure to fund most of&#8230;",
-          "link": "https://thehill.com/policy/transportation/5826637-lawmakers-return-dhs-pay-uncertainty/",
-          "pubDate": "Sun, 12 Apr 2026 21:00:00 +0000"
+          "title": "Giorgia Meloni says Trump&#8217;s rant against Pope Leo &#8216;unacceptable&#8217;",
+          "summary": "Italian Prime Minister Giorgia Meloni criticized President Trump’s Sunday rant against Pope Leo XIV as “unacceptable.” “I find President Trump’s words toward the Holy Father unacceptable,” said Meloni, the head of the right-wing Brothers of Italy party, said Monday in a statement. “The Pope is the head of the Catholic Church, and it is right&#8230;",
+          "link": "https://thehill.com/policy/international/5829491-meloni-criticizes-trump-pope/",
+          "pubDate": "Mon, 13 Apr 2026 22:01:06 +0000"
         },
         {
-          "title": "Trump ally Orbán sees government fall despite Vance visit",
-          "summary": "In one of Europe&#8217;s most consequential elections of the year, Hungarian Prime Minister Viktor Orbán&#160;has conceded to the party led by Péter Magyar, ending his run as Hungary&#8217;s leader after more than 16 years. With 60 percent of the votes counted, Magyar&#8217;s Tisza Party had more than 52 percent of the vote compared with Orbán’s&#8230;",
-          "link": "https://thehill.com/homenews/5828165-trump-ally-orban-sees-government-fall-despite-vance-visit/",
-          "pubDate": "Sun, 12 Apr 2026 20:59:04 +0000"
+          "title": "Trump administration will allow pride flag at Stonewall after lawsuit",
+          "summary": "The Trump administration will allow an LGBTQ pride flag to fly at the Stonewall national monument after&#160;the removal of a flag&#160;sparked&#160;uproar and a lawsuit. According to court documents, the administration agreed to hang a rainbow pride flag at the New York City&#160;monument, which commemorates the struggle for LGBTQ rights. The agreement ends a lawsuit filed&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5829529-trump-administration-lgbtq-pride-flag/",
+          "pubDate": "Mon, 13 Apr 2026 21:52:10 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Sleep-Deprived Mom Spent $16,000 And Built A Business: The Side Hustle Now Brings In Close To Six Figures Each Month",
-          "summary": "Sleep-Deprived Mom Spent $16,000 And Built A Business: The Side Hustle Now Brings In Close To Six Figures Each Month",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/sleep-deprived-mom-spent-16-223115389.html",
-          "pubDate": "2026-04-12T22:31:15Z"
+          "title": "Spaceport owned by Scotland’s richest man suffers cash crunch",
+          "summary": "Spaceport owned by Scotland’s richest man suffers cash crunch",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spaceport-owned-scotland-richest-man-142401916.html",
+          "pubDate": "2026-04-12T14:24:01Z"
         },
         {
-          "title": "Dow Jones Futures Fall, Oil Prices Spike; U.S. Navy To Blockade Iran's Ports After Talks Fail",
-          "summary": "Dow Jones Futures Fall, Oil Prices Spike; U.S. Navy To Blockade Iran's Ports After Talks Fail",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-us-iran-talks-no-deal-vp-jd-vance/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-04-12T22:27:32Z"
+          "title": "Palantir Stock Is at 6-Month Lows - Time to Buy PLTR?",
+          "summary": "Palantir Stock Is at 6-Month Lows - Time to Buy PLTR?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-6-month-lows-141501758.html",
+          "pubDate": "2026-04-12T14:15:01Z"
         },
         {
-          "title": "Citi Lowered PT on Astera Labs (ALAB), Is It Still the Best Growth Stock?",
-          "summary": "Citi Lowered PT on Astera Labs (ALAB), Is It Still the Best Growth Stock?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/citi-lowered-pt-astera-labs-221039977.html",
-          "pubDate": "2026-04-12T22:10:39Z"
+          "title": "Dear ASML Stock Fans, Mark Your Calendars for April 15",
+          "summary": "Dear ASML Stock Fans, Mark Your Calendars for April 15",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/dear-asml-stock-fans-mark-144502515.html",
+          "pubDate": "2026-04-12T14:45:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
-          "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and behavioral innovations, such as formal burial practices and the symbolic use of ochre for decoration. The findings suggest that human connections, rather than isolation, were key drivers of technological and cultural advancements, highlighting the Levant as a crucial crossroads in early human history.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
-          "pubDate": "Sun, 12 Apr 2026 07:32:05 EDT"
+          "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+          "summary": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system – based on the novel concept of ‘giant superatoms’. This breakthrough enables quantum information to be protected, controlled, and distributed in new ways and could be a key step towards building quantum computers at scale.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+          "pubDate": "Mon, 13 Apr 2026 08:38:46 EDT"
         },
         {
-          "title": "Two simple eating habits linked to lower weight, study finds",
-          "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock. But skipping breakfast as part of intermittent fasting didn’t offer the same advantage—and may even be tied to unhealthy habits.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
-          "pubDate": "Sat, 11 Apr 2026 09:24:37 EDT"
+          "title": "New toothpaste stops gum disease without killing good bacteria",
+          "summary": "Scientists have developed a new way to fight gum disease without wiping out the mouth’s helpful bacteria—a major shift from traditional treatments. Instead of killing everything, this targeted approach blocks only the harmful microbes that drive periodontitis, allowing beneficial bacteria to thrive and restore balance naturally.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
+          "pubDate": "Mon, 13 Apr 2026 10:02:46 EDT"
         },
         {
-          "title": "Unusual airborne toxin detected in the U.S. for the first time",
-          "summary": "Scientists searching for air pollution clues stumbled onto something unexpected: toxic MCCPs drifting through the air for the first time in the Western Hemisphere. The likely source—fertilizer made from sewage sludge—points to a hidden route for contamination.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260411084441.htm",
-          "pubDate": "Sat, 11 Apr 2026 08:58:31 EDT"
+          "title": "Africa’s forests have flipped from carbon sink to carbon source",
+          "summary": "Africa’s forests have undergone a shocking reversal, switching from carbon absorbers to carbon emitters after 2010. Researchers found that heavy deforestation in tropical regions has led to massive biomass losses, far outweighing any gains from regrowth elsewhere. This change could seriously undermine global efforts to slow climate change. Scientists warn that protecting forests is now more urgent than ever.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260413043135.htm",
+          "pubDate": "Mon, 13 Apr 2026 10:40:04 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Artemis II ends its historic lunar journey",
-          "summary": "After looping around the moon, the Artemis II crew — and their capsule’s heat shield — passed the mission’s final major test: coming home.",
-          "link": "https://www.sciencenews.org/article/artemis-ii-moon-finale",
-          "pubDate": "Fri, 10 Apr 2026 15:00:00 +0000"
+          "title": "Fluoride in U.S. drinking water does not reduce IQ, a new study finds",
+          "summary": "Claims that fluoride in drinking water causes cognitive delays in kids are driving U.S. policy. A new study finds no evidence to back them.",
+          "link": "https://www.sciencenews.org/article/fluoride-drinking-water-iq-no-evidence",
+          "pubDate": "Mon, 13 Apr 2026 19:12:52 +0000"
         },
         {
-          "title": "Exploding black holes could explain an antimatter mystery",
-          "summary": "Shock waves from tiny black holes in the early universe could explain how antimatter became so rare while matter is common.",
-          "link": "https://www.sciencenews.org/article/exploding-black-holes-antimatter",
-          "pubDate": "Fri, 10 Apr 2026 14:00:00 +0000"
+          "title": "Talking dogs and chatty cats could one day ‘speak’ in our language",
+          "summary": "Advances in decoding animal sounds might someday make animal translators a possibility.",
+          "link": "https://www.sciencenews.org/article/talking-animals-human-language-ai",
+          "pubDate": "Mon, 13 Apr 2026 16:30:00 +0000"
         },
         {
-          "title": "Crossword: Traveling Light",
-          "summary": "Solve the crossword from our May 2026 issue, in which we expand the way we see the universe.",
-          "link": "https://www.sciencenews.org/article/crossword-puzzle-may-2026",
-          "pubDate": "Fri, 10 Apr 2026 12:00:00 +0000"
+          "title": "For gray whales, San Francisco Bay is becoming a deadly pit stop",
+          "summary": "Climate change could be forcing gray whales to seek food in San Francisco Bay, where vessel strikes may be driving rising deaths.",
+          "link": "https://www.sciencenews.org/article/gray-whale-deaths-boat-strikes-sf",
+          "pubDate": "Mon, 13 Apr 2026 04:00:00 +0000"
         }
       ]
     }
