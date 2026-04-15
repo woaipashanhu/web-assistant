@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-14T23:01:00.053Z",
-  "date": "2026-04-15",
+  "lastUpdate": "2026-04-15T23:00:13.143Z",
+  "date": "2026-04-16",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The 10 Best TV Shows to Stream This Month (April 2026)",
-          "summary": "The Boys, The Testaments, and Stranger Things: Tales From ’85 are just a few of the TV shows we’re bingeing this month.",
-          "link": "https://www.wired.com/story/the-best-shows-to-stream-right-now/",
-          "pubDate": "Tue, 14 Apr 2026 20:59:34 +0000"
+          "title": "'The Last Airbender' Leaked Online. Some Fans Say Paramount Deserves the Fallout",
+          "summary": "After the full movie leaked, animators mourned the chance to release their work as intended. Others feel the leak is justified in light of Paramount’s marketing blunders and association with Trump.",
+          "link": "https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/",
+          "pubDate": "Wed, 15 Apr 2026 22:53:44 +0000"
         },
         {
-          "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
-          "summary": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
-          "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
-          "pubDate": "Tue, 14 Apr 2026 20:00:17 +0000"
+          "title": "NASA Wants to Put Nuclear Reactors on the Moon",
+          "summary": "The White House has announced that NASA will work with the Departments of Defense and Energy to put nuclear reactors in orbit and on the surface of the moon.",
+          "link": "https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/",
+          "pubDate": "Wed, 15 Apr 2026 18:55:52 +0000"
         },
         {
-          "title": "The Most WIRED Watches at Watches and Wonders 2026",
-          "summary": "Forget worldly woes for a few minutes and gawk at these spectacular and mind-bogglingly spendy timepieces we saw in Geneva.",
-          "link": "https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/",
-          "pubDate": "Tue, 14 Apr 2026 19:37:26 +0000"
+          "title": "AI Could Democratize One of Tech's Most Valuable Resources",
+          "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
+          "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+          "pubDate": "Wed, 15 Apr 2026 18:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-          "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
-          "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-          "pubDate": "Tue, 14 Apr 2026 21:33:38 +0000"
+          "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+          "summary": "Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.",
+          "link": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
+          "pubDate": "Wed, 15 Apr 2026 22:44:26 +0000"
         },
         {
-          "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
-          "summary": "Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.",
-          "link": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
-          "pubDate": "Tue, 14 Apr 2026 18:31:34 +0000"
+          "title": "Ford EV and tech chief leaving automaker",
+          "summary": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
+          "link": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+          "pubDate": "Wed, 15 Apr 2026 21:52:05 +0000"
         },
         {
-          "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-          "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
-          "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-          "pubDate": "Tue, 14 Apr 2026 18:09:12 +0000"
+          "title": "Wait, could they still actually break up Live Nation?",
+          "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+          "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+          "pubDate": "Wed, 15 Apr 2026 21:38:09 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
-          "summary": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
-          "link": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 14 Apr 2026 14:01:05 GMT"
+          "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+          "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+          "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 15 Apr 2026 21:10:14 GMT"
         },
         {
-          "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
-          "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
-          "link": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 14 Apr 2026 15:04:09 GMT"
+          "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+          "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
+          "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 15 Apr 2026 11:25:09 GMT"
         },
         {
-          "title": "Another woman accuses Swalwell of rape, saying he drugged her in 2018",
-          "summary": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room.",
-          "link": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 14 Apr 2026 20:30:57 GMT"
+          "title": "Frank Gardner: What is China's role in the Iran war?",
+          "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+          "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 15 Apr 2026 18:54:06 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Prediction markets will grow to $1 trillion by 2030, Bernstein estimates",
-          "summary": "The investment bank said volumes will reach an estimated $240 billion in 2026 and grow at a 80% compound annual rate between 2025 and 2030.",
-          "link": "https://www.cnbc.com/2026/04/14/prediction-markets-will-grow-to-1-trillion-by-2030-bernstein-says.html",
-          "pubDate": "Tue, 14 Apr 2026 18:12:58 GMT"
+          "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: &apos;A fire is being lit under&apos; them",
+          "summary": "Goldman's identity as a trader's firm — one expected to perform in turbulent markets — makes any stumble in the division notable.",
+          "link": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html",
+          "pubDate": "Wed, 15 Apr 2026 21:31:54 GMT"
         },
         {
-          "title": "Jamie Dimon says Anthropic&apos;s Mythos reveals &apos;a lot more vulnerabilities&apos; for cyberattacks",
-          "summary": "The remarks show how a technology welcomed by corporations as a productivity boon can also pose serious threats, like uncovering new ways to hack into systems.",
-          "link": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
-          "pubDate": "Tue, 14 Apr 2026 20:55:03 GMT"
+          "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
+          "summary": "The information sought includes so-called Tag 50 identifiers, which can be used to determine who was behind the trades.",
+          "link": "https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html",
+          "pubDate": "Wed, 15 Apr 2026 19:06:35 GMT"
         },
         {
-          "title": "David Einhorn signals caution as his hedge fund Greenlight prioritizes capital protection",
-          "summary": "\"It probably won't surprise anyone that we are again putting capital preservation at the top of our priorities,\" Einhorn said in his latest investor letter.",
-          "link": "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html",
-          "pubDate": "Tue, 14 Apr 2026 18:23:50 GMT"
+          "title": "Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion",
+          "summary": "Morgan Stanley's results in the quarter were powered by the firm's fixed income and equities trading operations, which produced about $8.5 billion in revenue.",
+          "link": "https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html",
+          "pubDate": "Wed, 15 Apr 2026 13:24:39 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Johnson says he asked Trump to take down AI Jesus image",
-          "summary": "House Speaker Mike Johnson (R-La.) on Tuesday said he asked President Trump to take down the AI image that many saw as the president being depicted as Jesus Christ. “I talked to the president about it as soon as I saw it and told him I don’t think it was being received in the same&#8230;",
-          "link": "https://thehill.com/homenews/house/5831392-trump-ai-image-jesus/",
-          "pubDate": "Tue, 14 Apr 2026 22:02:38 +0000"
+          "title": "Oz says Trump defended diet soda habit, joking it &#8216;kills cancer cells&#8217;",
+          "summary": "Centers for Medicare and Medicaid Services (CMS) Administrator Dr. Mehmet Oz revealed on Monday that President Trump has an unusual defense for his diet soda habit, joking that the president often says the beverage “kills cancer cells.” “Your dad argues that diet soda is good for him because it kills grass. It&#8217;s poured on grass,&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5833396-oz-trump-soda-cancer/",
+          "pubDate": "Wed, 15 Apr 2026 22:16:37 +0000"
         },
         {
-          "title": "Senate GOP divided over Viktor Orbán&#8217;s loss in Hungary",
-          "summary": "The landslide electoral defeat of Hungarian Prime Minister Viktor Orbán has exposed a rift in the U.S. Republican Party between those embracing a post-Orbán political shift in Europe and those lamenting the downfall of a prominent right-wing figure with close ties to&#160;both&#160;President Trump and Russian President Vladimir Putin. The Trump administration leaned into its support&#8230;",
-          "link": "https://thehill.com/policy/international/5831393-viktor-orban-republican-party-donald-trump/",
-          "pubDate": "Tue, 14 Apr 2026 22:02:18 +0000"
+          "title": "John Eastman disbarred in California over efforts to overturn 2020 election",
+          "summary": "John Eastman, a lawyer who spearheaded efforts to overturn the results of the 2020 presidential election in President Trump&#8217;s favor, has been formally disbarred in California The California Supreme Court on Wednesday declined to review his appeal of a lower court&#8217;s recommendation to strip him of his law license, instead ordering his disbarment. &#8220;The court&#8230;",
+          "link": "https://thehill.com/homenews/5833287-john-eastman-disbarred-california/",
+          "pubDate": "Wed, 15 Apr 2026 22:08:09 +0000"
         },
         {
-          "title": "Rogan cracks up over Trump&#8217;s explanation of AI Jesus image",
-          "summary": "Podcaster Joe Rogan on Tuesday laughed off President Trump’s explanation for a now-deleted post depicting the president as a Jesus-like figure. Trump posted the controversial image on Truth Social late Sunday, as he lashed out against Pope Leo XIV over the pontiff&#8217;s criticism of the conflict with Iran, sparking backlash from lawmakers in both parties&#8230;",
-          "link": "https://thehill.com/media/5831380-rogan-trump-ai-jesus-post/",
-          "pubDate": "Tue, 14 Apr 2026 21:53:36 +0000"
+          "title": "Sotomayor apologizes to Kavanaugh over remarks on his immigration stop opinion",
+          "summary": "Supreme Court Justice Sonia Sotomayor publicly apologized to Justice Brett Kavanaugh on Wednesday for her comments at a recent talk criticizing his opinion concerning the Trump administration’s&#160;immigration stops.&#160;&#160; “At a recent appearance at the University of Kansas School of Law, I referred to a disagreement with one of my colleagues in a prior case, but&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5833375-supreme-court-justice-sotomayor-apology/",
+          "pubDate": "Wed, 15 Apr 2026 22:07:44 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,64 +213,64 @@
           "pubDate": "2026-04-14T17:40:18Z"
         },
         {
-          "title": "Factbox-Price hikes, outlook cuts - What airlines are doing as fuel costs surge",
-          "summary": "Factbox-Price hikes, outlook cuts - What airlines are doing as fuel costs surge",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/factbox-price-hikes-outlook-cuts-081429127.html",
-          "pubDate": "2026-04-13T14:38:22Z"
+          "title": "JPMorgan has stark message for investors on market weakness",
+          "summary": "JPMorgan has stark message for investors on market weakness",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stark-message-investors-market-174700070.html",
+          "pubDate": "2026-04-14T17:47:00Z"
         },
         {
-          "title": "Crane Worldwide Logistics expands into Spain through acquisition",
-          "summary": "Crane Worldwide Logistics expands into Spain through acquisition",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/crane-worldwide-logistics-expands-spain-143425423.html",
-          "pubDate": "2026-04-13T14:34:25Z"
+          "title": "Costco reveals shift in shopper spending behavior",
+          "summary": "Costco reveals shift in shopper spending behavior",
+          "link": "https://finance.yahoo.com/economy/articles/costco-reveals-shift-shopper-spending-180800970.html",
+          "pubDate": "2026-04-14T18:08:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Blocking a single protein supercharges the immune system against cancer",
-          "summary": "Scientists have discovered a way to supercharge the immune system’s T cells by blocking a protein called Ant2, forcing the cells to rewire how they generate energy. This shift makes them more powerful, resilient, and effective at finding and destroying cancer cells.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260414090114.htm",
-          "pubDate": "Tue, 14 Apr 2026 09:08:30 EDT"
+          "title": "The surprising reason you’re so productive one day and not the next",
+          "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
+          "pubDate": "Wed, 15 Apr 2026 08:44:11 EDT"
         },
         {
-          "title": "Scientists just recreated a rare cosmic reaction never seen before",
-          "summary": "A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form in supernova explosions, cutting uncertainty in half. But the findings also reveal gaps in current theories, hinting that the story isn’t complete yet.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
-          "pubDate": "Tue, 14 Apr 2026 10:06:43 EDT"
+          "title": "This 31-foot “terror croc” ate dinosaurs. Now it’s back",
+          "summary": "A massive, bus-sized “terror croc” that once preyed on dinosaurs has been brought back to life in stunning detail with the first scientifically accurate full skeleton of Deinosuchus schwimmeri. Stretching over 30 feet long, this ancient apex predator ruled the southeastern U.S. more than 75 million years ago—and now visitors can see it up close at the Tellus Science Museum, the only place in the world with this replica.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260415043623.htm",
+          "pubDate": "Wed, 15 Apr 2026 09:23:03 EDT"
         },
         {
-          "title": "Scientists just debunked a 50-year myth about Hawaii’s birds",
-          "summary": "A new study from the University of Hawaiʻi at Mānoa is overturning a decades-old belief that Indigenous Hawaiians hunted native waterbirds to extinction. Instead, researchers found no scientific evidence supporting this claim and propose a more complex explanation involving climate change, invasive species, and shifts in land use—many occurring before Polynesian arrival or after traditional stewardship systems were disrupted.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260414075644.htm",
-          "pubDate": "Tue, 14 Apr 2026 09:31:42 EDT"
+          "title": "A crushed fossil revealed a dinosaur that shouldn’t have existed",
+          "summary": "A badly mangled dinosaur skull, once forgotten in a drawer, turned out to be a rare and important discovery. Reconstructed by a Virginia Tech student, it revealed a new species of early carnivorous dinosaur with unusual features never seen before. The fossil suggests some dinosaur groups were wiped out during the end-Triassic extinction, not just their rivals. It may represent one of the last survivors of an ancient dinosaur lineage.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260415043610.htm",
+          "pubDate": "Wed, 15 Apr 2026 09:31:31 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "siteName": "Science News",
       "items": [
         {
-          "title": "New mutations help the H5N1 bird flu virus infect cows but not people",
-          "summary": "The findings show how the H5N1 bird flu virus is evolving in livestock and what that may mean for human health.",
-          "link": "https://www.sciencenews.org/article/mutations-h5n1-bird-flu-adapt-cows",
-          "pubDate": "Tue, 14 Apr 2026 16:00:00 +0000"
+          "title": "Breath carries clues to gut health",
+          "summary": "At-home breath tests could reveal insights about gut health, though their ability to assess food intolerances is not yet clear.",
+          "link": "https://www.sciencenews.org/article/breath-tests-clues-to-gut-health",
+          "pubDate": "Wed, 15 Apr 2026 17:00:00 +0000"
         },
         {
-          "title": "Smithsonian secrets most likely to blow your mind",
-          "summary": "Millions of objects stashed at a site open only to select visitors tell the history of Earth's inhabitants.",
-          "link": "https://www.sciencenews.org/article/smithsonian-secrets-life-photography",
-          "pubDate": "Tue, 14 Apr 2026 14:00:00 +0000"
+          "title": "Some GLP-1 drugs are more effective for those with specific gene variants",
+          "summary": "In a study, people with gene variants in two genes lost slightly more weight on GLP-1 drugs, but threw up more on Zepbound.",
+          "link": "https://www.sciencenews.org/article/glp-1-weight-loss-genetics-side-effects",
+          "pubDate": "Wed, 15 Apr 2026 15:00:00 +0000"
         },
         {
-          "title": "Is AI bad for critical thinking? It depends on when you use it",
-          "summary": "Using AI later in solving tough problems boosts critical thinking and memory, a study shows, highlighting trade-offs between speed and reasoning.",
-          "link": "https://www.sciencenews.org/article/ai-timing-critical-thinking-study",
-          "pubDate": "Tue, 14 Apr 2026 08:01:00 +0000"
+          "title": "Math long resisted a digital disruption. AI is poised to change that",
+          "summary": "The painstaking process of formalization to verify proofs is starting to surge thanks to AI. That could radically change the way people do math.",
+          "link": "https://www.sciencenews.org/article/math-disrupted-by-ai-verify-proofs",
+          "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000"
         }
       ]
     }
