@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-15T23:00:13.143Z",
-  "date": "2026-04-16",
+  "lastUpdate": "2026-04-16T23:00:07.467Z",
+  "date": "2026-04-17",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "'The Last Airbender' Leaked Online. Some Fans Say Paramount Deserves the Fallout",
-          "summary": "After the full movie leaked, animators mourned the chance to release their work as intended. Others feel the leak is justified in light of Paramount’s marketing blunders and association with Trump.",
-          "link": "https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/",
-          "pubDate": "Wed, 15 Apr 2026 22:53:44 +0000"
+          "title": "Dark Matter May Be Made of Black Holes From Another Universe",
+          "summary": "A model of the cyclic universe suggests that dark matter could be a population of black holes predating the Big Bang.",
+          "link": "https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/",
+          "pubDate": "Thu, 16 Apr 2026 19:50:02 +0000"
         },
         {
-          "title": "NASA Wants to Put Nuclear Reactors on the Moon",
-          "summary": "The White House has announced that NASA will work with the Departments of Defense and Energy to put nuclear reactors in orbit and on the surface of the moon.",
-          "link": "https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/",
-          "pubDate": "Wed, 15 Apr 2026 18:55:52 +0000"
+          "title": "Europe’s Online Age Verification App Is Here",
+          "summary": "Available for free to any company that wants to use it, the “completely anonymous” app puts the pressure on porn sites and social media platforms to start blocking access by minors.",
+          "link": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
+          "pubDate": "Thu, 16 Apr 2026 18:54:20 +0000"
         },
         {
-          "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-          "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-          "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
-          "pubDate": "Wed, 15 Apr 2026 18:00:00 +0000"
+          "title": "The Online Fiction Boom Reimagining China’s History",
+          "summary": "Chinese fantasy novels reimagine the past with modern tech and ideology. A new book argues they also help reinforce authoritarian politics.",
+          "link": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/",
+          "pubDate": "Thu, 16 Apr 2026 18:17:18 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
-          "summary": "Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.",
-          "link": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
-          "pubDate": "Wed, 15 Apr 2026 22:44:26 +0000"
+          "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+          "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+          "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+          "pubDate": "Thu, 16 Apr 2026 22:55:30 +0000"
         },
         {
-          "title": "Ford EV and tech chief leaving automaker",
-          "summary": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
-          "link": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
-          "pubDate": "Wed, 15 Apr 2026 21:52:05 +0000"
+          "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+          "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+          "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+          "pubDate": "Thu, 16 Apr 2026 21:58:08 +0000"
         },
         {
-          "title": "Wait, could they still actually break up Live Nation?",
-          "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
-          "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
-          "pubDate": "Wed, 15 Apr 2026 21:38:09 +0000"
+          "title": "Netflix co-founder and chair Reed Hastings to leave board",
+          "summary": "Hastings helped to transform the video rental industry — first with physical, then digital, delivery.",
+          "link": "https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/",
+          "pubDate": "Thu, 16 Apr 2026 21:22:14 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-          "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
-          "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 15 Apr 2026 21:10:14 GMT"
+          "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+          "summary": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
+          "link": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 16 Apr 2026 21:18:31 GMT"
         },
         {
-          "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
-          "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
-          "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 15 Apr 2026 11:25:09 GMT"
+          "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+          "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+          "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 16 Apr 2026 18:40:45 GMT"
         },
         {
-          "title": "Frank Gardner: What is China's role in the Iran war?",
-          "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
-          "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 15 Apr 2026 18:54:06 GMT"
+          "title": "Turkish police detain 162 people over online posts about school shootings",
+          "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+          "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 16 Apr 2026 15:23:23 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Retail traders pile into Allbirds after odd AI pivot. History shows it won&apos;t end well",
+          "summary": "This surge of speculative buying reflects a broader return of animal spirits among small traders.",
+          "link": "https://www.cnbc.com/2026/04/16/retail-traders-pile-into-allbirds-after-odd-ai-pivot-history-shows-it-wont-end-well.html",
+          "pubDate": "Thu, 16 Apr 2026 17:04:59 GMT"
+        },
         {
           "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: &apos;A fire is being lit under&apos; them",
           "summary": "Goldman's identity as a trader's firm — one expected to perform in turbulent markets — makes any stumble in the division notable.",
@@ -144,18 +150,12 @@
           "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
           "summary": "The information sought includes so-called Tag 50 identifiers, which can be used to determine who was behind the trades.",
           "link": "https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html",
-          "pubDate": "Wed, 15 Apr 2026 19:06:35 GMT"
-        },
-        {
-          "title": "Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion",
-          "summary": "Morgan Stanley's results in the quarter were powered by the firm's fixed income and equities trading operations, which produced about $8.5 billion in revenue.",
-          "link": "https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html",
-          "pubDate": "Wed, 15 Apr 2026 13:24:39 GMT"
+          "pubDate": "Thu, 16 Apr 2026 11:08:33 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Oz says Trump defended diet soda habit, joking it &#8216;kills cancer cells&#8217;",
-          "summary": "Centers for Medicare and Medicaid Services (CMS) Administrator Dr. Mehmet Oz revealed on Monday that President Trump has an unusual defense for his diet soda habit, joking that the president often says the beverage “kills cancer cells.” “Your dad argues that diet soda is good for him because it kills grass. It&#8217;s poured on grass,&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5833396-oz-trump-soda-cancer/",
-          "pubDate": "Wed, 15 Apr 2026 22:16:37 +0000"
+          "title": "RFK Jr. grilled over vaccines, MAHA in back-to-back hearings: Key takeaways",
+          "summary": "House members got their first opportunity Thursday to grill Health and Human Services Secretary Robert F. Kennedy Jr., as he kicked off a marathon series of seven congressional hearings in seven days with back-to-back hearings in the Ways and Means and Appropriations Committees. In the two appearances, his first before Congress in 2026, Kennedy defended his record in leading the nation’s health agency as Democrats sought to&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5835548-kennedy-testifies-mha-movement/",
+          "pubDate": "Thu, 16 Apr 2026 22:04:35 +0000"
         },
         {
-          "title": "John Eastman disbarred in California over efforts to overturn 2020 election",
-          "summary": "John Eastman, a lawyer who spearheaded efforts to overturn the results of the 2020 presidential election in President Trump&#8217;s favor, has been formally disbarred in California The California Supreme Court on Wednesday declined to review his appeal of a lower court&#8217;s recommendation to strip him of his law license, instead ordering his disbarment. &#8220;The court&#8230;",
-          "link": "https://thehill.com/homenews/5833287-john-eastman-disbarred-california/",
-          "pubDate": "Wed, 15 Apr 2026 22:08:09 +0000"
+          "title": "Jeffries says he’s &#8216;deeply skeptical&#8217; of FISA extension without new privacy protections",
+          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) suggested on Thursday that he’s ready to oppose an extension of the government’s warrantless surveillance powers unless it contains new privacy guardrails.&#160; Jeffries stopped short of saying he’ll oppose a clean extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA), which GOP leaders in Congress and the&#8230;",
+          "link": "https://thehill.com/homenews/house/5835525-jeffries-skeptical-fisa-extension/",
+          "pubDate": "Thu, 16 Apr 2026 22:04:33 +0000"
         },
         {
-          "title": "Sotomayor apologizes to Kavanaugh over remarks on his immigration stop opinion",
-          "summary": "Supreme Court Justice Sonia Sotomayor publicly apologized to Justice Brett Kavanaugh on Wednesday for her comments at a recent talk criticizing his opinion concerning the Trump administration’s&#160;immigration stops.&#160;&#160; “At a recent appearance at the University of Kansas School of Law, I referred to a disagreement with one of my colleagues in a prior case, but&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5833375-supreme-court-justice-sotomayor-apology/",
-          "pubDate": "Wed, 15 Apr 2026 22:07:44 +0000"
+          "title": "Graham on Israel-Lebanon ceasefire: &#8216;Last thing&#8217; US needs is to &#8216;throw Hezbollah a lifeline&#8217;",
+          "summary": "Sen. Lindsey Graham (R-S.C.) responded on Thursday to the new short-term ceasefire agreement between Israel and Lebanon.&#160; “While I appreciate every effort to bring peace through diplomacy in the Middle East, particularly in Lebanon, we have to be realistic about the situation on the ground,” the GOP senator wrote on the social platform X.&#160; “The&#8230;",
+          "link": "https://thehill.com/homenews/senate/5835518-graham-hesitates-lebanon-israel-peace/",
+          "pubDate": "Thu, 16 Apr 2026 21:51:44 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Major gold holder launches self-custody wallet",
-          "summary": "Major gold holder launches self-custody wallet",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/major-gold-holder-launches-self-174018917.html",
-          "pubDate": "2026-04-14T17:40:18Z"
+          "title": "If You Buy Fluor (FLR) Stock Today, Here's the Bull Case for the Next 5 Years",
+          "summary": "If You Buy Fluor (FLR) Stock Today, Here's the Bull Case for the Next 5 Years",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-fluor-flr-stock-today-152500322.html",
+          "pubDate": "2026-04-15T15:25:00Z"
         },
         {
-          "title": "JPMorgan has stark message for investors on market weakness",
-          "summary": "JPMorgan has stark message for investors on market weakness",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stark-message-investors-market-174700070.html",
-          "pubDate": "2026-04-14T17:47:00Z"
+          "title": "It's Tax Day. You still have time to file an IRS tax extension.",
+          "summary": "It's Tax Day. You still have time to file an IRS tax extension.",
+          "link": "https://finance.yahoo.com/personal-finance/taxes/article/its-tax-day-you-still-have-time-to-file-an-irs-tax-extension-220004581.html",
+          "pubDate": "2024-02-13T22:00:04Z"
         },
         {
-          "title": "Costco reveals shift in shopper spending behavior",
-          "summary": "Costco reveals shift in shopper spending behavior",
-          "link": "https://finance.yahoo.com/economy/articles/costco-reveals-shift-shopper-spending-180800970.html",
-          "pubDate": "2026-04-14T18:08:00Z"
+          "title": "Hedge Funds Are Shorting the U.S. Dollar So Make This 1 Trade Now",
+          "summary": "Hedge Funds Are Shorting the U.S. Dollar So Make This 1 Trade Now",
+          "link": "https://finance.yahoo.com/markets/currencies/articles/hedge-funds-shorting-u-dollar-151923481.html",
+          "pubDate": "2026-04-15T15:19:23Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "The surprising reason you’re so productive one day and not the next",
-          "summary": "Feeling mentally “on” isn’t just in your head—it can significantly boost what you accomplish. Researchers found that sharper thinking on a given day leads people to set bigger goals and actually follow through. That edge can equal up to 40 extra minutes of productivity. But push too hard for too long, and the effect reverses.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
-          "pubDate": "Wed, 15 Apr 2026 08:44:11 EDT"
+          "title": "Scientists remove “zombie” cells and reverse liver damage in mice",
+          "summary": "A rogue set of “zombie” immune cells may be driving aging and fatty liver disease by flooding tissues with inflammation. Researchers found these cells accumulate with age and high cholesterol—and can make up most of the liver’s immune cells in older mice. When scientists removed them, liver damage was dramatically reversed, even without diet changes.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260416071947.htm",
+          "pubDate": "Thu, 16 Apr 2026 07:59:44 EDT"
         },
         {
-          "title": "This 31-foot “terror croc” ate dinosaurs. Now it’s back",
-          "summary": "A massive, bus-sized “terror croc” that once preyed on dinosaurs has been brought back to life in stunning detail with the first scientifically accurate full skeleton of Deinosuchus schwimmeri. Stretching over 30 feet long, this ancient apex predator ruled the southeastern U.S. more than 75 million years ago—and now visitors can see it up close at the Tellus Science Museum, the only place in the world with this replica.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260415043623.htm",
-          "pubDate": "Wed, 15 Apr 2026 09:23:03 EDT"
+          "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
+          "summary": "The ozone layer has been on track to recover thanks to the Montreal Protocol—but a loophole may be holding it back. Chemicals still permitted for industrial use are leaking into the atmosphere at higher rates than expected. Scientists now estimate this could delay ozone recovery by up to seven years. Closing this gap could speed up healing and reduce harmful UV exposure worldwide.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260416071945.htm",
+          "pubDate": "Thu, 16 Apr 2026 07:53:40 EDT"
         },
         {
-          "title": "A crushed fossil revealed a dinosaur that shouldn’t have existed",
-          "summary": "A badly mangled dinosaur skull, once forgotten in a drawer, turned out to be a rare and important discovery. Reconstructed by a Virginia Tech student, it revealed a new species of early carnivorous dinosaur with unusual features never seen before. The fossil suggests some dinosaur groups were wiped out during the end-Triassic extinction, not just their rivals. It may represent one of the last survivors of an ancient dinosaur lineage.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260415043610.htm",
-          "pubDate": "Wed, 15 Apr 2026 09:31:31 EDT"
+          "title": "Fool’s gold isn’t so foolish: Scientists find hidden treasure in pyrite",
+          "summary": "Researchers have discovered lithium hidden in pyrite within ancient shale rocks—an unexpected find that could reshape how we source this critical battery material. It raises the possibility of extracting lithium from existing waste, reducing the need for new mining.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260416032604.htm",
+          "pubDate": "Thu, 16 Apr 2026 07:32:19 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Breath carries clues to gut health",
-          "summary": "At-home breath tests could reveal insights about gut health, though their ability to assess food intolerances is not yet clear.",
-          "link": "https://www.sciencenews.org/article/breath-tests-clues-to-gut-health",
-          "pubDate": "Wed, 15 Apr 2026 17:00:00 +0000"
+          "title": "A strange &#8216;neutrino force&#8217; helped heal a crack in particle physics",
+          "summary": "A neglected force produced by neutrinos and other particles helps atomic physics measurements align with predictions of the standard model.",
+          "link": "https://www.sciencenews.org/article/neutrino-force-particle-physics",
+          "pubDate": "Thu, 16 Apr 2026 17:19:26 +0000"
         },
         {
-          "title": "Some GLP-1 drugs are more effective for those with specific gene variants",
-          "summary": "In a study, people with gene variants in two genes lost slightly more weight on GLP-1 drugs, but threw up more on Zepbound.",
-          "link": "https://www.sciencenews.org/article/glp-1-weight-loss-genetics-side-effects",
-          "pubDate": "Wed, 15 Apr 2026 15:00:00 +0000"
+          "title": "A new measurement reveals gravity is still hard to pin down",
+          "summary": "After a 10-year effort, physicists got a value for “Big G” that does not settle the debate over one of nature’s hardest numbers to nail down.",
+          "link": "https://www.sciencenews.org/article/gravity-fundamental-constant-new-measurement",
+          "pubDate": "Thu, 16 Apr 2026 16:12:11 +0000"
         },
         {
-          "title": "Math long resisted a digital disruption. AI is poised to change that",
-          "summary": "The painstaking process of formalization to verify proofs is starting to surge thanks to AI. That could radically change the way people do math.",
-          "link": "https://www.sciencenews.org/article/math-disrupted-by-ai-verify-proofs",
-          "pubDate": "Wed, 15 Apr 2026 13:00:00 +0000"
+          "title": "This tree is number one for cloud forest mammals going number two",
+          "summary": "The strangler fig is a keystone species in the tropics, providing food and shelter, and a place to poop for 17 different mammal species.",
+          "link": "https://www.sciencenews.org/article/cloud-forest-mammals-poop-tree-hub",
+          "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000"
         }
       ]
     }
