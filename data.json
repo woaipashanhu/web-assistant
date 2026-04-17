@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-16T23:00:07.467Z",
-  "date": "2026-04-17",
+  "lastUpdate": "2026-04-17T23:00:22.694Z",
+  "date": "2026-04-18",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Dark Matter May Be Made of Black Holes From Another Universe",
-          "summary": "A model of the cyclic universe suggests that dark matter could be a population of black holes predating the Big Bang.",
-          "link": "https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/",
-          "pubDate": "Thu, 16 Apr 2026 19:50:02 +0000"
+          "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+          "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+          "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+          "pubDate": "Fri, 17 Apr 2026 19:56:42 +0000"
         },
         {
-          "title": "Europe’s Online Age Verification App Is Here",
-          "summary": "Available for free to any company that wants to use it, the “completely anonymous” app puts the pressure on porn sites and social media platforms to start blocking access by minors.",
-          "link": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
-          "pubDate": "Thu, 16 Apr 2026 18:54:20 +0000"
+          "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
+          "summary": "Honestly, what’s hotter than a real person?",
+          "link": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
+          "pubDate": "Fri, 17 Apr 2026 17:14:51 +0000"
         },
         {
-          "title": "The Online Fiction Boom Reimagining China’s History",
-          "summary": "Chinese fantasy novels reimagine the past with modern tech and ideology. A new book argues they also help reinforce authoritarian politics.",
-          "link": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/",
-          "pubDate": "Thu, 16 Apr 2026 18:17:18 +0000"
+          "title": "AI Drafting My Stories? Over My Dead Body",
+          "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
+          "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+          "pubDate": "Fri, 17 Apr 2026 15:46:06 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-          "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-          "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-          "pubDate": "Thu, 16 Apr 2026 22:55:30 +0000"
+          "title": "Sam Altman&#8217;s project World looks to scale its human verification empire. First stop: Tinder.",
+          "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+          "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+          "pubDate": "Fri, 17 Apr 2026 22:34:02 +0000"
         },
         {
-          "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-          "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
-          "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-          "pubDate": "Thu, 16 Apr 2026 21:58:08 +0000"
+          "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests&#8217;",
+          "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+          "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+          "pubDate": "Fri, 17 Apr 2026 20:38:17 +0000"
         },
         {
-          "title": "Netflix co-founder and chair Reed Hastings to leave board",
-          "summary": "Hastings helped to transform the video rental industry — first with physical, then digital, delivery.",
-          "link": "https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/",
-          "pubDate": "Thu, 16 Apr 2026 21:22:14 +0000"
+          "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+          "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
+          "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+          "pubDate": "Fri, 17 Apr 2026 20:16:13 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
-          "summary": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
-          "link": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 16 Apr 2026 21:18:31 GMT"
+          "title": "Oil prices plunge as Iran says Strait 'open'",
+          "summary": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
+          "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 17 Apr 2026 21:41:01 GMT"
         },
         {
-          "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
-          "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
-          "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 16 Apr 2026 18:40:45 GMT"
+          "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+          "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+          "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 17 Apr 2026 14:31:51 GMT"
         },
         {
-          "title": "Turkish police detain 162 people over online posts about school shootings",
-          "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
-          "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 16 Apr 2026 15:23:23 GMT"
+          "title": "Kanye West concert in Poland cancelled over antisemitic comments",
+          "summary": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
+          "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 17 Apr 2026 18:19:10 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here&apos;s why",
+          "summary": "Innovation in the exchange-traded fund industry could come at a cost to investors during extreme volatility.",
+          "link": "https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html",
+          "pubDate": "Fri, 17 Apr 2026 11:00:01 GMT"
+        },
         {
           "title": "Retail traders pile into Allbirds after odd AI pivot. History shows it won&apos;t end well",
           "summary": "This surge of speculative buying reflects a broader return of animal spirits among small traders.",
@@ -145,17 +151,11 @@
           "summary": "Goldman's identity as a trader's firm — one expected to perform in turbulent markets — makes any stumble in the division notable.",
           "link": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html",
           "pubDate": "Wed, 15 Apr 2026 21:31:54 GMT"
-        },
-        {
-          "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
-          "summary": "The information sought includes so-called Tag 50 identifiers, which can be used to determine who was behind the trades.",
-          "link": "https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html",
-          "pubDate": "Thu, 16 Apr 2026 11:08:33 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "RFK Jr. grilled over vaccines, MAHA in back-to-back hearings: Key takeaways",
-          "summary": "House members got their first opportunity Thursday to grill Health and Human Services Secretary Robert F. Kennedy Jr., as he kicked off a marathon series of seven congressional hearings in seven days with back-to-back hearings in the Ways and Means and Appropriations Committees. In the two appearances, his first before Congress in 2026, Kennedy defended his record in leading the nation’s health agency as Democrats sought to&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5835548-kennedy-testifies-mha-movement/",
-          "pubDate": "Thu, 16 Apr 2026 22:04:35 +0000"
+          "title": "White House says meeting with Anthropic &#8216;productive and constructive&#8217;",
+          "summary": "Anthropic CEO Dario Amodei met with senior administration officials at the White House Friday, sparking new questions over the future of the artificial intelligence firm&#8217;s relationship with the Trump administration amid its ongoing battle with the Pentagon. The White House said the &#8220;introductory meeting&#8221; with the company was &#8220;both productive and constructive.&#8221; &#8220;We discussed opportunities&#8230;",
+          "link": "https://thehill.com/policy/technology/5837086-anthropic-ai-white-house-meeting/",
+          "pubDate": "Fri, 17 Apr 2026 22:23:05 +0000"
         },
         {
-          "title": "Jeffries says he’s &#8216;deeply skeptical&#8217; of FISA extension without new privacy protections",
-          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) suggested on Thursday that he’s ready to oppose an extension of the government’s warrantless surveillance powers unless it contains new privacy guardrails.&#160; Jeffries stopped short of saying he’ll oppose a clean extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA), which GOP leaders in Congress and the&#8230;",
-          "link": "https://thehill.com/homenews/house/5835525-jeffries-skeptical-fisa-extension/",
-          "pubDate": "Thu, 16 Apr 2026 22:04:33 +0000"
+          "title": "Trump administration to release Second Avenue subway funding after MTA lawsuit",
+          "summary": "The Trump administration on Thursday agreed to release federal funding to go toward the New York Metropolitan Transportation Authority (MTA) project to extend the Second Avenue subway following a lawsuit to restore funding for the extension. A Department of Transportation (DOT) spokesperson told The Hill that President Trump and Transportation Secretary Sean Duffy agreed to&#8230;",
+          "link": "https://thehill.com/homenews/administration/5837066-trump-administration-releases-second-avenue-subway-funds/",
+          "pubDate": "Fri, 17 Apr 2026 22:19:31 +0000"
         },
         {
-          "title": "Graham on Israel-Lebanon ceasefire: &#8216;Last thing&#8217; US needs is to &#8216;throw Hezbollah a lifeline&#8217;",
-          "summary": "Sen. Lindsey Graham (R-S.C.) responded on Thursday to the new short-term ceasefire agreement between Israel and Lebanon.&#160; “While I appreciate every effort to bring peace through diplomacy in the Middle East, particularly in Lebanon, we have to be realistic about the situation on the ground,” the GOP senator wrote on the social platform X.&#160; “The&#8230;",
-          "link": "https://thehill.com/homenews/senate/5835518-graham-hesitates-lebanon-israel-peace/",
-          "pubDate": "Thu, 16 Apr 2026 21:51:44 +0000"
+          "title": "EPA appoints industry players and academics to its Science Advisory Board",
+          "summary": "The Environmental Protection Agency (EPA) announced it would appoint academics and players in chemical and other industries and additional scientists to its Science Advisory Board (SAB). The new appointments come more than a year after&#160;the administration “reset” the board, dismissing the scientists who were on it. The board is made up of outside scientists who provide scientific advice&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5837073-new-epa-science-advisory-board/",
+          "pubDate": "Fri, 17 Apr 2026 21:30:24 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "If You Buy Fluor (FLR) Stock Today, Here's the Bull Case for the Next 5 Years",
-          "summary": "If You Buy Fluor (FLR) Stock Today, Here's the Bull Case for the Next 5 Years",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-fluor-flr-stock-today-152500322.html",
-          "pubDate": "2026-04-15T15:25:00Z"
+          "title": "127-year-old retailer confirms more cuts in 2026",
+          "summary": "127-year-old retailer confirms more cuts in 2026",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/127-old-retailer-confirms-more-231700401.html",
+          "pubDate": "2026-04-16T23:17:00Z"
         },
         {
-          "title": "It's Tax Day. You still have time to file an IRS tax extension.",
-          "summary": "It's Tax Day. You still have time to file an IRS tax extension.",
-          "link": "https://finance.yahoo.com/personal-finance/taxes/article/its-tax-day-you-still-have-time-to-file-an-irs-tax-extension-220004581.html",
-          "pubDate": "2024-02-13T22:00:04Z"
+          "title": "US SEC seeks comment on contentious trading database",
+          "summary": "US SEC seeks comment on contentious trading database",
+          "link": "https://finance.yahoo.com/economy/policy/articles/us-sec-seeks-contentious-trading-153828376.html",
+          "pubDate": "2026-04-16T15:38:28Z"
         },
         {
-          "title": "Hedge Funds Are Shorting the U.S. Dollar So Make This 1 Trade Now",
-          "summary": "Hedge Funds Are Shorting the U.S. Dollar So Make This 1 Trade Now",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/hedge-funds-shorting-u-dollar-151923481.html",
-          "pubDate": "2026-04-15T15:19:23Z"
+          "title": "Crude Prices Climb as Global Oil Supplies Remain Disrupted",
+          "summary": "Crude Prices Climb as Global Oil Supplies Remain Disrupted",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/crude-prices-climb-global-oil-154115584.html",
+          "pubDate": "2026-04-16T15:41:15Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists remove “zombie” cells and reverse liver damage in mice",
-          "summary": "A rogue set of “zombie” immune cells may be driving aging and fatty liver disease by flooding tissues with inflammation. Researchers found these cells accumulate with age and high cholesterol—and can make up most of the liver’s immune cells in older mice. When scientists removed them, liver damage was dramatically reversed, even without diet changes.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260416071947.htm",
-          "pubDate": "Thu, 16 Apr 2026 07:59:44 EDT"
+          "title": "Can sparkling water boost metabolism and help with weight loss?",
+          "summary": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, the effect is very small, meaning it’s no substitute for diet and exercise.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
+          "pubDate": "Fri, 17 Apr 2026 03:17:58 EDT"
         },
         {
-          "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
-          "summary": "The ozone layer has been on track to recover thanks to the Montreal Protocol—but a loophole may be holding it back. Chemicals still permitted for industrial use are leaking into the atmosphere at higher rates than expected. Scientists now estimate this could delay ozone recovery by up to seven years. Closing this gap could speed up healing and reduce harmful UV exposure worldwide.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260416071945.htm",
-          "pubDate": "Thu, 16 Apr 2026 07:53:40 EDT"
+          "title": "Scientists supercharge immune cells to destroy cancer more effectively",
+          "summary": "Researchers have found a way to make cancer-killing immune cells more powerful and precise. By adding specific signaling components, they boosted the cells’ readiness to attack tumors. Surprisingly, briefly suppressing the cells with a drug before use made them even more effective later. The approach could help create safer, stronger next-gen cancer treatments.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260416072001.htm",
+          "pubDate": "Thu, 16 Apr 2026 23:28:07 EDT"
         },
         {
-          "title": "Fool’s gold isn’t so foolish: Scientists find hidden treasure in pyrite",
-          "summary": "Researchers have discovered lithium hidden in pyrite within ancient shale rocks—an unexpected find that could reshape how we source this critical battery material. It raises the possibility of extracting lithium from existing waste, reducing the need for new mining.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260416032604.htm",
-          "pubDate": "Thu, 16 Apr 2026 07:32:19 EDT"
+          "title": "A “lost world” beneath the North Sea was once full of forests",
+          "summary": "Long before rising seas swallowed Doggerland beneath the North Sea, this lost landscape may have been a surprisingly lush and life-friendly haven. New DNA evidence reveals that forests of oak, elm, and hazel were already thriving there more than 16,000 years ago—thousands of years earlier than scientists thought possible. Even more astonishing, researchers detected traces of a tree species believed to have vanished from the region hundreds of thousands of years ago.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260416071959.htm",
+          "pubDate": "Fri, 17 Apr 2026 08:46:58 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A strange &#8216;neutrino force&#8217; helped heal a crack in particle physics",
-          "summary": "A neglected force produced by neutrinos and other particles helps atomic physics measurements align with predictions of the standard model.",
-          "link": "https://www.sciencenews.org/article/neutrino-force-particle-physics",
-          "pubDate": "Thu, 16 Apr 2026 17:19:26 +0000"
+          "title": "An endangered mouse may need a helping hand to adapt to climate change",
+          "summary": "Pacific pocket mice are geographically isolated, but the species may retain the genetic diversity needed to adapt to climate change.",
+          "link": "https://www.sciencenews.org/article/mouse-endangered-climate-conservation",
+          "pubDate": "Fri, 17 Apr 2026 18:01:36 +0000"
         },
         {
-          "title": "A new measurement reveals gravity is still hard to pin down",
-          "summary": "After a 10-year effort, physicists got a value for “Big G” that does not settle the debate over one of nature’s hardest numbers to nail down.",
-          "link": "https://www.sciencenews.org/article/gravity-fundamental-constant-new-measurement",
-          "pubDate": "Thu, 16 Apr 2026 16:12:11 +0000"
+          "title": "How to invent a realistic language for fictional speakers",
+          "summary": "Linguists can mix, match or even break the rules of real-world languages to create interesting imaginary ones.",
+          "link": "https://www.sciencenews.org/article/conlang-fictional-languages-linguistics",
+          "pubDate": "Fri, 17 Apr 2026 16:00:00 +0000"
         },
         {
-          "title": "This tree is number one for cloud forest mammals going number two",
-          "summary": "The strangler fig is a keystone species in the tropics, providing food and shelter, and a place to poop for 17 different mammal species.",
-          "link": "https://www.sciencenews.org/article/cloud-forest-mammals-poop-tree-hub",
-          "pubDate": "Thu, 16 Apr 2026 15:00:00 +0000"
+          "title": "Know the legal age to buy tobacco products in the U.S.? Many parents don’t",
+          "summary": "A study finds that less than half of surveyed parents know the legal age, 21, to buy cigarettes, vapes, nicotine pouches and other tobacco products.",
+          "link": "https://www.sciencenews.org/article/tobacco-age-21-nicotine-vapes-smokes",
+          "pubDate": "Fri, 17 Apr 2026 12:00:00 +0000"
         }
       ]
     }
