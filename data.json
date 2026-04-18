@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-17T23:00:22.694Z",
-  "date": "2026-04-18",
+  "lastUpdate": "2026-04-18T23:00:10.658Z",
+  "date": "2026-04-19",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-          "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-          "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-          "pubDate": "Fri, 17 Apr 2026 19:56:42 +0000"
+          "title": "The Best Smart Home Accessories to Boost Your Curb Appeal (2026)",
+          "summary": "These locks, lights, and other smart home upgrades let you add automation without messing up your home’s vibe.",
+          "link": "https://www.wired.com/story/smart-home-curb-appeal/",
+          "pubDate": "Sat, 18 Apr 2026 11:02:00 +0000"
         },
         {
-          "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
-          "summary": "Honestly, what’s hotter than a real person?",
-          "link": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
-          "pubDate": "Fri, 17 Apr 2026 17:14:51 +0000"
+          "title": "How to Clean Your Vinyl Records (2026): Vacuum, Ultrasonic, Solution, Brush",
+          "summary": "Those clicks and pops aren't supposed to be there. Give your music a proper bath with this handy guide.",
+          "link": "https://www.wired.com/story/how-to-clean-vinyl-records/",
+          "pubDate": "Sat, 18 Apr 2026 11:00:00 +0000"
         },
         {
-          "title": "AI Drafting My Stories? Over My Dead Body",
-          "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
-          "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
-          "pubDate": "Fri, 17 Apr 2026 15:46:06 +0000"
+          "title": "Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop",
+          "summary": "A gaming laptop without a discrete graphics card feels revolutionary, but the TUF Gaming A14 doesn't quite take full advantage of AMD's daring new silicon.",
+          "link": "https://www.wired.com/review/asus-tuf-gaming-a14-2026/",
+          "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Sam Altman&#8217;s project World looks to scale its human verification empire. First stop: Tinder.",
-          "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-          "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-          "pubDate": "Fri, 17 Apr 2026 22:34:02 +0000"
+          "title": "Tesla brings its robotaxi service to Dallas and Houston",
+          "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now [&#8230;]",
+          "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+          "pubDate": "Sat, 18 Apr 2026 21:37:15 +0000"
         },
         {
-          "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests&#8217;",
-          "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-          "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-          "pubDate": "Fri, 17 Apr 2026 20:38:17 +0000"
+          "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+          "summary": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.",
+          "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+          "pubDate": "Sat, 18 Apr 2026 20:00:00 +0000"
         },
         {
-          "title": "Man who hacked US Supreme Court filing system sentenced to probation",
-          "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
-          "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
-          "pubDate": "Fri, 17 Apr 2026 20:16:13 +0000"
+          "title": "AI chip startup Cerebras files for IPO",
+          "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+          "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+          "pubDate": "Sat, 18 Apr 2026 19:19:11 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Oil prices plunge as Iran says Strait 'open'",
-          "summary": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
-          "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 17 Apr 2026 21:41:01 GMT"
+          "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+          "summary": "Iran is blaming a US blockade for the closure, saying it breaches the ceasefire reached between the two countries.",
+          "link": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 18 Apr 2026 21:19:46 GMT"
         },
         {
-          "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-          "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
-          "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 17 Apr 2026 14:31:51 GMT"
+          "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+          "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
+          "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 18 Apr 2026 18:09:57 GMT"
         },
         {
-          "title": "Kanye West concert in Poland cancelled over antisemitic comments",
-          "summary": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
-          "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 17 Apr 2026 18:19:10 GMT"
+          "title": "Pope says 'tyrants' speech was not aimed at Trump",
+          "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+          "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 18 Apr 2026 16:44:39 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
+          "summary": "The S&P 500 closed above 7,100 for the first time as it completed its fastest turnaround since 1990.",
+          "link": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html",
+          "pubDate": "Sat, 18 Apr 2026 14:13:04 GMT"
+        },
         {
           "title": "If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here&apos;s why",
           "summary": "Innovation in the exchange-traded fund industry could come at a cost to investors during extreme volatility.",
@@ -145,17 +151,11 @@
           "summary": "This surge of speculative buying reflects a broader return of animal spirits among small traders.",
           "link": "https://www.cnbc.com/2026/04/16/retail-traders-pile-into-allbirds-after-odd-ai-pivot-history-shows-it-wont-end-well.html",
           "pubDate": "Thu, 16 Apr 2026 17:04:59 GMT"
-        },
-        {
-          "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: &apos;A fire is being lit under&apos; them",
-          "summary": "Goldman's identity as a trader's firm — one expected to perform in turbulent markets — makes any stumble in the division notable.",
-          "link": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html",
-          "pubDate": "Wed, 15 Apr 2026 21:31:54 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,81 +179,87 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "White House says meeting with Anthropic &#8216;productive and constructive&#8217;",
-          "summary": "Anthropic CEO Dario Amodei met with senior administration officials at the White House Friday, sparking new questions over the future of the artificial intelligence firm&#8217;s relationship with the Trump administration amid its ongoing battle with the Pentagon. The White House said the &#8220;introductory meeting&#8221; with the company was &#8220;both productive and constructive.&#8221; &#8220;We discussed opportunities&#8230;",
-          "link": "https://thehill.com/policy/technology/5837086-anthropic-ai-white-house-meeting/",
-          "pubDate": "Fri, 17 Apr 2026 22:23:05 +0000"
+          "title": "Sunday shows preview: Trump, Iran spar over Strait of Hormuz control as ceasefire deadline nears",
+          "summary": "President Trump and Iranian officials are sparring over control of the Strait of Hormuz after the president deployed a U.S. blockade to the critical path of transit for much of the world&#8217;s oil and gas. The strait reopened Friday morning, one day after Israel and Lebanon called for a 10-day ceasefire in compliance with Iran&#8217;s&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5838036-trump-iran-negotiations-ceasefire/",
+          "pubDate": "Sat, 18 Apr 2026 22:01:57 +0000"
         },
         {
-          "title": "Trump administration to release Second Avenue subway funding after MTA lawsuit",
-          "summary": "The Trump administration on Thursday agreed to release federal funding to go toward the New York Metropolitan Transportation Authority (MTA) project to extend the Second Avenue subway following a lawsuit to restore funding for the extension. A Department of Transportation (DOT) spokesperson told The Hill that President Trump and Transportation Secretary Sean Duffy agreed to&#8230;",
-          "link": "https://thehill.com/homenews/administration/5837066-trump-administration-releases-second-avenue-subway-funds/",
-          "pubDate": "Fri, 17 Apr 2026 22:19:31 +0000"
+          "title": "Murphy tells US, world progressives to take &#8216;lessons&#8217; from Hungary elections",
+          "summary": "Sen. Chris Murphy (D-Conn.) on Saturday urged progressives in the U.S. and around the world to “learn from each other”, saying the defeat of former Prime Minister Viktor Orbán in Hungary can offer a roadmap for rebuilding democracy. Murphy told the crowd at the inaugural&#160;Global Progressive Mobilization&#160;conference in Barcelona that the U.S. faced “the most&#8230;",
+          "link": "https://thehill.com/policy/international/5838128-murphy-tells-us-world-progressives-to-take-lessons-from-hungary-elections/",
+          "pubDate": "Sat, 18 Apr 2026 21:58:50 +0000"
         },
         {
-          "title": "EPA appoints industry players and academics to its Science Advisory Board",
-          "summary": "The Environmental Protection Agency (EPA) announced it would appoint academics and players in chemical and other industries and additional scientists to its Science Advisory Board (SAB). The new appointments come more than a year after&#160;the administration “reset” the board, dismissing the scientists who were on it. The board is made up of outside scientists who provide scientific advice&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5837073-new-epa-science-advisory-board/",
-          "pubDate": "Fri, 17 Apr 2026 21:30:24 +0000"
+          "title": "Gallego, seen as a Democratic model, faces new scrutiny",
+          "summary": "Sen. Ruben Gallego (Ariz.) has been held up as a model for the Democratic Party&#8217;s future since winning his Senate seat in 2024, with colleagues praising his skills as a communicator who succeeded during a time when other Democrats have struggled.&#160; He has drawn consistent praise for his authenticity and for his ability to connect&#8230;",
+          "link": "https://thehill.com/homenews/senate/5836911-ruben-gallego-political-future/",
+          "pubDate": "Sat, 18 Apr 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "127-year-old retailer confirms more cuts in 2026",
-          "summary": "127-year-old retailer confirms more cuts in 2026",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/127-old-retailer-confirms-more-231700401.html",
-          "pubDate": "2026-04-16T23:17:00Z"
+          "title": "2 Things to Know About the Allbirds Pivot Into AI",
+          "summary": "2 Things to Know About the Allbirds Pivot Into AI",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/2-things-know-allbirds-pivot-223700203.html",
+          "pubDate": "2026-04-18T22:37:00Z"
         },
         {
-          "title": "US SEC seeks comment on contentious trading database",
-          "summary": "US SEC seeks comment on contentious trading database",
-          "link": "https://finance.yahoo.com/economy/policy/articles/us-sec-seeks-contentious-trading-153828376.html",
-          "pubDate": "2026-04-16T15:38:28Z"
+          "title": "Tesla Robotaxi Service Expands To Dallas And Houston",
+          "summary": "Tesla Robotaxi Service Expands To Dallas And Houston",
+          "link": "https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-04-18T21:50:34Z"
         },
         {
-          "title": "Crude Prices Climb as Global Oil Supplies Remain Disrupted",
-          "summary": "Crude Prices Climb as Global Oil Supplies Remain Disrupted",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/crude-prices-climb-global-oil-154115584.html",
-          "pubDate": "2026-04-16T15:41:15Z"
+          "title": "Jim Cramer on Cisco (CSCO): “Chuck Robbins Is Doing a Terrific Job There”",
+          "summary": "Jim Cramer on Cisco (CSCO): “Chuck Robbins Is Doing a Terrific Job There”",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cisco-csco-chuck-211845447.html",
+          "pubDate": "2026-04-18T21:18:45Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Can sparkling water boost metabolism and help with weight loss?",
-          "summary": "Sparkling water is often seen as a simple, healthy drink—but could it also help with weight loss? New research suggests it may slightly boost how the body processes blood sugar and energy. However, the effect is very small, meaning it’s no substitute for diet and exercise.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
-          "pubDate": "Fri, 17 Apr 2026 03:17:58 EDT"
+          "title": "What caffeine does to ants could change pest control",
+          "summary": "Caffeine doesn’t just perk up humans—it can sharpen ants’ minds too. Invasive Argentine ants given caffeinated sugar learned to find food much more efficiently, taking straighter paths and reducing travel time by up to 38%. They weren’t faster, just more focused, indicating improved learning. This unexpected effect could make pest control baits far more effective.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260418042817.htm",
+          "pubDate": "Sat, 18 Apr 2026 07:54:08 EDT"
         },
         {
-          "title": "Scientists supercharge immune cells to destroy cancer more effectively",
-          "summary": "Researchers have found a way to make cancer-killing immune cells more powerful and precise. By adding specific signaling components, they boosted the cells’ readiness to attack tumors. Surprisingly, briefly suppressing the cells with a drug before use made them even more effective later. The approach could help create safer, stronger next-gen cancer treatments.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260416072001.htm",
-          "pubDate": "Thu, 16 Apr 2026 23:28:07 EDT"
+          "title": "Artificial neurons successfully communicate with living brain cells",
+          "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+          "pubDate": "Sat, 18 Apr 2026 03:32:36 EDT"
         },
         {
-          "title": "A “lost world” beneath the North Sea was once full of forests",
-          "summary": "Long before rising seas swallowed Doggerland beneath the North Sea, this lost landscape may have been a surprisingly lush and life-friendly haven. New DNA evidence reveals that forests of oak, elm, and hazel were already thriving there more than 16,000 years ago—thousands of years earlier than scientists thought possible. Even more astonishing, researchers detected traces of a tree species believed to have vanished from the region hundreds of thousands of years ago.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260416071959.htm",
-          "pubDate": "Fri, 17 Apr 2026 08:46:58 EDT"
+          "title": "Greenland ice completely melted 7,000 years ago and could happen again",
+          "summary": "Scientists drilling deep beneath Greenland’s ice have uncovered a startling clue about its past—and future. Evidence shows that the Prudhoe Dome, a major high point of the ice sheet, completely melted around 7,000 years ago during a relatively mild natural warming period. That means this supposedly stable ice cap is far more fragile than once thought, raising concerns that today’s human-driven warming could trigger similar or even faster ice loss.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260417224503.htm",
+          "pubDate": "Sat, 18 Apr 2026 05:05:20 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Science behind the scenes",
+          "summary": "Editor in chief Nancy Shute discusses the fascinating world of constructed languages, our behind-the-scenes look at a vast science museum collection, and how some mathematicians are embracing AI to check complex proofs.",
+          "link": "https://www.sciencenews.org/article/science-behind-the-scenes",
+          "pubDate": "Sat, 18 Apr 2026 11:00:00 +0000"
+        },
         {
           "title": "An endangered mouse may need a helping hand to adapt to climate change",
           "summary": "Pacific pocket mice are geographically isolated, but the species may retain the genetic diversity needed to adapt to climate change.",
@@ -265,12 +271,6 @@
           "summary": "Linguists can mix, match or even break the rules of real-world languages to create interesting imaginary ones.",
           "link": "https://www.sciencenews.org/article/conlang-fictional-languages-linguistics",
           "pubDate": "Fri, 17 Apr 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Know the legal age to buy tobacco products in the U.S.? Many parents don’t",
-          "summary": "A study finds that less than half of surveyed parents know the legal age, 21, to buy cigarettes, vapes, nicotine pouches and other tobacco products.",
-          "link": "https://www.sciencenews.org/article/tobacco-age-21-nicotine-vapes-smokes",
-          "pubDate": "Fri, 17 Apr 2026 12:00:00 +0000"
         }
       ]
     }
