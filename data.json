@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-19T23:00:31.215Z",
-  "date": "2026-04-20",
+  "lastUpdate": "2026-04-20T23:00:46.848Z",
+  "date": "2026-04-21",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Best Meta Glasses (2026): Ray-Ban, Oakley, AR",
-          "summary": "Meta is unquestionably winning the face-wearable war. Can you trust the company? Maybe not. But these are some of the nicest glasses I've ever worn.",
-          "link": "https://www.wired.com/story/best-meta-glasses/",
-          "pubDate": "Sun, 19 Apr 2026 11:00:00 +0000"
+          "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+          "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+          "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+          "pubDate": "Mon, 20 Apr 2026 22:33:27 +0000"
         },
         {
-          "title": "Hisense U7SG TV Review (2026): Better Design, Great Value",
-          "summary": "Hisense’s midrange U7 TV gets some high-end upgrades, but the competition is only getting stiffer.",
-          "link": "https://www.wired.com/review/hisense-u7sg/",
-          "pubDate": "Sun, 19 Apr 2026 10:30:00 +0000"
+          "title": "Best Kitchen Composters and Food Recyclers (2026)",
+          "summary": "Responsibly dispose of your food scraps with one of these indoor, (mostly) odor-free, WIRED-tested devices.",
+          "link": "https://www.wired.com/story/home-composters-buying-guide/",
+          "pubDate": "Mon, 20 Apr 2026 21:38:00 +0000"
         },
         {
-          "title": "The 11 Best Fans to Buy Before It Gets Hot Again (2026)",
-          "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
-          "link": "https://www.wired.com/story/the-best-fans-2026/",
-          "pubDate": "Sun, 19 Apr 2026 10:00:00 +0000"
+          "title": "Apple CEO Tim Cook Is Stepping Down",
+          "summary": "John Ternus, the company’s senior vice president of hardware engineering, will replace Cook as CEO on September 1. Cook will stay on as executive chairman.",
+          "link": "https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/",
+          "pubDate": "Mon, 20 Apr 2026 21:02:18 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI’s existential questions",
-          "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-          "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-          "pubDate": "Sun, 19 Apr 2026 21:24:06 +0000"
+          "title": "Google rolls out Gemini in Chrome in seven new countries",
+          "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam.",
+          "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+          "pubDate": "Mon, 20 Apr 2026 22:00:00 +0000"
         },
         {
-          "title": "The 12-month window",
-          "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-          "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-          "pubDate": "Sun, 19 Apr 2026 19:30:00 +0000"
+          "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
+          "summary": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry watchers and enthusiasts struggled to separate from its famed founder. What he leaves behind is a $4 trillion business with annual revenue that has more than quadrupled on his watch.",
+          "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
+          "pubDate": "Mon, 20 Apr 2026 20:42:01 +0000"
         },
         {
-          "title": "Blue Origin&#8217;s New Glenn put a customer satellite in the wrong orbit during its third launch",
-          "summary": "The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon.",
-          "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
-          "pubDate": "Sun, 19 Apr 2026 19:02:09 +0000"
+          "title": "Google Photos adds new touch-up tools for &#8216;quick&#8217; fixes",
+          "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos.",
+          "link": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
+          "pubDate": "Mon, 20 Apr 2026 20:20:29 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
-          "summary": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
-          "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 19 Apr 2026 21:39:43 GMT"
+          "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+          "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
+          "link": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 20 Apr 2026 18:57:25 GMT"
         },
         {
-          "title": "Eight children killed in Louisiana shooting, police say",
-          "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
-          "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 19 Apr 2026 22:54:51 GMT"
+          "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
+          "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted.",
+          "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 20 Apr 2026 22:53:24 GMT"
         },
         {
-          "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-          "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
-          "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 19 Apr 2026 21:09:06 GMT"
+          "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+          "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
+          "link": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 20 Apr 2026 14:54:21 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos&apos; Blue Origin",
+          "summary": "Blue Origin acknowledged the satellite was placed in the wrong orbit, but has not commented since it was deemed lost.",
+          "link": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html",
+          "pubDate": "Mon, 20 Apr 2026 20:01:02 GMT"
+        },
         {
           "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
           "summary": "Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.",
@@ -145,17 +151,11 @@
           "summary": "In a 2026 market that had Microsoft down close to 20%, looking for opportunities to buy after big drawdowns is coming to more tech and software stocks.",
           "link": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
           "pubDate": "Sun, 19 Apr 2026 18:38:11 GMT"
-        },
-        {
-          "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
-          "summary": "The S&P 500 closed above 7,100 for the first time as it completed its fastest turnaround since 1990.",
-          "link": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html",
-          "pubDate": "Sat, 18 Apr 2026 14:13:04 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Most voters blame Trump for rising gas prices: Poll",
-          "summary": "Most registered voters blame President Trump for rising gas prices, according to a new poll. Quinnipiac University’s national poll, which was released Wednesday, found that more than half of voters, 51 percent, blame Trump &#8220;a lot&#8221; for gas prices spiking while 14 percent blame him &#8220;some.&#8221; Comparatively, 11 percent blame him &#8220;not much&#8221; while 23&#8230;",
-          "link": "https://thehill.com/business/personal-finance/5838861-voters-poll-trump-gas/",
-          "pubDate": "Sun, 19 Apr 2026 22:40:55 +0000"
+          "title": "Trump officials give mixed gas price messages",
+          "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story&#160; Trump officials give mixed gas price messages President Trump and his&#160;Cabinet officials are offering mixed messages on gas&#160;prices as Americans grow&#160;increasingly uneasy over the Iran war’s economic impact.&#160;&#160; © Greg Nash/The Hill Energy Secretary&#160;Chris Wright&#160;told CNN on Sunday that gas prices may not drop&#8230;",
+          "link": "https://thehill.com/homenews/5840163-trump-officials-give-mixed-gas-price-messages/",
+          "pubDate": "Mon, 20 Apr 2026 22:21:04 +0000"
         },
         {
-          "title": "House Oversight Committee to investigate missing, dead scientists",
-          "summary": "House Oversight and Government Reform Committee Chair James Comer (R-Ky.) on Sunday said the committee will investigate the deaths and disappearances of 10 American scientists who all had links to U.S. nuclear or space research programs. Authorities have not confirmed an official connection between members of the group, though it’s been noted that each&#8230;",
-          "link": "https://thehill.com/homenews/house/5838817-investigation-american-scientists-deaths/",
-          "pubDate": "Sun, 19 Apr 2026 21:22:58 +0000"
+          "title": "The Memo: Despite Trump’s claims, Iran war is doing him damage",
+          "summary": "A new round of peace talks on Iran is tentatively set for this week in Islamabad, Pakistan — but there is growing evidence that President Trump has sustained political injury from the conflict that will not be easily undone. Trump and key allies like Defense Secretary Pete Hegseth insist that the U.S. military has already&#8230;",
+          "link": "https://thehill.com/homenews/administration/5840075-trump-iran-war-gas-prices-midterm-elections/",
+          "pubDate": "Mon, 20 Apr 2026 22:08:36 +0000"
         },
         {
-          "title": "House braces for next wave of potential expulsions focused on Cherfilus-McCormick, Mills",
-          "summary": "House lawmakers are bracing for the next wave of expulsions. Former Reps. Eric Swalwell (D-Calif.) and Tony Gonzales (R-Texas) avoided the boot only by quitting their seats in the face of allegations of sexual misconduct with staffers. Now, the expulsion battle is poised to enter its second round, as lawmakers in both parties eye plans&#8230;",
-          "link": "https://thehill.com/homenews/administration/5837072-lawmakers-bracing-expulsions-wave/",
-          "pubDate": "Sun, 19 Apr 2026 21:00:00 +0000"
+          "title": "Iran seeks to wait Trump out as ceasefire deadline nears",
+          "summary": "Preparations are being made in Islamabad for a high-stakes meeting between U.S. and Iranian officials to extend a ceasefire, and avoid returning to open conflict. Iranian officials have not yet publicly committed to appearing in Islamabad, where the White House says Vice President Vance will arrive Wednesday for talks. He’s expected to be joined by&#8230;",
+          "link": "https://thehill.com/policy/defense/5840087-us-iran-ceasefire-talks/",
+          "pubDate": "Mon, 20 Apr 2026 21:41:12 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Goldman Sachs’ blunt words for Amazon stock investors after big deal",
-          "summary": "Goldman Sachs’ blunt words for Amazon stock investors after big deal",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-words-amazon-150700510.html",
-          "pubDate": "2026-04-19T15:07:00Z"
+          "title": "Why I withdrew everything from Aave this weekend",
+          "summary": "Why I withdrew everything from Aave this weekend",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/why-withdrew-everything-aave-weekend-230059031.html",
+          "pubDate": "2026-04-19T23:00:59Z"
         },
         {
-          "title": "Dow Jones Futures Fall, Oil Prices Jump; Trump Announces New Iran Talks With Hormuz Shut",
-          "summary": "Dow Jones Futures Fall, Oil Prices Jump; Trump Announces New Iran Talks With Hormuz Shut",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-strait-of-hormuz-tesla-earnings/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-04-19T22:09:50Z"
+          "title": "Keep calm and carry on even when investing feels unpleasant",
+          "summary": "Keep calm and carry on even when investing feels unpleasant",
+          "link": "https://finance.yahoo.com/news/keep-calm-and-carry-on-even-when-investing-feels-unpleasant-135625187.html",
+          "pubDate": "2026-04-19T13:56:25Z"
         },
         {
-          "title": "Latest acquisition by Brad Jacobs’ QXO building products rollup is largest so far",
-          "summary": "Latest acquisition by Brad Jacobs’ QXO building products rollup is largest so far",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/latest-acquisition-brad-jacobs-qxo-215041099.html",
-          "pubDate": "2026-04-19T21:50:41Z"
+          "title": "PG&E Corporation (PCG): David Einhorn Is Buying This Stock",
+          "summary": "PG&E Corporation (PCG): David Einhorn Is Buying This Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/pg-e-corporation-pcg-david-133904768.html",
+          "pubDate": "2026-04-19T13:39:04Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "After 200 years scientists finally crack the “dolomite problem”",
+          "summary": "After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle. They discovered that the mineral’s growth stalls because of tiny defects—but in nature, those flaws get washed away over time. By mimicking this process with precise simulations and electron beam pulses, the team achieved record-breaking crystal growth. The finding could reshape how high-tech materials are made.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
+          "pubDate": "Mon, 20 Apr 2026 02:28:54 EDT"
+        },
         {
           "title": "A new force of nature is reshaping the planet, study finds",
           "summary": "Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power to transform Earth and improve human life. But that progress has come with serious costs, including climate change, pollution, and mass extinction. Instead of framing this era—the Anthropocene—as pure crisis, Erle Ellis argues it’s also proof of something hopeful: when people work together, they can drive massive positive change.",
@@ -241,36 +247,30 @@
           "summary": "Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.",
           "link": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
           "pubDate": "Sun, 19 Apr 2026 08:57:46 EDT"
-        },
-        {
-          "title": "What caffeine does to ants could change pest control",
-          "summary": "Caffeine doesn’t just perk up humans—it can sharpen ants’ minds too. Invasive Argentine ants given caffeinated sugar learned to find food much more efficiently, taking straighter paths and reducing travel time by up to 38%. They weren’t faster, just more focused, indicating improved learning. This unexpected effect could make pest control baits far more effective.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260418042817.htm",
-          "pubDate": "Sat, 18 Apr 2026 07:54:08 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-20",
+      "date": "2026-04-21",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Science behind the scenes",
-          "summary": "Editor in chief Nancy Shute discusses the fascinating world of constructed languages, our behind-the-scenes look at a vast science museum collection, and how some mathematicians are embracing AI to check complex proofs.",
-          "link": "https://www.sciencenews.org/article/science-behind-the-scenes",
-          "pubDate": "Sat, 18 Apr 2026 11:00:00 +0000"
+          "title": "Increasing heat can boost malnutrition among children",
+          "summary": "In a study of 6.5 million children in Brazil, higher temperatures were associated with worse nutrition outcomes, especially in vulnerable groups.",
+          "link": "https://www.sciencenews.org/article/malnutrition-heat-climate-children-brazil",
+          "pubDate": "Mon, 20 Apr 2026 17:00:00 +0000"
         },
         {
-          "title": "An endangered mouse may need a helping hand to adapt to climate change",
-          "summary": "Pacific pocket mice are geographically isolated, but the species may retain the genetic diversity needed to adapt to climate change.",
-          "link": "https://www.sciencenews.org/article/mouse-endangered-climate-conservation",
-          "pubDate": "Fri, 17 Apr 2026 18:01:36 +0000"
+          "title": "This kea parrot is the first-known disabled alpha male",
+          "summary": "With half a beak, Bruce has developed an innovative fighting style that has won the kea top status in his flock, videos and documented interactions reveal.",
+          "link": "https://www.sciencenews.org/article/kea-parrot-first-disabled-alpha-male",
+          "pubDate": "Mon, 20 Apr 2026 15:00:00 +0000"
         },
         {
-          "title": "How to invent a realistic language for fictional speakers",
-          "summary": "Linguists can mix, match or even break the rules of real-world languages to create interesting imaginary ones.",
-          "link": "https://www.sciencenews.org/article/conlang-fictional-languages-linguistics",
-          "pubDate": "Fri, 17 Apr 2026 16:00:00 +0000"
+          "title": "A vaccine for Lyme disease could be on the horizon",
+          "summary": "The vaccine candidate is the furthest any shot has gotten since the last one was pulled in 2002. Scientists are testing other ways to block infection.",
+          "link": "https://www.sciencenews.org/article/lyme-disease-vaccine-ticks-infection",
+          "pubDate": "Mon, 20 Apr 2026 13:00:00 +0000"
         }
       ]
     }
