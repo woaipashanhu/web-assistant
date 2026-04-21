@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-20T23:00:46.848Z",
-  "date": "2026-04-21",
+  "lastUpdate": "2026-04-21T23:00:45.658Z",
+  "date": "2026-04-22",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "A Humanoid Robot Set a Half-Marathon Record in China",
-          "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
-          "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-          "pubDate": "Mon, 20 Apr 2026 22:33:27 +0000"
+          "title": "Framework Has a Better, More Take-Apartable Laptop",
+          "summary": "The company announced its new Framework Laptop 13 Pro, along with updates to its 16-inch model.",
+          "link": "https://www.wired.com/story/framework-laptop-13-pro/",
+          "pubDate": "Tue, 21 Apr 2026 19:09:11 +0000"
         },
         {
-          "title": "Best Kitchen Composters and Food Recyclers (2026)",
-          "summary": "Responsibly dispose of your food scraps with one of these indoor, (mostly) odor-free, WIRED-tested devices.",
-          "link": "https://www.wired.com/story/home-composters-buying-guide/",
-          "pubDate": "Mon, 20 Apr 2026 21:38:00 +0000"
+          "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+          "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+          "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+          "pubDate": "Tue, 21 Apr 2026 19:00:00 +0000"
         },
         {
-          "title": "Apple CEO Tim Cook Is Stepping Down",
-          "summary": "John Ternus, the company’s senior vice president of hardware engineering, will replace Cook as CEO on September 1. Cook will stay on as executive chairman.",
-          "link": "https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/",
-          "pubDate": "Mon, 20 Apr 2026 21:02:18 +0000"
+          "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+          "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+          "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+          "pubDate": "Tue, 21 Apr 2026 18:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Google rolls out Gemini in Chrome in seven new countries",
-          "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam.",
-          "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-          "pubDate": "Mon, 20 Apr 2026 22:00:00 +0000"
+          "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+          "summary": "Only Elon would do this before an IPO.",
+          "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+          "pubDate": "Tue, 21 Apr 2026 22:58:22 +0000"
         },
         {
-          "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
-          "summary": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry watchers and enthusiasts struggled to separate from its famed founder. What he leaves behind is a $4 trillion business with annual revenue that has more than quadrupled on his watch.",
-          "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
-          "pubDate": "Mon, 20 Apr 2026 20:42:01 +0000"
+          "title": "Tim Cook is stepping down as CEO of Apple: Here&#8217;s a look at his 15-year legacy, from new products and services to China expansion",
+          "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
+          "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+          "pubDate": "Tue, 21 Apr 2026 21:09:09 +0000"
         },
         {
-          "title": "Google Photos adds new touch-up tools for &#8216;quick&#8217; fixes",
-          "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos.",
-          "link": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
-          "pubDate": "Mon, 20 Apr 2026 20:20:29 +0000"
+          "title": "Apple&#8217;s John Ternus will run one of the world&#8217;s most powerful companies; the job is a minefield",
+          "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+          "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+          "pubDate": "Tue, 21 Apr 2026 20:23:24 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-          "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
-          "link": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 20 Apr 2026 18:57:25 GMT"
+          "title": "Iran sees mass redundancies from war with US and Israel",
+          "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
+          "link": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 21 Apr 2026 16:05:51 GMT"
         },
         {
-          "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
-          "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted.",
-          "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 20 Apr 2026 22:53:24 GMT"
+          "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+          "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
+          "link": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 21 Apr 2026 16:13:27 GMT"
         },
         {
-          "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
-          "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
-          "link": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 20 Apr 2026 14:54:21 GMT"
+          "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
+          "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
+          "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 21 Apr 2026 16:25:44 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos&apos; Blue Origin",
-          "summary": "Blue Origin acknowledged the satellite was placed in the wrong orbit, but has not commented since it was deemed lost.",
-          "link": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html",
-          "pubDate": "Mon, 20 Apr 2026 20:01:02 GMT"
+          "title": "Trump administration discussing currency swap line with United Arab Emirates",
+          "summary": "Such a move would provide liquidity in dollars to the oil-rich UAE, but could be politically tenuous for the administration amid higher prices at home.",
+          "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html",
+          "pubDate": "Tue, 21 Apr 2026 22:09:55 GMT"
         },
         {
-          "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
-          "summary": "Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.",
-          "link": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
-          "pubDate": "Sun, 19 Apr 2026 21:19:57 GMT"
+          "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
+          "summary": "Volkswagen revealed four cars, including the ID. UNYX 09, which the company said it co-developed with EV maker Xpeng in two years.",
+          "link": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
+          "pubDate": "Tue, 21 Apr 2026 13:36:21 GMT"
         },
         {
-          "title": "Software stock dogs have joined market rally. There&apos;s a classic investing lesson in the rebound",
-          "summary": "In a 2026 market that had Microsoft down close to 20%, looking for opportunities to buy after big drawdowns is coming to more tech and software stocks.",
-          "link": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
-          "pubDate": "Sun, 19 Apr 2026 18:38:11 GMT"
+          "title": "Here&apos;s what to expect from Fed chair nominee Kevin Warsh&apos;s Senate hearing Tuesday",
+          "summary": "In a much-anticipated hearing before the Banking Committee, the former Fed governor will face questioning over a variety of subjects",
+          "link": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html",
+          "pubDate": "Tue, 21 Apr 2026 13:13:52 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump officials give mixed gas price messages",
-          "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story&#160; Trump officials give mixed gas price messages President Trump and his&#160;Cabinet officials are offering mixed messages on gas&#160;prices as Americans grow&#160;increasingly uneasy over the Iran war’s economic impact.&#160;&#160; © Greg Nash/The Hill Energy Secretary&#160;Chris Wright&#160;told CNN on Sunday that gas prices may not drop&#8230;",
-          "link": "https://thehill.com/homenews/5840163-trump-officials-give-mixed-gas-price-messages/",
-          "pubDate": "Mon, 20 Apr 2026 22:21:04 +0000"
+          "title": "Patel gets in shouting match with reporter as he defends job performance",
+          "summary": "FBI Director Kash Patel got into a shouting match with a reporter amid questions over his job performance following an explosive article from The Atlantic alleging excessive alcohol use by the director. The outlet reported that while in charge of the bureau, Patel has consumed alcohol “to the point of obvious intoxication” in front of&#8230;",
+          "link": "https://thehill.com/homenews/administration/5842202-patel-denies-intoxication-fbi/",
+          "pubDate": "Tue, 21 Apr 2026 22:30:38 +0000"
         },
         {
-          "title": "The Memo: Despite Trump’s claims, Iran war is doing him damage",
-          "summary": "A new round of peace talks on Iran is tentatively set for this week in Islamabad, Pakistan — but there is growing evidence that President Trump has sustained political injury from the conflict that will not be easily undone. Trump and key allies like Defense Secretary Pete Hegseth insist that the U.S. military has already&#8230;",
-          "link": "https://thehill.com/homenews/administration/5840075-trump-iran-war-gas-prices-midterm-elections/",
-          "pubDate": "Mon, 20 Apr 2026 22:08:36 +0000"
+          "title": "Kennedy denies pressure to back off vaccines, but casts focus elsewhere",
+          "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. told Congress on Tuesday that he has not faced pressure from the White House to scale back his vaccine skepticism, even as a top Trump health adviser recognized &#8220;ongoing conversations about where to prioritize.&#8221; The denial contradicts a mounting body of reporting from sources inside&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5842160-kennedy-trump-vaccine-pressure/",
+          "pubDate": "Tue, 21 Apr 2026 22:07:50 +0000"
         },
         {
-          "title": "Iran seeks to wait Trump out as ceasefire deadline nears",
-          "summary": "Preparations are being made in Islamabad for a high-stakes meeting between U.S. and Iranian officials to extend a ceasefire, and avoid returning to open conflict. Iranian officials have not yet publicly committed to appearing in Islamabad, where the White House says Vice President Vance will arrive Wednesday for talks. He’s expected to be joined by&#8230;",
-          "link": "https://thehill.com/policy/defense/5840087-us-iran-ceasefire-talks/",
-          "pubDate": "Mon, 20 Apr 2026 21:41:12 +0000"
+          "title": "NASA veterans launch nonprofit advocating for &#8216;rule of law&#8217;",
+          "summary": "A group of NASA veterans came together on Tuesday to launch a new nonprofit organization aimed at defending Americans’ constitutional rights. Astronauts for America is a group of over 100 former astronauts with common “patriotic, not partisan” goals, the founding members wrote in an open letter. “We are Republicans, Democrats, and Independents from many different&#8230;",
+          "link": "https://thehill.com/homenews/space/5842130-nasa-veterans-defend-constitutional-rights/",
+          "pubDate": "Tue, 21 Apr 2026 22:01:50 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Why I withdrew everything from Aave this weekend",
-          "summary": "Why I withdrew everything from Aave this weekend",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/why-withdrew-everything-aave-weekend-230059031.html",
-          "pubDate": "2026-04-19T23:00:59Z"
+          "title": "Major crypto platform shuts down amid market slump",
+          "summary": "Major crypto platform shuts down amid market slump",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/major-crypto-platform-shuts-down-215000383.html",
+          "pubDate": "2026-04-20T21:50:00Z"
         },
         {
-          "title": "Keep calm and carry on even when investing feels unpleasant",
-          "summary": "Keep calm and carry on even when investing feels unpleasant",
-          "link": "https://finance.yahoo.com/news/keep-calm-and-carry-on-even-when-investing-feels-unpleasant-135625187.html",
-          "pubDate": "2026-04-19T13:56:25Z"
+          "title": "Dear Apple Stock Fans, Mark Your Calendars for April 30",
+          "summary": "Dear Apple Stock Fans, Mark Your Calendars for April 30",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/dear-apple-stock-fans-mark-144103781.html",
+          "pubDate": "2026-04-20T14:41:03Z"
         },
         {
-          "title": "PG&E Corporation (PCG): David Einhorn Is Buying This Stock",
-          "summary": "PG&E Corporation (PCG): David Einhorn Is Buying This Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/pg-e-corporation-pcg-david-133904768.html",
-          "pubDate": "2026-04-19T13:39:04Z"
+          "title": "Earnings Preview: What To Expect From Amazon.com's Report",
+          "summary": "Earnings Preview: What To Expect From Amazon.com's Report",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-amazon-coms-144036169.html",
+          "pubDate": "2026-04-20T14:40:36Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "After 200 years scientists finally crack the “dolomite problem”",
-          "summary": "After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle. They discovered that the mineral’s growth stalls because of tiny defects—but in nature, those flaws get washed away over time. By mimicking this process with precise simulations and electron beam pulses, the team achieved record-breaking crystal growth. The finding could reshape how high-tech materials are made.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
-          "pubDate": "Mon, 20 Apr 2026 02:28:54 EDT"
+          "title": "A bizarre new state of matter may be hiding inside Uranus and Neptune",
+          "summary": "Deep inside planets like Uranus and Neptune, scientists may have uncovered a bizarre new state of matter where atoms behave in unexpected ways. Advanced simulations suggest that carbon and hydrogen, under crushing pressures and scorching temperatures, can form a strange hybrid phase—part solid, part fluid—where hydrogen atoms spiral through a rigid carbon framework. This unusual “superionic” structure could reshape how heat and electricity flow inside these distant worlds, potentially helping explain their mysterious magnetic fields.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260421042812.htm",
+          "pubDate": "Tue, 21 Apr 2026 09:24:21 EDT"
         },
         {
-          "title": "A new force of nature is reshaping the planet, study finds",
-          "summary": "Human societies didn’t just adapt to the planet—they learned to reshape it. From early fire use to today’s global supply chains, our cultural and social innovations have unlocked extraordinary power to transform Earth and improve human life. But that progress has come with serious costs, including climate change, pollution, and mass extinction. Instead of framing this era—the Anthropocene—as pure crisis, Erle Ellis argues it’s also proof of something hopeful: when people work together, they can drive massive positive change.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260419054825.htm",
-          "pubDate": "Sun, 19 Apr 2026 09:18:25 EDT"
+          "title": "This new camera captures what happens in a trillionth of a second",
+          "summary": "Scientists have unveiled a breakthrough imaging method that can capture the hidden details of events unfolding in trillionths of a second. This new technique doesn’t just track how bright something is—it also reveals subtle structural changes that were previously invisible, all in a single shot. By effectively turning ultrafast phenomena into detailed “movies,” researchers can now watch plasma form, electrons move, and materials transform in real time.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260421042808.htm",
+          "pubDate": "Tue, 21 Apr 2026 08:39:12 EDT"
         },
         {
-          "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
-          "summary": "Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
-          "pubDate": "Sun, 19 Apr 2026 08:57:46 EDT"
+          "title": "Scientists just captured trees glowing with electricity during storms",
+          "summary": "Scientists chasing thunderstorms in a retrofitted minivan finally captured something never seen before in nature: faint electrical glows shimmering from treetops during a storm. These “corona discharges,” long suspected but never observed outside a lab, appeared as tiny UV flashes at the tips of leaves. The discovery could reshape how we understand forests, since these bursts may help clean the air by breaking down pollutants.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260421042805.htm",
+          "pubDate": "Tue, 21 Apr 2026 10:59:05 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Increasing heat can boost malnutrition among children",
-          "summary": "In a study of 6.5 million children in Brazil, higher temperatures were associated with worse nutrition outcomes, especially in vulnerable groups.",
-          "link": "https://www.sciencenews.org/article/malnutrition-heat-climate-children-brazil",
-          "pubDate": "Mon, 20 Apr 2026 17:00:00 +0000"
+          "title": "‘Beyond Inheritance’ offers a new view on mutations",
+          "summary": "In her debut book, science writer Roxanne Khamsi offers a new view of mutations that’s not limited to birth and death.",
+          "link": "https://www.sciencenews.org/article/beyond-inheritance-book-khamsi-mutation",
+          "pubDate": "Tue, 21 Apr 2026 19:00:00 +0000"
         },
         {
-          "title": "This kea parrot is the first-known disabled alpha male",
-          "summary": "With half a beak, Bruce has developed an innovative fighting style that has won the kea top status in his flock, videos and documented interactions reveal.",
-          "link": "https://www.sciencenews.org/article/kea-parrot-first-disabled-alpha-male",
-          "pubDate": "Mon, 20 Apr 2026 15:00:00 +0000"
+          "title": "Got pesky, invasive corals? Blast ‘em away with air guns",
+          "summary": "Compressed air bids bye-bye to invasive sun corals in Brazil. The blasts obliterated soft tissue and fragments couldn't regenerate.",
+          "link": "https://www.sciencenews.org/article/invasive-sun-corals-compressed-air-guns",
+          "pubDate": "Tue, 21 Apr 2026 15:00:00 +0000"
         },
         {
-          "title": "A vaccine for Lyme disease could be on the horizon",
-          "summary": "The vaccine candidate is the furthest any shot has gotten since the last one was pulled in 2002. Scientists are testing other ways to block infection.",
-          "link": "https://www.sciencenews.org/article/lyme-disease-vaccine-ticks-infection",
-          "pubDate": "Mon, 20 Apr 2026 13:00:00 +0000"
+          "title": "The Proof in the Code traces efforts to digitally verify mathematical truths",
+          "summary": "Journalist Kevin Hartnett chronicles how code-checking tools and AI are being used to tackle difficult math problems.",
+          "link": "https://www.sciencenews.org/article/the-proof-in-the-code-ai-math-book",
+          "pubDate": "Tue, 21 Apr 2026 13:00:00 +0000"
         }
       ]
     }
