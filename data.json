@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-21T23:00:45.658Z",
-  "date": "2026-04-22",
+  "lastUpdate": "2026-04-22T23:00:10.626Z",
+  "date": "2026-04-23",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Framework Has a Better, More Take-Apartable Laptop",
-          "summary": "The company announced its new Framework Laptop 13 Pro, along with updates to its 16-inch model.",
-          "link": "https://www.wired.com/story/framework-laptop-13-pro/",
-          "pubDate": "Tue, 21 Apr 2026 19:09:11 +0000"
+          "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+          "summary": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+          "link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+          "pubDate": "Wed, 22 Apr 2026 22:11:15 +0000"
         },
         {
-          "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-          "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
-          "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-          "pubDate": "Tue, 21 Apr 2026 19:00:00 +0000"
+          "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
+          "summary": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
+          "link": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
+          "pubDate": "Wed, 22 Apr 2026 21:49:19 +0000"
         },
         {
-          "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-          "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-          "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-          "pubDate": "Tue, 21 Apr 2026 18:30:00 +0000"
+          "title": "Cocaine-Fueled Wild Salmon Swam Twice as Far as Sober Ones",
+          "summary": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
+          "link": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
+          "pubDate": "Wed, 22 Apr 2026 21:34:03 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
-          "summary": "Only Elon would do this before an IPO.",
-          "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-          "pubDate": "Tue, 21 Apr 2026 22:58:22 +0000"
+          "title": "Google updates Workspace to make AI your new office intern",
+          "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+          "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+          "pubDate": "Wed, 22 Apr 2026 22:44:26 +0000"
         },
         {
-          "title": "Tim Cook is stepping down as CEO of Apple: Here&#8217;s a look at his 15-year legacy, from new products and services to China expansion",
-          "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
-          "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
-          "pubDate": "Tue, 21 Apr 2026 21:09:09 +0000"
+          "title": "Elon Musk admits millions of Tesla owners need upgrades for true &#8216;Full Self-Driving&#8217;",
+          "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
+          "link": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+          "pubDate": "Wed, 22 Apr 2026 22:39:58 +0000"
         },
         {
-          "title": "Apple&#8217;s John Ternus will run one of the world&#8217;s most powerful companies; the job is a minefield",
-          "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
-          "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-          "pubDate": "Tue, 21 Apr 2026 20:23:24 +0000"
+          "title": "Hands on with X&#8217;s new AI-powered custom feeds",
+          "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+          "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+          "pubDate": "Wed, 22 Apr 2026 22:25:53 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran sees mass redundancies from war with US and Israel",
-          "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
-          "link": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 21 Apr 2026 16:05:51 GMT"
+          "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
+          "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
+          "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 22 Apr 2026 16:19:36 GMT"
         },
         {
-          "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-          "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
-          "link": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 21 Apr 2026 16:13:27 GMT"
+          "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+          "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+          "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 22 Apr 2026 18:10:42 GMT"
         },
         {
-          "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-          "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
-          "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 21 Apr 2026 16:25:44 GMT"
+          "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
+          "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
+          "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 22 Apr 2026 17:04:33 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Bessent says &apos;many&apos; U.S. allies have asked for currency swaps amid Iran war turbulence",
+          "summary": "The White House on Tuesday said the UAE had not requested a currency swap line.",
+          "link": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html",
+          "pubDate": "Wed, 22 Apr 2026 18:46:20 GMT"
+        },
         {
           "title": "Trump administration discussing currency swap line with United Arab Emirates",
           "summary": "Such a move would provide liquidity in dollars to the oil-rich UAE, but could be politically tenuous for the administration amid higher prices at home.",
@@ -144,18 +150,12 @@
           "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
           "summary": "Volkswagen revealed four cars, including the ID. UNYX 09, which the company said it co-developed with EV maker Xpeng in two years.",
           "link": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
-          "pubDate": "Tue, 21 Apr 2026 13:36:21 GMT"
-        },
-        {
-          "title": "Here&apos;s what to expect from Fed chair nominee Kevin Warsh&apos;s Senate hearing Tuesday",
-          "summary": "In a much-anticipated hearing before the Banking Committee, the former Fed governor will face questioning over a variety of subjects",
-          "link": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html",
-          "pubDate": "Tue, 21 Apr 2026 13:13:52 GMT"
+          "pubDate": "Wed, 22 Apr 2026 22:41:21 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Patel gets in shouting match with reporter as he defends job performance",
-          "summary": "FBI Director Kash Patel got into a shouting match with a reporter amid questions over his job performance following an explosive article from The Atlantic alleging excessive alcohol use by the director. The outlet reported that while in charge of the bureau, Patel has consumed alcohol “to the point of obvious intoxication” in front of&#8230;",
-          "link": "https://thehill.com/homenews/administration/5842202-patel-denies-intoxication-fbi/",
-          "pubDate": "Tue, 21 Apr 2026 22:30:38 +0000"
+          "title": "Wind, solar energy support slips: Survey",
+          "summary": "A new Gallup poll released Wednesday showed that support for wind and solar energy has slipped, with a majority still favoring those energy alternatives. The poll found that 66 percent of Americans prefer the U.S. to put more emphasis on solar energy and 55 percent prefer the same with wind energy. Both dropped from Gallup&#8217;s&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5843987-poll-shows-slip-in-wind-solar/",
+          "pubDate": "Wed, 22 Apr 2026 22:33:44 +0000"
         },
         {
-          "title": "Kennedy denies pressure to back off vaccines, but casts focus elsewhere",
-          "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. told Congress on Tuesday that he has not faced pressure from the White House to scale back his vaccine skepticism, even as a top Trump health adviser recognized &#8220;ongoing conversations about where to prioritize.&#8221; The denial contradicts a mounting body of reporting from sources inside&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5842160-kennedy-trump-vaccine-pressure/",
-          "pubDate": "Tue, 21 Apr 2026 22:07:50 +0000"
+          "title": "Democrats fume over lack of Oversight hearings, accusing GOP of dodging on Epstein",
+          "summary": "House Oversight Committee Democrats are fuming over Republicans’ shift away from holding formal hearings, accusing the majority of trying to dodge any further action on subpoenas in the Epstein investigation and questioning whether the order came from the White House. Instead of hearings, where witnesses are sworn in and members can make motions, the panel&#8230;",
+          "link": "https://thehill.com/homenews/house/5844128-democrats-oversight-hearings-epstein-bondi/",
+          "pubDate": "Wed, 22 Apr 2026 22:19:23 +0000"
         },
         {
-          "title": "NASA veterans launch nonprofit advocating for &#8216;rule of law&#8217;",
-          "summary": "A group of NASA veterans came together on Tuesday to launch a new nonprofit organization aimed at defending Americans’ constitutional rights. Astronauts for America is a group of over 100 former astronauts with common “patriotic, not partisan” goals, the founding members wrote in an open letter. “We are Republicans, Democrats, and Independents from many different&#8230;",
-          "link": "https://thehill.com/homenews/space/5842130-nasa-veterans-defend-constitutional-rights/",
-          "pubDate": "Tue, 21 Apr 2026 22:01:50 +0000"
+          "title": "Changes loom for National Weather Service as union official warns of potential staff cuts",
+          "summary": "The Trump administration is reorganizing the National Weather Service (NWS) and making changes to forecasting, while a key union representative warns the reorganization could involve potential staff cuts. Federal employees at the NWS’s Weather Forecast Offices, which provide people with local forecasts and severe weather warnings, have learned about impending changes to their baseline staffing&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5843925-nws-national-weather-service/",
+          "pubDate": "Wed, 22 Apr 2026 22:02:18 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Major crypto platform shuts down amid market slump",
-          "summary": "Major crypto platform shuts down amid market slump",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/major-crypto-platform-shuts-down-215000383.html",
-          "pubDate": "2026-04-20T21:50:00Z"
+          "title": "Bearish Tesla analyst has good news for Rivian stock investors",
+          "summary": "Bearish Tesla analyst has good news for Rivian stock investors",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bearish-tesla-analyst-good-news-181700034.html",
+          "pubDate": "2026-04-21T18:17:00Z"
         },
         {
-          "title": "Dear Apple Stock Fans, Mark Your Calendars for April 30",
-          "summary": "Dear Apple Stock Fans, Mark Your Calendars for April 30",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/dear-apple-stock-fans-mark-144103781.html",
-          "pubDate": "2026-04-20T14:41:03Z"
+          "title": "AI chipmaker Forge Nano to list via $1.6 billion SPAC deal",
+          "summary": "AI chipmaker Forge Nano to list via $1.6 billion SPAC deal",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ai-chipmaker-forge-nano-list-145845196.html",
+          "pubDate": "2026-04-21T14:58:45Z"
         },
         {
-          "title": "Earnings Preview: What To Expect From Amazon.com's Report",
-          "summary": "Earnings Preview: What To Expect From Amazon.com's Report",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-amazon-coms-144036169.html",
-          "pubDate": "2026-04-20T14:40:36Z"
+          "title": "The Southern Company Earnings Preview: What to Expect",
+          "summary": "The Southern Company Earnings Preview: What to Expect",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/southern-company-earnings-preview-expect-145747400.html",
+          "pubDate": "2026-04-21T14:57:47Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A bizarre new state of matter may be hiding inside Uranus and Neptune",
-          "summary": "Deep inside planets like Uranus and Neptune, scientists may have uncovered a bizarre new state of matter where atoms behave in unexpected ways. Advanced simulations suggest that carbon and hydrogen, under crushing pressures and scorching temperatures, can form a strange hybrid phase—part solid, part fluid—where hydrogen atoms spiral through a rigid carbon framework. This unusual “superionic” structure could reshape how heat and electricity flow inside these distant worlds, potentially helping explain their mysterious magnetic fields.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260421042812.htm",
-          "pubDate": "Tue, 21 Apr 2026 09:24:21 EDT"
+          "title": "Hidden virus in your gut may be linked to colon cancer",
+          "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to understanding disease risk. It may even lead to future screening tests that detect cancer risk earlier.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
+          "pubDate": "Wed, 22 Apr 2026 09:02:43 EDT"
         },
         {
-          "title": "This new camera captures what happens in a trillionth of a second",
-          "summary": "Scientists have unveiled a breakthrough imaging method that can capture the hidden details of events unfolding in trillionths of a second. This new technique doesn’t just track how bright something is—it also reveals subtle structural changes that were previously invisible, all in a single shot. By effectively turning ultrafast phenomena into detailed “movies,” researchers can now watch plasma form, electrons move, and materials transform in real time.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260421042808.htm",
-          "pubDate": "Tue, 21 Apr 2026 08:39:12 EDT"
+          "title": "A simple blood test could reveal Alzheimer’s risk years early",
+          "summary": "A routine blood marker tied to inflammation may reveal Alzheimer’s risk years in advance. Scientists found that higher neutrophil levels—part of the body’s first immune response—were linked to a greater chance of developing dementia. The discovery suggests this common lab value could help flag at-risk individuals before symptoms appear. It also raises the possibility that immune cells themselves may be fueling the disease.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260422044620.htm",
+          "pubDate": "Wed, 22 Apr 2026 08:36:23 EDT"
         },
         {
-          "title": "Scientists just captured trees glowing with electricity during storms",
-          "summary": "Scientists chasing thunderstorms in a retrofitted minivan finally captured something never seen before in nature: faint electrical glows shimmering from treetops during a storm. These “corona discharges,” long suspected but never observed outside a lab, appeared as tiny UV flashes at the tips of leaves. The discovery could reshape how we understand forests, since these bursts may help clean the air by breaking down pollutants.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260421042805.htm",
-          "pubDate": "Tue, 21 Apr 2026 10:59:05 EDT"
+          "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
+          "summary": "Scientists have discovered unexpected water-ice clouds on a distant, Jupiter-like exoplanet, challenging current atmospheric models. By directly imaging Epsilon Indi Ab with the James Webb Space Telescope, they found less ammonia than expected—likely hidden by thick, patchy clouds. The finding reveals new layers of complexity in giant planets and shows how much we still have to learn.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260422044618.htm",
+          "pubDate": "Wed, 22 Apr 2026 05:24:39 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "siteName": "Science News",
       "items": [
         {
-          "title": "‘Beyond Inheritance’ offers a new view on mutations",
-          "summary": "In her debut book, science writer Roxanne Khamsi offers a new view of mutations that’s not limited to birth and death.",
-          "link": "https://www.sciencenews.org/article/beyond-inheritance-book-khamsi-mutation",
-          "pubDate": "Tue, 21 Apr 2026 19:00:00 +0000"
+          "title": "An experimental new drug for stiff person syndrome restores mobility",
+          "summary": "CAR T cell therapy wipes out rogue antibodies' source and improves walking speed in people with the same autoimmune disorder that affects Celine Dion.",
+          "link": "https://www.sciencenews.org/article/new-drug-stiff-person-syndrome-mobility",
+          "pubDate": "Wed, 22 Apr 2026 18:00:00 +0000"
         },
         {
-          "title": "Got pesky, invasive corals? Blast ‘em away with air guns",
-          "summary": "Compressed air bids bye-bye to invasive sun corals in Brazil. The blasts obliterated soft tissue and fragments couldn't regenerate.",
-          "link": "https://www.sciencenews.org/article/invasive-sun-corals-compressed-air-guns",
-          "pubDate": "Tue, 21 Apr 2026 15:00:00 +0000"
+          "title": "Suicide deaths in U.S. teens and young adults fell after 988 launch",
+          "summary": "Suicide is a top cause of death for teens and young adults. A study finds a link between the 988 Lifeline and a drop in their suicide mortality.",
+          "link": "https://www.sciencenews.org/article/suicide-lifeline-988-teens-young-adults",
+          "pubDate": "Wed, 22 Apr 2026 15:04:17 +0000"
         },
         {
-          "title": "The Proof in the Code traces efforts to digitally verify mathematical truths",
-          "summary": "Journalist Kevin Hartnett chronicles how code-checking tools and AI are being used to tackle difficult math problems.",
-          "link": "https://www.sciencenews.org/article/the-proof-in-the-code-ai-math-book",
-          "pubDate": "Tue, 21 Apr 2026 13:00:00 +0000"
+          "title": "How climate change may increase antibiotic resistance",
+          "summary": "Rising heat and drought may spur bacteria to exchange antibiotic resistance genes, with potential risks to human health.",
+          "link": "https://www.sciencenews.org/article/climate-change-increase-antibiotic-resistance",
+          "pubDate": "Wed, 22 Apr 2026 15:00:00 +0000"
         }
       ]
     }
