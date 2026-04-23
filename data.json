@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-22T23:00:10.626Z",
-  "date": "2026-04-23",
+  "lastUpdate": "2026-04-23T23:00:20.415Z",
+  "date": "2026-04-24",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
-          "summary": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
-          "link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
-          "pubDate": "Wed, 22 Apr 2026 22:11:15 +0000"
+          "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+          "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+          "link": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+          "pubDate": "Thu, 23 Apr 2026 22:00:00 +0000"
         },
         {
-          "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
-          "summary": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
-          "link": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
-          "pubDate": "Wed, 22 Apr 2026 21:49:19 +0000"
+          "title": "Rednote Draws a Line Between China and the World",
+          "summary": "As the platform expands abroad, it’s taking steps to separate Chinese users from the international audiences it once brought together.",
+          "link": "https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/",
+          "pubDate": "Thu, 23 Apr 2026 20:23:48 +0000"
         },
         {
-          "title": "Cocaine-Fueled Wild Salmon Swam Twice as Far as Sober Ones",
-          "summary": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
-          "link": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
-          "pubDate": "Wed, 22 Apr 2026 21:34:03 +0000"
+          "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+          "summary": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+          "pubDate": "Thu, 23 Apr 2026 19:26:11 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Google updates Workspace to make AI your new office intern",
-          "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-          "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-          "pubDate": "Wed, 22 Apr 2026 22:44:26 +0000"
+          "title": "Redwood Materials loses COO amid layoffs, restructuring",
+          "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
+          "link": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+          "pubDate": "Thu, 23 Apr 2026 22:44:12 +0000"
         },
         {
-          "title": "Elon Musk admits millions of Tesla owners need upgrades for true &#8216;Full Self-Driving&#8217;",
-          "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
-          "link": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
-          "pubDate": "Wed, 22 Apr 2026 22:39:58 +0000"
+          "title": "These are the countries moving to ban social media for children",
+          "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+          "link": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+          "pubDate": "Thu, 23 Apr 2026 21:33:51 +0000"
         },
         {
-          "title": "Hands on with X&#8217;s new AI-powered custom feeds",
-          "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-          "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-          "pubDate": "Wed, 22 Apr 2026 22:25:53 +0000"
+          "title": "Bret Taylor&#8217;s Sierra buys YC-backed AI startup Fragment",
+          "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+          "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+          "pubDate": "Thu, 23 Apr 2026 21:00:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-          "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
-          "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 22 Apr 2026 16:19:36 GMT"
+          "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+          "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+          "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 23 Apr 2026 17:36:11 GMT"
         },
         {
-          "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-          "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
-          "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 22 Apr 2026 18:10:42 GMT"
+          "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+          "summary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+          "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 23 Apr 2026 20:45:51 GMT"
         },
         {
-          "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
-          "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
-          "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 22 Apr 2026 17:04:33 GMT"
+          "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+          "summary": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.",
+          "link": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 23 Apr 2026 16:52:44 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Bessent says &apos;many&apos; U.S. allies have asked for currency swaps amid Iran war turbulence",
-          "summary": "The White House on Tuesday said the UAE had not requested a currency swap line.",
-          "link": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html",
-          "pubDate": "Wed, 22 Apr 2026 18:46:20 GMT"
+          "title": "NYC Mayor Mamdani knocked Ken Griffin in pied-a-terre tax promo. His firm calls the move &apos;shameful&apos;",
+          "summary": "Chief Operating Officer Gerald Beeson saying in a memo that targeting Griffin showed \"ignorance and disdain\" toward contributors to the city's economy.",
+          "link": "https://www.cnbc.com/2026/04/23/nyc-mayor-mamdani-knocked-ken-griffin-in-pied-a-terre-tax-promo-his-firm-calls-the-move-shameful.html",
+          "pubDate": "Thu, 23 Apr 2026 20:46:42 GMT"
         },
         {
-          "title": "Trump administration discussing currency swap line with United Arab Emirates",
-          "summary": "Such a move would provide liquidity in dollars to the oil-rich UAE, but could be politically tenuous for the administration amid higher prices at home.",
-          "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html",
-          "pubDate": "Tue, 21 Apr 2026 22:09:55 GMT"
+          "title": "Traders are betting on big moves in Intel on earnings",
+          "summary": "Semiconductor stocks are powering the U.S. equity market to records and traders are predicting that means a big swing in shares of Intel after earnings tonight.",
+          "link": "https://www.cnbc.com/2026/04/23/traders-are-betting-on-big-moves-in-intel-on-earnings.html",
+          "pubDate": "Thu, 23 Apr 2026 17:59:29 GMT"
         },
         {
-          "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
-          "summary": "Volkswagen revealed four cars, including the ID. UNYX 09, which the company said it co-developed with EV maker Xpeng in two years.",
-          "link": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
-          "pubDate": "Wed, 22 Apr 2026 22:41:21 GMT"
+          "title": "Risky meme trading is back. A trading rule change may have lit the fuse",
+          "summary": "A regulatory shift is expected to remove barriers to rapid-fire trading and help revive a meme-stock frenzy.",
+          "link": "https://www.cnbc.com/2026/04/23/risky-meme-trading-is-back-a-trading-rule-change-may-have-lit-the-fuse.html",
+          "pubDate": "Thu, 23 Apr 2026 17:15:49 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Wind, solar energy support slips: Survey",
-          "summary": "A new Gallup poll released Wednesday showed that support for wind and solar energy has slipped, with a majority still favoring those energy alternatives. The poll found that 66 percent of Americans prefer the U.S. to put more emphasis on solar energy and 55 percent prefer the same with wind energy. Both dropped from Gallup&#8217;s&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5843987-poll-shows-slip-in-wind-solar/",
-          "pubDate": "Wed, 22 Apr 2026 22:33:44 +0000"
+          "title": "Trump announces Israel-Lebanon 3-week ceasefire extension",
+          "summary": "President Trump announced Thursday that the U.S.-brokered ceasefire between Israel and Lebanon will be extended by three weeks following talks at the White House. Trump posted news of the extension on Truth Social following a meeting at the White House that included “high ranking” representatives from Israel and Lebanon in addition to Vice President Vance,&#8230;",
+          "link": "https://thehill.com/policy/international/5846415-israel-lebanon-ceasefire-trump-extension/",
+          "pubDate": "Thu, 23 Apr 2026 22:30:10 +0000"
         },
         {
-          "title": "Democrats fume over lack of Oversight hearings, accusing GOP of dodging on Epstein",
-          "summary": "House Oversight Committee Democrats are fuming over Republicans’ shift away from holding formal hearings, accusing the majority of trying to dodge any further action on subpoenas in the Epstein investigation and questioning whether the order came from the White House. Instead of hearings, where witnesses are sworn in and members can make motions, the panel&#8230;",
-          "link": "https://thehill.com/homenews/house/5844128-democrats-oversight-hearings-epstein-bondi/",
-          "pubDate": "Wed, 22 Apr 2026 22:19:23 +0000"
+          "title": "Lutnick says Trump&#8217;s &#8216;Gold Card&#8217; visa approved for 1 person so far",
+          "summary": "Commerce Secretary Howard Lutnick on Thursday said only one person had been approved for President Trump’s $1 million “Gold Card” visa that offers an expedited pathway to U.S. citizenship. “They have approved, recently, one person, and there are hundreds in the queue,&#8221; the Commerce secretary said during testimony before the House Appropriations Committee. &#8220;They wanted&#8230;",
+          "link": "https://thehill.com/homenews/administration/5846425-gold-card-visa-trump-administration/",
+          "pubDate": "Thu, 23 Apr 2026 22:26:00 +0000"
         },
         {
-          "title": "Changes loom for National Weather Service as union official warns of potential staff cuts",
-          "summary": "The Trump administration is reorganizing the National Weather Service (NWS) and making changes to forecasting, while a key union representative warns the reorganization could involve potential staff cuts. Federal employees at the NWS’s Weather Forecast Offices, which provide people with local forecasts and severe weather warnings, have learned about impending changes to their baseline staffing&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5843925-nws-national-weather-service/",
-          "pubDate": "Wed, 22 Apr 2026 22:02:18 +0000"
+          "title": "Soldier in Maduro raid charged over prediction market bets on operation: DOJ",
+          "summary": "A U.S. Army soldier has been accused of using classified information about the military operation to capture Venezuelan President Nicolás Maduro to place bets on the prediction market Polymarket, federal officials said Thursday. Gannon Ken Van Dyke, a soldier stationed at Fort Bragg who was involved in the planning of the operation,&#160;was charged with using confidential government information&#8230;",
+          "link": "https://thehill.com/business/5846393-solider-in-maduro-raid-charged-over-prediction-market-bets-on-operation-doj/",
+          "pubDate": "Thu, 23 Apr 2026 22:18:31 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Bearish Tesla analyst has good news for Rivian stock investors",
-          "summary": "Bearish Tesla analyst has good news for Rivian stock investors",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bearish-tesla-analyst-good-news-181700034.html",
-          "pubDate": "2026-04-21T18:17:00Z"
+          "title": "Cathie Wood buys $900,000 of surging megacap stock",
+          "summary": "Cathie Wood buys $900,000 of surging megacap stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-900-000-021700179.html",
+          "pubDate": "2026-04-23T02:17:00Z"
         },
         {
-          "title": "AI chipmaker Forge Nano to list via $1.6 billion SPAC deal",
-          "summary": "AI chipmaker Forge Nano to list via $1.6 billion SPAC deal",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ai-chipmaker-forge-nano-list-145845196.html",
-          "pubDate": "2026-04-21T14:58:45Z"
+          "title": "DQS nets contract logistics provider in latest acquisition",
+          "summary": "DQS nets contract logistics provider in latest acquisition",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/dqs-nets-contract-logistics-provider-151957043.html",
+          "pubDate": "2026-04-22T15:19:57Z"
         },
         {
-          "title": "The Southern Company Earnings Preview: What to Expect",
-          "summary": "The Southern Company Earnings Preview: What to Expect",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/southern-company-earnings-preview-expect-145747400.html",
-          "pubDate": "2026-04-21T14:57:47Z"
+          "title": "The Iran War Has Made Oil Prices a Moving Target. That’s Why This ETF and Option Combination Makes Sense.",
+          "summary": "The Iran War Has Made Oil Prices a Moving Target. That’s Why This ETF and Option Combination Makes Sense.",
+          "link": "https://finance.yahoo.com/markets/options/articles/iran-war-made-oil-prices-151331998.html",
+          "pubDate": "2026-04-22T15:13:31Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Hidden virus in your gut may be linked to colon cancer",
-          "summary": "A newly discovered virus hiding inside a common gut bacterium could help explain one of medicine’s long-standing mysteries: why a microbe found in both healthy people and cancer patients is linked to colorectal cancer. The research suggests that the interaction between bacteria and the viruses they carry may be key to understanding disease risk. It may even lead to future screening tests that detect cancer risk earlier.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260422044630.htm",
-          "pubDate": "Wed, 22 Apr 2026 09:02:43 EDT"
+          "title": "For the first time, scientists pinpoint the brain cells behind depression",
+          "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
+          "pubDate": "Thu, 23 Apr 2026 05:55:24 EDT"
         },
         {
-          "title": "A simple blood test could reveal Alzheimer’s risk years early",
-          "summary": "A routine blood marker tied to inflammation may reveal Alzheimer’s risk years in advance. Scientists found that higher neutrophil levels—part of the body’s first immune response—were linked to a greater chance of developing dementia. The discovery suggests this common lab value could help flag at-risk individuals before symptoms appear. It also raises the possibility that immune cells themselves may be fueling the disease.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260422044620.htm",
-          "pubDate": "Wed, 22 Apr 2026 08:36:23 EDT"
+          "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+          "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
+          "pubDate": "Thu, 23 Apr 2026 07:46:30 EDT"
         },
         {
-          "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
-          "summary": "Scientists have discovered unexpected water-ice clouds on a distant, Jupiter-like exoplanet, challenging current atmospheric models. By directly imaging Epsilon Indi Ab with the James Webb Space Telescope, they found less ammonia than expected—likely hidden by thick, patchy clouds. The finding reveals new layers of complexity in giant planets and shows how much we still have to learn.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260422044618.htm",
-          "pubDate": "Wed, 22 Apr 2026 05:24:39 EDT"
+          "title": "Simple “gut reset” may stop weight gain after Ozempic or Wegovy",
+          "summary": "A new minimally invasive procedure may help people keep weight off after stopping popular drugs like Ozempic and semaglutide—something most patients struggle with. In a clinical trial, those who underwent a technique called duodenal mucosal resurfacing regained far less weight compared to others after discontinuing the medication. The procedure works by renewing the lining of the upper small intestine, potentially “resetting” metabolism and preserving the benefits of weight loss.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260423022002.htm",
+          "pubDate": "Thu, 23 Apr 2026 02:45:11 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "siteName": "Science News",
       "items": [
         {
-          "title": "An experimental new drug for stiff person syndrome restores mobility",
-          "summary": "CAR T cell therapy wipes out rogue antibodies' source and improves walking speed in people with the same autoimmune disorder that affects Celine Dion.",
-          "link": "https://www.sciencenews.org/article/new-drug-stiff-person-syndrome-mobility",
-          "pubDate": "Wed, 22 Apr 2026 18:00:00 +0000"
+          "title": "Giant, kraken-like octopuses may have ruled the Cretaceous deep",
+          "summary": "Some octopuses that lived over 72 million years ago were as long as whales. These huge predators may have been the largest invertebrates ever.",
+          "link": "https://www.sciencenews.org/article/kraken-octopus-largest-invertebrate",
+          "pubDate": "Thu, 23 Apr 2026 18:00:00 +0000"
         },
         {
-          "title": "Suicide deaths in U.S. teens and young adults fell after 988 launch",
-          "summary": "Suicide is a top cause of death for teens and young adults. A study finds a link between the 988 Lifeline and a drop in their suicide mortality.",
-          "link": "https://www.sciencenews.org/article/suicide-lifeline-988-teens-young-adults",
-          "pubDate": "Wed, 22 Apr 2026 15:04:17 +0000"
+          "title": "Clouds of water ice thread stellar nurseries in the Milky Way",
+          "summary": "NASA’s SPHEREx mapped water ice across vast regions of the galaxy, confirming that an essential molecule for life on Earth abounds in space.",
+          "link": "https://www.sciencenews.org/article/water-ice-stellar-nurseries-galaxy",
+          "pubDate": "Thu, 23 Apr 2026 17:00:00 +0000"
         },
         {
-          "title": "How climate change may increase antibiotic resistance",
-          "summary": "Rising heat and drought may spur bacteria to exchange antibiotic resistance genes, with potential risks to human health.",
-          "link": "https://www.sciencenews.org/article/climate-change-increase-antibiotic-resistance",
-          "pubDate": "Wed, 22 Apr 2026 15:00:00 +0000"
+          "title": "Some plants can feed on dust that lands on their leaves",
+          "summary": "A new study offers evidence from natural shrubland that leaves, not just roots, can take up nutrients from deposited dust.",
+          "link": "https://www.sciencenews.org/article/plants-feed-dust-leaves",
+          "pubDate": "Thu, 23 Apr 2026 14:30:00 +0000"
         }
       ]
     }
