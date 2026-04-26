@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-25T23:00:28.176Z",
-  "date": "2026-04-26",
+  "lastUpdate": "2026-04-26T23:00:23.921Z",
+  "date": "2026-04-27",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Best Apps for Focus (2026): Focus Friend, Forest, Focus Traveller",
-          "summary": "Distractions? What distractions? Here are our recommendations for apps that help you stay focused on the task at hand.",
-          "link": "https://www.wired.com/story/3-focus-timer-apps-focus-friend-forest-focus-traveller/",
-          "pubDate": "Sat, 25 Apr 2026 11:30:00 +0000"
+          "title": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents’ Dinner Shooting",
+          "summary": "The word “staged” exploded on social media following the attack, as both right- and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.",
+          "link": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
+          "pubDate": "Sun, 26 Apr 2026 14:43:47 +0000"
         },
         {
-          "title": "‘Saros’ Shows Off the PS5’s DualSense Tricks",
-          "summary": "The new game from the creators of Returnal goes all-in on the PlayStation’s haptics and 3D audio. Maybe it will catch on with other game developers.",
-          "link": "https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/",
-          "pubDate": "Sat, 25 Apr 2026 10:30:00 +0000"
+          "title": "The Best Kindle Accessories (2026): Cases, Page Turners, Stickers",
+          "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and even charms, this is the guide for you.",
+          "link": "https://www.wired.com/story/best-kindle-accessories/",
+          "pubDate": "Sun, 26 Apr 2026 11:34:00 +0000"
         },
         {
-          "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-          "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-          "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-          "pubDate": "Sat, 25 Apr 2026 10:30:00 +0000"
+          "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+          "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+          "link": "https://www.wired.com/story/best-smart-bird-feeders/",
+          "pubDate": "Sun, 26 Apr 2026 11:04:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-          "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-          "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-          "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000"
+          "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
+          "summary": "Can a book like this actually change anything? Or does the spotlight, as it always seems to, send more students racing to the place?",
+          "link": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
+          "pubDate": "Sun, 26 Apr 2026 22:00:46 +0000"
         },
         {
-          "title": "Maine&#8217;s governor vetoes data center moratorium",
-          "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-          "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-          "pubDate": "Sat, 25 Apr 2026 20:57:08 +0000"
+          "title": "Amazon’s new podcast strategy: Monetize everything",
+          "summary": "Amazon's podcasting business seems to have transformed over the past six months.",
+          "link": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
+          "pubDate": "Sun, 26 Apr 2026 21:38:08 +0000"
         },
         {
-          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-          "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-          "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-          "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000"
+          "title": "What Tim Cook built",
+          "summary": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing.",
+          "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+          "pubDate": "Sun, 26 Apr 2026 20:22:51 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "BBC世界",
       "items": [
+        {
+          "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+          "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+          "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 26 Apr 2026 22:43:36 GMT"
+        },
+        {
+          "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+          "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+          "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 26 Apr 2026 04:22:59 GMT"
+        },
         {
           "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
           "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
           "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&amp;at_campaign=rss",
           "pubDate": "Sat, 25 Apr 2026 21:34:12 GMT"
-        },
-        {
-          "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
-          "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
-          "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 25 Apr 2026 21:13:49 GMT"
-        },
-        {
-          "title": "Mexico says US agents killed in crash weren't permitted to operate there",
-          "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
-          "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 25 Apr 2026 17:40:51 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "National Science Board members told by Trump administration they were terminated: Report",
-          "summary": "The Trump administration on Friday told several scientists on the National Science Foundation&#8217;s (NSF) board that they were terminated from their roles, The Washington Post reported. The White House Presidential Personnel Office&#8217;s message to members of the National Science Board thanked them for their service, according to screenshots shared with the outlet. &#8220;On behalf of&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5849158-national-science-board-members-terminated-trump/",
-          "pubDate": "Sat, 25 Apr 2026 22:06:07 +0000"
+          "title": "&#8216;Upward pressure&#8217; on oil prices amid Iran war &#8216;likely to continue&#8217;: Chevron CEO",
+          "summary": "Chevron CEO Mike Wirth said in a Sunday interview that “upward pressure” on oil prices amid the U.S. conflict in Iran is “likely to continue,&#8221; as the war stretches into its second full month. “We&#8217;re in a period where there&#8217;s been significant supply taken out of the system, and we are facing this upward pressure&#8230;",
+          "link": "https://thehill.com/business/5850281-chevron-ceo-warns-oil-prices/",
+          "pubDate": "Sun, 26 Apr 2026 22:44:24 +0000"
         },
         {
-          "title": "Trump tells reporters US received new proposal from Iran after trip cancellation",
-          "summary": "President Trump said his administration received a new proposal from Iran after he canceled a U.S. delegation’s trip to Islamabad for a second round of peace deal talks.&#160;&#160; “They gave us a paper that should have been better. And interestingly, immediately, when I canceled it, within 10 minutes, we got a new paper that was&#8230;",
-          "link": "https://thehill.com/homenews/administration/5849180-trump-tells-reporters-us-received-new-proposal-from-iran-after-trip-cancellation/",
-          "pubDate": "Sat, 25 Apr 2026 21:42:30 +0000"
+          "title": "Chevron CEO: Aviation industry issues will &#8216;probably get worse&#8217; amid Iran war",
+          "summary": "Mike Wirth, the CEO of Chevron, predicted Sunday that the aviation industry will continue to suffer from jet fuel shortages arising from Iranian restrictions on shipping through the Strait of Hormuz. “Inventories of jet fuel in certain parts of the world were at seasonally, relatively low levels before the conflict began. The Middle East refiners&#8230;",
+          "link": "https://thehill.com/policy/transportation/5850246-chevron-ceo-predicts-jet-fuel-crisis/",
+          "pubDate": "Sun, 26 Apr 2026 22:09:37 +0000"
         },
         {
-          "title": "Sunday shows preview: Iran war deal prospects uncertain after Trump calls off talks",
-          "summary": "President Trump called off a second round of peace talks with Iran on Saturday, the day U.S. officials were set to travel to Islamabad for negotiations.&#160; Iranian officials met with Pakistani mediators on Saturday morning for “a very fruitful visit,” according to Iranian Foreign Minister Abbas Araghchi.&#160; The foreign minister said his government has “yet&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5849142-sunday-shows-preview-iran-war-deal-prospects-uncertain-after-trump-calls-off-talks/",
-          "pubDate": "Sat, 25 Apr 2026 21:09:27 +0000"
+          "title": "House Republican calls for Congress to take &#8216;better steps&#8217; to address security after WHCA gala shooting",
+          "summary": "Rep. Abe Hamadeh (R-Ariz.) said Sunday that Congress should take “better steps” to address lawmaker security in the wake of the shooting at the White House Correspondents&#8217; Association (WHCA) dinner. “I do,” Hamadeh told host Chris Stirewalt on NewsNation’s “The Hill Sunday,” when the latter asked whether the legislative branch “should be doing something different”&#8230;",
+          "link": "https://thehill.com/homenews/house/5850215-lawmaker-security-whca-dinner-shooting/",
+          "pubDate": "Sun, 26 Apr 2026 21:20:10 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Big Four accounting chooses AI over humans, cuts benefits & hiring",
-          "summary": "Big Four accounting chooses AI over humans, cuts benefits & hiring",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/big-four-accounting-chooses-ai-223954685.html",
-          "pubDate": "2026-04-24T22:39:54Z"
+          "title": "American Express, Chase set a new precedent for credit card fees",
+          "summary": "American Express, Chase set a new precedent for credit card fees",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/american-express-chase-set-precedent-144700033.html",
+          "pubDate": "2026-04-26T14:47:00Z"
         },
         {
-          "title": "Jay Leno hops into a 1930 Duesenberg to help sell almost $400M in bonds to pay for Burbank airport terminal project",
-          "summary": "Jay Leno hops into a 1930 Duesenberg to help sell almost $400M in bonds to pay for Burbank airport terminal project",
-          "link": "https://finance.yahoo.com/economy/policy/articles/jay-leno-hops-1930-duesenberg-213500614.html",
-          "pubDate": "2026-04-25T21:35:00Z"
+          "title": "Dow Jones Futures Fall, Oil Prices Rise As Iran Talks Shelved; Apple, Amazon, Google Lead Earnings",
+          "summary": "Dow Jones Futures Fall, Oil Prices Rise As Iran Talks Shelved; Apple, Amazon, Google Lead Earnings",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-04-26T22:37:53Z"
         },
         {
-          "title": "Snap (SNAP) Appoints Doug Hott as New CFO",
-          "summary": "Snap (SNAP) Appoints Doug Hott as New CFO",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-appoints-doug-hott-210711784.html",
-          "pubDate": "2026-04-25T21:07:11Z"
+          "title": "Meta Platforms (META) Partners With CBRE to Train Fiber Technicians",
+          "summary": "Meta Platforms (META) Partners With CBRE to Train Fiber Technicians",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-partners-cbre-223308140.html",
+          "pubDate": "2026-04-26T22:33:08Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
-          "summary": "A gut bacterium may be quietly fueling depression through an unexpected chemical twist. Researchers found that when Morganella morganii interacts with a common pollutant, it produces a molecule that triggers inflammation—something strongly linked to depression. This finding helps explain how gut microbes can influence brain health at a molecular level. It also raises the possibility of new treatments that target the immune system rather than just the brain.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260425091216.htm",
-          "pubDate": "Sat, 25 Apr 2026 11:39:01 EDT"
+          "title": "Fish oil may be hurting your brain, new study finds",
+          "summary": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty acid in fish oil—EPA—may actually interfere with the brain’s ability to repair itself. Instead of helping recovery, it appears to weaken blood vessel stability, disrupt healing signals, and even contribute to harmful protein buildup linked to cognitive decline.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+          "pubDate": "Sun, 26 Apr 2026 01:57:51 EDT"
         },
         {
-          "title": "Gravitational waves may have created dark matter in the early universe",
-          "summary": "In the chaotic first moments after the Big Bang, ripples in spacetime may have done more than just echo through the cosmos—they could have helped create dark matter itself. New research suggests that faint, ancient gravitational waves might have transformed into particles that eventually became the invisible substance shaping galaxies today.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260424233217.htm",
-          "pubDate": "Sat, 25 Apr 2026 10:16:00 EDT"
+          "title": "Blood vessels found in T. rex bones are rewriting dinosaur science",
+          "summary": "Dinosaur DNA may still be out of reach, but scientists are uncovering something almost as exciting—ancient blood vessels hidden inside fossilized bones. In a massive Tyrannosaurus rex nicknamed Scotty, researchers discovered a network of preserved vessels within a rib that once fractured and began healing 66 million years ago. Using powerful synchrotron X-rays from particle accelerators, they were able to peer inside the dense fossil without damaging it, revealing intricate, iron-rich structures left behind by the healing process.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260426012259.htm",
+          "pubDate": "Sun, 26 Apr 2026 07:44:57 EDT"
         },
         {
-          "title": "New “optical tornado” technology could transform quantum communication",
-          "summary": "Scientists have created tiny “optical tornadoes” — swirling beams of light that twist like miniature whirlwinds — using a surprisingly simple setup based on liquid crystals. Instead of relying on complex nanotechnology, the team used self-organizing structures called torons to trap and manipulate light, causing it to spiral and rotate in intricate ways. Even more impressively, they achieved this effect in light’s most stable, lowest-energy state, making it far easier to generate laser-like beams with these unusual properties.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260424233215.htm",
-          "pubDate": "Sat, 25 Apr 2026 11:27:49 EDT"
+          "title": "DNA research just rewrote the origin of human species",
+          "summary": "Scientists have uncovered a surprising new picture of human origins that challenges the long-held idea of a single ancestral population in Africa. By analyzing genetic data from diverse modern African groups—especially the highly distinct Nama people—and comparing it with fossil evidence, researchers found that early humans likely evolved from multiple intermingling populations over hundreds of thousands of years. Rather than a clean split, these groups stayed connected, exchanging genes even after beginning to diverge around 120,000–135,000 years ago.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260426012255.htm",
+          "pubDate": "Sun, 26 Apr 2026 06:53:10 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "siteName": "Science News",
       "items": [
         {
