@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-27T23:00:38.229Z",
-  "date": "2026-04-28",
+  "lastUpdate": "2026-04-28T23:00:23.605Z",
+  "date": "2026-04-29",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The M5 MacBook Air Has Never Been Cheaper",
-          "summary": "Despite launching less than two months ago, the M5 MacBook Air has dropped back down to its lowest price since launching.",
-          "link": "https://www.wired.com/story/m5-macbook-air-never-been-cheaper/",
-          "pubDate": "Mon, 27 Apr 2026 20:27:01 +0000"
+          "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+          "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
+          "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
+          "pubDate": "Tue, 28 Apr 2026 21:35:17 +0000"
         },
         {
-          "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-          "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
-          "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
-          "pubDate": "Mon, 27 Apr 2026 20:08:51 +0000"
+          "title": "Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App",
+          "summary": "Tinder and Hinge parent company Match Group invested $100 million into the queer cruising app Sniffies. The move has left users feeling uneasy about what happens next.",
+          "link": "https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/",
+          "pubDate": "Tue, 28 Apr 2026 20:25:33 +0000"
         },
         {
-          "title": "Cole Allen Charged With Attempting to Assassinate Trump",
-          "summary": "The suspected shooter at Saturday night’s White House Correspondents’ Dinner faces three felony charges. He remains in custody following Monday’s hearing.",
-          "link": "https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/",
-          "pubDate": "Mon, 27 Apr 2026 19:07:34 +0000"
+          "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+          "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+          "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+          "pubDate": "Tue, 28 Apr 2026 18:36:47 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
-          "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
-          "link": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
-          "pubDate": "Mon, 27 Apr 2026 20:37:49 +0000"
+          "title": "Amazon is already offering new OpenAI products on AWS",
+          "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+          "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+          "pubDate": "Tue, 28 Apr 2026 19:48:02 +0000"
         },
         {
-          "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
-          "summary": "The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
-          "link": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
-          "pubDate": "Mon, 27 Apr 2026 19:09:53 +0000"
+          "title": "Amazon launches an AI-powered audio Q&#038;A experience on product pages",
+          "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+          "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+          "pubDate": "Tue, 28 Apr 2026 18:49:54 +0000"
         },
         {
-          "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-          "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-          "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-          "pubDate": "Mon, 27 Apr 2026 17:40:38 +0000"
+          "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
+          "summary": "The app is Match Group's newest attempt to get mobile users excited about online romance again.",
+          "link": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
+          "pubDate": "Tue, 28 Apr 2026 18:16:54 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
-          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
-          "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 27 Apr 2026 21:14:23 GMT"
+          "title": "Comey charged with threatening Trump's life in Instagram post",
+          "summary": "The charge stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
+          "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 28 Apr 2026 22:51:58 GMT"
         },
         {
-          "title": "Trump says King will be 'very safe' during US visit after security talks",
-          "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
-          "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 27 Apr 2026 09:19:11 GMT"
+          "title": "United Arab Emirates to quit oil cartel Opec",
+          "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
+          "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 28 Apr 2026 16:24:45 GMT"
         },
         {
-          "title": "Pakistan accused of attacking Afghan university",
-          "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
-          "link": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 27 Apr 2026 16:54:13 GMT"
+          "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+          "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+          "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 28 Apr 2026 19:43:02 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Ray Dalio says Kevin Warsh shouldn&apos;t cut interest rates in a ‘stagflation’ era",
-          "summary": "Dalio said that if Kevin Warsh were to cut rates, it would risk damaging confidence in the central bank at a critical moment.",
-          "link": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html",
-          "pubDate": "Mon, 27 Apr 2026 18:36:16 GMT"
+          "title": "Here&apos;s everything to expect when the Fed issues its latest interest rate decision Wednesday",
+          "summary": "In what could be Jerome Powell's final meeting as Fed chair, he and his fellow policymakers are likely to continue their cautious approach.",
+          "link": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
+          "pubDate": "Tue, 28 Apr 2026 20:15:32 GMT"
         },
         {
-          "title": "This bank CEO let his AI clone handle an earnings call — now he&apos;s signing an OpenAI deal",
-          "summary": "It's part of Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce",
-          "link": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
-          "pubDate": "Mon, 27 Apr 2026 18:45:54 GMT"
+          "title": "Jamie Dimon warns of &apos;some kind of bond crisis&apos; ahead as global debt risks build",
+          "summary": "Dimon, who runs JPMorgan Chase, the world's largest bank by market cap, said that today's growing mix of risks could combine in unpredictable ways.",
+          "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
+          "pubDate": "Tue, 28 Apr 2026 18:44:41 GMT"
         },
         {
-          "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
-          "summary": "The Breakwave Tanker Shipping ETF (BWET) has surged more than 600% since the beginning of the year, vastly outperforming crude oil and energy stocks.",
-          "link": "https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html",
-          "pubDate": "Sat, 25 Apr 2026 11:53:07 GMT"
+          "title": "Meta shares look &apos;iffy&apos; into earnings. How to trade it",
+          "summary": "Meta heads into earnings Wednesday after the bell with the fundamentals case largely intact. But the technicals are a bit shaky.",
+          "link": "https://www.cnbc.com/2026/04/28/meta-shares-look-iffy-into-earnings-how-to-trade-it.html",
+          "pubDate": "Tue, 28 Apr 2026 15:53:55 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Georgia governor candidates clash in debates as early voting starts",
-          "summary": "Candidates for governor in Georgia faced off Monday in a pair of party debates as early voting kicked off in the Peach State. On the Republican stage at the Atlanta Press Club, billionaire Rick Jackson was put on defense as the crowded field of rivals traded jabs. In the Democrats’ showdown, candidates pitched plans to&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5851782-georgia-governor-debate-early-voting-jackson-jones-raffensperger/",
-          "pubDate": "Mon, 27 Apr 2026 22:25:14 +0000"
+          "title": "Live updates: Trump hosts state dinner after King Charles&#8217;s historic remarks; DOJ indicts Comey",
+          "summary": "King Charles III addressed a joint meeting of Congress on Tuesday, expressing &#8220;the highest regard and friendship of the British people, to the people of the United States.&#8221; His remarks were notably political in spots, calling for help in Ukraine, for the climate and noting the checks and balances built into the U.S. government. Here&#8230;",
+          "link": "https://thehill.com/homenews/administration/5851618-live-updates-trump-dhs-fisa-uk-royal-family/",
+          "pubDate": "Tue, 28 Apr 2026 22:30:30 +0000"
         },
         {
-          "title": "Johnson says he has &#8216;modified&#8217; version of Senate DHS bipartisan bill",
-          "summary": "Speaker Mike Johnson (R-La.) said Monday that a bipartisan Senate bill to fund most of the Department of Homeland Security (DHS) includes “problematic” language and added that he has a “modified” version of the measure. The Senate bill, which was passed earlier this month, is part of a two-step process aimed at ending the record-breaking&#8230;",
-          "link": "https://thehill.com/homenews/house/5851779-johnson-modifies-dhs-bill/",
-          "pubDate": "Mon, 27 Apr 2026 22:20:01 +0000"
+          "title": "FCC ordering review of Disney broadcast station licenses",
+          "summary": "The FCC is ordering an early review of the broadcast licenses of several local television stations owned and operated by Disney, the sprawling media and entertainment conglomerate that owns ABC. In a filing made on Tuesday, the department confirmed it had been conducting an investigation into Disney&#8217;s diversity, equity and inclusion practices and was kicking&#8230;",
+          "link": "https://thehill.com/homenews/media/5854049-fcc-ordering-review-of-disney-broadcast-station-licenses/",
+          "pubDate": "Tue, 28 Apr 2026 22:29:44 +0000"
         },
         {
-          "title": "Hegseth&#8217;s Pentagon turmoil makes GOP senators uneasy",
-          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} View Online Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Hegseth&#8217;s Pentagon turmoil makes GOP senators uneasy A growing group of Senate Republicans are losing confidence in Defense Secretary Pete Hegseth&#8217;s Pentagon leadership, with some wanting to see him “move on.&#8221; Annabelle Gordon/AFP via&#8230;",
-          "link": "https://thehill.com/homenews/5851763-senate-republicans-question-hegseth/",
-          "pubDate": "Mon, 27 Apr 2026 22:04:53 +0000"
+          "title": "Heat rises on Hegseth ahead of back-to-back hearings",
+          "summary": "Republican lawmakers will get their chance to air out frustrations with the Trump administration’s handling of the Iran war and a string of high-profile Pentagon firings when Defense Secretary Pete Hegseth makes back-to-back public appearances on Capitol Hill this week. Hegseth will go before the House Armed Services Committee on Wednesday — his first testimony&#8230;",
+          "link": "https://thehill.com/policy/defense/5854051-hegseth-hearings-gop-concerns/",
+          "pubDate": "Tue, 28 Apr 2026 22:19:13 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "AT&T CEO hopes new offers will restore customer loyalty",
-          "summary": "AT&T CEO hopes new offers will restore customer loyalty",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/t-hopes-latest-strategy-slow-170700426.html",
-          "pubDate": "2026-04-26T17:07:00Z"
+          "title": "'Shark Tank' Star Kevin O' Leary Spends $1000 A Day on Meals – But Says If You're 'Smart,' Don't Spend More Than 10% Of Bi-Weekly Paycheck On Dining",
+          "summary": "'Shark Tank' Star Kevin O' Leary Spends $1000 A Day on Meals – But Says If You're 'Smart,' Don't Spend More Than 10% Of Bi-Weekly Paycheck On Dining",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/shark-tank-star-kevin-o-144605755.html",
+          "pubDate": "2026-04-27T14:46:05Z"
         },
         {
-          "title": "Public Service Enterprise Group (PEG) Declares Dividend of $0.67 per Share",
-          "summary": "Public Service Enterprise Group (PEG) Declares Dividend of $0.67 per Share",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/public-enterprise-group-peg-declares-141844973.html",
-          "pubDate": "2026-04-26T14:18:44Z"
+          "title": "How Nvidia Stock Could Be the Biggest Loser From the SpaceX IPO",
+          "summary": "How Nvidia Stock Could Be the Biggest Loser From the SpaceX IPO",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-could-biggest-loser-144344837.html",
+          "pubDate": "2026-04-27T14:43:44Z"
         },
         {
-          "title": "NRC Renews License for Duke Energy’s Robinson Nuclear Plant",
-          "summary": "NRC Renews License for Duke Energy’s Robinson Nuclear Plant",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/nrc-renews-license-duke-energy-141832333.html",
-          "pubDate": "2026-04-26T14:18:32Z"
+          "title": "As Intel Triggers a Major Rally in Semiconductor Companies, DA Davidson Hikes Its AMD Stock Price Target by More Than 70%",
+          "summary": "As Intel Triggers a Major Rally in Semiconductor Companies, DA Davidson Hikes Its AMD Stock Price Target by More Than 70%",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-triggers-major-rally-semiconductor-144754958.html",
+          "pubDate": "2026-04-27T14:47:54Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "This hidden kind of stress may be damaging your memory as you age",
-          "summary": "A new study reveals that internalizing stress—especially feelings of hopelessness—may significantly speed up memory decline in older Chinese Americans. Surprisingly, factors like community support didn’t show the same impact. Researchers say cultural pressures and stereotypes may cause emotional struggles to go unnoticed and untreated. The findings suggest that targeted, culturally sensitive stress relief could play a powerful role in preserving cognitive health.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260427050626.htm",
-          "pubDate": "Mon, 27 Apr 2026 10:55:07 EDT"
+          "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+          "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This breakthrough not only strengthens the weird reality of quantum mechanics but also opens the door to new experiments involving antimatter, including the possibility of testing how gravity affects it—something never directly measured before.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
+          "pubDate": "Tue, 28 Apr 2026 09:35:37 EDT"
         },
         {
-          "title": "Students build a “cosmic radio” to listen for dark matter",
-          "summary": "A group of undergraduate students pulled off something remarkable: they built their own dark matter detector and used it to probe one of physics’ biggest mysteries. Working with limited resources but plenty of creativity, they designed a stripped-down experiment to hunt for axions — hypothetical particles that could make up dark matter.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260427050618.htm",
-          "pubDate": "Mon, 27 Apr 2026 09:40:33 EDT"
+          "title": "NASA Curiosity rover finds mysterious life linked molecules on mars",
+          "summary": "Curiosity has detected a surprising variety of organic molecules on Mars, including compounds tied to the chemistry of life. Some of these molecules may be billions of years old, preserved in ancient clay-rich rocks that once held water. One standout find resembles building blocks of DNA, raising exciting questions about Mars’ past. Although not proof of life, the discovery suggests the Red Planet may have once been far more biologically promising than we thought.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260428045549.htm",
+          "pubDate": "Tue, 28 Apr 2026 10:02:08 EDT"
         },
         {
-          "title": "Scientists finally solve mystery of strange “golden orb” found 2 miles deep",
-          "summary": "A mysterious “golden orb” found more than two miles deep in the Gulf of Alaska left scientists baffled for over two years, sparking wild speculation about its origins. After an intensive investigation combining deep-sea expertise, microscopic analysis, and advanced DNA sequencing, researchers finally cracked the case. The strange object turned out not to be an egg, sponge, or anything alien, but the remains of tissue from a giant deep-sea anemone.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260427050613.htm",
-          "pubDate": "Mon, 27 Apr 2026 11:05:43 EDT"
+          "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
+          "summary": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
+          "pubDate": "Tue, 28 Apr 2026 09:10:39 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Can &#8216;extinct&#8217; volcanoes still erupt? A Greek peak holds surprising clues",
+          "summary": "Tiny crystals suggest extinct volcanoes could still grow underground, a finding that could reshape how scientists assess eruption risk.",
+          "link": "https://www.sciencenews.org/article/extinct-volcanoes-erupt",
+          "pubDate": "Tue, 28 Apr 2026 19:31:29 +0000"
+        },
+        {
+          "title": "Uranus has weird rings. Astronomers now know the source of two of them",
+          "summary": "The Nu ring seems to be fed by unknown rocky bodies, whereas the Mu ring appears rich in water ice and linked to the moon Mab.",
+          "link": "https://www.sciencenews.org/article/uranus-rings-origin-mu-moon-mab",
+          "pubDate": "Tue, 28 Apr 2026 14:00:00 +0000"
+        },
         {
           "title": "This dangerous pregnancy complication is common. A new treatment might help",
           "summary": "Preeclampsia complicates 3 to 8 percent of pregnancies. In a recent trial, a blood filter lowered blood pressure and helped prolong some pregnancies.",
           "link": "https://www.sciencenews.org/article/preeclampsia-treatment-pregnancy-blood",
           "pubDate": "Mon, 27 Apr 2026 15:00:00 +0000"
-        },
-        {
-          "title": "The earliest evidence of the first stars may lie in a distant gas clump",
-          "summary": "James Webb data reveal pristine gas irradiated by energetic light some 450 million years after the Big Bang — a sign it may house primordial stars.",
-          "link": "https://www.sciencenews.org/article/first-stars-earliest-evidence-universe",
-          "pubDate": "Fri, 24 Apr 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Ancient DNA tests the notion that allergies are due to our dirtier past",
-          "summary": "An analysis of ancient DNA and modern disease risk suggests some immune genes may reduce allergy risk rather than increase it.",
-          "link": "https://www.sciencenews.org/article/ancient-dna-allergies-dirtier-past",
-          "pubDate": "Fri, 24 Apr 2026 15:00:00 +0000"
         }
       ]
     }
