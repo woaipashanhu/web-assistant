@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-28T23:00:23.605Z",
-  "date": "2026-04-29",
+  "lastUpdate": "2026-04-29T23:01:06.138Z",
+  "date": "2026-04-30",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
-          "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
-          "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
-          "pubDate": "Tue, 28 Apr 2026 21:35:17 +0000"
+          "title": "Emergency First Responders Say Waymos Are Getting Worse",
+          "summary": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
+          "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+          "pubDate": "Wed, 29 Apr 2026 20:45:37 +0000"
         },
         {
-          "title": "Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App",
-          "summary": "Tinder and Hinge parent company Match Group invested $100 million into the queer cruising app Sniffies. The move has left users feeling uneasy about what happens next.",
-          "link": "https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/",
-          "pubDate": "Tue, 28 Apr 2026 20:25:33 +0000"
+          "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+          "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+          "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+          "pubDate": "Wed, 29 Apr 2026 20:36:53 +0000"
         },
         {
-          "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
-          "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
-          "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
-          "pubDate": "Tue, 28 Apr 2026 18:36:47 +0000"
+          "title": "Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery",
+          "summary": "Aleksandra Mendoza, aka Alorah Ziva, alleges that the 20-year-old influencer injected her with drugs on a livestream and had nonconsensual sex with her while she was underage.",
+          "link": "https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/",
+          "pubDate": "Wed, 29 Apr 2026 19:20:24 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Amazon is already offering new OpenAI products on AWS",
-          "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-          "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-          "pubDate": "Tue, 28 Apr 2026 19:48:02 +0000"
+          "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+          "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+          "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+          "pubDate": "Wed, 29 Apr 2026 22:20:48 +0000"
         },
         {
-          "title": "Amazon launches an AI-powered audio Q&#038;A experience on product pages",
-          "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-          "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-          "pubDate": "Tue, 28 Apr 2026 18:49:54 +0000"
+          "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+          "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+          "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+          "pubDate": "Wed, 29 Apr 2026 20:59:00 +0000"
         },
         {
-          "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
-          "summary": "The app is Match Group's newest attempt to get mobile users excited about online romance again.",
-          "link": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
-          "pubDate": "Tue, 28 Apr 2026 18:16:54 +0000"
+          "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
+          "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
+          "link": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+          "pubDate": "Wed, 29 Apr 2026 20:53:56 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Comey charged with threatening Trump's life in Instagram post",
-          "summary": "The charge stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
-          "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 28 Apr 2026 22:51:58 GMT"
+          "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
+          "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+          "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 29 Apr 2026 22:49:19 GMT"
         },
         {
-          "title": "United Arab Emirates to quit oil cartel Opec",
-          "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
-          "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 28 Apr 2026 16:24:45 GMT"
+          "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+          "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+          "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 29 Apr 2026 20:24:48 GMT"
         },
         {
-          "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-          "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
-          "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 28 Apr 2026 19:43:02 GMT"
+          "title": "Hungary's next PM says frozen EU funds will be paid out soon",
+          "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election.",
+          "link": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 29 Apr 2026 19:51:54 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Here&apos;s everything to expect when the Fed issues its latest interest rate decision Wednesday",
-          "summary": "In what could be Jerome Powell's final meeting as Fed chair, he and his fellow policymakers are likely to continue their cautious approach.",
-          "link": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
-          "pubDate": "Tue, 28 Apr 2026 20:15:32 GMT"
+          "title": "SoFi CEO defends decision to hold guidance steady",
+          "summary": "SoFi CEO Anthony Noto explained that the company declined to raise its full-year outlook due to macro uncertainty, not weakness in fundamentals.",
+          "link": "https://www.cnbc.com/2026/04/29/sofi-ceo-defends-decision-to-hold-guidance-steady.html",
+          "pubDate": "Wed, 29 Apr 2026 22:48:10 GMT"
         },
         {
-          "title": "Jamie Dimon warns of &apos;some kind of bond crisis&apos; ahead as global debt risks build",
-          "summary": "Dimon, who runs JPMorgan Chase, the world's largest bank by market cap, said that today's growing mix of risks could combine in unpredictable ways.",
-          "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
-          "pubDate": "Tue, 28 Apr 2026 18:44:41 GMT"
+          "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism &apos;unprecedented&apos;",
+          "summary": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
+          "link": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+          "pubDate": "Wed, 29 Apr 2026 19:32:45 GMT"
         },
         {
-          "title": "Meta shares look &apos;iffy&apos; into earnings. How to trade it",
-          "summary": "Meta heads into earnings Wednesday after the bell with the fundamentals case largely intact. But the technicals are a bit shaky.",
-          "link": "https://www.cnbc.com/2026/04/28/meta-shares-look-iffy-into-earnings-how-to-trade-it.html",
-          "pubDate": "Tue, 28 Apr 2026 15:53:55 GMT"
+          "title": "PayPal&apos;s new CEO makes Venmo a standalone business unit as potential buyers circle",
+          "summary": "PayPal is betting that a new corporate structure can reignite growth at a company that has lost ground to Apple, Google and Stripe in the e-commerce battle.",
+          "link": "https://www.cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html",
+          "pubDate": "Wed, 29 Apr 2026 19:13:31 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Live updates: Trump hosts state dinner after King Charles&#8217;s historic remarks; DOJ indicts Comey",
-          "summary": "King Charles III addressed a joint meeting of Congress on Tuesday, expressing &#8220;the highest regard and friendship of the British people, to the people of the United States.&#8221; His remarks were notably political in spots, calling for help in Ukraine, for the climate and noting the checks and balances built into the U.S. government. Here&#8230;",
-          "link": "https://thehill.com/homenews/administration/5851618-live-updates-trump-dhs-fisa-uk-royal-family/",
-          "pubDate": "Tue, 28 Apr 2026 22:30:30 +0000"
+          "title": "Six takeaways from Hegseth’s first hearing since Iran war started",
+          "summary": "House Democrats came out firing during Defense Secretary Pete Hegseth’s first hearing since the Iran war started, peppering the Pentagon chief with questions on his characterization of the conflict and recent high-profile firings of top military officials.&#160; Their Republican counterparts were notably conflict-averse, apart from a couple of supportive comments toward Gen. Randy Goerge, the&#8230;",
+          "link": "https://thehill.com/policy/defense/5856223-hegseth-house-hearing-takeaways-iran-war/",
+          "pubDate": "Wed, 29 Apr 2026 22:16:25 +0000"
         },
         {
-          "title": "FCC ordering review of Disney broadcast station licenses",
-          "summary": "The FCC is ordering an early review of the broadcast licenses of several local television stations owned and operated by Disney, the sprawling media and entertainment conglomerate that owns ABC. In a filing made on Tuesday, the department confirmed it had been conducting an investigation into Disney&#8217;s diversity, equity and inclusion practices and was kicking&#8230;",
-          "link": "https://thehill.com/homenews/media/5854049-fcc-ordering-review-of-disney-broadcast-station-licenses/",
-          "pubDate": "Tue, 28 Apr 2026 22:29:44 +0000"
+          "title": "Trump lauds &#8216;brilliant&#8217; Alito for authoring Voting Rights Act decision",
+          "summary": "President Trump praised U.S. Supreme Court Justice Samuel Alito on Wednesday for authoring the court’s landmark decision to limit a central provision of the Voting Rights Act.&#160; “Today&#8217;s 6-3 Supreme Court decision in the Callais case is a BIG WIN for Equal Protection under the Law, as it returns the Voting Rights Act to its&#8230;",
+          "link": "https://thehill.com/homenews/administration/5856259-trump-praises-alito-voting-rights/",
+          "pubDate": "Wed, 29 Apr 2026 22:14:43 +0000"
         },
         {
-          "title": "Heat rises on Hegseth ahead of back-to-back hearings",
-          "summary": "Republican lawmakers will get their chance to air out frustrations with the Trump administration’s handling of the Iran war and a string of high-profile Pentagon firings when Defense Secretary Pete Hegseth makes back-to-back public appearances on Capitol Hill this week. Hegseth will go before the House Armed Services Committee on Wednesday — his first testimony&#8230;",
-          "link": "https://thehill.com/policy/defense/5854051-hegseth-hearings-gop-concerns/",
-          "pubDate": "Tue, 28 Apr 2026 22:19:13 +0000"
+          "title": "Chinese airbag parts tied to crash deaths banned",
+          "summary": "The National Highway Traffic Safety Administration on Wednesday banned Chinese airbag inflators tied to at least 10 car crash deaths and injured two other people. NHTSA said an investigation revealed that frontal driver airbags exploded, sending large metal fragments into drivers’ chests, necks, eyes and faces. All recorded accidents took place in a GM or Hyundai&#8230;",
+          "link": "https://thehill.com/homenews/administration/5856177-nhtsa-bans-chinese-airbag-inflators-car-crash-deaths/",
+          "pubDate": "Wed, 29 Apr 2026 22:10:44 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "'Shark Tank' Star Kevin O' Leary Spends $1000 A Day on Meals – But Says If You're 'Smart,' Don't Spend More Than 10% Of Bi-Weekly Paycheck On Dining",
-          "summary": "'Shark Tank' Star Kevin O' Leary Spends $1000 A Day on Meals – But Says If You're 'Smart,' Don't Spend More Than 10% Of Bi-Weekly Paycheck On Dining",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/shark-tank-star-kevin-o-144605755.html",
-          "pubDate": "2026-04-27T14:46:05Z"
+          "title": "141-year-old candy store chain closes all retail locations",
+          "summary": "141-year-old candy store chain closes all retail locations",
+          "link": "https://finance.yahoo.com/economy/articles/141-old-candy-store-chain-224800796.html",
+          "pubDate": "2026-04-28T22:48:00Z"
         },
         {
-          "title": "How Nvidia Stock Could Be the Biggest Loser From the SpaceX IPO",
-          "summary": "How Nvidia Stock Could Be the Biggest Loser From the SpaceX IPO",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-could-biggest-loser-144344837.html",
-          "pubDate": "2026-04-27T14:43:44Z"
+          "title": "Walmart makes surprising move beyond retail",
+          "summary": "Walmart makes surprising move beyond retail",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-makes-surprising-move-beyond-230300121.html",
+          "pubDate": "2026-04-28T23:03:00Z"
         },
         {
-          "title": "As Intel Triggers a Major Rally in Semiconductor Companies, DA Davidson Hikes Its AMD Stock Price Target by More Than 70%",
-          "summary": "As Intel Triggers a Major Rally in Semiconductor Companies, DA Davidson Hikes Its AMD Stock Price Target by More Than 70%",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-triggers-major-rally-semiconductor-144754958.html",
-          "pubDate": "2026-04-27T14:47:54Z"
+          "title": "As the Number of IoT Devices Starts to Surge, Verizon No Longer Relies on Traditional Subscriber Growth — VZ Stock Is Part of the AI Revolution’s Essential Nervous System",
+          "summary": "As the Number of IoT Devices Starts to Surge, Verizon No Longer Relies on Traditional Subscriber Growth — VZ Stock Is Part of the AI Revolution’s Essential Nervous System",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/number-iot-devices-starts-surge-145407718.html",
+          "pubDate": "2026-04-28T14:54:07Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "50-foot ancient snake discovered in India may be one of the largest ever",
+          "summary": "A massive prehistoric snake discovered in India may rank among the largest ever to slither across Earth. Named Vasuki indicus, this ancient giant lived around 47 million years ago and is estimated to have stretched an astonishing 11 to 15 meters long—rivaling the legendary Titanoboa. Fossilized vertebrae unearthed from a lignite mine in Gujarat reveal a thick-bodied, powerful snake likely built for slow, stealthy ambush attacks, similar to modern anacondas.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260429043500.htm",
+          "pubDate": "Wed, 29 Apr 2026 05:13:03 EDT"
+        },
         {
           "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
           "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This breakthrough not only strengthens the weird reality of quantum mechanics but also opens the door to new experiments involving antimatter, including the possibility of testing how gravity affects it—something never directly measured before.",
@@ -237,40 +243,34 @@
           "pubDate": "Tue, 28 Apr 2026 09:35:37 EDT"
         },
         {
-          "title": "NASA Curiosity rover finds mysterious life linked molecules on mars",
-          "summary": "Curiosity has detected a surprising variety of organic molecules on Mars, including compounds tied to the chemistry of life. Some of these molecules may be billions of years old, preserved in ancient clay-rich rocks that once held water. One standout find resembles building blocks of DNA, raising exciting questions about Mars’ past. Although not proof of life, the discovery suggests the Red Planet may have once been far more biologically promising than we thought.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260428045549.htm",
-          "pubDate": "Tue, 28 Apr 2026 10:02:08 EDT"
-        },
-        {
-          "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
-          "summary": "Scientists at MIT discovered that chaotic laser light can spontaneously form a highly focused beam instead of scattering—if the conditions are just right. This “pencil beam” enabled them to image the blood-brain barrier in 3D at speeds 25 times faster than existing techniques. The method also lets researchers watch how drugs move into brain cells in real time. It could dramatically accelerate the development of treatments for neurological diseases.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
-          "pubDate": "Tue, 28 Apr 2026 09:10:39 EDT"
+          "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
+          "summary": "A spectacular cosmic event nicknamed “SN Winny” could help solve one of astronomy’s biggest mysteries: how fast the universe is expanding. This rare superluminous supernova, located 10 billion light-years away, appears five times in the sky thanks to gravitational lensing, creating a dazzling “cosmic fireworks” effect. By measuring the slight delays between each appearance—caused by light taking different paths around two foreground galaxies—scientists can directly calculate the universe’s expansion rate.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260428045603.htm",
+          "pubDate": "Wed, 29 Apr 2026 04:05:18 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-29",
+      "date": "2026-04-30",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Prenatal surgery for spina bifida may get a boost from stem cells",
+          "summary": "A clinical trial for spina bifida treatment suggests that a surgical approach relying on stem cells is safe for patients. Its efficacy is still being evaluated.",
+          "link": "https://www.sciencenews.org/article/prenatal-surgery-spina-bifida-stem-cell",
+          "pubDate": "Wed, 29 Apr 2026 16:00:00 +0000"
+        },
+        {
+          "title": "Seismic data captured the sound of awe during a solar eclipse",
+          "summary": "From the hush of people coming to a standstill to the reverberations of fans, seismic data can capture the ebbs and flows of human activity.",
+          "link": "https://www.sciencenews.org/article/seismic-data-awe-total-solar-eclipse",
+          "pubDate": "Wed, 29 Apr 2026 14:00:00 +0000"
+        },
         {
           "title": "Can &#8216;extinct&#8217; volcanoes still erupt? A Greek peak holds surprising clues",
           "summary": "Tiny crystals suggest extinct volcanoes could still grow underground, a finding that could reshape how scientists assess eruption risk.",
           "link": "https://www.sciencenews.org/article/extinct-volcanoes-erupt",
           "pubDate": "Tue, 28 Apr 2026 19:31:29 +0000"
-        },
-        {
-          "title": "Uranus has weird rings. Astronomers now know the source of two of them",
-          "summary": "The Nu ring seems to be fed by unknown rocky bodies, whereas the Mu ring appears rich in water ice and linked to the moon Mab.",
-          "link": "https://www.sciencenews.org/article/uranus-rings-origin-mu-moon-mab",
-          "pubDate": "Tue, 28 Apr 2026 14:00:00 +0000"
-        },
-        {
-          "title": "This dangerous pregnancy complication is common. A new treatment might help",
-          "summary": "Preeclampsia complicates 3 to 8 percent of pregnancies. In a recent trial, a blood filter lowered blood pressure and helped prolong some pregnancies.",
-          "link": "https://www.sciencenews.org/article/preeclampsia-treatment-pregnancy-blood",
-          "pubDate": "Mon, 27 Apr 2026 15:00:00 +0000"
         }
       ]
     }
