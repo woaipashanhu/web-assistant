@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-29T23:01:06.138Z",
-  "date": "2026-04-30",
+  "lastUpdate": "2026-04-30T23:01:28.061Z",
+  "date": "2026-05-01",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Emergency First Responders Say Waymos Are Getting Worse",
-          "summary": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
-          "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
-          "pubDate": "Wed, 29 Apr 2026 20:45:37 +0000"
+          "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+          "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+          "pubDate": "Thu, 30 Apr 2026 18:54:54 +0000"
         },
         {
-          "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
-          "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
-          "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
-          "pubDate": "Wed, 29 Apr 2026 20:36:53 +0000"
+          "title": "MAGA Is Confused About ‘Animal Farm’",
+          "summary": "The new film is the latest adaptation of George Orwell’s novel. Based on the critiques coming from right-wing influencers, it seems few of them fully grasp the book’s message.",
+          "link": "https://www.wired.com/story/maga-is-confused-about-animal-farm/",
+          "pubDate": "Thu, 30 Apr 2026 18:19:28 +0000"
         },
         {
-          "title": "Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery",
-          "summary": "Aleksandra Mendoza, aka Alorah Ziva, alleges that the 20-year-old influencer injected her with drugs on a livestream and had nonconsensual sex with her while she was underage.",
-          "link": "https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/",
-          "pubDate": "Wed, 29 Apr 2026 19:20:24 +0000"
+          "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
+          "summary": "Why the terms “smart bed,” \"adjustable mattress,\" and “adjustable frame” are not interchangeable, and how to avoid an expensive mistake.",
+          "link": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/",
+          "pubDate": "Thu, 30 Apr 2026 17:42:52 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
-          "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-          "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-          "pubDate": "Wed, 29 Apr 2026 22:20:48 +0000"
+          "title": "Apple was surprised by AI-driven demand for Macs",
+          "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+          "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+          "pubDate": "Thu, 30 Apr 2026 22:12:52 +0000"
         },
         {
-          "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-          "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-          "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-          "pubDate": "Wed, 29 Apr 2026 20:59:00 +0000"
+          "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+          "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+          "pubDate": "Thu, 30 Apr 2026 20:14:47 +0000"
         },
         {
-          "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
-          "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
-          "link": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
-          "pubDate": "Wed, 29 Apr 2026 20:53:56 +0000"
+          "title": "Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory",
+          "summary": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6 billion.",
+          "link": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/",
+          "pubDate": "Thu, 30 Apr 2026 20:02:02 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
-          "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-          "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 29 Apr 2026 22:49:19 GMT"
+          "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+          "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+          "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 30 Apr 2026 16:38:58 GMT"
         },
         {
-          "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-          "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
-          "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 29 Apr 2026 20:24:48 GMT"
+          "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+          "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 30 Apr 2026 18:05:26 GMT"
         },
         {
-          "title": "Hungary's next PM says frozen EU funds will be paid out soon",
-          "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election.",
-          "link": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 29 Apr 2026 19:51:54 GMT"
+          "title": "US House votes to end record shutdown over immigration enforcement",
+          "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
+          "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 30 Apr 2026 20:53:36 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "SoFi CEO defends decision to hold guidance steady",
-          "summary": "SoFi CEO Anthony Noto explained that the company declined to raise its full-year outlook due to macro uncertainty, not weakness in fundamentals.",
-          "link": "https://www.cnbc.com/2026/04/29/sofi-ceo-defends-decision-to-hold-guidance-steady.html",
-          "pubDate": "Wed, 29 Apr 2026 22:48:10 GMT"
+          "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+          "summary": "Apple is set to report earnings after the bell on Thursday, with its conference call scheduled for 5:00 pm ET.",
+          "link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+          "pubDate": "Thu, 30 Apr 2026 17:56:28 GMT"
         },
         {
-          "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism &apos;unprecedented&apos;",
-          "summary": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
-          "link": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
-          "pubDate": "Wed, 29 Apr 2026 19:32:45 GMT"
+          "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
+          "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
+          "link": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
+          "pubDate": "Thu, 30 Apr 2026 19:36:55 GMT"
         },
         {
-          "title": "PayPal&apos;s new CEO makes Venmo a standalone business unit as potential buyers circle",
-          "summary": "PayPal is betting that a new corporate structure can reignite growth at a company that has lost ground to Apple, Google and Stripe in the e-commerce battle.",
-          "link": "https://www.cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html",
-          "pubDate": "Wed, 29 Apr 2026 19:13:31 GMT"
+          "title": "Here&apos;s why surging oil prices may not derail the consumer trade",
+          "summary": "Wall Street is already looking beyond Big Tech quarterly results.",
+          "link": "https://www.cnbc.com/2026/04/30/why-surging-oil-prices-may-not-derail-the-consumer-trade.html",
+          "pubDate": "Thu, 30 Apr 2026 11:16:27 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Six takeaways from Hegseth’s first hearing since Iran war started",
-          "summary": "House Democrats came out firing during Defense Secretary Pete Hegseth’s first hearing since the Iran war started, peppering the Pentagon chief with questions on his characterization of the conflict and recent high-profile firings of top military officials.&#160; Their Republican counterparts were notably conflict-averse, apart from a couple of supportive comments toward Gen. Randy Goerge, the&#8230;",
-          "link": "https://thehill.com/policy/defense/5856223-hegseth-house-hearing-takeaways-iran-war/",
-          "pubDate": "Wed, 29 Apr 2026 22:16:25 +0000"
+          "title": "Trump criticizes New York Times, &#8216;stupid CNN&#8217; Iran war coverage",
+          "summary": "President Trump on Thursday blasted The New York Times and CNN over their coverage of the U.S.-Israeli conflict in Iran, calling the latter outlet &#8220;stupid&#8221; and claiming the former&#8217;s coverage was &#8220;actually seditious.&#8221; Trump had signed an executive order to expand workers’ access to retirement savings during an event in the Oval Office when he&#8230;",
+          "link": "https://thehill.com/homenews/administration/5858416-trump-blasts-nyt-cnn-iran/",
+          "pubDate": "Thu, 30 Apr 2026 22:29:16 +0000"
         },
         {
-          "title": "Trump lauds &#8216;brilliant&#8217; Alito for authoring Voting Rights Act decision",
-          "summary": "President Trump praised U.S. Supreme Court Justice Samuel Alito on Wednesday for authoring the court’s landmark decision to limit a central provision of the Voting Rights Act.&#160; “Today&#8217;s 6-3 Supreme Court decision in the Callais case is a BIG WIN for Equal Protection under the Law, as it returns the Voting Rights Act to its&#8230;",
-          "link": "https://thehill.com/homenews/administration/5856259-trump-praises-alito-voting-rights/",
-          "pubDate": "Wed, 29 Apr 2026 22:14:43 +0000"
+          "title": "Johnson says &#8216;we&#8217;re not at war&#8217; as Iran clock approaches 60 days",
+          "summary": "House Speaker Mike Johnson (R-La.) said Thursday that the U.S. is “not at war” with Iran, as the 60-day mark since the conflict began approaches. “I don’t think we have an active, kinetic military bombing, firing or anything like that. Right now, we are trying to broker a peace,” Johnson told NBC News in the&#8230;",
+          "link": "https://thehill.com/homenews/house/5858446-war-powers-resolution-iran/",
+          "pubDate": "Thu, 30 Apr 2026 22:14:11 +0000"
         },
         {
-          "title": "Chinese airbag parts tied to crash deaths banned",
-          "summary": "The National Highway Traffic Safety Administration on Wednesday banned Chinese airbag inflators tied to at least 10 car crash deaths and injured two other people. NHTSA said an investigation revealed that frontal driver airbags exploded, sending large metal fragments into drivers’ chests, necks, eyes and faces. All recorded accidents took place in a GM or Hyundai&#8230;",
-          "link": "https://thehill.com/homenews/administration/5856177-nhtsa-bans-chinese-airbag-inflators-car-crash-deaths/",
-          "pubDate": "Wed, 29 Apr 2026 22:10:44 +0000"
+          "title": "Democrats coalesce around Platner as Mills exits Maine Senate race",
+          "summary": "Democrats are coalescing around progressive political outsider Graham Platner and his bid to oust incumbent Republican Sen. Susan Collins in Maine after primary rival Janet Mills ended her struggling bid Thursday. Mills, who is term limited as governor, jumped into the race late last year as one of Senate Minority Leader Chuck Schumer’s (D-N.Y.) top&#160;recruits,&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5858298-democrats-rally-around-platner-maine-senate-mills-exit/",
+          "pubDate": "Thu, 30 Apr 2026 22:04:25 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "141-year-old candy store chain closes all retail locations",
-          "summary": "141-year-old candy store chain closes all retail locations",
-          "link": "https://finance.yahoo.com/economy/articles/141-old-candy-store-chain-224800796.html",
-          "pubDate": "2026-04-28T22:48:00Z"
+          "title": "Cathie Wood buys $18 million of beaten-down AI stock",
+          "summary": "Cathie Wood buys $18 million of beaten-down AI stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-18-million-150700302.html",
+          "pubDate": "2026-04-30T15:07:00Z"
         },
         {
-          "title": "Walmart makes surprising move beyond retail",
-          "summary": "Walmart makes surprising move beyond retail",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-makes-surprising-move-beyond-230300121.html",
-          "pubDate": "2026-04-28T23:03:00Z"
+          "title": "Henry Schein Inc. (HSIC): David Einhorn Is Buying This Health Stock",
+          "summary": "Henry Schein Inc. (HSIC): David Einhorn Is Buying This Health Stock",
+          "link": "https://finance.yahoo.com/sectors/healthcare/articles/henry-schein-inc-hsic-david-152033431.html",
+          "pubDate": "2026-04-29T15:20:33Z"
         },
         {
-          "title": "As the Number of IoT Devices Starts to Surge, Verizon No Longer Relies on Traditional Subscriber Growth — VZ Stock Is Part of the AI Revolution’s Essential Nervous System",
-          "summary": "As the Number of IoT Devices Starts to Surge, Verizon No Longer Relies on Traditional Subscriber Growth — VZ Stock Is Part of the AI Revolution’s Essential Nervous System",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/number-iot-devices-starts-surge-145407718.html",
-          "pubDate": "2026-04-28T14:54:07Z"
+          "title": "Spectrum Brands Holdings Inc. (SPB): David Einhorn Opens New Position in Consumer Products",
+          "summary": "Spectrum Brands Holdings Inc. (SPB): David Einhorn Opens New Position in Consumer Products",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spectrum-brands-holdings-inc-spb-151950915.html",
+          "pubDate": "2026-04-29T15:19:50Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "50-foot ancient snake discovered in India may be one of the largest ever",
-          "summary": "A massive prehistoric snake discovered in India may rank among the largest ever to slither across Earth. Named Vasuki indicus, this ancient giant lived around 47 million years ago and is estimated to have stretched an astonishing 11 to 15 meters long—rivaling the legendary Titanoboa. Fossilized vertebrae unearthed from a lignite mine in Gujarat reveal a thick-bodied, powerful snake likely built for slow, stealthy ambush attacks, similar to modern anacondas.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260429043500.htm",
-          "pubDate": "Wed, 29 Apr 2026 05:13:03 EDT"
+          "title": "Scientists reveal the best exercise for knee arthritis pain relief",
+          "summary": "A major review of 217 trials shows that aerobic exercise is the most effective option for managing knee osteoarthritis. Activities like walking, cycling, and swimming outperformed other exercise types in reducing pain and improving movement. While alternatives like strength training and mind-body exercises help, they are best used alongside aerobic workouts. The findings also confirm that exercise is a safe and essential part of treatment.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
+          "pubDate": "Thu, 30 Apr 2026 03:30:17 EDT"
         },
         {
-          "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
-          "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner, a positron. This breakthrough not only strengthens the weird reality of quantum mechanics but also opens the door to new experiments involving antimatter, including the possibility of testing how gravity affects it—something never directly measured before.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
-          "pubDate": "Tue, 28 Apr 2026 09:35:37 EDT"
+          "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
+          "summary": "For the first time, scientists have watched a subduction zone literally fall apart beneath the ocean floor. Using advanced seismic imaging, they found the Juan de Fuca plate splitting into fragments as it sinks beneath North America. Rather than collapsing all at once, the plate is tearing piece by piece, like a train slowly derailing. The finding helps explain ancient plate fragments and could refine how scientists understand earthquake behavior.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260429232851.htm",
+          "pubDate": "Wed, 29 Apr 2026 23:36:37 EDT"
         },
         {
-          "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
-          "summary": "A spectacular cosmic event nicknamed “SN Winny” could help solve one of astronomy’s biggest mysteries: how fast the universe is expanding. This rare superluminous supernova, located 10 billion light-years away, appears five times in the sky thanks to gravitational lensing, creating a dazzling “cosmic fireworks” effect. By measuring the slight delays between each appearance—caused by light taking different paths around two foreground galaxies—scientists can directly calculate the universe’s expansion rate.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260428045603.htm",
-          "pubDate": "Wed, 29 Apr 2026 04:05:18 EDT"
+          "title": "Scientists restore memory by blocking a single Alzheimer’s protein",
+          "summary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
+          "pubDate": "Thu, 30 Apr 2026 04:31:42 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
+          "summary": "In cows’ guts, ciliates contain a tiny organelle called a hydrogenobody that may drive production of methane, a potent greenhouse gas.",
+          "link": "https://www.sciencenews.org/article/cows-methane-burps-may-be-fueled-by-a-newfound-organelle-in-gut-microbes",
+          "pubDate": "Thu, 30 Apr 2026 18:00:00 +0000"
+        },
+        {
+          "title": "Can AI help doctors avoid missed diagnoses? A new study suggests yes",
+          "summary": "AI may help doctors avoid missed diagnoses, but it still needs real-world testing and human oversight before it can guide patient care.",
+          "link": "https://www.sciencenews.org/article/ai-help-doctors-help-diagnoses",
+          "pubDate": "Thu, 30 Apr 2026 18:00:00 +0000"
+        },
         {
           "title": "Prenatal surgery for spina bifida may get a boost from stem cells",
           "summary": "A clinical trial for spina bifida treatment suggests that a surgical approach relying on stem cells is safe for patients. Its efficacy is still being evaluated.",
           "link": "https://www.sciencenews.org/article/prenatal-surgery-spina-bifida-stem-cell",
           "pubDate": "Wed, 29 Apr 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Seismic data captured the sound of awe during a solar eclipse",
-          "summary": "From the hush of people coming to a standstill to the reverberations of fans, seismic data can capture the ebbs and flows of human activity.",
-          "link": "https://www.sciencenews.org/article/seismic-data-awe-total-solar-eclipse",
-          "pubDate": "Wed, 29 Apr 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Can &#8216;extinct&#8217; volcanoes still erupt? A Greek peak holds surprising clues",
-          "summary": "Tiny crystals suggest extinct volcanoes could still grow underground, a finding that could reshape how scientists assess eruption risk.",
-          "link": "https://www.sciencenews.org/article/extinct-volcanoes-erupt",
-          "pubDate": "Tue, 28 Apr 2026 19:31:29 +0000"
         }
       ]
     }
