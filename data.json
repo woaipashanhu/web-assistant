@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-04-30T23:01:28.061Z",
-  "date": "2026-05-01",
+  "lastUpdate": "2026-05-01T23:01:01.183Z",
+  "date": "2026-05-02",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-          "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
-          "pubDate": "Thu, 30 Apr 2026 18:54:54 +0000"
+          "title": "Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars",
+          "summary": "As adult riders report new age-verification checks, the self-driving car company says it’s continuing to “refine” its system in places where kids aren’t allowed to ride alone.",
+          "link": "https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/",
+          "pubDate": "Fri, 01 May 2026 22:25:42 +0000"
         },
         {
-          "title": "MAGA Is Confused About ‘Animal Farm’",
-          "summary": "The new film is the latest adaptation of George Orwell’s novel. Based on the critiques coming from right-wing influencers, it seems few of them fully grasp the book’s message.",
-          "link": "https://www.wired.com/story/maga-is-confused-about-animal-farm/",
-          "pubDate": "Thu, 30 Apr 2026 18:19:28 +0000"
+          "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+          "summary": "ChatGPT’s new privacy policy states how the company uses cookies for tracking, to turn free users into paying subscribers.",
+          "link": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+          "pubDate": "Fri, 01 May 2026 21:46:46 +0000"
         },
         {
-          "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
-          "summary": "Why the terms “smart bed,” \"adjustable mattress,\" and “adjustable frame” are not interchangeable, and how to avoid an expensive mistake.",
-          "link": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/",
-          "pubDate": "Thu, 30 Apr 2026 17:42:52 +0000"
+          "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
+          "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched—but many machines remain at risk.",
+          "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
+          "pubDate": "Fri, 01 May 2026 20:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Apple was surprised by AI-driven demand for Macs",
-          "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-          "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-          "pubDate": "Thu, 30 Apr 2026 22:12:52 +0000"
+          "title": "Musely secures $360M from General Catalyst without giving up equity",
+          "summary": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+          "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+          "pubDate": "Fri, 01 May 2026 22:39:05 +0000"
         },
         {
-          "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-          "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-          "pubDate": "Thu, 30 Apr 2026 20:14:47 +0000"
+          "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+          "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+          "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+          "pubDate": "Fri, 01 May 2026 22:13:27 +0000"
         },
         {
-          "title": "Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory",
-          "summary": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6 billion.",
-          "link": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/",
-          "pubDate": "Thu, 30 Apr 2026 20:02:02 +0000"
+          "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+          "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+          "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+          "pubDate": "Fri, 01 May 2026 18:23:04 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-          "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
-          "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 30 Apr 2026 16:38:58 GMT"
+          "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+          "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+          "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 01 May 2026 22:35:07 GMT"
         },
         {
-          "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-          "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 30 Apr 2026 18:05:26 GMT"
+          "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+          "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+          "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 01 May 2026 21:05:43 GMT"
         },
         {
-          "title": "US House votes to end record shutdown over immigration enforcement",
-          "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
-          "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 30 Apr 2026 20:53:36 GMT"
+          "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+          "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+          "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 01 May 2026 13:12:10 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
-          "summary": "Apple is set to report earnings after the bell on Thursday, with its conference call scheduled for 5:00 pm ET.",
-          "link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
-          "pubDate": "Thu, 30 Apr 2026 17:56:28 GMT"
+          "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
+          "summary": "The mood in the air was cautiously optimistic as new and returning investors weighed the company's direction under a new chief executive.",
+          "link": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
+          "pubDate": "Fri, 01 May 2026 21:39:03 GMT"
         },
         {
-          "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
-          "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
-          "link": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
-          "pubDate": "Thu, 30 Apr 2026 19:36:55 GMT"
+          "title": "Berkshire Hathaway’s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
+          "summary": "Greg Abel made a point of stopping by every booth in the hall, greeting employees and shaking hands with shareholders.",
+          "link": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
+          "pubDate": "Fri, 01 May 2026 22:18:59 GMT"
         },
         {
-          "title": "Here&apos;s why surging oil prices may not derail the consumer trade",
-          "summary": "Wall Street is already looking beyond Big Tech quarterly results.",
-          "link": "https://www.cnbc.com/2026/04/30/why-surging-oil-prices-may-not-derail-the-consumer-trade.html",
-          "pubDate": "Thu, 30 Apr 2026 11:16:27 GMT"
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+          "summary": "The April 7 high of $113 in Western Texas Intermediate crude futures will likely be broken, traders on the prediction markets platform think.",
+          "link": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "pubDate": "Fri, 01 May 2026 18:12:52 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump criticizes New York Times, &#8216;stupid CNN&#8217; Iran war coverage",
-          "summary": "President Trump on Thursday blasted The New York Times and CNN over their coverage of the U.S.-Israeli conflict in Iran, calling the latter outlet &#8220;stupid&#8221; and claiming the former&#8217;s coverage was &#8220;actually seditious.&#8221; Trump had signed an executive order to expand workers’ access to retirement savings during an event in the Oval Office when he&#8230;",
-          "link": "https://thehill.com/homenews/administration/5858416-trump-blasts-nyt-cnn-iran/",
-          "pubDate": "Thu, 30 Apr 2026 22:29:16 +0000"
+          "title": "Appeals court blocks mail-order mifepristone, restricting abortion access nationwide",
+          "summary": "A federal appeals court late Friday blocked the ability of doctors to prescribe the abortion pill mifepristone through telehealth and dispensed through the mail. A three-judge panel on the 5th U.S. Circuit Court of Appeals sided with Louisiana in a lawsuit against the Food and Drug Administration (FDA). The court issued a temporary nationwide injunction&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5860135-mifepristone-telehealth-prescription-blocked/",
+          "pubDate": "Fri, 01 May 2026 22:29:22 +0000"
         },
         {
-          "title": "Johnson says &#8216;we&#8217;re not at war&#8217; as Iran clock approaches 60 days",
-          "summary": "House Speaker Mike Johnson (R-La.) said Thursday that the U.S. is “not at war” with Iran, as the 60-day mark since the conflict began approaches. “I don’t think we have an active, kinetic military bombing, firing or anything like that. Right now, we are trying to broker a peace,” Johnson told NBC News in the&#8230;",
-          "link": "https://thehill.com/homenews/house/5858446-war-powers-resolution-iran/",
-          "pubDate": "Thu, 30 Apr 2026 22:14:11 +0000"
+          "title": "Immigrants sue over Trump administration biometric data policy",
+          "summary": "A group of six immigrants in U.S. detention on Thursday sued the Trump administration over its policy barring detained migrants from completing biometric data processes that cause their immigration applications to be denied. The complaint argues that the Department of Homeland Security (DHS) created a system that &#8220;requires individuals to submit biometrics as part of&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5859987-immigrants-sue-trump-biometric-policy/",
+          "pubDate": "Fri, 01 May 2026 22:00:16 +0000"
         },
         {
-          "title": "Democrats coalesce around Platner as Mills exits Maine Senate race",
-          "summary": "Democrats are coalescing around progressive political outsider Graham Platner and his bid to oust incumbent Republican Sen. Susan Collins in Maine after primary rival Janet Mills ended her struggling bid Thursday. Mills, who is term limited as governor, jumped into the race late last year as one of Senate Minority Leader Chuck Schumer’s (D-N.Y.) top&#160;recruits,&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5858298-democrats-rally-around-platner-maine-senate-mills-exit/",
-          "pubDate": "Thu, 30 Apr 2026 22:04:25 +0000"
+          "title": "Trump orders withdrawal of 5,000 troops from Germany amid feud with Merz",
+          "summary": "President Trump ordered the Pentagon on Friday to withdraw about 5,000 U.S. service members from Germany amid his public feud with German Chancellor Friedrich Merz. The redeployment of troops will bring the number of service members roughly to pre-2022 levels and will affect a brigade combat team and potentially other U.S. forces already in Germany,&#8230;",
+          "link": "https://thehill.com/policy/defense/5860094-trump-orders-troop-withdrawal-germany/",
+          "pubDate": "Fri, 01 May 2026 21:52:25 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,64 +213,64 @@
           "pubDate": "2026-04-30T15:07:00Z"
         },
         {
-          "title": "Henry Schein Inc. (HSIC): David Einhorn Is Buying This Health Stock",
-          "summary": "Henry Schein Inc. (HSIC): David Einhorn Is Buying This Health Stock",
-          "link": "https://finance.yahoo.com/sectors/healthcare/articles/henry-schein-inc-hsic-david-152033431.html",
-          "pubDate": "2026-04-29T15:20:33Z"
+          "title": "AVAX One Advances Alberta AI/HPC Site With Behind-the-Meter Natural Gas Model",
+          "summary": "AVAX One Advances Alberta AI/HPC Site With Behind-the-Meter Natural Gas Model",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/avax-one-advances-alberta-ai-153900436.html",
+          "pubDate": "2026-04-30T15:39:00Z"
         },
         {
-          "title": "Spectrum Brands Holdings Inc. (SPB): David Einhorn Opens New Position in Consumer Products",
-          "summary": "Spectrum Brands Holdings Inc. (SPB): David Einhorn Opens New Position in Consumer Products",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/spectrum-brands-holdings-inc-spb-151950915.html",
-          "pubDate": "2026-04-29T15:19:50Z"
+          "title": "Bristol Myers beats quarterly profit estimates on blood thinner, cancer drug sales",
+          "summary": "Bristol Myers beats quarterly profit estimates on blood thinner, cancer drug sales",
+          "link": "https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-posts-higher-expected-115459159.html",
+          "pubDate": "2026-04-30T15:41:09Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists reveal the best exercise for knee arthritis pain relief",
-          "summary": "A major review of 217 trials shows that aerobic exercise is the most effective option for managing knee osteoarthritis. Activities like walking, cycling, and swimming outperformed other exercise types in reducing pain and improving movement. While alternatives like strength training and mind-body exercises help, they are best used alongside aerobic workouts. The findings also confirm that exercise is a safe and essential part of treatment.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
-          "pubDate": "Thu, 30 Apr 2026 03:30:17 EDT"
+          "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
+          "summary": "Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, this creature, named Tanyka amnicola, belonged to an ancient lineage that should have already faded away, making it a kind of “living fossil” of its time.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
+          "pubDate": "Fri, 01 May 2026 09:07:15 EDT"
         },
         {
-          "title": "Earth is splitting open beneath the Pacific Northwest, scientists say",
-          "summary": "For the first time, scientists have watched a subduction zone literally fall apart beneath the ocean floor. Using advanced seismic imaging, they found the Juan de Fuca plate splitting into fragments as it sinks beneath North America. Rather than collapsing all at once, the plate is tearing piece by piece, like a train slowly derailing. The finding helps explain ancient plate fragments and could refine how scientists understand earthquake behavior.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260429232851.htm",
-          "pubDate": "Wed, 29 Apr 2026 23:36:37 EDT"
+          "title": "This “Pink Floyd” spider hunts prey 6x its size and lives in walls",
+          "summary": "Scientists have uncovered a tiny wall-dwelling spider named Pikelinia floydmuraria, inspired by Pink Floyd. Despite its size, it’s a fierce predator that hunts ants much larger than itself and helps reduce common urban pests like mosquitoes and flies. Its clever strategy of building webs near lights makes it especially effective. The discovery also raises new questions about its mysterious link to similar spiders in the Galápagos.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260501052851.htm",
+          "pubDate": "Fri, 01 May 2026 08:27:27 EDT"
         },
         {
-          "title": "Scientists restore memory by blocking a single Alzheimer’s protein",
-          "summary": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
-          "pubDate": "Thu, 30 Apr 2026 04:31:42 EDT"
+          "title": "You don’t need intense workouts to build muscle, new study reveals",
+          "summary": "Building muscle doesn’t have to mean exhausting workouts or soreness. Researchers found that slow, controlled “lowering” movements can boost strength more efficiently while requiring less effort. Even five minutes a day of simple exercises like chair squats or wall push-ups can make a real difference. It’s a smarter, easier way to get stronger—no gym required.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260501052830.htm",
+          "pubDate": "Fri, 01 May 2026 10:07:35 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-01",
+      "date": "2026-05-02",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Celebrate America’s 250th birthday at a new state flower exhibit",
+          "summary": "Stop and smell America’s state flowers at the U.S. Botanic Garden in Washington, D.C., open now through October 12, 2026.",
+          "link": "https://www.sciencenews.org/article/america-250-state-flower-exhibit",
+          "pubDate": "Fri, 01 May 2026 16:00:00 +0000"
+        },
+        {
+          "title": "Peptides are unproven as health aids. FDA may unleash them anyway",
+          "summary": "Rather than reining in the compounds, the FDA may be poised to broaden access, perhapas even adding peptides to supplements. Experts say “buyer beware.”",
+          "link": "https://www.sciencenews.org/article/peptides-unproven-health-fda-access",
+          "pubDate": "Fri, 01 May 2026 14:00:00 +0000"
+        },
         {
           "title": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
           "summary": "In cows’ guts, ciliates contain a tiny organelle called a hydrogenobody that may drive production of methane, a potent greenhouse gas.",
           "link": "https://www.sciencenews.org/article/cows-methane-burps-may-be-fueled-by-a-newfound-organelle-in-gut-microbes",
           "pubDate": "Thu, 30 Apr 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Can AI help doctors avoid missed diagnoses? A new study suggests yes",
-          "summary": "AI may help doctors avoid missed diagnoses, but it still needs real-world testing and human oversight before it can guide patient care.",
-          "link": "https://www.sciencenews.org/article/ai-help-doctors-help-diagnoses",
-          "pubDate": "Thu, 30 Apr 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Prenatal surgery for spina bifida may get a boost from stem cells",
-          "summary": "A clinical trial for spina bifida treatment suggests that a surgical approach relying on stem cells is safe for patients. Its efficacy is still being evaluated.",
-          "link": "https://www.sciencenews.org/article/prenatal-surgery-spina-bifida-stem-cell",
-          "pubDate": "Wed, 29 Apr 2026 16:00:00 +0000"
         }
       ]
     }
