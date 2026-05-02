@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-01T23:01:01.183Z",
-  "date": "2026-05-02",
+  "lastUpdate": "2026-05-02T23:00:03.671Z",
+  "date": "2026-05-03",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars",
-          "summary": "As adult riders report new age-verification checks, the self-driving car company says it’s continuing to “refine” its system in places where kids aren’t allowed to ride alone.",
-          "link": "https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/",
-          "pubDate": "Fri, 01 May 2026 22:25:42 +0000"
+          "title": "Tovala Family Meals Review: Good Food, Lots of Salt",
+          "summary": "Tovala is a meal kit that comes with a smart oven, or a smart oven that comes with a meal kit. New family meals make it much more useful. But lord, the sodium.",
+          "link": "https://www.wired.com/review/tovala-oven-meal-kit-review-2026/",
+          "pubDate": "Sat, 02 May 2026 13:33:00 +0000"
         },
         {
-          "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
-          "summary": "ChatGPT’s new privacy policy states how the company uses cookies for tracking, to turn free users into paying subscribers.",
-          "link": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
-          "pubDate": "Fri, 01 May 2026 21:46:46 +0000"
+          "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
+          "summary": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
+          "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+          "pubDate": "Sat, 02 May 2026 11:30:00 +0000"
         },
         {
-          "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
-          "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched—but many machines remain at risk.",
-          "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
-          "pubDate": "Fri, 01 May 2026 20:30:00 +0000"
+          "title": "8 Best Travel Adapters (2026), Tested and Reviewed",
+          "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers.",
+          "link": "https://www.wired.com/gallery/best-travel-adapters/",
+          "pubDate": "Sat, 02 May 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Musely secures $360M from General Catalyst without giving up equity",
-          "summary": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
-          "link": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
-          "pubDate": "Fri, 01 May 2026 22:39:05 +0000"
+          "title": "AI-generated actors and scripts are now ineligible for Oscars",
+          "summary": "Bad news for Tilly Norwood.",
+          "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+          "pubDate": "Sat, 02 May 2026 21:54:58 +0000"
         },
         {
-          "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-          "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-          "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-          "pubDate": "Fri, 01 May 2026 22:13:27 +0000"
+          "title": "Farewell, Jeeves: Ask.com shuts down",
+          "summary": "Owner IAC says it's discontinuing its search business.",
+          "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+          "pubDate": "Sat, 02 May 2026 21:11:28 +0000"
         },
         {
-          "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-          "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
-          "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-          "pubDate": "Fri, 01 May 2026 18:23:04 +0000"
+          "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
+          "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
+          "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+          "pubDate": "Sat, 02 May 2026 17:05:41 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-          "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-          "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 01 May 2026 22:35:07 GMT"
+          "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+          "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
+          "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 02 May 2026 16:35:18 GMT"
         },
         {
-          "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-          "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-          "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 01 May 2026 21:05:43 GMT"
+          "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+          "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
+          "link": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 02 May 2026 14:18:14 GMT"
         },
         {
-          "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-          "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-          "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 01 May 2026 13:12:10 GMT"
+          "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+          "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+          "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 02 May 2026 16:51:18 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "JPMorgan&apos;s Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
+          "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
+          "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
+          "pubDate": "Sat, 02 May 2026 16:37:52 GMT"
+        },
         {
           "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
           "summary": "The mood in the air was cautiously optimistic as new and returning investors weighed the company's direction under a new chief executive.",
@@ -145,17 +151,11 @@
           "summary": "Greg Abel made a point of stopping by every booth in the hall, greeting employees and shaking hands with shareholders.",
           "link": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
           "pubDate": "Fri, 01 May 2026 22:18:59 GMT"
-        },
-        {
-          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
-          "summary": "The April 7 high of $113 in Western Texas Intermediate crude futures will likely be broken, traders on the prediction markets platform think.",
-          "link": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
-          "pubDate": "Fri, 01 May 2026 18:12:52 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Appeals court blocks mail-order mifepristone, restricting abortion access nationwide",
-          "summary": "A federal appeals court late Friday blocked the ability of doctors to prescribe the abortion pill mifepristone through telehealth and dispensed through the mail. A three-judge panel on the 5th U.S. Circuit Court of Appeals sided with Louisiana in a lawsuit against the Food and Drug Administration (FDA). The court issued a temporary nationwide injunction&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5860135-mifepristone-telehealth-prescription-blocked/",
-          "pubDate": "Fri, 01 May 2026 22:29:22 +0000"
+          "title": "Sunday shows preview: VRA ruling fuels redistricting battle; Iran war crosses 60 days",
+          "summary": "The Supreme Court’s recent ruling on the Voting Rights Act has triggered a fast-moving redistricting fight across the South, with lawmakers in several states pushing for new congressional and legislative maps even amid uncertainty over whether changes can be made in time for the November midterm elections. The Supreme Court declared Louisiana’s second majority-Black congressional&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5861008-sunday-shows-preview-vra-ruling-fuels-redistricting-battle-iran-war-crosses-60-days/",
+          "pubDate": "Sat, 02 May 2026 22:00:12 +0000"
         },
         {
-          "title": "Immigrants sue over Trump administration biometric data policy",
-          "summary": "A group of six immigrants in U.S. detention on Thursday sued the Trump administration over its policy barring detained migrants from completing biometric data processes that cause their immigration applications to be denied. The complaint argues that the Department of Homeland Security (DHS) created a system that &#8220;requires individuals to submit biometrics as part of&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5859987-immigrants-sue-trump-biometric-policy/",
-          "pubDate": "Fri, 01 May 2026 22:00:16 +0000"
+          "title": "Duffy: Iran war ‘was not the impetus’ for Spirit shutting down amid rising fuel prices",
+          "summary": "Transportation Secretary Sean Duffy rebuffed the suggestion that Spirit Airlines was forced to shut down as a result of rising fuel prices brought on by the Iran war.&#160; “Spirit was in dire straits long before the war with Iran,” Duffy said during a press conference in New Jersey on Saturday.&#160; “Multiple times, they filed for&#8230;",
+          "link": "https://thehill.com/policy/transportation/5861009-spirit-airlines-shutdown-duffy-response/",
+          "pubDate": "Sat, 02 May 2026 21:52:17 +0000"
         },
         {
-          "title": "Trump orders withdrawal of 5,000 troops from Germany amid feud with Merz",
-          "summary": "President Trump ordered the Pentagon on Friday to withdraw about 5,000 U.S. service members from Germany amid his public feud with German Chancellor Friedrich Merz. The redeployment of troops will bring the number of service members roughly to pre-2022 levels and will affect a brigade combat team and potentially other U.S. forces already in Germany,&#8230;",
-          "link": "https://thehill.com/policy/defense/5860094-trump-orders-troop-withdrawal-germany/",
-          "pubDate": "Fri, 01 May 2026 21:52:25 +0000"
+          "title": "‘Shock and share’: Iran makes social media a key front in war against America",
+          "summary": "Sassy comebacks, sarcastic insults and glossy AI-generated videos have all been key tools in Iran’s retaliation against the United States, as social media has become a key front in the more than two-month war.&#160; The battle playing out online demonstrates the Islamic Republic’s investment in communications and technology as a key part of its arsenal.&#8230;",
+          "link": "https://thehill.com/policy/international/5858556-iran-social-media-warfare/",
+          "pubDate": "Sat, 02 May 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Cathie Wood buys $18 million of beaten-down AI stock",
-          "summary": "Cathie Wood buys $18 million of beaten-down AI stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-18-million-150700302.html",
-          "pubDate": "2026-04-30T15:07:00Z"
+          "title": "Mark Zuckerberg sends startling message to Meta employees",
+          "summary": "Mark Zuckerberg sends startling message to Meta employees",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-startling-message-133300156.html",
+          "pubDate": "2026-05-02T13:33:00Z"
         },
         {
-          "title": "AVAX One Advances Alberta AI/HPC Site With Behind-the-Meter Natural Gas Model",
-          "summary": "AVAX One Advances Alberta AI/HPC Site With Behind-the-Meter Natural Gas Model",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/avax-one-advances-alberta-ai-153900436.html",
-          "pubDate": "2026-04-30T15:39:00Z"
+          "title": "Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results",
+          "summary": "Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/deutsche-bank-keeps-hold-rating-224031215.html",
+          "pubDate": "2026-05-02T22:40:31Z"
         },
         {
-          "title": "Bristol Myers beats quarterly profit estimates on blood thinner, cancer drug sales",
-          "summary": "Bristol Myers beats quarterly profit estimates on blood thinner, cancer drug sales",
-          "link": "https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-posts-higher-expected-115459159.html",
-          "pubDate": "2026-04-30T15:41:09Z"
+          "title": "Mizuho Says Micron (MU) Cheap as Memory Demand Grows",
+          "summary": "Mizuho Says Micron (MU) Cheap as Memory Demand Grows",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-says-micron-mu-cheap-224022736.html",
+          "pubDate": "2026-05-02T22:40:22Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
-          "summary": "Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, this creature, named Tanyka amnicola, belonged to an ancient lineage that should have already faded away, making it a kind of “living fossil” of its time.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
-          "pubDate": "Fri, 01 May 2026 09:07:15 EDT"
+          "title": "18th-century mechanical volcano roars to life 250 years later",
+          "summary": "A centuries-old vision of a mechanical volcano has finally erupted into reality, as two University of Melbourne engineering students recreated a design first imagined in 1775 by volcanology enthusiast Sir William Hamilton. Drawing from an 18th-century watercolor and a preserved sketch, they used modern tools like LED lighting and electronic systems to simulate the glowing flows and explosive drama of Mount Vesuvius.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+          "pubDate": "Sat, 02 May 2026 09:27:56 EDT"
         },
         {
-          "title": "This “Pink Floyd” spider hunts prey 6x its size and lives in walls",
-          "summary": "Scientists have uncovered a tiny wall-dwelling spider named Pikelinia floydmuraria, inspired by Pink Floyd. Despite its size, it’s a fierce predator that hunts ants much larger than itself and helps reduce common urban pests like mosquitoes and flies. Its clever strategy of building webs near lights makes it especially effective. The discovery also raises new questions about its mysterious link to similar spiders in the Galápagos.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260501052851.htm",
-          "pubDate": "Fri, 01 May 2026 08:27:27 EDT"
+          "title": "Boosting one protein helps the brain fight Alzheimer’s",
+          "summary": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
+          "pubDate": "Sat, 02 May 2026 08:57:35 EDT"
         },
         {
-          "title": "You don’t need intense workouts to build muscle, new study reveals",
-          "summary": "Building muscle doesn’t have to mean exhausting workouts or soreness. Researchers found that slow, controlled “lowering” movements can boost strength more efficiently while requiring less effort. Even five minutes a day of simple exercises like chair squats or wall push-ups can make a real difference. It’s a smarter, easier way to get stronger—no gym required.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260501052830.htm",
-          "pubDate": "Fri, 01 May 2026 10:07:35 EDT"
+          "title": "The “big one” might not come alone: Double West Coast earthquake threat",
+          "summary": "Two of the most dangerous fault systems on the U.S. West Coast may be more connected than scientists once thought. New research suggests the Cascadia subduction zone and the San Andreas fault can “sync up,” triggering earthquakes within minutes or hours of each other. This rare “synchronization” could dramatically increase the scale of a major West Coast disaster. Instead of one massive quake, multiple regions could be hit at nearly the same time.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260502002153.htm",
+          "pubDate": "Sat, 02 May 2026 08:47:20 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "siteName": "Science News",
       "items": [
         {
