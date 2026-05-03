@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-02T23:00:03.671Z",
-  "date": "2026-05-03",
+  "lastUpdate": "2026-05-03T23:00:57.872Z",
+  "date": "2026-05-04",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Tovala Family Meals Review: Good Food, Lots of Salt",
-          "summary": "Tovala is a meal kit that comes with a smart oven, or a smart oven that comes with a meal kit. New family meals make it much more useful. But lord, the sodium.",
-          "link": "https://www.wired.com/review/tovala-oven-meal-kit-review-2026/",
-          "pubDate": "Sat, 02 May 2026 13:33:00 +0000"
+          "title": "Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige",
+          "summary": "This $2,000 Asus laptop delivers breathtaking performance thanks to Qualcomm's Snapdragon X2 Elite Extreme, but at the cost of nearly everything else.",
+          "link": "https://www.wired.com/review/asus-zenbook-a16-2026/",
+          "pubDate": "Sun, 03 May 2026 11:30:00 +0000"
         },
         {
-          "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
-          "summary": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
-          "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
-          "pubDate": "Sat, 02 May 2026 11:30:00 +0000"
+          "title": "15 Best Gifts for Plant Lovers and Gardeners (2026)",
+          "summary": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
+          "link": "https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners/",
+          "pubDate": "Sun, 03 May 2026 11:00:00 +0000"
         },
         {
-          "title": "8 Best Travel Adapters (2026), Tested and Reviewed",
-          "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers.",
-          "link": "https://www.wired.com/gallery/best-travel-adapters/",
-          "pubDate": "Sat, 02 May 2026 10:30:00 +0000"
+          "title": "How to Track Your Luggage (2026): AirTag, Pebblebee, CaseSafe",
+          "summary": "A Bluetooth tracker can prevent vacation hell, aka arriving at the beach sans bathing suit. Here are our travel tips for using one.",
+          "link": "https://www.wired.com/story/how-to-track-your-luggage/",
+          "pubDate": "Sun, 03 May 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "AI-generated actors and scripts are now ineligible for Oscars",
-          "summary": "Bad news for Tilly Norwood.",
-          "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-          "pubDate": "Sat, 02 May 2026 21:54:58 +0000"
+          "title": "‘This is fine’ creator says AI startup stole his art",
+          "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+          "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "pubDate": "Sun, 03 May 2026 20:16:51 +0000"
         },
         {
-          "title": "Farewell, Jeeves: Ask.com shuts down",
-          "summary": "Owner IAC says it's discontinuing its search business.",
-          "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
-          "pubDate": "Sat, 02 May 2026 21:11:28 +0000"
+          "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+          "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+          "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+          "pubDate": "Sun, 03 May 2026 18:00:09 +0000"
         },
         {
-          "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-          "summary": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
-          "link": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
-          "pubDate": "Sat, 02 May 2026 17:05:41 +0000"
+          "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+          "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+          "pubDate": "Sun, 03 May 2026 16:05:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-          "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
-          "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 02 May 2026 16:35:18 GMT"
+          "title": "Iran says US has responded to its latest peace proposal",
+          "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+          "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 03 May 2026 21:28:09 GMT"
         },
         {
-          "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
-          "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
-          "link": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 02 May 2026 14:18:14 GMT"
+          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+          "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+          "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 02 May 2026 23:19:27 GMT"
         },
         {
-          "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-          "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-          "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 02 May 2026 16:51:18 GMT"
+          "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+          "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+          "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 03 May 2026 22:13:36 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting",
+          "summary": "The reviews from longtime shareholders and professional investors were broadly positive, even as many acknowledged the notable absence of Warren Buffett.",
+          "link": "https://www.cnbc.com/2026/05/03/berkshire-ceo-greg-abel-earns-solid-first-scorecard-after-first-annual-meeting.html",
+          "pubDate": "Sun, 03 May 2026 21:14:08 GMT"
+        },
         {
           "title": "JPMorgan&apos;s Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
           "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
           "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
-          "pubDate": "Sat, 02 May 2026 16:37:52 GMT"
+          "pubDate": "Sat, 02 May 2026 23:23:07 GMT"
         },
         {
           "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
           "summary": "The mood in the air was cautiously optimistic as new and returning investors weighed the company's direction under a new chief executive.",
           "link": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
           "pubDate": "Fri, 01 May 2026 21:39:03 GMT"
-        },
-        {
-          "title": "Berkshire Hathaway’s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
-          "summary": "Greg Abel made a point of stopping by every booth in the hall, greeting employees and shaking hands with shareholders.",
-          "link": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
-          "pubDate": "Fri, 01 May 2026 22:18:59 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Sunday shows preview: VRA ruling fuels redistricting battle; Iran war crosses 60 days",
-          "summary": "The Supreme Court’s recent ruling on the Voting Rights Act has triggered a fast-moving redistricting fight across the South, with lawmakers in several states pushing for new congressional and legislative maps even amid uncertainty over whether changes can be made in time for the November midterm elections. The Supreme Court declared Louisiana’s second majority-Black congressional&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5861008-sunday-shows-preview-vra-ruling-fuels-redistricting-battle-iran-war-crosses-60-days/",
-          "pubDate": "Sat, 02 May 2026 22:00:12 +0000"
+          "title": "Preservation group asks judge to block reported Trump&#8217;s planned renovation of East Potomac Golf Course",
+          "summary": "A preservation watchdog group asked a federal judge Sunday to block the Trump administration from going ahead with reported plans to close East Potomac Golf Links for renovations. NOTUS reported Friday that landscaping, deferred maintenance and tree-clearing work would begin on Monday at the course, located on Hains Point outside of Washington, D.C. The course&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5861609-preservation-group-lawsuit-trump-east-potomac/",
+          "pubDate": "Sun, 03 May 2026 22:05:33 +0000"
         },
         {
-          "title": "Duffy: Iran war ‘was not the impetus’ for Spirit shutting down amid rising fuel prices",
-          "summary": "Transportation Secretary Sean Duffy rebuffed the suggestion that Spirit Airlines was forced to shut down as a result of rising fuel prices brought on by the Iran war.&#160; “Spirit was in dire straits long before the war with Iran,” Duffy said during a press conference in New Jersey on Saturday.&#160; “Multiple times, they filed for&#8230;",
-          "link": "https://thehill.com/policy/transportation/5861009-spirit-airlines-shutdown-duffy-response/",
-          "pubDate": "Sat, 02 May 2026 21:52:17 +0000"
+          "title": "Trump says US will help free ships in Strait of Hormuz",
+          "summary": "President Trump said Sunday that the U.S. will assist in freeing ships in the Strait of Hormuz, a key waterway for the oil industry, which has been closed during the conflict with Iran. “Countries from all over the World, almost all of which are not involved in the Middle Eastern dispute going on so visibly,&#8230;",
+          "link": "https://thehill.com/homenews/administration/5861608-trump-us-help-free-ships-strait-of-hormuz/",
+          "pubDate": "Sun, 03 May 2026 21:55:39 +0000"
         },
         {
-          "title": "‘Shock and share’: Iran makes social media a key front in war against America",
-          "summary": "Sassy comebacks, sarcastic insults and glossy AI-generated videos have all been key tools in Iran’s retaliation against the United States, as social media has become a key front in the more than two-month war.&#160; The battle playing out online demonstrates the Islamic Republic’s investment in communications and technology as a key part of its arsenal.&#8230;",
-          "link": "https://thehill.com/policy/international/5858556-iran-social-media-warfare/",
-          "pubDate": "Sat, 02 May 2026 21:00:00 +0000"
+          "title": "Trump attends PGA Tour event at his Doral golf resort",
+          "summary": "President Trump arrived at his Doral golf resort on Sunday, as the PGA Tour returned to the venue for the first time since 2016. The president was caught on camera in a spectator suite during the Golf Channel broadcast of the final round of the Cadillac Championship. He was joined by his son, Eric Trump,&#8230;",
+          "link": "https://thehill.com/homenews/administration/5861560-trump-pga-tour-doral-return/",
+          "pubDate": "Sun, 03 May 2026 21:10:10 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,45 +213,45 @@
           "pubDate": "2026-05-02T13:33:00Z"
         },
         {
-          "title": "Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results",
-          "summary": "Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/deutsche-bank-keeps-hold-rating-224031215.html",
-          "pubDate": "2026-05-02T22:40:31Z"
+          "title": "Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To Guide Ships Through Hormuz",
+          "summary": "Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To Guide Ships Through Hormuz",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-apple-broadcom-buy-zones/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-05-03T22:34:46Z"
         },
         {
-          "title": "Mizuho Says Micron (MU) Cheap as Memory Demand Grows",
-          "summary": "Mizuho Says Micron (MU) Cheap as Memory Demand Grows",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-says-micron-mu-cheap-224022736.html",
-          "pubDate": "2026-05-02T22:40:22Z"
+          "title": "SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars — here's the plan",
+          "summary": "SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars — here's the plan",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-pay-elon-musk-bonus-215500297.html",
+          "pubDate": "2026-05-03T21:55:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "18th-century mechanical volcano roars to life 250 years later",
-          "summary": "A centuries-old vision of a mechanical volcano has finally erupted into reality, as two University of Melbourne engineering students recreated a design first imagined in 1775 by volcanology enthusiast Sir William Hamilton. Drawing from an 18th-century watercolor and a preserved sketch, they used modern tools like LED lighting and electronic systems to simulate the glowing flows and explosive drama of Mount Vesuvius.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
-          "pubDate": "Sat, 02 May 2026 09:27:56 EDT"
+          "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+          "summary": "Astronomers have unleashed a powerful new AI tool called RAVEN to comb through data from NASA’s TESS mission—and it’s paying off in a big way. By analyzing millions of stars, the system has confirmed over 100 exoplanets, including 31 brand-new worlds, and identified thousands more promising candidates. What makes this especially exciting is the discovery of rare and extreme planets, like those that whip around their stars in less than a day and others lurking in the mysterious “Neptunian desert,” where planets are thought to be scarce.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm",
+          "pubDate": "Sun, 03 May 2026 00:56:52 EDT"
         },
         {
-          "title": "Boosting one protein helps the brain fight Alzheimer’s",
-          "summary": "Scientists have discovered a way to help the brain clean itself of harmful Alzheimer’s plaques by activating its own support cells. By increasing a protein called Sox9, researchers were able to boost the activity of astrocytes, star shaped cells that help maintain brain health. In mice that already showed memory problems, this approach reduced plaque buildup and preserved cognitive function over time.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
-          "pubDate": "Sat, 02 May 2026 08:57:35 EDT"
+          "title": "Are your memories real? Physicists revisit the Boltzmann brain paradox",
+          "summary": "A new analysis of the “Boltzmann brain” paradox suggests our memories and sense of reality could, in theory, be random illusions born from cosmic chaos. By uncovering circular reasoning in how physicists think about time and entropy, the study raises fresh doubts about what we can truly know about the past.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260502233922.htm",
+          "pubDate": "Sun, 03 May 2026 07:47:08 EDT"
         },
         {
-          "title": "The “big one” might not come alone: Double West Coast earthquake threat",
-          "summary": "Two of the most dangerous fault systems on the U.S. West Coast may be more connected than scientists once thought. New research suggests the Cascadia subduction zone and the San Andreas fault can “sync up,” triggering earthquakes within minutes or hours of each other. This rare “synchronization” could dramatically increase the scale of a major West Coast disaster. Instead of one massive quake, multiple regions could be hit at nearly the same time.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260502002153.htm",
-          "pubDate": "Sat, 02 May 2026 08:47:20 EDT"
+          "title": "Physicists just found a tiny flaw in time itself",
+          "summary": "Physicists are rethinking one of quantum mechanics’ biggest puzzles: how fuzzy possibilities become definite reality. New research suggests that spontaneous “collapse” processes—possibly linked to gravity—could subtly blur time itself. This wouldn’t affect clocks we use today, but it reveals a hidden limit to how precise time can ever be. The findings open a new path toward uniting quantum physics with gravity.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260502233918.htm",
+          "pubDate": "Sun, 03 May 2026 09:40:13 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "siteName": "Science News",
       "items": [
         {
