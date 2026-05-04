@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-03T23:00:57.872Z",
-  "date": "2026-05-04",
+  "lastUpdate": "2026-05-04T23:00:55.476Z",
+  "date": "2026-05-05",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige",
-          "summary": "This $2,000 Asus laptop delivers breathtaking performance thanks to Qualcomm's Snapdragon X2 Elite Extreme, but at the cost of nearly everything else.",
-          "link": "https://www.wired.com/review/asus-zenbook-a16-2026/",
-          "pubDate": "Sun, 03 May 2026 11:30:00 +0000"
+          "title": "What to Know About Sony’s $7.85 Million PlayStation Settlement",
+          "summary": "Are you eligible for a payout? Probably, but it might take a while and will likely be pretty small.",
+          "link": "https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/",
+          "pubDate": "Mon, 04 May 2026 21:22:03 +0000"
         },
         {
-          "title": "15 Best Gifts for Plant Lovers and Gardeners (2026)",
-          "summary": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
-          "link": "https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners/",
-          "pubDate": "Sun, 03 May 2026 11:00:00 +0000"
+          "title": "7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages",
+          "summary": "Upgrade your locks with fingerprint-scanning or a keypad, whether it’s at the front door or a sliding glass entryway.",
+          "link": "https://www.wired.com/story/best-smart-locks/",
+          "pubDate": "Mon, 04 May 2026 19:42:52 +0000"
         },
         {
-          "title": "How to Track Your Luggage (2026): AirTag, Pebblebee, CaseSafe",
-          "summary": "A Bluetooth tracker can prevent vacation hell, aka arriving at the beach sans bathing suit. Here are our travel tips for using one.",
-          "link": "https://www.wired.com/story/how-to-track-your-luggage/",
-          "pubDate": "Sun, 03 May 2026 11:00:00 +0000"
+          "title": "Best Mother’s Day Deals on Mom-Approved Gifts (2026)",
+          "summary": "Give Mom the best and save some cash in the process with these legitimate discounts on WIRED-approved gifts.",
+          "link": "https://www.wired.com/story/mothers-day-deals-2026/",
+          "pubDate": "Mon, 04 May 2026 17:22:43 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "‘This is fine’ creator says AI startup stole his art",
-          "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-          "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-          "pubDate": "Sun, 03 May 2026 20:16:51 +0000"
+          "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+          "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+          "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+          "pubDate": "Mon, 04 May 2026 22:21:32 +0000"
         },
         {
-          "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-          "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-          "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-          "pubDate": "Sun, 03 May 2026 18:00:09 +0000"
+          "title": "OpenAI&#8217;s cozy partner Cerebras is on track for a blockbuster IPO",
+          "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+          "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+          "pubDate": "Mon, 04 May 2026 21:53:21 +0000"
         },
         {
-          "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
-          "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-          "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
-          "pubDate": "Sun, 03 May 2026 16:05:00 +0000"
+          "title": "Image AI models now drive app growth, beating chatbot upgrades",
+          "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+          "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+          "pubDate": "Mon, 04 May 2026 19:12:49 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran says US has responded to its latest peace proposal",
-          "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-          "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 03 May 2026 21:28:09 GMT"
+          "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+          "summary": "Meanwhile shipping company Maersk said one of its US-flagged commercial vessels had successfully exited the Strait of Hormuz under US military protection.",
+          "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 04 May 2026 22:44:07 GMT"
         },
         {
-          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-          "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
-          "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 02 May 2026 23:19:27 GMT"
+          "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+          "summary": "A 33-year-old German citizen was detained following the incident, the authorities say.",
+          "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 04 May 2026 21:33:17 GMT"
         },
         {
-          "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-          "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+          "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+          "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
           "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 03 May 2026 22:13:36 GMT"
+          "pubDate": "Mon, 04 May 2026 22:18:41 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting",
-          "summary": "The reviews from longtime shareholders and professional investors were broadly positive, even as many acknowledged the notable absence of Warren Buffett.",
-          "link": "https://www.cnbc.com/2026/05/03/berkshire-ceo-greg-abel-earns-solid-first-scorecard-after-first-annual-meeting.html",
-          "pubDate": "Sun, 03 May 2026 21:14:08 GMT"
+          "title": "Traders are doubtful Cohen&apos;s GameStop can pull off monster eBay acquisition",
+          "summary": "Traders on Kalshi and Polymarket give the company just a 25% and 15% chance, respectively, of successfully buying the online marketplace.",
+          "link": "https://www.cnbc.com/2026/05/04/traders-are-doubtful-cohens-gamestop-can-pull-off-monster-ebay-acquisition.html",
+          "pubDate": "Mon, 04 May 2026 19:30:48 GMT"
         },
         {
-          "title": "JPMorgan&apos;s Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
-          "summary": "As fears about a credit crisis rise, bond investors may be too complacent with Kevin Warsh to become next Fed chair and volatility in rates likely to follow.",
-          "link": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
-          "pubDate": "Sat, 02 May 2026 23:23:07 GMT"
+          "title": "Kalshi traders see April jobs report coming in better than economists&apos; estimates",
+          "summary": "The figure is higher than consensus estimates for 57,000 jobs gained in April, according to analysts polled by FactSet.",
+          "link": "https://www.cnbc.com/2026/05/04/kalshi-traders-see-april-jobs-report-coming-in-better-than-economists-estimates.html",
+          "pubDate": "Mon, 04 May 2026 18:48:20 GMT"
         },
         {
-          "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
-          "summary": "The mood in the air was cautiously optimistic as new and returning investors weighed the company's direction under a new chief executive.",
-          "link": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
-          "pubDate": "Fri, 01 May 2026 21:39:03 GMT"
+          "title": "Traffic in the Strait of Hormuz won’t return to normal until August or later, according to Kalshi traders",
+          "summary": "With a lack of a breakthrough in negotiations between the U.S. and Iran, traders increasingly see traffic returning to normal later and later.",
+          "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
+          "pubDate": "Mon, 04 May 2026 18:46:25 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Preservation group asks judge to block reported Trump&#8217;s planned renovation of East Potomac Golf Course",
-          "summary": "A preservation watchdog group asked a federal judge Sunday to block the Trump administration from going ahead with reported plans to close East Potomac Golf Links for renovations. NOTUS reported Friday that landscaping, deferred maintenance and tree-clearing work would begin on Monday at the course, located on Hains Point outside of Washington, D.C. The course&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5861609-preservation-group-lawsuit-trump-east-potomac/",
-          "pubDate": "Sun, 03 May 2026 22:05:33 +0000"
+          "title": "Jeffries leads redistricting effort in New York",
+          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Monday he was devising a plan for redistricting in New York. The effort follows Florida’s decision to pursue new congressional maps and a Voting Rights Act decision from the Supreme Court that could change the math of some states&#8217; districts ahead of the November midterms. In a statement,&#8230;",
+          "link": "https://thehill.com/homenews/house/5862987-jeffries-redistricting-plan-new-york/",
+          "pubDate": "Mon, 04 May 2026 22:33:25 +0000"
         },
         {
-          "title": "Trump says US will help free ships in Strait of Hormuz",
-          "summary": "President Trump said Sunday that the U.S. will assist in freeing ships in the Strait of Hormuz, a key waterway for the oil industry, which has been closed during the conflict with Iran. “Countries from all over the World, almost all of which are not involved in the Middle Eastern dispute going on so visibly,&#8230;",
-          "link": "https://thehill.com/homenews/administration/5861608-trump-us-help-free-ships-strait-of-hormuz/",
-          "pubDate": "Sun, 03 May 2026 21:55:39 +0000"
+          "title": "Live updates: Stars arrive at Met Gala 2026, US, Iran trade fire amid Strait of Hormuz tension",
+          "summary": "Stars have begun arriving at the steps of the Metropolitan Museum of Art in New York City to attend Monday&#8217;s Met Gala. This year’s event is co-chaired by Beyoncé, Nicole Kidman, Venus Williams and Anna Wintour, with Anthony Vaccarello and Zoë Kravitz serving as committee co-chairs. The theme for this year is “Costume Art,” and&#8230;",
+          "link": "https://thehill.com/homenews/administration/5861237-live-updates-met-gala-2026-bezos-donald-trump-iran/",
+          "pubDate": "Mon, 04 May 2026 22:12:23 +0000"
         },
         {
-          "title": "Trump attends PGA Tour event at his Doral golf resort",
-          "summary": "President Trump arrived at his Doral golf resort on Sunday, as the PGA Tour returned to the venue for the first time since 2016. The president was caught on camera in a spectator suite during the Golf Channel broadcast of the final round of the Cadillac Championship. He was joined by his son, Eric Trump,&#8230;",
-          "link": "https://thehill.com/homenews/administration/5861560-trump-pga-tour-doral-return/",
-          "pubDate": "Sun, 03 May 2026 21:10:10 +0000"
+          "title": "In feud with Trump, Jeffries weighs risks of how to respond",
+          "summary": "President Trump’s escalated attacks on House Minority Leader Hakeem Jeffries (D-N.Y.) have created opportunities for Democrats racing to seize control of the lower chamber in this year’s midterm elections. But they also carry plenty of political risks. Trump is widely unpopular on the national stage, and Democrats want to showcase their opposition to the president in an&#8230;",
+          "link": "https://thehill.com/homenews/house/5862960-jeffries-trump-feud-democrats-risks/",
+          "pubDate": "Mon, 04 May 2026 22:05:04 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Mark Zuckerberg sends startling message to Meta employees",
-          "summary": "Mark Zuckerberg sends startling message to Meta employees",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-startling-message-133300156.html",
-          "pubDate": "2026-05-02T13:33:00Z"
+          "title": "Amex GBT agrees to $6.3 billion take-private deal with Long Lake",
+          "summary": "Amex GBT agrees to $6.3 billion take-private deal with Long Lake",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/amex-gbt-agrees-6-3-163512714.html",
+          "pubDate": "2026-05-04T16:35:12Z"
         },
         {
-          "title": "Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To Guide Ships Through Hormuz",
-          "summary": "Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To Guide Ships Through Hormuz",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-apple-broadcom-buy-zones/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-05-03T22:34:46Z"
+          "title": "Lizzo loses nearly $4M on her LA mansion — a third of its value. How to know when selling at a loss is the right move",
+          "summary": "Lizzo loses nearly $4M on her LA mansion — a third of its value. How to know when selling at a loss is the right move",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/lizzo-loses-nearly-4m-her-143500731.html",
+          "pubDate": "2026-05-03T14:35:00Z"
         },
         {
-          "title": "SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars — here's the plan",
-          "summary": "SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars — here's the plan",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-pay-elon-musk-bonus-215500297.html",
-          "pubDate": "2026-05-03T21:55:00Z"
+          "title": "Gavin Newsom issues ‘final warning’ amid California’s dire housing crisis — what’s at stake for millions of residents",
+          "summary": "Gavin Newsom issues ‘final warning’ amid California’s dire housing crisis — what’s at stake for millions of residents",
+          "link": "https://finance.yahoo.com/economy/policy/articles/gavin-newsom-issues-final-warning-140000902.html",
+          "pubDate": "2026-05-03T14:00:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
-          "summary": "Astronomers have unleashed a powerful new AI tool called RAVEN to comb through data from NASA’s TESS mission—and it’s paying off in a big way. By analyzing millions of stars, the system has confirmed over 100 exoplanets, including 31 brand-new worlds, and identified thousands more promising candidates. What makes this especially exciting is the discovery of rare and extreme planets, like those that whip around their stars in less than a day and others lurking in the mysterious “Neptunian desert,” where planets are thought to be scarce.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm",
-          "pubDate": "Sun, 03 May 2026 00:56:52 EDT"
+          "title": "This simple amino acid supplement greatly reduces Alzheimer’s damage",
+          "summary": "A new study suggests a surprisingly simple compound could help fight Alzheimer’s disease. Researchers found that arginine—an inexpensive amino acid already considered safe—can reduce the buildup of toxic amyloid proteins in the brain, a hallmark of the disease. In animal models, oral arginine not only lowered harmful protein deposits but also improved behavior and reduced brain inflammation.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260504075512.htm",
+          "pubDate": "Mon, 04 May 2026 11:15:58 EDT"
         },
         {
-          "title": "Are your memories real? Physicists revisit the Boltzmann brain paradox",
-          "summary": "A new analysis of the “Boltzmann brain” paradox suggests our memories and sense of reality could, in theory, be random illusions born from cosmic chaos. By uncovering circular reasoning in how physicists think about time and entropy, the study raises fresh doubts about what we can truly know about the past.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260502233922.htm",
-          "pubDate": "Sun, 03 May 2026 07:47:08 EDT"
+          "title": "The da Vinci bloodline is unlocking the genius’s genetic secrets",
+          "summary": "After centuries of mystery, scientists are edging closer to uncovering Leonardo da Vinci’s biological secrets. A massive 30-year effort has mapped his family across 21 generations, identified living male descendants, and even confirmed shared DNA markers that stretch back to the Renaissance. Meanwhile, excavations at a family tomb in Vinci could provide ancient remains for comparison, raising the possibility of reconstructing Leonardo’s genetic profile.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260504074826.htm",
+          "pubDate": "Mon, 04 May 2026 08:46:48 EDT"
         },
         {
-          "title": "Physicists just found a tiny flaw in time itself",
-          "summary": "Physicists are rethinking one of quantum mechanics’ biggest puzzles: how fuzzy possibilities become definite reality. New research suggests that spontaneous “collapse” processes—possibly linked to gravity—could subtly blur time itself. This wouldn’t affect clocks we use today, but it reveals a hidden limit to how precise time can ever be. The findings open a new path toward uniting quantum physics with gravity.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260502233918.htm",
-          "pubDate": "Sun, 03 May 2026 09:40:13 EDT"
+          "title": "Greenland ice melt has surged sixfold and scientists are alarmed",
+          "summary": "Greenland’s ice sheet is now melting in ways never seen before, with extreme events becoming more frequent, widespread, and intense. Since 1990, meltwater production has skyrocketed, and most record-breaking events have occurred in recent years. Scientists say warming temperatures are supercharging these episodes beyond natural climate patterns.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260504023852.htm",
+          "pubDate": "Mon, 04 May 2026 10:23:46 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "A small object past Pluto may have a thin atmosphere",
+          "summary": "A brief stellar eclipse suggests the tiny 2002 XV93 has a thin atmosphere — a first for any solar system body farther from the sun than Pluto.",
+          "link": "https://www.sciencenews.org/article/atmosphere-small-object-past-pluto",
+          "pubDate": "Mon, 04 May 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Newly mapped brain networks link far-flung regions",
+          "summary": "In mouse brains, star-shaped astrocytes form flexible networks that may offer another way for brain regions to communicate.",
+          "link": "https://www.sciencenews.org/article/astrocytes-brain-networks-communicate",
+          "pubDate": "Mon, 04 May 2026 13:00:00 +0000"
+        },
         {
           "title": "Celebrate America’s 250th birthday at a new state flower exhibit",
           "summary": "Stop and smell America’s state flowers at the U.S. Botanic Garden in Washington, D.C., open now through October 12, 2026.",
           "link": "https://www.sciencenews.org/article/america-250-state-flower-exhibit",
           "pubDate": "Fri, 01 May 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Peptides are unproven as health aids. FDA may unleash them anyway",
-          "summary": "Rather than reining in the compounds, the FDA may be poised to broaden access, perhapas even adding peptides to supplements. Experts say “buyer beware.”",
-          "link": "https://www.sciencenews.org/article/peptides-unproven-health-fda-access",
-          "pubDate": "Fri, 01 May 2026 14:00:00 +0000"
-        },
-        {
-          "title": "Cows’ methane burps may be fueled by a newfound organelle in gut microbes",
-          "summary": "In cows’ guts, ciliates contain a tiny organelle called a hydrogenobody that may drive production of methane, a potent greenhouse gas.",
-          "link": "https://www.sciencenews.org/article/cows-methane-burps-may-be-fueled-by-a-newfound-organelle-in-gut-microbes",
-          "pubDate": "Thu, 30 Apr 2026 18:00:00 +0000"
         }
       ]
     }
