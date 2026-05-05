@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-04T23:00:55.476Z",
-  "date": "2026-05-05",
+  "lastUpdate": "2026-05-05T23:01:01.641Z",
+  "date": "2026-05-06",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "What to Know About Sony’s $7.85 Million PlayStation Settlement",
-          "summary": "Are you eligible for a payout? Probably, but it might take a while and will likely be pretty small.",
-          "link": "https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/",
-          "pubDate": "Mon, 04 May 2026 21:22:03 +0000"
+          "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
+          "summary": "Courts may restrict access to the popular abortion medication mifepristone in the United States. Telehealth providers have backup plans in place.",
+          "link": "https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/",
+          "pubDate": "Tue, 05 May 2026 21:05:40 +0000"
         },
         {
-          "title": "7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages",
-          "summary": "Upgrade your locks with fingerprint-scanning or a keypad, whether it’s at the front door or a sliding glass entryway.",
-          "link": "https://www.wired.com/story/best-smart-locks/",
-          "pubDate": "Mon, 04 May 2026 19:42:52 +0000"
+          "title": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
+          "summary": "The voice actors from the original film have returned for the sequel—and not everyone is happy about it.",
+          "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
+          "pubDate": "Tue, 05 May 2026 15:34:33 +0000"
         },
         {
-          "title": "Best Mother’s Day Deals on Mom-Approved Gifts (2026)",
-          "summary": "Give Mom the best and save some cash in the process with these legitimate discounts on WIRED-approved gifts.",
-          "link": "https://www.wired.com/story/mothers-day-deals-2026/",
-          "pubDate": "Mon, 04 May 2026 17:22:43 +0000"
+          "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
+          "summary": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
+          "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
+          "pubDate": "Tue, 05 May 2026 15:10:19 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
-          "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
-          "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
-          "pubDate": "Mon, 04 May 2026 22:21:32 +0000"
+          "title": "Altara secures $7M to bridge the data gap that&#8217;s slowing down physical sciences",
+          "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
+          "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+          "pubDate": "Tue, 05 May 2026 22:57:41 +0000"
         },
         {
-          "title": "OpenAI&#8217;s cozy partner Cerebras is on track for a blockbuster IPO",
-          "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-          "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-          "pubDate": "Mon, 04 May 2026 21:53:21 +0000"
+          "title": "Lucid Motors doesn&#8217;t know how many EVs it will build this year",
+          "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.",
+          "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
+          "pubDate": "Tue, 05 May 2026 22:31:57 +0000"
         },
         {
-          "title": "Image AI models now drive app growth, beating chatbot upgrades",
-          "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-          "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-          "pubDate": "Mon, 04 May 2026 19:12:49 +0000"
+          "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+          "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.",
+          "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
+          "pubDate": "Tue, 05 May 2026 21:15:56 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-          "summary": "Meanwhile shipping company Maersk said one of its US-flagged commercial vessels had successfully exited the Strait of Hormuz under US military protection.",
-          "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 04 May 2026 22:44:07 GMT"
+          "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
+          "summary": "As a spate of incidents in the Strait of Hormuz test the ceasefire, an Iranian official says, \"We are just getting started\".",
+          "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 05 May 2026 22:17:44 GMT"
         },
         {
-          "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-          "summary": "A 33-year-old German citizen was detained following the incident, the authorities say.",
-          "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 04 May 2026 21:33:17 GMT"
+          "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+          "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
+          "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 05 May 2026 16:38:50 GMT"
         },
         {
-          "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
-          "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
-          "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 04 May 2026 22:18:41 GMT"
+          "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+          "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
+          "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 05 May 2026 19:23:18 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Traders are doubtful Cohen&apos;s GameStop can pull off monster eBay acquisition",
-          "summary": "Traders on Kalshi and Polymarket give the company just a 25% and 15% chance, respectively, of successfully buying the online marketplace.",
-          "link": "https://www.cnbc.com/2026/05/04/traders-are-doubtful-cohens-gamestop-can-pull-off-monster-ebay-acquisition.html",
-          "pubDate": "Mon, 04 May 2026 19:30:48 GMT"
+          "title": "Intel and Micron are poised to break major milestones",
+          "summary": "Options traders can't get enough of semiconductor stocks.",
+          "link": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html",
+          "pubDate": "Tue, 05 May 2026 18:55:16 GMT"
         },
         {
-          "title": "Kalshi traders see April jobs report coming in better than economists&apos; estimates",
-          "summary": "The figure is higher than consensus estimates for 57,000 jobs gained in April, according to analysts polled by FactSet.",
-          "link": "https://www.cnbc.com/2026/05/04/kalshi-traders-see-april-jobs-report-coming-in-better-than-economists-estimates.html",
-          "pubDate": "Mon, 04 May 2026 18:48:20 GMT"
+          "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
+          "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
+          "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
+          "pubDate": "Tue, 05 May 2026 19:36:16 GMT"
         },
         {
-          "title": "Traffic in the Strait of Hormuz won’t return to normal until August or later, according to Kalshi traders",
-          "summary": "With a lack of a breakthrough in negotiations between the U.S. and Iran, traders increasingly see traffic returning to normal later and later.",
-          "link": "https://www.cnbc.com/2026/05/04/strait-of-hormuz-traffic-disrupted-until-september-kalshi-traders-say.html",
-          "pubDate": "Mon, 04 May 2026 18:46:25 GMT"
+          "title": "SEC advances Trump-backed proposal to end mandatory quarterly earnings reports",
+          "summary": "The SEC formally proposed a rule change that would allow companies to file semiannual reports on a new form, 10-S, in place of the traditional quarterly10-Qs",
+          "link": "https://www.cnbc.com/2026/05/05/sec-is-close-to-ending-mandatory-quarterly-earnings-reports-that-trump-called-for.html",
+          "pubDate": "Tue, 05 May 2026 18:05:44 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Jeffries leads redistricting effort in New York",
-          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Monday he was devising a plan for redistricting in New York. The effort follows Florida’s decision to pursue new congressional maps and a Voting Rights Act decision from the Supreme Court that could change the math of some states&#8217; districts ahead of the November midterms. In a statement,&#8230;",
-          "link": "https://thehill.com/homenews/house/5862987-jeffries-redistricting-plan-new-york/",
-          "pubDate": "Mon, 04 May 2026 22:33:25 +0000"
+          "title": "Eric Trump shares gold logo for proposed &#8216;Donald J. Trump International Airport&#8217; in Palm Beach",
+          "summary": "Eric Trump, President Trump’s son, unveiled the new logo for Palm Beach International Airport (PBI), which will soon be renamed after his father. The younger Trump posted a photo of the logo to the social platform X. It features a golden eagle, donning a crest shield with stars and stripes, holding two olive branches. Under&#8230;",
+          "link": "https://thehill.com/homenews/administration/5864873-trump-airport-logo-unveiled/",
+          "pubDate": "Tue, 05 May 2026 22:20:06 +0000"
         },
         {
-          "title": "Live updates: Stars arrive at Met Gala 2026, US, Iran trade fire amid Strait of Hormuz tension",
-          "summary": "Stars have begun arriving at the steps of the Metropolitan Museum of Art in New York City to attend Monday&#8217;s Met Gala. This year’s event is co-chaired by Beyoncé, Nicole Kidman, Venus Williams and Anna Wintour, with Anthony Vaccarello and Zoë Kravitz serving as committee co-chairs. The theme for this year is “Costume Art,” and&#8230;",
-          "link": "https://thehill.com/homenews/administration/5861237-live-updates-met-gala-2026-bezos-donald-trump-iran/",
-          "pubDate": "Mon, 04 May 2026 22:12:23 +0000"
+          "title": "Rubio says War Powers Act &#8216;100 percent unconstitutional&#8217;",
+          "summary": "Secretary of State Marco Rubio on Tuesday argued the War Powers Act is unconstitutional, adding that the Trump administration is only complying with “elements” of it to maintain good relations with Congress. “The War Powers Act is unconstitutional, 100 percent,” Rubio told reporters during a White House briefing, claiming that his position has been shared&#8230;",
+          "link": "https://thehill.com/policy/defense/5864920-rubio-argues-war-powers-unconstitutional/",
+          "pubDate": "Tue, 05 May 2026 22:17:05 +0000"
         },
         {
-          "title": "In feud with Trump, Jeffries weighs risks of how to respond",
-          "summary": "President Trump’s escalated attacks on House Minority Leader Hakeem Jeffries (D-N.Y.) have created opportunities for Democrats racing to seize control of the lower chamber in this year’s midterm elections. But they also carry plenty of political risks. Trump is widely unpopular on the national stage, and Democrats want to showcase their opposition to the president in an&#8230;",
-          "link": "https://thehill.com/homenews/house/5862960-jeffries-trump-feud-democrats-risks/",
-          "pubDate": "Mon, 04 May 2026 22:05:04 +0000"
+          "title": "Trump, allies aim to tame Iran rhetoric as war grows unpopular",
+          "summary": "President Trump and his administration officials are sending signals to the MAGA base that they want to calm the waters when it comes to rhetoric on Iran as the war grows unpopular with Republicans and the general public ahead of the midterms.&#160; With the war wreaking havoc on energy prices, Trump, along with Defense Secretary&#8230;",
+          "link": "https://thehill.com/homenews/administration/5864909-trump-administration-signals-iran-calm/",
+          "pubDate": "Tue, 05 May 2026 22:12:47 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,64 +213,64 @@
           "pubDate": "2026-05-04T16:35:12Z"
         },
         {
-          "title": "Lizzo loses nearly $4M on her LA mansion — a third of its value. How to know when selling at a loss is the right move",
-          "summary": "Lizzo loses nearly $4M on her LA mansion — a third of its value. How to know when selling at a loss is the right move",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/lizzo-loses-nearly-4m-her-143500731.html",
-          "pubDate": "2026-05-03T14:35:00Z"
+          "title": "Dollar Supported by Renewed Iran Tensions",
+          "summary": "Dollar Supported by Renewed Iran Tensions",
+          "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-renewed-iran-tensions-143740797.html",
+          "pubDate": "2026-05-04T14:37:40Z"
         },
         {
-          "title": "Gavin Newsom issues ‘final warning’ amid California’s dire housing crisis — what’s at stake for millions of residents",
-          "summary": "Gavin Newsom issues ‘final warning’ amid California’s dire housing crisis — what’s at stake for millions of residents",
-          "link": "https://finance.yahoo.com/economy/policy/articles/gavin-newsom-issues-final-warning-140000902.html",
-          "pubDate": "2026-05-03T14:00:00Z"
+          "title": "BitMine Reports 5.18 Million ETH Holdings as Staking Revenue Reaches $297 Million",
+          "summary": "BitMine Reports 5.18 Million ETH Holdings as Staking Revenue Reaches $297 Million",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-reports-5-18-million-143700546.html",
+          "pubDate": "2026-05-04T14:37:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "This simple amino acid supplement greatly reduces Alzheimer’s damage",
-          "summary": "A new study suggests a surprisingly simple compound could help fight Alzheimer’s disease. Researchers found that arginine—an inexpensive amino acid already considered safe—can reduce the buildup of toxic amyloid proteins in the brain, a hallmark of the disease. In animal models, oral arginine not only lowered harmful protein deposits but also improved behavior and reduced brain inflammation.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260504075512.htm",
-          "pubDate": "Mon, 04 May 2026 11:15:58 EDT"
+          "title": "Breakthrough biomaterial heals tissue from the inside out",
+          "summary": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal studies, it successfully treated heart attack damage and even showed promise for conditions like traumatic brain injury and pulmonary hypertension. Unlike earlier approaches that required direct injection into the heart, this new therapy can be delivered intravenously, allowing it to spread evenly and act quickly.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260504211842.htm",
+          "pubDate": "Tue, 05 May 2026 14:20:47 EDT"
         },
         {
-          "title": "The da Vinci bloodline is unlocking the genius’s genetic secrets",
-          "summary": "After centuries of mystery, scientists are edging closer to uncovering Leonardo da Vinci’s biological secrets. A massive 30-year effort has mapped his family across 21 generations, identified living male descendants, and even confirmed shared DNA markers that stretch back to the Renaissance. Meanwhile, excavations at a family tomb in Vinci could provide ancient remains for comparison, raising the possibility of reconstructing Leonardo’s genetic profile.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260504074826.htm",
-          "pubDate": "Mon, 04 May 2026 08:46:48 EDT"
+          "title": "Scientists say travel could slow aging and boost your health",
+          "summary": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
+          "pubDate": "Mon, 04 May 2026 22:42:07 EDT"
         },
         {
-          "title": "Greenland ice melt has surged sixfold and scientists are alarmed",
-          "summary": "Greenland’s ice sheet is now melting in ways never seen before, with extreme events becoming more frequent, widespread, and intense. Since 1990, meltwater production has skyrocketed, and most record-breaking events have occurred in recent years. Scientists say warming temperatures are supercharging these episodes beyond natural climate patterns.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260504023852.htm",
-          "pubDate": "Mon, 04 May 2026 10:23:46 EDT"
+          "title": "Scientists connect “time crystal” to real device in quantum breakthrough",
+          "summary": "A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-world use. Known as a time crystal, this quantum system repeats its motion endlessly—like a clock that never winds down—and scientists have now managed to connect it to an external device for the first time. By linking the time crystal to a tiny mechanical oscillator, researchers showed they can actually control its behavior, opening the door to powerful new technologies.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
+          "pubDate": "Tue, 05 May 2026 16:53:45 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "What to know about a rare hantavirus outbreak at sea",
+          "summary": "Public health officials are racing to find out how the sometimes deadly hantavirus got aboard a cruise ship and if there has been human-to-human spread.",
+          "link": "https://www.sciencenews.org/article/hantavirus-cruise-ship-outbreak-health",
+          "pubDate": "Tue, 05 May 2026 17:11:55 +0000"
+        },
+        {
+          "title": "Do GLP-1 drugs like Ozempic prevent cancer?",
+          "summary": "Several studies have served up tantalizing hints about the drugs’ potential cancer prevention benefits, but other results land all over the map.",
+          "link": "https://www.sciencenews.org/article/glp-1-drugs-ozempic-cancer-prevention",
+          "pubDate": "Tue, 05 May 2026 13:00:00 +0000"
+        },
         {
           "title": "A small object past Pluto may have a thin atmosphere",
           "summary": "A brief stellar eclipse suggests the tiny 2002 XV93 has a thin atmosphere — a first for any solar system body farther from the sun than Pluto.",
           "link": "https://www.sciencenews.org/article/atmosphere-small-object-past-pluto",
           "pubDate": "Mon, 04 May 2026 15:00:00 +0000"
-        },
-        {
-          "title": "Newly mapped brain networks link far-flung regions",
-          "summary": "In mouse brains, star-shaped astrocytes form flexible networks that may offer another way for brain regions to communicate.",
-          "link": "https://www.sciencenews.org/article/astrocytes-brain-networks-communicate",
-          "pubDate": "Mon, 04 May 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Celebrate America’s 250th birthday at a new state flower exhibit",
-          "summary": "Stop and smell America’s state flowers at the U.S. Botanic Garden in Washington, D.C., open now through October 12, 2026.",
-          "link": "https://www.sciencenews.org/article/america-250-state-flower-exhibit",
-          "pubDate": "Fri, 01 May 2026 16:00:00 +0000"
         }
       ]
     }
