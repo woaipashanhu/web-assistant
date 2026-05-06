@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-05T23:01:01.641Z",
-  "date": "2026-05-06",
+  "lastUpdate": "2026-05-06T23:00:46.656Z",
+  "date": "2026-05-07",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
-          "summary": "Courts may restrict access to the popular abortion medication mifepristone in the United States. Telehealth providers have backup plans in place.",
-          "link": "https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/",
-          "pubDate": "Tue, 05 May 2026 21:05:40 +0000"
+          "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
+          "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “visual cues,” such as height and bone structure.",
+          "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
+          "pubDate": "Wed, 06 May 2026 21:24:18 +0000"
         },
         {
-          "title": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
-          "summary": "The voice actors from the original film have returned for the sequel—and not everyone is happy about it.",
-          "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
-          "pubDate": "Tue, 05 May 2026 15:34:33 +0000"
+          "title": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
+          "summary": "As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they just have to sell the president on it.",
+          "link": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/",
+          "pubDate": "Wed, 06 May 2026 19:32:03 +0000"
         },
         {
-          "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
-          "summary": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
-          "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
-          "pubDate": "Tue, 05 May 2026 15:10:19 +0000"
+          "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+          "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
+          "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+          "pubDate": "Wed, 06 May 2026 18:28:52 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Altara secures $7M to bridge the data gap that&#8217;s slowing down physical sciences",
-          "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
-          "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-          "pubDate": "Tue, 05 May 2026 22:57:41 +0000"
+          "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+          "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
+          "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+          "pubDate": "Wed, 06 May 2026 22:30:00 +0000"
         },
         {
-          "title": "Lucid Motors doesn&#8217;t know how many EVs it will build this year",
-          "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.",
-          "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
-          "pubDate": "Tue, 05 May 2026 22:31:57 +0000"
+          "title": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.",
+          "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+          "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+          "pubDate": "Wed, 06 May 2026 21:57:56 +0000"
         },
         {
-          "title": "As crypto cools, a16z crypto raises a $2.2B fund",
-          "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.",
-          "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
-          "pubDate": "Tue, 05 May 2026 21:15:56 +0000"
+          "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
+          "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+          "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+          "pubDate": "Wed, 06 May 2026 21:43:24 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
-          "summary": "As a spate of incidents in the Strait of Hormuz test the ceasefire, an Iranian official says, \"We are just getting started\".",
-          "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 05 May 2026 22:17:44 GMT"
+          "title": "Iran considering US proposal to end war, official says",
+          "summary": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
+          "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 06 May 2026 21:27:59 GMT"
         },
         {
-          "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-          "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
-          "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 05 May 2026 16:38:50 GMT"
+          "title": "Trump's hopes for an Iran peace deal come with caveats",
+          "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
+          "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 06 May 2026 17:32:04 GMT"
         },
         {
-          "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-          "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
-          "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 05 May 2026 19:23:18 GMT"
+          "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+          "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+          "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 06 May 2026 19:58:04 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Intel and Micron are poised to break major milestones",
-          "summary": "Options traders can't get enough of semiconductor stocks.",
-          "link": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html",
-          "pubDate": "Tue, 05 May 2026 18:55:16 GMT"
+          "title": "Goodbye quarterly earnings? Here&apos;s when traders believe this big change will happen",
+          "summary": "Traders are evenly divided as to whether the change will happen by Jan. 1. That would be an unusually fast timeline for the commission.",
+          "link": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html",
+          "pubDate": "Wed, 06 May 2026 17:48:21 GMT"
         },
         {
-          "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-          "summary": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
-          "link": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html",
-          "pubDate": "Tue, 05 May 2026 19:36:16 GMT"
+          "title": "Apollo CEO Rowan warns of market correction, slams &apos;egregious&apos; practices at rival insurers",
+          "summary": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
+          "link": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
+          "pubDate": "Wed, 06 May 2026 20:33:58 GMT"
         },
         {
-          "title": "SEC advances Trump-backed proposal to end mandatory quarterly earnings reports",
-          "summary": "The SEC formally proposed a rule change that would allow companies to file semiannual reports on a new form, 10-S, in place of the traditional quarterly10-Qs",
-          "link": "https://www.cnbc.com/2026/05/05/sec-is-close-to-ending-mandatory-quarterly-earnings-reports-that-trump-called-for.html",
-          "pubDate": "Tue, 05 May 2026 18:05:44 GMT"
+          "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+          "summary": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
+          "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+          "pubDate": "Wed, 06 May 2026 20:04:33 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Eric Trump shares gold logo for proposed &#8216;Donald J. Trump International Airport&#8217; in Palm Beach",
-          "summary": "Eric Trump, President Trump’s son, unveiled the new logo for Palm Beach International Airport (PBI), which will soon be renamed after his father. The younger Trump posted a photo of the logo to the social platform X. It features a golden eagle, donning a crest shield with stars and stripes, holding two olive branches. Under&#8230;",
-          "link": "https://thehill.com/homenews/administration/5864873-trump-airport-logo-unveiled/",
-          "pubDate": "Tue, 05 May 2026 22:20:06 +0000"
+          "title": "Trump economic adviser: &#8216;Credit card spending is through the roof&#8217;",
+          "summary": "One of President Trump’s economic advisers projected a “very, very strong” job market future in the U.S. on Wednesday, despite price hikes amid the Iran war. “I had the head of one of the big five banks in my office yesterday going through credit card data … and credit card spending is through the roof,”&#8230;",
+          "link": "https://thehill.com/homenews/administration/5867139-strong-job-market-us/",
+          "pubDate": "Wed, 06 May 2026 22:26:16 +0000"
         },
         {
-          "title": "Rubio says War Powers Act &#8216;100 percent unconstitutional&#8217;",
-          "summary": "Secretary of State Marco Rubio on Tuesday argued the War Powers Act is unconstitutional, adding that the Trump administration is only complying with “elements” of it to maintain good relations with Congress. “The War Powers Act is unconstitutional, 100 percent,” Rubio told reporters during a White House briefing, claiming that his position has been shared&#8230;",
-          "link": "https://thehill.com/policy/defense/5864920-rubio-argues-war-powers-unconstitutional/",
-          "pubDate": "Tue, 05 May 2026 22:17:05 +0000"
+          "title": "Neil deGrasse Tyson: &#8216;I expect the alien files will be anticlimactic&#8217;",
+          "summary": "Astrophysicist Neil deGrasse Tyson predicted that government files on UFOs and unidentified anomalous phenomena (UAPs) “will be anticlimactic.” “The impending release of U.S. government files on aliens and U.F.O.s is a good thing, even if it feels like a distraction from other important files we’ve all been waiting to be disclosed. I expect the alien&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5867099-neil-degrasse-tyson-us-ufo-files/",
+          "pubDate": "Wed, 06 May 2026 22:13:12 +0000"
         },
         {
-          "title": "Trump, allies aim to tame Iran rhetoric as war grows unpopular",
-          "summary": "President Trump and his administration officials are sending signals to the MAGA base that they want to calm the waters when it comes to rhetoric on Iran as the war grows unpopular with Republicans and the general public ahead of the midterms.&#160; With the war wreaking havoc on energy prices, Trump, along with Defense Secretary&#8230;",
-          "link": "https://thehill.com/homenews/administration/5864909-trump-administration-signals-iran-calm/",
-          "pubDate": "Tue, 05 May 2026 22:12:47 +0000"
+          "title": "Khanna: Trump would fire Lutnick if he heard Epstein answers",
+          "summary": "Democratic Rep. Ro Khanna (Calif.) said President Trump would fire his Commerce secretary if he heard the testimony that he provided Congress on Wednesday about his relationship to convicted sex offender Jeffrey Epstein. “If Donald Trump had seen the video transcript, he would have fired Howard Lutnick,” Khanna told reporters following the closed-door briefing.&#160; “It&#8230;",
+          "link": "https://thehill.com/homenews/house/5867054-khanna-lutnick-trump-epstein-congress/",
+          "pubDate": "Wed, 06 May 2026 21:52:38 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Amex GBT agrees to $6.3 billion take-private deal with Long Lake",
-          "summary": "Amex GBT agrees to $6.3 billion take-private deal with Long Lake",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amex-gbt-agrees-6-3-163512714.html",
-          "pubDate": "2026-05-04T16:35:12Z"
+          "title": "Coinbase CEO makes critical move before earnings",
+          "summary": "Coinbase CEO makes critical move before earnings",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-makes-critical-move-052101559.html",
+          "pubDate": "2026-05-06T05:21:01Z"
         },
         {
-          "title": "Dollar Supported by Renewed Iran Tensions",
-          "summary": "Dollar Supported by Renewed Iran Tensions",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-renewed-iran-tensions-143740797.html",
-          "pubDate": "2026-05-04T14:37:40Z"
+          "title": "Freight costs spike in Q1 as diesel tops $5: U.S. Bank index",
+          "summary": "Freight costs spike in Q1 as diesel tops $5: U.S. Bank index",
+          "link": "https://finance.yahoo.com/economy/articles/freight-costs-spike-q1-diesel-145431993.html",
+          "pubDate": "2026-05-05T14:54:31Z"
         },
         {
-          "title": "BitMine Reports 5.18 Million ETH Holdings as Staking Revenue Reaches $297 Million",
-          "summary": "BitMine Reports 5.18 Million ETH Holdings as Staking Revenue Reaches $297 Million",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-reports-5-18-million-143700546.html",
-          "pubDate": "2026-05-04T14:37:00Z"
+          "title": "Should You Be Optimistic About the Long-Term Outlook of Perella Weinberg Partners (PWP)?",
+          "summary": "Should You Be Optimistic About the Long-Term Outlook of Perella Weinberg Partners (PWP)?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/optimistic-long-term-outlook-perella-145217333.html",
+          "pubDate": "2026-05-05T14:52:17Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Breakthrough biomaterial heals tissue from the inside out",
-          "summary": "Scientists have developed a breakthrough injectable biomaterial that travels through the bloodstream to repair damaged tissue from within, reducing inflammation and jumpstarting healing. In animal studies, it successfully treated heart attack damage and even showed promise for conditions like traumatic brain injury and pulmonary hypertension. Unlike earlier approaches that required direct injection into the heart, this new therapy can be delivered intravenously, allowing it to spread evenly and act quickly.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260504211842.htm",
-          "pubDate": "Tue, 05 May 2026 14:20:47 EDT"
+          "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years",
+          "summary": "A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab prior to surgery have remained cancer-free nearly three years later—an outcome that challenges the standard approach of surgery followed by months of chemotherapy.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260505234618.htm",
+          "pubDate": "Wed, 06 May 2026 02:20:17 EDT"
         },
         {
-          "title": "Scientists say travel could slow aging and boost your health",
-          "summary": "A new study suggests travel could be a surprisingly powerful anti-aging tool. By viewing tourism through the lens of entropy, researchers found that positive travel experiences may help the body stay balanced and resilient. Activities like exploring new places, staying active, and connecting with others can boost immunity, metabolism, and stress recovery. However, stressful or unsafe travel could reverse these benefits.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
-          "pubDate": "Mon, 04 May 2026 22:42:07 EDT"
+          "title": "New AI method tackles one of science’s hardest math problems",
+          "summary": "Penn researchers have developed a smarter AI method for solving notoriously difficult inverse equations, which help scientists uncover hidden causes behind observable effects. By introducing “mollifier layers” that smooth noisy data, they’ve made these calculations more stable and far less computationally demanding. This could transform fields like genetics, where understanding how DNA behaves is key to disease research.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260505234605.htm",
+          "pubDate": "Wed, 06 May 2026 04:24:46 EDT"
         },
         {
-          "title": "Scientists connect “time crystal” to real device in quantum breakthrough",
-          "summary": "A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-world use. Known as a time crystal, this quantum system repeats its motion endlessly—like a clock that never winds down—and scientists have now managed to connect it to an external device for the first time. By linking the time crystal to a tiny mechanical oscillator, researchers showed they can actually control its behavior, opening the door to powerful new technologies.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm",
-          "pubDate": "Tue, 05 May 2026 16:53:45 EDT"
+          "title": "Common knee surgery found ineffective, may make things worse",
+          "summary": "A major 10-year clinical trial is turning one of the world’s most common knee surgeries on its head. Researchers found that trimming a damaged meniscus—a procedure long believed to relieve pain—offers no real benefit over placebo surgery. Even more surprising, patients who had the operation actually fared worse over time, with more symptoms, poorer function, faster progression of osteoarthritis, and a greater likelihood of needing additional surgery.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260505234603.htm",
+          "pubDate": "Wed, 06 May 2026 01:54:27 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "siteName": "Science News",
       "items": [
         {
-          "title": "What to know about a rare hantavirus outbreak at sea",
-          "summary": "Public health officials are racing to find out how the sometimes deadly hantavirus got aboard a cruise ship and if there has been human-to-human spread.",
-          "link": "https://www.sciencenews.org/article/hantavirus-cruise-ship-outbreak-health",
-          "pubDate": "Tue, 05 May 2026 17:11:55 +0000"
+          "title": "A low-cost rotavirus test could save childrens’ lives in Nigeria",
+          "summary": "Nigerian virologist Margaret Oluwatoyin Japhet has designed a rapid test that could diagnose rotavirus at a child’s bedside.",
+          "link": "https://www.sciencenews.org/article/nigeria-rotavirus-diagnosis-rapid-test",
+          "pubDate": "Wed, 06 May 2026 15:00:00 +0000"
         },
         {
-          "title": "Do GLP-1 drugs like Ozempic prevent cancer?",
-          "summary": "Several studies have served up tantalizing hints about the drugs’ potential cancer prevention benefits, but other results land all over the map.",
-          "link": "https://www.sciencenews.org/article/glp-1-drugs-ozempic-cancer-prevention",
-          "pubDate": "Tue, 05 May 2026 13:00:00 +0000"
+          "title": "Neandertals used rhinoceros teeth as tools",
+          "summary": "Finds at sites in Spain and France suggest that Neandertals used the teeth of ancient rhinos for heavy-duty fabrication.",
+          "link": "https://www.sciencenews.org/article/rhino-teeth-neandertal-tool",
+          "pubDate": "Wed, 06 May 2026 13:00:00 +0000"
         },
         {
-          "title": "A small object past Pluto may have a thin atmosphere",
-          "summary": "A brief stellar eclipse suggests the tiny 2002 XV93 has a thin atmosphere — a first for any solar system body farther from the sun than Pluto.",
-          "link": "https://www.sciencenews.org/article/atmosphere-small-object-past-pluto",
-          "pubDate": "Mon, 04 May 2026 15:00:00 +0000"
+          "title": "Space junk falls back to Earth faster as sunspot numbers climb",
+          "summary": "A new study links the sun's 11-year cycle to accelerated orbital loss, with debris falling faster once sunspot numbers near their cycle peak.",
+          "link": "https://www.sciencenews.org/article/space-debris-altitude-loss-increase",
+          "pubDate": "Wed, 06 May 2026 04:00:00 +0000"
         }
       ]
     }
