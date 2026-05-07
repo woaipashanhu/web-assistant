@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-06T23:00:46.656Z",
-  "date": "2026-05-07",
+  "lastUpdate": "2026-05-07T23:00:40.485Z",
+  "date": "2026-05-08",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
-          "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “visual cues,” such as height and bone structure.",
-          "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
-          "pubDate": "Wed, 06 May 2026 21:24:18 +0000"
+          "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+          "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+          "pubDate": "Thu, 07 May 2026 21:37:20 +0000"
         },
         {
-          "title": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
-          "summary": "As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they just have to sell the president on it.",
-          "link": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/",
-          "pubDate": "Wed, 06 May 2026 19:32:03 +0000"
+          "title": "How to Disable Google's Gemini in Chrome",
+          "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+          "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+          "pubDate": "Thu, 07 May 2026 20:31:57 +0000"
         },
         {
-          "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-          "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-          "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-          "pubDate": "Wed, 06 May 2026 18:28:52 +0000"
+          "title": "Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global Crisis",
+          "summary": "While the outbreak aboard a cruise ship in the Atlantic is concerning, the virus isn’t easily transmitted through casual contact.",
+          "link": "https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/",
+          "pubDate": "Thu, 07 May 2026 19:36:46 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
-          "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
-          "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
-          "pubDate": "Wed, 06 May 2026 22:30:00 +0000"
+          "title": "OpenAI launches new voice intelligence features in its API",
+          "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+          "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+          "pubDate": "Thu, 07 May 2026 22:24:50 +0000"
         },
         {
-          "title": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.",
-          "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-          "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-          "pubDate": "Wed, 06 May 2026 21:57:56 +0000"
+          "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+          "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
+          "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+          "pubDate": "Thu, 07 May 2026 21:49:24 +0000"
         },
         {
-          "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
-          "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-          "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-          "pubDate": "Wed, 06 May 2026 21:43:24 +0000"
+          "title": "Disney looking to make a unified &#8216;super app,&#8217; report says",
+          "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
+          "link": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
+          "pubDate": "Thu, 07 May 2026 21:40:10 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran considering US proposal to end war, official says",
-          "summary": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
-          "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 06 May 2026 21:27:59 GMT"
+          "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
+          "summary": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
+          "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 07 May 2026 17:55:08 GMT"
         },
         {
-          "title": "Trump's hopes for an Iran peace deal come with caveats",
-          "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
-          "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 06 May 2026 17:32:04 GMT"
+          "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+          "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+          "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 07 May 2026 18:13:11 GMT"
         },
         {
-          "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-          "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
-          "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 06 May 2026 19:58:04 GMT"
+          "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+          "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
+          "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 07 May 2026 16:00:05 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Goodbye quarterly earnings? Here&apos;s when traders believe this big change will happen",
-          "summary": "Traders are evenly divided as to whether the change will happen by Jan. 1. That would be an unusually fast timeline for the commission.",
-          "link": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html",
-          "pubDate": "Wed, 06 May 2026 17:48:21 GMT"
+          "title": "Kalshi traders see odds rising that a U.S.-Iran nuclear deal will be reached by 2027",
+          "summary": "It comes after Axios reported on Wednesday that the two countries were nearing a one-page memo to end their war.",
+          "link": "https://www.cnbc.com/2026/05/07/kalshi-traders-see-odds-rising-that-a-us-iran-nuclear-deal-will-be-reached-by-2027.html",
+          "pubDate": "Thu, 07 May 2026 16:48:36 GMT"
         },
         {
-          "title": "Apollo CEO Rowan warns of market correction, slams &apos;egregious&apos; practices at rival insurers",
-          "summary": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
-          "link": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
-          "pubDate": "Wed, 06 May 2026 20:33:58 GMT"
+          "title": "Ryan Cohen&apos;s mysterious bank letter backing GameStop&apos;s eBay bid reveals a big issue with deal",
+          "summary": "The combined company would need to maintain an investment-grade credit profile, GameStop's mysterious financing letter said.",
+          "link": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
+          "pubDate": "Thu, 07 May 2026 16:55:23 GMT"
         },
         {
-          "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-          "summary": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
-          "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-          "pubDate": "Wed, 06 May 2026 20:04:33 GMT"
+          "title": "Whirlpool says Iran war causing &apos;recession-level industry decline.&apos; The shares are down 12%",
+          "summary": "\"War in Iran resulted in recession-level industry decline in the U.S. as consumer confidence collapsed in late February and March,\" the company said.",
+          "link": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html",
+          "pubDate": "Thu, 07 May 2026 21:35:53 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump economic adviser: &#8216;Credit card spending is through the roof&#8217;",
-          "summary": "One of President Trump’s economic advisers projected a “very, very strong” job market future in the U.S. on Wednesday, despite price hikes amid the Iran war. “I had the head of one of the big five banks in my office yesterday going through credit card data … and credit card spending is through the roof,”&#8230;",
-          "link": "https://thehill.com/homenews/administration/5867139-strong-job-market-us/",
-          "pubDate": "Wed, 06 May 2026 22:26:16 +0000"
+          "title": "Minneapolis man who attacked Ilhan Omar pleads guilty",
+          "summary": "A Minneapolis man on Thursday pleaded guilty to attacking Rep. Ilhan Omar (D-Minn.) with a syringe filled with vinegar during a town hall in January. Anthony James Kazmierczak, 55, faces a maximum term of 96 months in prison but could be behind bars for between four and 14 months, defense lawyer John Fossum told NBC&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5868764-minneapolis-man-pleads-guilty-assault-omar/",
+          "pubDate": "Thu, 07 May 2026 22:34:09 +0000"
         },
         {
-          "title": "Neil deGrasse Tyson: &#8216;I expect the alien files will be anticlimactic&#8217;",
-          "summary": "Astrophysicist Neil deGrasse Tyson predicted that government files on UFOs and unidentified anomalous phenomena (UAPs) “will be anticlimactic.” “The impending release of U.S. government files on aliens and U.F.O.s is a good thing, even if it feels like a distraction from other important files we’ve all been waiting to be disclosed. I expect the alien&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5867099-neil-degrasse-tyson-us-ufo-files/",
-          "pubDate": "Wed, 06 May 2026 22:13:12 +0000"
+          "title": "US strikes military targets in Iran after attacks on destroyers in Strait of Hormuz: Centcom",
+          "summary": "U.S. forces on Thursday attacked Iranian military facilities following attacks on American guided-missile destroyers transiting the Strait of Hormuz, according to U.S. Central Command (Centcom). President Trump called the strikes a &#8220;love tap&#8221; in a phone call with ABC News on Thursday evening. Asked if it means the ceasefire is over, he said, &#8220;No, no,&#8230;",
+          "link": "https://thehill.com/policy/defense/5868807-us-forces-strike-iranian-targets-ceasefire/",
+          "pubDate": "Thu, 07 May 2026 22:30:44 +0000"
         },
         {
-          "title": "Khanna: Trump would fire Lutnick if he heard Epstein answers",
-          "summary": "Democratic Rep. Ro Khanna (Calif.) said President Trump would fire his Commerce secretary if he heard the testimony that he provided Congress on Wednesday about his relationship to convicted sex offender Jeffrey Epstein. “If Donald Trump had seen the video transcript, he would have fired Howard Lutnick,” Khanna told reporters following the closed-door briefing.&#160; “It&#8230;",
-          "link": "https://thehill.com/homenews/house/5867054-khanna-lutnick-trump-epstein-congress/",
-          "pubDate": "Wed, 06 May 2026 21:52:38 +0000"
+          "title": "Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
+          "summary": "A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this year. A three-judge panel of the U.S. Court of International Trade (CIT) imposed a permanent injunction on the 10 percent tariff Trump imposed on nearly all U.S. imports in February. Judges&#8230;",
+          "link": "https://thehill.com/business/5868826-federal-court-strikes-trump-tariff/",
+          "pubDate": "Thu, 07 May 2026 22:18:26 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Coinbase CEO makes critical move before earnings",
-          "summary": "Coinbase CEO makes critical move before earnings",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-makes-critical-move-052101559.html",
-          "pubDate": "2026-05-06T05:21:01Z"
+          "title": "Retirees: 3 High-Yielding Dividend Stocks That Can Add Plenty of Passive Income and Reduce Your Portfolio's Risk",
+          "summary": "Retirees: 3 High-Yielding Dividend Stocks That Can Add Plenty of Passive Income and Reduce Your Portfolio's Risk",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/retirees-3-high-yielding-dividend-152000848.html",
+          "pubDate": "2026-05-06T15:20:00Z"
         },
         {
-          "title": "Freight costs spike in Q1 as diesel tops $5: U.S. Bank index",
-          "summary": "Freight costs spike in Q1 as diesel tops $5: U.S. Bank index",
-          "link": "https://finance.yahoo.com/economy/articles/freight-costs-spike-q1-diesel-145431993.html",
-          "pubDate": "2026-05-05T14:54:31Z"
+          "title": "S&P 500 and Nasdaq 100 at Record Highs on Tech Earnings and US-Iran Peace Hopes",
+          "summary": "S&P 500 and Nasdaq 100 at Record Highs on Tech Earnings and US-Iran Peace Hopes",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-record-151725709.html",
+          "pubDate": "2026-05-06T15:17:25Z"
         },
         {
-          "title": "Should You Be Optimistic About the Long-Term Outlook of Perella Weinberg Partners (PWP)?",
-          "summary": "Should You Be Optimistic About the Long-Term Outlook of Perella Weinberg Partners (PWP)?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/optimistic-long-term-outlook-perella-145217333.html",
-          "pubDate": "2026-05-05T14:52:17Z"
+          "title": "Palo Alto Is Buying Portkey. That Makes PANW Stock Even More of a Bet on AI Agents.",
+          "summary": "Palo Alto Is Buying Portkey. That Makes PANW Stock Even More of a Bet on AI Agents.",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/palo-alto-buying-portkey-makes-152120126.html",
+          "pubDate": "2026-05-06T15:21:20Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years",
-          "summary": "A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab prior to surgery have remained cancer-free nearly three years later—an outcome that challenges the standard approach of surgery followed by months of chemotherapy.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260505234618.htm",
-          "pubDate": "Wed, 06 May 2026 02:20:17 EDT"
+          "title": "Scientists accidentally discover DNA that breaks the rules of life",
+          "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes signal their end. This unexpected discovery challenges long-held assumptions about how genetic translation works and hints that nature may be far more flexible—and mysterious—than scientists realized.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
+          "pubDate": "Thu, 07 May 2026 03:01:21 EDT"
         },
         {
-          "title": "New AI method tackles one of science’s hardest math problems",
-          "summary": "Penn researchers have developed a smarter AI method for solving notoriously difficult inverse equations, which help scientists uncover hidden causes behind observable effects. By introducing “mollifier layers” that smooth noisy data, they’ve made these calculations more stable and far less computationally demanding. This could transform fields like genetics, where understanding how DNA behaves is key to disease research.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260505234605.htm",
-          "pubDate": "Wed, 06 May 2026 04:24:46 EDT"
+          "title": "New “Trojan horse” obesity drug supercharges weight loss in early tests",
+          "summary": "Researchers have created a next-generation obesity drug that works like a “Trojan horse,” using GLP-1/GIP signals to slip a powerful metabolic enhancer directly into target cells. In mice, it outperformed existing treatments—curbing appetite, increasing weight loss, and improving blood sugar levels. Because the extra drug acts only where it’s needed, it can be used at much lower doses, potentially reducing side effects.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260506225428.htm",
+          "pubDate": "Thu, 07 May 2026 06:37:46 EDT"
         },
         {
-          "title": "Common knee surgery found ineffective, may make things worse",
-          "summary": "A major 10-year clinical trial is turning one of the world’s most common knee surgeries on its head. Researchers found that trimming a damaged meniscus—a procedure long believed to relieve pain—offers no real benefit over placebo surgery. Even more surprising, patients who had the operation actually fared worse over time, with more symptoms, poorer function, faster progression of osteoarthritis, and a greater likelihood of needing additional surgery.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260505234603.htm",
-          "pubDate": "Wed, 06 May 2026 01:54:27 EDT"
+          "title": "Scientists find a way to stop dangerous belly fat as we age",
+          "summary": "Aging doesn’t just add fat—it redistributes it in risky ways, pushing more into the abdomen where it can harm health. Scientists found that testosterone plays a key role in this shift. In older women recovering from hip fractures, a testosterone gel combined with exercise helped prevent the usual rise in dangerous visceral fat. The result could point to a powerful new strategy for improving recovery and long-term health.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260506225235.htm",
+          "pubDate": "Thu, 07 May 2026 05:25:59 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A low-cost rotavirus test could save childrens’ lives in Nigeria",
-          "summary": "Nigerian virologist Margaret Oluwatoyin Japhet has designed a rapid test that could diagnose rotavirus at a child’s bedside.",
-          "link": "https://www.sciencenews.org/article/nigeria-rotavirus-diagnosis-rapid-test",
-          "pubDate": "Wed, 06 May 2026 15:00:00 +0000"
+          "title": "A grapefruit-sized quantum device mapped Earth’s magnetic field from space",
+          "summary": "On the International Space Station, a cube holding a diamond-based sensor revealed the potential for quantum magnetometers.",
+          "link": "https://www.sciencenews.org/article/quantum-earth-magnetic-field-space",
+          "pubDate": "Thu, 07 May 2026 17:00:00 +0000"
         },
         {
-          "title": "Neandertals used rhinoceros teeth as tools",
-          "summary": "Finds at sites in Spain and France suggest that Neandertals used the teeth of ancient rhinos for heavy-duty fabrication.",
-          "link": "https://www.sciencenews.org/article/rhino-teeth-neandertal-tool",
-          "pubDate": "Wed, 06 May 2026 13:00:00 +0000"
+          "title": "25 people learned to fly with virtual wings. Here’s how the brain changed",
+          "summary": "A new study shows learning to fly in virtual reality with virtual wings can reshape the brain, making it treat wings more like body parts.",
+          "link": "https://www.sciencenews.org/article/virtual-wings-brain-changes",
+          "pubDate": "Thu, 07 May 2026 15:00:00 +0000"
         },
         {
-          "title": "Space junk falls back to Earth faster as sunspot numbers climb",
-          "summary": "A new study links the sun's 11-year cycle to accelerated orbital loss, with debris falling faster once sunspot numbers near their cycle peak.",
-          "link": "https://www.sciencenews.org/article/space-debris-altitude-loss-increase",
-          "pubDate": "Wed, 06 May 2026 04:00:00 +0000"
+          "title": "Going to space? Always, always pack a camera",
+          "summary": "Planetary scientist Candice Hansen-Koharcheck championed the importance of space imagery. Her legacy lives on in every pixel that comes back to Earth.",
+          "link": "https://www.sciencenews.org/article/space-photography-candice-hansen-koharcheck",
+          "pubDate": "Thu, 07 May 2026 13:00:00 +0000"
         }
       ]
     }
