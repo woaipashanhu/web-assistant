@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-07T23:00:40.485Z",
-  "date": "2026-05-08",
+  "lastUpdate": "2026-05-08T23:00:10.565Z",
+  "date": "2026-05-09",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-          "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-          "pubDate": "Thu, 07 May 2026 21:37:20 +0000"
+          "title": "The Pentagon Releases New Trove of Declassified UFO Files",
+          "summary": "The Defense Department has released a new trove of declassified documents about government UFO sightings.",
+          "link": "https://www.wired.com/story/pentagon-drops-new-ufo-files/",
+          "pubDate": "Fri, 08 May 2026 18:18:24 +0000"
         },
         {
-          "title": "How to Disable Google's Gemini in Chrome",
-          "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
-          "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
-          "pubDate": "Thu, 07 May 2026 20:31:57 +0000"
+          "title": "Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks",
+          "summary": "In what is the 11th Cybertruck recall, certain models of Elon Musk’s embattled pickup could experience a sudden, unexpected wheel separation, thanks to the wrong grease and loose nuts.",
+          "link": "https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/",
+          "pubDate": "Fri, 08 May 2026 18:12:42 +0000"
         },
         {
-          "title": "Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global Crisis",
-          "summary": "While the outbreak aboard a cruise ship in the Atlantic is concerning, the virus isn’t easily transmitted through casual contact.",
-          "link": "https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/",
-          "pubDate": "Thu, 07 May 2026 19:36:46 +0000"
+          "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+          "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+          "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+          "pubDate": "Fri, 08 May 2026 15:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI launches new voice intelligence features in its API",
-          "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-          "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-          "pubDate": "Thu, 07 May 2026 22:24:50 +0000"
+          "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+          "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+          "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+          "pubDate": "Fri, 08 May 2026 22:59:05 +0000"
         },
         {
-          "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-          "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
-          "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-          "pubDate": "Thu, 07 May 2026 21:49:24 +0000"
+          "title": "San Francisco&#8217;s housing market has lost its mind",
+          "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
+          "link": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+          "pubDate": "Fri, 08 May 2026 22:32:31 +0000"
         },
         {
-          "title": "Disney looking to make a unified &#8216;super app,&#8217; report says",
-          "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
-          "link": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
-          "pubDate": "Thu, 07 May 2026 21:40:10 +0000"
+          "title": "Prime Video follows Netflix and Disney by adding a TikTok-like &#8216;Clips&#8217; feed in its app",
+          "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
+          "link": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
+          "pubDate": "Fri, 08 May 2026 20:50:03 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
-          "summary": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
-          "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 07 May 2026 17:55:08 GMT"
+          "title": "Iran accuses US of 'reckless military adventure'",
+          "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+          "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 08 May 2026 16:11:06 GMT"
         },
         {
-          "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-          "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
-          "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 07 May 2026 18:13:11 GMT"
+          "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+          "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+          "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 08 May 2026 18:59:58 GMT"
         },
         {
-          "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-          "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
-          "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 07 May 2026 16:00:05 GMT"
+          "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
+          "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
+          "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 08 May 2026 21:02:52 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Kalshi traders see odds rising that a U.S.-Iran nuclear deal will be reached by 2027",
-          "summary": "It comes after Axios reported on Wednesday that the two countries were nearing a one-page memo to end their war.",
-          "link": "https://www.cnbc.com/2026/05/07/kalshi-traders-see-odds-rising-that-a-us-iran-nuclear-deal-will-be-reached-by-2027.html",
-          "pubDate": "Thu, 07 May 2026 16:48:36 GMT"
+          "title": "How much further does this Teflon market have to go? Here&apos;s what traders say",
+          "summary": "Traders on prediction markets platform Kalshi place a more than 50% chance that the S&P 500 crosses 8,000 in 2026.",
+          "link": "https://www.cnbc.com/2026/05/08/how-much-further-can-this-teflon-market-go-heres-what-traders-say.html",
+          "pubDate": "Fri, 08 May 2026 18:19:05 GMT"
         },
         {
-          "title": "Ryan Cohen&apos;s mysterious bank letter backing GameStop&apos;s eBay bid reveals a big issue with deal",
-          "summary": "The combined company would need to maintain an investment-grade credit profile, GameStop's mysterious financing letter said.",
-          "link": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
-          "pubDate": "Thu, 07 May 2026 16:55:23 GMT"
+          "title": "Michael Burry says the market today feels like &apos;the last months of the 1999-2000 bubble&apos;",
+          "summary": "\"Stocks are not up or down because of jobs or consumer sentiment,\" Burry wrote. \"Feeling like the last months of the 1999-2000 bubble.\"",
+          "link": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
+          "pubDate": "Fri, 08 May 2026 18:54:00 GMT"
         },
         {
-          "title": "Whirlpool says Iran war causing &apos;recession-level industry decline.&apos; The shares are down 12%",
-          "summary": "\"War in Iran resulted in recession-level industry decline in the U.S. as consumer confidence collapsed in late February and March,\" the company said.",
-          "link": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html",
-          "pubDate": "Thu, 07 May 2026 21:35:53 GMT"
+          "title": "Anthropic&apos;s Mythos set off a cybersecurity &apos;hysteria.&apos; Experts say the threat was already here",
+          "summary": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
+          "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
+          "pubDate": "Fri, 08 May 2026 20:01:44 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Minneapolis man who attacked Ilhan Omar pleads guilty",
-          "summary": "A Minneapolis man on Thursday pleaded guilty to attacking Rep. Ilhan Omar (D-Minn.) with a syringe filled with vinegar during a town hall in January. Anthony James Kazmierczak, 55, faces a maximum term of 96 months in prison but could be behind bars for between four and 14 months, defense lawyer John Fossum told NBC&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5868764-minneapolis-man-pleads-guilty-assault-omar/",
-          "pubDate": "Thu, 07 May 2026 22:34:09 +0000"
+          "title": "Warner slams court ruling on Virginia redistricting: &#8216;Justice was not served&#8217;",
+          "summary": "Virginia senior Sen. Mark Warner (D) criticized a state Supreme Court ruling Friday that struck down a Democratic-backed redistricting plan, arguing the decision undermined the will of voters. “Today, justice was not served in Virginia,” Warner said in a video shared on social platform X. “Against the will of the majority of voters, against not&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5870541-warner-slams-court-ruling-on-virginia-redistricting-justice-was-not-served/",
+          "pubDate": "Fri, 08 May 2026 22:01:18 +0000"
         },
         {
-          "title": "US strikes military targets in Iran after attacks on destroyers in Strait of Hormuz: Centcom",
-          "summary": "U.S. forces on Thursday attacked Iranian military facilities following attacks on American guided-missile destroyers transiting the Strait of Hormuz, according to U.S. Central Command (Centcom). President Trump called the strikes a &#8220;love tap&#8221; in a phone call with ABC News on Thursday evening. Asked if it means the ceasefire is over, he said, &#8220;No, no,&#8230;",
-          "link": "https://thehill.com/policy/defense/5868807-us-forces-strike-iranian-targets-ceasefire/",
-          "pubDate": "Thu, 07 May 2026 22:30:44 +0000"
+          "title": "Alabama asks Supreme Court to clear way for Republicans&#8217; redrawn voting map",
+          "summary": "Alabama urged the Supreme Court&#160;on Friday&#160;for an emergency order clearing the way for its redrawn&#160;congressional map that could boost Republicans&#8217; chances of holding on to the House in November. The ask landed just as Gov. Kay Ivey (R) signed the map, which lawmakers passed in response to the high court’s recent decision in Louisiana that weakened the Voting Rights Act. Alabama&#160;says&#160;that&#160;should enable the state to&#160;axe&#160;the boundaries that judges forcibly implemented&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5870503-alabama-congressional-map-republicans/",
+          "pubDate": "Fri, 08 May 2026 21:51:39 +0000"
         },
         {
-          "title": "Trade court strikes down Trump global tariffs imposed after Supreme Court loss",
-          "summary": "A federal trade court on Thursday struck down tariffs President Trump imposed to replace import taxes that the Supreme Court struck down earlier this year. A three-judge panel of the U.S. Court of International Trade (CIT) imposed a permanent injunction on the 10 percent tariff Trump imposed on nearly all U.S. imports in February. Judges&#8230;",
-          "link": "https://thehill.com/business/5868826-federal-court-strikes-trump-tariff/",
-          "pubDate": "Thu, 07 May 2026 22:18:26 +0000"
+          "title": "Charlamagne Tha God confronts Dana White over Trump support ahead of White House UFC fights",
+          "summary": "Podcast host Charlamagne Tha God on Friday grilled UFC President Dana White about his support for President Trump ahead of the upcoming UFC match to be held on the White House lawn. White appeared on Charlamagne&#8217;s &#8220;The Breakfast Club&#8221; radio show, where White said he wants to work with people he&#8217;s &#8220;aligned with&#8221; and someone&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5870432-podcast-host-charlamagne-trump/",
+          "pubDate": "Fri, 08 May 2026 21:18:25 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Retirees: 3 High-Yielding Dividend Stocks That Can Add Plenty of Passive Income and Reduce Your Portfolio's Risk",
-          "summary": "Retirees: 3 High-Yielding Dividend Stocks That Can Add Plenty of Passive Income and Reduce Your Portfolio's Risk",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/retirees-3-high-yielding-dividend-152000848.html",
-          "pubDate": "2026-05-06T15:20:00Z"
+          "title": "Warren Buffett sends blunt message on mortgages, home financing",
+          "summary": "Warren Buffett sends blunt message on mortgages, home financing",
+          "link": "https://finance.yahoo.com/markets/options/articles/warren-buffett-sends-blunt-message-140700722.html",
+          "pubDate": "2026-05-08T14:07:00Z"
         },
         {
-          "title": "S&P 500 and Nasdaq 100 at Record Highs on Tech Earnings and US-Iran Peace Hopes",
-          "summary": "S&P 500 and Nasdaq 100 at Record Highs on Tech Earnings and US-Iran Peace Hopes",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-record-151725709.html",
-          "pubDate": "2026-05-06T15:17:25Z"
+          "title": "Solar firms went bust, panels went dark: Connecticut homeowners are still paying for panels that never provided power",
+          "summary": "Solar firms went bust, panels went dark: Connecticut homeowners are still paying for panels that never provided power",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/solar-firms-went-bust-panels-154000686.html",
+          "pubDate": "2026-05-07T15:40:00Z"
         },
         {
-          "title": "Palo Alto Is Buying Portkey. That Makes PANW Stock Even More of a Bet on AI Agents.",
-          "summary": "Palo Alto Is Buying Portkey. That Makes PANW Stock Even More of a Bet on AI Agents.",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/palo-alto-buying-portkey-makes-152120126.html",
-          "pubDate": "2026-05-06T15:21:20Z"
+          "title": "Sarah Paulson slammed as ‘hypocritical’ after wearing dollar-bill mask to protest America’s top 1% at $100K Met Gala",
+          "summary": "Sarah Paulson slammed as ‘hypocritical’ after wearing dollar-bill mask to protest America’s top 1% at $100K Met Gala",
+          "link": "https://finance.yahoo.com/economy/policy/articles/sarah-paulson-slammed-hypocritical-wearing-153508985.html",
+          "pubDate": "2026-05-07T15:35:08Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists accidentally discover DNA that breaks the rules of life",
-          "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes signal their end. This unexpected discovery challenges long-held assumptions about how genetic translation works and hints that nature may be far more flexible—and mysterious—than scientists realized.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
-          "pubDate": "Thu, 07 May 2026 03:01:21 EDT"
+          "title": "New obesity discovery rewrites decades of fat science",
+          "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those cells healthy and balanced. Even more surprising, people and mice missing this protein don’t become obese as expected; instead, they lose fat tissue in a dangerous condition called lipodystrophy.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
+          "pubDate": "Fri, 08 May 2026 17:21:20 EDT"
         },
         {
-          "title": "New “Trojan horse” obesity drug supercharges weight loss in early tests",
-          "summary": "Researchers have created a next-generation obesity drug that works like a “Trojan horse,” using GLP-1/GIP signals to slip a powerful metabolic enhancer directly into target cells. In mice, it outperformed existing treatments—curbing appetite, increasing weight loss, and improving blood sugar levels. Because the extra drug acts only where it’s needed, it can be used at much lower doses, potentially reducing side effects.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260506225428.htm",
-          "pubDate": "Thu, 07 May 2026 06:37:46 EDT"
+          "title": "A common constipation drug shows surprising power to protect kidneys",
+          "summary": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 patients, researchers found that lubiprostone, a medication normally used to treat constipation, helped preserve kidney function in people with moderate CKD. Scientists traced the effect to changes in gut bacteria that boosted production of spermidine, a compound linked to healthier mitochondria and reduced kidney damage.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
+          "pubDate": "Fri, 08 May 2026 06:44:49 EDT"
         },
         {
-          "title": "Scientists find a way to stop dangerous belly fat as we age",
-          "summary": "Aging doesn’t just add fat—it redistributes it in risky ways, pushing more into the abdomen where it can harm health. Scientists found that testosterone plays a key role in this shift. In older women recovering from hip fractures, a testosterone gel combined with exercise helped prevent the usual rise in dangerous visceral fat. The result could point to a powerful new strategy for improving recovery and long-term health.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260506225235.htm",
-          "pubDate": "Thu, 07 May 2026 05:25:59 EDT"
+          "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
+          "summary": "Scientists have uncovered a surprising way to influence the bacteria living in our mouths — not by killing them, but by interrupting how they “talk” to each other. Researchers found that dental plaque bacteria use chemical signals to coordinate growth, and by blocking those signals, they were able to encourage healthier bacteria while reducing disease-linked microbes tied to gum disease. Even more intriguing, the bacterial conversations changed depending on oxygen levels above and below the gums, revealing an entirely new layer of complexity inside the mouth.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
+          "pubDate": "Fri, 08 May 2026 05:27:16 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A grapefruit-sized quantum device mapped Earth’s magnetic field from space",
-          "summary": "On the International Space Station, a cube holding a diamond-based sensor revealed the potential for quantum magnetometers.",
-          "link": "https://www.sciencenews.org/article/quantum-earth-magnetic-field-space",
-          "pubDate": "Thu, 07 May 2026 17:00:00 +0000"
+          "title": "If wings came before flight, what were they for?",
+          "summary": "Scientists use simulated dinosaurs to trigger real insect brains and test how wings originally evolved.",
+          "link": "https://www.sciencenews.org/article/wings-flight-evolution-insects-dinosaur",
+          "pubDate": "Fri, 08 May 2026 17:00:00 +0000"
         },
         {
-          "title": "25 people learned to fly with virtual wings. Here’s how the brain changed",
-          "summary": "A new study shows learning to fly in virtual reality with virtual wings can reshape the brain, making it treat wings more like body parts.",
-          "link": "https://www.sciencenews.org/article/virtual-wings-brain-changes",
-          "pubDate": "Thu, 07 May 2026 15:00:00 +0000"
+          "title": "To understand black holes, physicists turn to a mathematical ‘Rosetta stone’",
+          "summary": "A link between particle physics and gravity equations, called the double copy, applies to Hawking radiation, creating a new way into black hole puzzles.",
+          "link": "https://www.sciencenews.org/article/black-holes-hawking-radiation-double-copy",
+          "pubDate": "Fri, 08 May 2026 15:00:00 +0000"
         },
         {
-          "title": "Going to space? Always, always pack a camera",
-          "summary": "Planetary scientist Candice Hansen-Koharcheck championed the importance of space imagery. Her legacy lives on in every pixel that comes back to Earth.",
-          "link": "https://www.sciencenews.org/article/space-photography-candice-hansen-koharcheck",
-          "pubDate": "Thu, 07 May 2026 13:00:00 +0000"
+          "title": "Why some brain cells are particularly vulnerable to multiple sclerosis",
+          "summary": "DNA damage from inflammation outpaces the cells’ ability to self-repair. The finding, in human brain cells and mice, could point to new MS treatments.",
+          "link": "https://www.sciencenews.org/article/brain-cells-multiple-sclerosis-dna",
+          "pubDate": "Fri, 08 May 2026 13:00:00 +0000"
         }
       ]
     }
