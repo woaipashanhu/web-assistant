@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-08T23:00:10.565Z",
-  "date": "2026-05-09",
+  "lastUpdate": "2026-05-09T23:00:18.349Z",
+  "date": "2026-05-10",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Pentagon Releases New Trove of Declassified UFO Files",
-          "summary": "The Defense Department has released a new trove of declassified documents about government UFO sightings.",
-          "link": "https://www.wired.com/story/pentagon-drops-new-ufo-files/",
-          "pubDate": "Fri, 08 May 2026 18:18:24 +0000"
+          "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
+          "summary": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
+          "link": "https://www.wired.com/gallery/best-captioning-glasses/",
+          "pubDate": "Sat, 09 May 2026 11:00:00 +0000"
         },
         {
-          "title": "Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks",
-          "summary": "In what is the 11th Cybertruck recall, certain models of Elon Musk’s embattled pickup could experience a sudden, unexpected wheel separation, thanks to the wrong grease and loose nuts.",
-          "link": "https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/",
-          "pubDate": "Fri, 08 May 2026 18:12:42 +0000"
+          "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+          "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
+          "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+          "pubDate": "Sat, 09 May 2026 10:30:00 +0000"
         },
         {
-          "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-          "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-          "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-          "pubDate": "Fri, 08 May 2026 15:00:00 +0000"
+          "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
+          "summary": "The cars that debuted at the Beijing Auto Show demonstrate that the Chinese market is now at the forefront of electrification and intelligence. These are the 19 most intriguing models we saw.",
+          "link": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
+          "pubDate": "Sat, 09 May 2026 10:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-          "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-          "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-          "pubDate": "Fri, 08 May 2026 22:59:05 +0000"
+          "title": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "pubDate": "Sat, 09 May 2026 21:45:00 +0000"
         },
         {
-          "title": "San Francisco&#8217;s housing market has lost its mind",
-          "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
-          "link": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
-          "pubDate": "Fri, 08 May 2026 22:32:31 +0000"
+          "title": "Fintech startup Parker files for bankruptcy",
+          "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+          "link": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
+          "pubDate": "Sat, 09 May 2026 20:32:17 +0000"
         },
         {
-          "title": "Prime Video follows Netflix and Disney by adding a TikTok-like &#8216;Clips&#8217; feed in its app",
-          "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
-          "link": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
-          "pubDate": "Fri, 08 May 2026 20:50:03 +0000"
+          "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+          "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
+          "link": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
+          "pubDate": "Sat, 09 May 2026 19:05:30 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "BBC世界",
       "items": [
+        {
+          "title": "Lebanon says Israeli strikes killed 39",
+          "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+          "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 09 May 2026 21:23:14 GMT"
+        },
+        {
+          "title": "Putin denounces Nato at scaled-back Victory Day parade",
+          "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
+          "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 09 May 2026 12:18:58 GMT"
+        },
         {
           "title": "Iran accuses US of 'reckless military adventure'",
           "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
           "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 08 May 2026 16:11:06 GMT"
-        },
-        {
-          "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
-          "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
-          "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 08 May 2026 18:59:58 GMT"
-        },
-        {
-          "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
-          "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
-          "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 08 May 2026 21:02:52 GMT"
+          "pubDate": "Sat, 09 May 2026 06:13:30 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Warner slams court ruling on Virginia redistricting: &#8216;Justice was not served&#8217;",
-          "summary": "Virginia senior Sen. Mark Warner (D) criticized a state Supreme Court ruling Friday that struck down a Democratic-backed redistricting plan, arguing the decision undermined the will of voters. “Today, justice was not served in Virginia,” Warner said in a video shared on social platform X. “Against the will of the majority of voters, against not&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5870541-warner-slams-court-ruling-on-virginia-redistricting-justice-was-not-served/",
-          "pubDate": "Fri, 08 May 2026 22:01:18 +0000"
+          "title": "Sunday shows preview: Trump sends mixed signals on Iran as energy costs climb",
+          "summary": "A muddled picture about the state of the conflict with Iran emerged from the White House and President Trump this week, as a flurry of developments in the Gulf collided with mixed messages about the U.S. strategy for ending the 10-week conflict and reopening the Strait of Hormuz. &#160; President Trump announced the launch of&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5871312-sunday-shows-preview-trump-sends-mixed-signals-on-iran-as-energy-costs-climb/",
+          "pubDate": "Sat, 09 May 2026 22:21:27 +0000"
         },
         {
-          "title": "Alabama asks Supreme Court to clear way for Republicans&#8217; redrawn voting map",
-          "summary": "Alabama urged the Supreme Court&#160;on Friday&#160;for an emergency order clearing the way for its redrawn&#160;congressional map that could boost Republicans&#8217; chances of holding on to the House in November. The ask landed just as Gov. Kay Ivey (R) signed the map, which lawmakers passed in response to the high court’s recent decision in Louisiana that weakened the Voting Rights Act. Alabama&#160;says&#160;that&#160;should enable the state to&#160;axe&#160;the boundaries that judges forcibly implemented&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5870503-alabama-congressional-map-republicans/",
-          "pubDate": "Fri, 08 May 2026 21:51:39 +0000"
+          "title": "Trump legal attack on Southern Poverty Law Center stirs fears for nonprofits",
+          "summary": "The Trump administration has launched a legal attack on the Southern Poverty Law Center (SPLC), raising questions about the future of other nonprofits at odds with the president.&#160; The center pleaded not guilty Thursday in an unusual case, one that accuses the SPLC of turning its back on its very mission: using a now-defunct informant&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5869875-nonprofit-splc-legal-battle/",
+          "pubDate": "Sat, 09 May 2026 21:00:00 +0000"
         },
         {
-          "title": "Charlamagne Tha God confronts Dana White over Trump support ahead of White House UFC fights",
-          "summary": "Podcast host Charlamagne Tha God on Friday grilled UFC President Dana White about his support for President Trump ahead of the upcoming UFC match to be held on the White House lawn. White appeared on Charlamagne&#8217;s &#8220;The Breakfast Club&#8221; radio show, where White said he wants to work with people he&#8217;s &#8220;aligned with&#8221; and someone&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5870432-podcast-host-charlamagne-trump/",
-          "pubDate": "Fri, 08 May 2026 21:18:25 +0000"
+          "title": "Mullin says DHS not &#8216;as proactive&#8217; to secure World Cup due to shutdown",
+          "summary": "Homeland Security Secretary Markwayne Mullin on Saturday said that his department&#8217;s preparation efforts to keep the upcoming World Cup secure have not been &#8220;as proactive&#8221; due to the 76-day funding lapse. Mullin said during a Department of Homeland Security (DHS) press conference in Kansas City, Mo., alongside Rep. Mark Alford (R-Mo.), that the department &#8220;can&#8230;",
+          "link": "https://thehill.com/homenews/administration/5871197-homeland-security-world-cup-funding/",
+          "pubDate": "Sat, 09 May 2026 20:16:47 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,23 +213,29 @@
           "pubDate": "2026-05-08T14:07:00Z"
         },
         {
-          "title": "Solar firms went bust, panels went dark: Connecticut homeowners are still paying for panels that never provided power",
-          "summary": "Solar firms went bust, panels went dark: Connecticut homeowners are still paying for panels that never provided power",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/solar-firms-went-bust-panels-154000686.html",
-          "pubDate": "2026-05-07T15:40:00Z"
+          "title": "Is Cathie Wood Still Hopeful About Tesla (TSLA)?",
+          "summary": "Is Cathie Wood Still Hopeful About Tesla (TSLA)?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-still-hopeful-tesla-220601937.html",
+          "pubDate": "2026-05-09T22:06:01Z"
         },
         {
-          "title": "Sarah Paulson slammed as ‘hypocritical’ after wearing dollar-bill mask to protest America’s top 1% at $100K Met Gala",
-          "summary": "Sarah Paulson slammed as ‘hypocritical’ after wearing dollar-bill mask to protest America’s top 1% at $100K Met Gala",
-          "link": "https://finance.yahoo.com/economy/policy/articles/sarah-paulson-slammed-hypocritical-wearing-153508985.html",
-          "pubDate": "2026-05-07T15:35:08Z"
+          "title": "Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth",
+          "summary": "Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/strong-q1-execution-sets-cms-212802204.html",
+          "pubDate": "2026-05-09T21:28:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "New chemical kills 95% of termites without harming humans",
+          "summary": "Scientists may have found a smarter, safer way to wipe out termites hiding inside homes. A chemical called bistrifluron prevents drywood termites from forming new exoskeletons during molting, killing entire colonies from within. In tests, it eliminated about 95% of termites while avoiding the toxic side effects of traditional fumigation. Researchers say the method could provide longer-lasting protection as termites spread into new areas.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260508211025.htm",
+          "pubDate": "Sat, 09 May 2026 08:24:26 EDT"
+        },
         {
           "title": "New obesity discovery rewrites decades of fat science",
           "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those cells healthy and balanced. Even more surprising, people and mice missing this protein don’t become obese as expected; instead, they lose fat tissue in a dangerous condition called lipodystrophy.",
@@ -241,17 +247,11 @@
           "summary": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 patients, researchers found that lubiprostone, a medication normally used to treat constipation, helped preserve kidney function in people with moderate CKD. Scientists traced the effect to changes in gut bacteria that boosted production of spermidine, a compound linked to healthier mitochondria and reduced kidney damage.",
           "link": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
           "pubDate": "Fri, 08 May 2026 06:44:49 EDT"
-        },
-        {
-          "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
-          "summary": "Scientists have uncovered a surprising way to influence the bacteria living in our mouths — not by killing them, but by interrupting how they “talk” to each other. Researchers found that dental plaque bacteria use chemical signals to coordinate growth, and by blocking those signals, they were able to encourage healthier bacteria while reducing disease-linked microbes tied to gum disease. Even more intriguing, the bacterial conversations changed depending on oxygen levels above and below the gums, revealing an entirely new layer of complexity inside the mouth.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
-          "pubDate": "Fri, 08 May 2026 05:27:16 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "siteName": "Science News",
       "items": [
         {
