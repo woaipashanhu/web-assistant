@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-09T23:00:18.349Z",
-  "date": "2026-05-10",
+  "lastUpdate": "2026-05-10T23:00:13.214Z",
+  "date": "2026-05-11",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
-          "summary": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
-          "link": "https://www.wired.com/gallery/best-captioning-glasses/",
-          "pubDate": "Sat, 09 May 2026 11:00:00 +0000"
+          "title": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
+          "summary": "Contact-tracing apps were widely deployed during the Covid pandemic. They aren’t as helpful during smaller outbreaks.",
+          "link": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
+          "pubDate": "Sun, 10 May 2026 11:00:00 +0000"
         },
         {
-          "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-          "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-          "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-          "pubDate": "Sat, 09 May 2026 10:30:00 +0000"
+          "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
+          "summary": "One of the country’s busiest airspaces has a new kind of flying machine—maybe temporarily.",
+          "link": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
+          "pubDate": "Sun, 10 May 2026 10:30:00 +0000"
         },
         {
-          "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
-          "summary": "The cars that debuted at the Beijing Auto Show demonstrate that the Chinese market is now at the forefront of electrification and intelligence. These are the 19 most intriguing models we saw.",
-          "link": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
-          "pubDate": "Sat, 09 May 2026 10:00:00 +0000"
+          "title": "How Handheld Translators Work and Why They’re Handy for Travel",
+          "summary": "Your cell phone can handle basic language translation, but bespoke tools can offer a much more immersive experience.",
+          "link": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+          "pubDate": "Sun, 10 May 2026 10:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
-          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-          "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "pubDate": "Sat, 09 May 2026 21:45:00 +0000"
+          "title": "Get ready for the whisper-filled office of the future",
+          "summary": "How will work setups change if we spend more and more time talking to our computers?",
+          "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+          "pubDate": "Sun, 10 May 2026 21:15:30 +0000"
         },
         {
-          "title": "Fintech startup Parker files for bankruptcy",
-          "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
-          "link": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
-          "pubDate": "Sat, 09 May 2026 20:32:17 +0000"
+          "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+          "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+          "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+          "pubDate": "Sun, 10 May 2026 20:40:41 +0000"
         },
         {
-          "title": "GM agrees to pay $12.75M in California driver privacy settlement",
-          "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
-          "link": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
-          "pubDate": "Sat, 09 May 2026 19:05:30 +0000"
+          "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+          "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
+          "link": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+          "pubDate": "Sun, 10 May 2026 18:08:54 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Lebanon says Israeli strikes killed 39",
-          "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-          "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 09 May 2026 21:23:14 GMT"
+          "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+          "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+          "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 10 May 2026 20:57:22 GMT"
         },
         {
-          "title": "Putin denounces Nato at scaled-back Victory Day parade",
-          "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
-          "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 09 May 2026 12:18:58 GMT"
+          "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+          "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+          "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 10 May 2026 19:56:45 GMT"
         },
         {
-          "title": "Iran accuses US of 'reckless military adventure'",
-          "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-          "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 09 May 2026 06:13:30 GMT"
+          "title": "French national shows symptoms on return from hantavirus-hit ship",
+          "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+          "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 10 May 2026 19:43:57 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Sunday shows preview: Trump sends mixed signals on Iran as energy costs climb",
-          "summary": "A muddled picture about the state of the conflict with Iran emerged from the White House and President Trump this week, as a flurry of developments in the Gulf collided with mixed messages about the U.S. strategy for ending the 10-week conflict and reopening the Strait of Hormuz. &#160; President Trump announced the launch of&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5871312-sunday-shows-preview-trump-sends-mixed-signals-on-iran-as-energy-costs-climb/",
-          "pubDate": "Sat, 09 May 2026 22:21:27 +0000"
+          "title": "Sanders, Moore tout bipartisan solutions to address maternal healthcare gaps",
+          "summary": "Arkansas Gov. Sarah Huckabee Sanders (R) and Maryland Gov. Wes Moore (D) on Sunday stressed the need for bipartisan cooperation to address maternal healthcare gaps. On Mother’s Day, the two spoke to host Kristen Welker on NBC’s “Meet the Press” about their work to improve access to care for mothers. Sanders, a mother to three&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5871893-maternal-health-care-gap/",
+          "pubDate": "Sun, 10 May 2026 22:11:12 +0000"
         },
         {
-          "title": "Trump legal attack on Southern Poverty Law Center stirs fears for nonprofits",
-          "summary": "The Trump administration has launched a legal attack on the Southern Poverty Law Center (SPLC), raising questions about the future of other nonprofits at odds with the president.&#160; The center pleaded not guilty Thursday in an unusual case, one that accuses the SPLC of turning its back on its very mission: using a now-defunct informant&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5869875-nonprofit-splc-legal-battle/",
-          "pubDate": "Sat, 09 May 2026 21:00:00 +0000"
+          "title": "Trump administration launches Moms.Gov on Mother’s day",
+          "summary": "The Trump administration launched the website Moms.gov on Mother’s Day in an effort to help provide resources to expecting women and their families. The site’s tagline says it&#8217;s “addressing the needs of mothers and fathers who face difficult or unexpected pregnancies and ensuring the well-being of mothers and the health of American families.” Information on&#8230;",
+          "link": "https://thehill.com/homenews/administration/5871874-trump-launches-moms-gov-website/",
+          "pubDate": "Sun, 10 May 2026 22:09:17 +0000"
         },
         {
-          "title": "Mullin says DHS not &#8216;as proactive&#8217; to secure World Cup due to shutdown",
-          "summary": "Homeland Security Secretary Markwayne Mullin on Saturday said that his department&#8217;s preparation efforts to keep the upcoming World Cup secure have not been &#8220;as proactive&#8221; due to the 76-day funding lapse. Mullin said during a Department of Homeland Security (DHS) press conference in Kansas City, Mo., alongside Rep. Mark Alford (R-Mo.), that the department &#8220;can&#8230;",
-          "link": "https://thehill.com/homenews/administration/5871197-homeland-security-world-cup-funding/",
-          "pubDate": "Sat, 09 May 2026 20:16:47 +0000"
+          "title": "5 GOP battles that will drive the summer in Congress",
+          "summary": "While congressional Republicans have coalesced around a plan to fund immigration enforcement, there are plenty more intraparty battles that will make for rocky legislating for the summer. At the crux of many of the disputes is anxiety about the looming midterm elections that threaten to erase the GOP’s majority. That’s driving some Republicans to argue&#8230;",
+          "link": "https://thehill.com/homenews/house/5870295-gop-battles-house-summer/",
+          "pubDate": "Sun, 10 May 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Warren Buffett sends blunt message on mortgages, home financing",
-          "summary": "Warren Buffett sends blunt message on mortgages, home financing",
-          "link": "https://finance.yahoo.com/markets/options/articles/warren-buffett-sends-blunt-message-140700722.html",
-          "pubDate": "2026-05-08T14:07:00Z"
+          "title": "Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response To U.S. Offer 'Totally Unacceptable'",
+          "summary": "Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response To U.S. Offer 'Totally Unacceptable'",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-trump-xi-summit-apple-nvidia-boeing/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-05-10T22:47:04Z"
         },
         {
-          "title": "Is Cathie Wood Still Hopeful About Tesla (TSLA)?",
-          "summary": "Is Cathie Wood Still Hopeful About Tesla (TSLA)?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-still-hopeful-tesla-220601937.html",
-          "pubDate": "2026-05-09T22:06:01Z"
+          "title": "Cathie Wood buys $12.9 million of tumbling tech stock",
+          "summary": "Cathie Wood buys $12.9 million of tumbling tech stock",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/cathie-wood-buys-12-9-223234417.html",
+          "pubDate": "2026-05-10T22:32:34Z"
         },
         {
-          "title": "Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth",
-          "summary": "Strong Q1 Execution Sets CMS Energy Corporation (CMS) for Full-Year Growth",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/strong-q1-execution-sets-cms-212802204.html",
-          "pubDate": "2026-05-09T21:28:02Z"
+          "title": "Exclusive-Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​",
+          "summary": "Exclusive-Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-cerebras-raise-ipo-price-213927145.html",
+          "pubDate": "2026-05-10T21:39:27Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "New chemical kills 95% of termites without harming humans",
-          "summary": "Scientists may have found a smarter, safer way to wipe out termites hiding inside homes. A chemical called bistrifluron prevents drywood termites from forming new exoskeletons during molting, killing entire colonies from within. In tests, it eliminated about 95% of termites while avoiding the toxic side effects of traditional fumigation. Researchers say the method could provide longer-lasting protection as termites spread into new areas.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260508211025.htm",
-          "pubDate": "Sat, 09 May 2026 08:24:26 EDT"
+          "title": "“Cannot be explained” – New ultra stainless steel stuns researchers",
+          "summary": "A team at the University of Hong Kong has developed a new “super steel” that can survive the harsh conditions needed to make green hydrogen from seawater. The material uses an unexpected double-protection mechanism that resists corrosion far better than conventional stainless steel. Even more impressive, it could replace costly titanium parts used in today’s hydrogen systems.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+          "pubDate": "Sun, 10 May 2026 07:39:45 EDT"
         },
         {
-          "title": "New obesity discovery rewrites decades of fat science",
-          "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns out to have a second job deep inside the nucleus of fat cells—helping keep those cells healthy and balanced. Even more surprising, people and mice missing this protein don’t become obese as expected; instead, they lose fat tissue in a dangerous condition called lipodystrophy.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
-          "pubDate": "Fri, 08 May 2026 17:21:20 EDT"
+          "title": "Scientists successfully transfer longevity gene and extend lifespan",
+          "summary": "Scientists at the University of Rochester pulled off a remarkable experiment: they transferred a longevity-related gene from the famously long-lived naked mole rat into mice, and the mice ended up healthier and lived longer. The special gene boosts production of a substance called high molecular weight hyaluronic acid, which appears to protect against cancer, reduce inflammation, and support healthier aging. The modified mice showed stronger resistance to tumors, healthier guts, and lower levels of age-related inflammation.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
+          "pubDate": "Sun, 10 May 2026 07:27:12 EDT"
         },
         {
-          "title": "A common constipation drug shows surprising power to protect kidneys",
-          "summary": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 patients, researchers found that lubiprostone, a medication normally used to treat constipation, helped preserve kidney function in people with moderate CKD. Scientists traced the effect to changes in gut bacteria that boosted production of spermidine, a compound linked to healthier mitochondria and reduced kidney damage.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
-          "pubDate": "Fri, 08 May 2026 06:44:49 EDT"
+          "title": "Brain scans reveal a shocking difference between psychopaths and other people",
+          "summary": "Scientists have uncovered a striking brain difference linked to psychopathy: people with psychopathic traits were found to have a striatum — a brain region tied to reward, motivation, and decision-making — that was about 10% larger on average than those without such traits. Using MRI scans and psychological assessments on 120 participants, researchers connected this enlarged brain region to thrill-seeking, impulsive behavior, and a stronger drive for stimulation.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
+          "pubDate": "Sun, 10 May 2026 07:05:08 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-10",
+      "date": "2026-05-11",
       "siteName": "Science News",
       "items": [
         {
