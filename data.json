@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-11T23:00:17.527Z",
-  "date": "2026-05-12",
+  "lastUpdate": "2026-05-12T23:00:54.548Z",
+  "date": "2026-05-13",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story",
-          "summary": "There’s a more accurate way of measuring who’s at risk for cholesterol-related health issues. So why don’t more doctors use it?",
-          "link": "https://www.wired.com/story/moving-beyond-bad-cholesterol-test/",
-          "pubDate": "Mon, 11 May 2026 18:40:37 +0000"
+          "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
+          "summary": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
+          "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
+          "pubDate": "Tue, 12 May 2026 22:51:45 +0000"
         },
         {
-          "title": "The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance",
-          "summary": "The complaints, obtained by WIRED, described Bad Bunny’s performance as being overly sexual and protested that the show was in Spanish.",
-          "link": "https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/",
-          "pubDate": "Mon, 11 May 2026 18:00:35 +0000"
+          "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
+          "summary": "Famous for helping build Apple’s iPhones, Foxconn just suffered another cyberattack, highlighting the perils of warehousing some of the world’s most valuable data.",
+          "link": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/",
+          "pubDate": "Tue, 12 May 2026 21:52:05 +0000"
         },
         {
-          "title": "There’s an Unhinged New Video Game About Trump and the Iran War",
-          "summary": "The game, developed by the group of anonymous artists known as Secret Handshake, is available online and in person in Washington, DC.",
-          "link": "https://www.wired.com/story/video-game-trump-iran-war/",
-          "pubDate": "Mon, 11 May 2026 17:27:22 +0000"
+          "title": "MAHA Keeps Being Weird as Hell About Fertility",
+          "summary": "RFK Jr. and Mehmet Oz’s comments about teen sperm count and “underbabied” Americans at a recent women’s health event underscore the White House’s pronatalist agenda.",
+          "link": "https://www.wired.com/story/maha-is-still-creepily-obsessed-with-your-fertility/",
+          "pubDate": "Tue, 12 May 2026 20:38:52 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-          "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
-          "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
-          "pubDate": "Mon, 11 May 2026 21:59:34 +0000"
+          "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+          "summary": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
+          "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+          "pubDate": "Tue, 12 May 2026 18:45:05 +0000"
         },
         {
-          "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-          "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-          "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-          "pubDate": "Mon, 11 May 2026 17:38:32 +0000"
+          "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+          "summary": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+          "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+          "pubDate": "Tue, 12 May 2026 18:14:58 +0000"
         },
         {
-          "title": "Bravo is creating unscripted microdramas for the Peacock app",
-          "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
-          "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-          "pubDate": "Mon, 11 May 2026 17:14:01 +0000"
+          "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+          "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+          "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+          "pubDate": "Tue, 12 May 2026 18:05:15 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Last passengers leave virus-hit cruise ship as three more test positive",
-          "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
-          "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 11 May 2026 20:49:14 GMT"
+          "title": "No sign of larger hantavirus outbreak, says UN health agency",
+          "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+          "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 12 May 2026 17:55:12 GMT"
         },
         {
-          "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-          "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
-          "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 11 May 2026 22:14:36 GMT"
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 12 May 2026 00:59:12 GMT"
         },
         {
-          "title": "South African president says he will not step down after impeachment call",
-          "summary": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
-          "link": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 11 May 2026 21:44:20 GMT"
+          "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+          "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+          "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 12 May 2026 20:00:05 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Series of court decisions weaken Democrats&apos; odds of winning the House",
-          "summary": "A U.S. Supreme Court decision and ruling from the Virginia Supreme Court have altered the redistricting outlook, hurting the chance that House control will flip.",
-          "link": "https://www.cnbc.com/2026/05/11/series-of-court-decisions-weaken-democrats-odds-of-winning-the-house.html",
-          "pubDate": "Mon, 11 May 2026 17:28:38 GMT"
+          "title": "Traders believe inflation could near 5% this year",
+          "summary": "Prediction market traders see two-in-three odds that inflation will go above 4.5% this year, and nearly 40% odds that prices will accelerate above 5%.",
+          "link": "https://www.cnbc.com/2026/05/12/traders-believe-inflation-could-near-5percent-this-year.html",
+          "pubDate": "Tue, 12 May 2026 19:57:31 GMT"
         },
         {
-          "title": "JPMorgan Chase-led bank group reins in credit line to troubled KKR private credit fund as losses mount",
-          "summary": "The KKR fund, often referred to by its ticker, FSK, has become one of the most visible fault lines in the private credit story.",
-          "link": "https://www.cnbc.com/2026/05/11/kkr-private-credit-fund-fsk-jpmorgan-chase-credit.html",
-          "pubDate": "Mon, 11 May 2026 19:32:25 GMT"
+          "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn&apos;t one of them",
+          "summary": "Nvidia CEO Jensen Huang isn't going on Trump’s China trip, though more than a dozen other U.S. executives are.",
+          "link": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html",
+          "pubDate": "Tue, 12 May 2026 11:46:25 GMT"
         },
         {
-          "title": "Michael Burry is not a believer: &apos;For any stocks going parabolic reduce positions almost entirely&apos;",
-          "summary": "Michael Burry said investors should \"reject greed\" as enthusiasm around artificial intelligence and momentum-driven trades pushes valuations sharply higher.",
-          "link": "https://www.cnbc.com/2026/05/11/michael-burry-is-not-a-believer-for-any-stocks-going-parabolic-reduce-positions-almost-entirely.html",
-          "pubDate": "Mon, 11 May 2026 16:08:00 GMT"
+          "title": "Five things to watch in Asia as Trump prepares to meet China&apos;s Xi this week",
+          "summary": "The U.S. and Chinese presidents are scheduled to gather in Beijing on Thursday and Friday amid a packed week of diplomatic meetings.",
+          "link": "https://www.cnbc.com/2026/05/12/tump-xi-china-summit-taiwan-iran-trade.html",
+          "pubDate": "Tue, 12 May 2026 02:47:29 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Supreme Court lifts block on Alabama Republicans&#8217; map",
-          "summary": "The Supreme Court on Monday&#160;wiped out a decision&#160;blocking Alabama Republicans’ congressional map, potentially allowing it to be used for the midterms in the wake of the justices’ recent blockbuster ruling&#160;narrowing the Voting Rights Act. The design would remove one of Alabama’s two majority-Black districts and&#160;give Republicans a better shot&#160;at winning the seat held by Democratic&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5873190-supreme-court-alabama-redistricting/",
-          "pubDate": "Mon, 11 May 2026 22:21:20 +0000"
+          "title": "Trump installs his fourth acting FEMA chief after tapping full-time nominee",
+          "summary": "Karen Evans, the acting head of the Federal Emergency Management Agency (FEMA), has departed the disaster relief agency in yet another leadership upheaval. A memo to FEMA staff on Tuesday disclosed that Evans was departing, according to Politico’s E&#38;E News. Evans had been in charge of FEMA since December, after David Richardson, her predecessor as&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5875022-trump-fema-cameron-hamilton-robert-fenton/",
+          "pubDate": "Tue, 12 May 2026 22:05:07 +0000"
         },
         {
-          "title": "Byron Allen taking over BuzzFeed",
-          "summary": "Byron Allen is expected to head BuzzFeed as the company’s new CEO, according to a Monday company release. Allen will replace Founder and CEO Jonah Peretti, who will transition into the role of president of BuzzFeed AI. Allen’s investment firm, Allen Family Digital, purchased 40 million shares of BuzzFeed Inc. at a price of $3.00&#8230;",
-          "link": "https://thehill.com/media/5873126-byron-allen-buzzfeed-ceo/",
-          "pubDate": "Mon, 11 May 2026 22:19:22 +0000"
+          "title": "Marty Makary&#8217;s tenure as head of FDA ends with &#8216;difficulty&#8217;",
+          "summary": "Food and Drug Administration (FDA) Commissioner Marty Makary stepped down on Tuesday,&#160;capping weeks of pressure and rumors that his job was in&#160;jeopardy. &#160; The agency’s top food regulator, Kyle&#160;Diamantas,&#160;will take over, President Trump wrote on Truth Social.&#160; Trump told reporters ahead of his trip to China on Tuesday that Makary had been “having some difficulty” in the role. &#8230;",
+          "link": "https://thehill.com/policy/healthcare/5875030-marty-makarys-tenure-as-head-of-fda-ends-with-difficulty/",
+          "pubDate": "Tue, 12 May 2026 22:03:46 +0000"
         },
         {
-          "title": "Hantavirus outbreak: Who is most at risk of catching the deadly virus?",
-          "summary": "While hantavirus respiratory infections may still be rare in the U.S., they can be incredibly deadly.",
-          "link": "https://thehill.com/policy/healthcare/5873138-hantavirus-outbreak-who-is-most-at-risk-of-catching-the-deadly-virus/",
-          "pubDate": "Mon, 11 May 2026 22:01:30 +0000"
+          "title": "South Carolina Republicans decline to consider redistricting in blow to Trump",
+          "summary": "South Carolina&#8217;s Senate on Monday declined to extend its legislative calendar to consider drawing new GOP-favored congressional lines, dealing a blow to President Trump before the midterms this fall. The measure failed via a 29-17 vote after Trump on Monday urged Republicans to back the extension. “South Carolina Republicans: BE BOLD AND COURAGEOUS, just like&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5875039-south-carolina-senate-redistricting/",
+          "pubDate": "Tue, 12 May 2026 21:59:38 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "38-year-old Italian chain down to 9 locations nationwide",
-          "summary": "38-year-old Italian chain down to 9 locations nationwide",
-          "link": "https://finance.yahoo.com/sectors/healthcare/articles/38-old-italian-chain-down-174000202.html",
-          "pubDate": "2026-05-10T17:40:00Z"
+          "title": "BofA drops blunt warning about Fed rate cuts",
+          "summary": "BofA drops blunt warning about Fed rate cuts",
+          "link": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-blunt-warning-fed-023300848.html",
+          "pubDate": "2026-05-12T02:33:00Z"
         },
         {
-          "title": "Why the Hard Times for Software Stocks May Be Over, At Least for a Little While",
-          "summary": "Why the Hard Times for Software Stocks May Be Over, At Least for a Little While",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-hard-times-software-stocks-140002339.html",
-          "pubDate": "2026-05-10T14:00:02Z"
+          "title": "KeyBanc Raises its Price Target on Microchip Technology (MCHP) to $135",
+          "summary": "KeyBanc Raises its Price Target on Microchip Technology (MCHP) to $135",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-raises-price-target-microchip-143805426.html",
+          "pubDate": "2026-05-11T14:38:05Z"
         },
         {
-          "title": "Dan Ives Can’t Make It Any Clearer: Palantir Stock Is Still a ‘Golden Goose’ Despite Q1 Earnings Fears",
-          "summary": "Dan Ives Can’t Make It Any Clearer: Palantir Stock Is Still a ‘Golden Goose’ Despite Q1 Earnings Fears",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-t-clearer-palantir-140002451.html",
-          "pubDate": "2026-05-10T14:00:02Z"
+          "title": "Roth Capital Raises its Price Target on ON Semiconductor (ON) to $125",
+          "summary": "Roth Capital Raises its Price Target on ON Semiconductor (ON) to $125",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/roth-capital-raises-price-target-143835758.html",
+          "pubDate": "2026-05-11T14:38:35Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists say this common sweetener may be quietly rewiring your metabolism",
-          "summary": "Researchers say fructose is not just “empty calories” — it may actively push the body toward fat storage and metabolic disease. A new review found that fructose affects the body differently from glucose, disrupting normal energy regulation and promoting processes linked to obesity, insulin resistance, and cardiovascular problems.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260510234726.htm",
-          "pubDate": "Mon, 11 May 2026 08:28:23 EDT"
+          "title": "Scientists say this algae could remove microplastics from drinking water",
+          "summary": "Researchers created a special kind of algae that can grab microscopic plastic pollution out of water almost like a magnet. The algae produce limonene, an orange-scented oil that helps them bind to water-repelling microplastics, forming easy-to-remove clumps. As a bonus, the algae also clean wastewater while growing.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260511213201.htm",
+          "pubDate": "Tue, 12 May 2026 07:16:28 EDT"
         },
         {
-          "title": "This 800-year-old Chinese exercise helps lower blood pressure naturally",
-          "summary": "An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced baduanjin, a gentle mind-body exercise combining slow movements, breathing, and meditation, saw meaningful drops in blood pressure within three months that lasted for an entire year.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
-          "pubDate": "Sun, 10 May 2026 23:47:24 EDT"
+          "title": "This strange giant dinosaur may change what we know about Jurassic titans",
+          "summary": "A bizarre new giant dinosaur discovered in Argentina is giving paleontologists a fresh look at how Jurassic titans evolved in the Southern Hemisphere. Bicharracosaurus dionidei stretched about 20 meters long and carried a strange mix of features seen in both Diplodocus and Brachiosaurus relatives. Scientists believe it could represent the first known Jurassic brachiosaurid from South America, helping fill a major gap in the dinosaur fossil record.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260511213154.htm",
+          "pubDate": "Tue, 12 May 2026 05:35:28 EDT"
         },
         {
-          "title": "NASA’s Psyche probe is about to slingshot around Mars at 12,000 mph",
-          "summary": "NASA’s Psyche spacecraft is about to pull off a dramatic close flyby of Mars, skimming just 2,800 miles above the planet to get a powerful gravitational boost on its journey to the mysterious metal-rich asteroid Psyche. The maneuver will save propellant while giving mission scientists a rare chance to test and calibrate the spacecraft’s instruments using Mars as a target. As Psyche approaches from the planet’s dark side, it’s expected to capture striking crescent views of Mars, search for faint dust rings around the planet, and even gather magnetic and cosmic ray data during the encounter.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260510234707.htm",
-          "pubDate": "Mon, 11 May 2026 03:09:12 EDT"
+          "title": "NASA’s Hubble  reveals a giant chaotic planet nursery unlike anything seen before",
+          "summary": "Hubble has revealed a giant planet-forming disk unlike anything astronomers have seen before. Nicknamed “Dracula’s Chivito,” the enormous structure appears turbulent and oddly lopsided, with towering filaments visible on only one side. The disk contains enough material to potentially create multiple giant planets, making it a fascinating new laboratory for studying how planetary systems are born.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260511213151.htm",
+          "pubDate": "Tue, 12 May 2026 00:42:10 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Jazz and classical music have become simpler, a new study finds",
+          "summary": "Mathematical analysis suggests that melodies and harmonies have become less complex as music evolves and musicians find new ways “to create great music.”",
+          "link": "https://www.sciencenews.org/article/jazz-classical-music-simpler-pop-rock",
+          "pubDate": "Tue, 12 May 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Uterus transplants can provide a path to pregnancy and parenthood",
+          "summary": "Donated uteruses transplanted into women without a womb can allow for successful pregnancy and birth.",
+          "link": "https://www.sciencenews.org/article/uterus-transplant-womb-pregnancy-ivf",
+          "pubDate": "Tue, 12 May 2026 13:45:00 +0000"
+        },
         {
           "title": "Astronomers may have found a record-breaking pair of black holes",
           "summary": "At some 60 billion times the mass of the sun, this dark void could be home to a pair of black holes that are due for a cosmic collision.",
           "link": "https://www.sciencenews.org/article/largest-pair-black-holes-collision",
           "pubDate": "Mon, 11 May 2026 17:30:00 +0000"
-        },
-        {
-          "title": "Some South American rodent-borne viruses may spread as climate warms",
-          "summary": "Some rodents in South America carry arenaviruses and hantaviruses. Climate change may bring both to regions where neither is currently a threat.",
-          "link": "https://www.sciencenews.org/article/rodent-arenaviruses-hantavirus-climate",
-          "pubDate": "Mon, 11 May 2026 15:30:00 +0000"
-        },
-        {
-          "title": "Yawning is contagious — even in the womb",
-          "summary": "Rather than catching a yawn on sight, muscles squeezing the uterus could be the trigger for a fetus to catch a yawn from its mother.",
-          "link": "https://www.sciencenews.org/article/yawning-contagious-in-womb-fetus-muscle",
-          "pubDate": "Mon, 11 May 2026 13:00:00 +0000"
         }
       ]
     }
