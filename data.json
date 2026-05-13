@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-12T23:00:54.548Z",
-  "date": "2026-05-13",
+  "lastUpdate": "2026-05-13T23:00:54.101Z",
+  "date": "2026-05-14",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
-          "summary": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
-          "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
-          "pubDate": "Tue, 12 May 2026 22:51:45 +0000"
+          "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+          "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+          "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+          "pubDate": "Wed, 13 May 2026 21:58:47 +0000"
         },
         {
-          "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
-          "summary": "Famous for helping build Apple’s iPhones, Foxconn just suffered another cyberattack, highlighting the perils of warehousing some of the world’s most valuable data.",
-          "link": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/",
-          "pubDate": "Tue, 12 May 2026 21:52:05 +0000"
+          "title": "Instagram’s New Instants App Is a Snapchat Clone for Thirst Traps",
+          "summary": "Instagram’s Instants app lets you send disappearing photos—and it’s probably where your horny friends will post spicy pics.",
+          "link": "https://www.wired.com/story/instagrams-new-instants-app-is-a-snapchat-clone-for-thirst-traps/",
+          "pubDate": "Wed, 13 May 2026 20:49:17 +0000"
         },
         {
-          "title": "MAHA Keeps Being Weird as Hell About Fertility",
-          "summary": "RFK Jr. and Mehmet Oz’s comments about teen sperm count and “underbabied” Americans at a recent women’s health event underscore the White House’s pronatalist agenda.",
-          "link": "https://www.wired.com/story/maha-is-still-creepily-obsessed-with-your-fertility/",
-          "pubDate": "Tue, 12 May 2026 20:38:52 +0000"
+          "title": "What It Will Take to Make AI Sustainable",
+          "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
+          "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+          "pubDate": "Wed, 13 May 2026 19:15:59 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
-          "summary": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
-          "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-          "pubDate": "Tue, 12 May 2026 18:45:05 +0000"
+          "title": "Notion just turned its workspace into a hub for AI agents",
+          "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+          "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+          "pubDate": "Wed, 13 May 2026 21:45:09 +0000"
         },
         {
-          "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
-          "summary": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
-          "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
-          "pubDate": "Tue, 12 May 2026 18:14:58 +0000"
+          "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+          "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+          "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+          "pubDate": "Wed, 13 May 2026 19:49:42 +0000"
         },
         {
-          "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-          "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
-          "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-          "pubDate": "Tue, 12 May 2026 18:05:15 +0000"
+          "title": "Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+          "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+          "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+          "pubDate": "Wed, 13 May 2026 19:28:06 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "No sign of larger hantavirus outbreak, says UN health agency",
-          "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
-          "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 12 May 2026 17:55:12 GMT"
+          "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+          "summary": "The US president says his first request to Xi would be to \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
+          "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 13 May 2026 17:00:12 GMT"
         },
         {
-          "title": "Trump says Iran ceasefire is on 'massive life support'",
-          "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 12 May 2026 00:59:12 GMT"
+          "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+          "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
+          "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 13 May 2026 15:36:38 GMT"
         },
         {
-          "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-          "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
-          "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 12 May 2026 20:00:05 GMT"
+          "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+          "summary": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+          "link": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 13 May 2026 13:37:53 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Traders believe inflation could near 5% this year",
-          "summary": "Prediction market traders see two-in-three odds that inflation will go above 4.5% this year, and nearly 40% odds that prices will accelerate above 5%.",
-          "link": "https://www.cnbc.com/2026/05/12/traders-believe-inflation-could-near-5percent-this-year.html",
-          "pubDate": "Tue, 12 May 2026 19:57:31 GMT"
+          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+          "summary": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
+          "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "pubDate": "Wed, 13 May 2026 20:38:20 GMT"
         },
         {
-          "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn&apos;t one of them",
-          "summary": "Nvidia CEO Jensen Huang isn't going on Trump’s China trip, though more than a dozen other U.S. executives are.",
-          "link": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html",
-          "pubDate": "Tue, 12 May 2026 11:46:25 GMT"
+          "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+          "summary": "Traders also think it is likely that the president will talk about Iran, despite his comments that the U.S. doesn't need China's help in resolving the war.",
+          "link": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+          "pubDate": "Wed, 13 May 2026 18:13:49 GMT"
         },
         {
-          "title": "Five things to watch in Asia as Trump prepares to meet China&apos;s Xi this week",
-          "summary": "The U.S. and Chinese presidents are scheduled to gather in Beijing on Thursday and Friday amid a packed week of diplomatic meetings.",
-          "link": "https://www.cnbc.com/2026/05/12/tump-xi-china-summit-taiwan-iran-trade.html",
-          "pubDate": "Tue, 12 May 2026 02:47:29 GMT"
+          "title": "Jensen Huang joins Trump&apos;s China trip after the U.S. president called the Nvidia CEO",
+          "summary": "The U.S. chipmaker executive was not included in earlier lists of business leaders participating in President Donald Trump's trip to China this week.",
+          "link": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "pubDate": "Wed, 13 May 2026 13:54:12 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump installs his fourth acting FEMA chief after tapping full-time nominee",
-          "summary": "Karen Evans, the acting head of the Federal Emergency Management Agency (FEMA), has departed the disaster relief agency in yet another leadership upheaval. A memo to FEMA staff on Tuesday disclosed that Evans was departing, according to Politico’s E&#38;E News. Evans had been in charge of FEMA since December, after David Richardson, her predecessor as&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5875022-trump-fema-cameron-hamilton-robert-fenton/",
-          "pubDate": "Tue, 12 May 2026 22:05:07 +0000"
+          "title": "Congress confronts new questions about US stockpiles, Iran firepower",
+          "summary": "Defense Secretary Pete Hegseth’s appearance before House and Senate appropriators on Tuesday hasn’t settled the debate in Congress over two mounting questions about the Iran war: whether U.S. stockpiles are dangerously low and how much firepower Tehran maintains. Democratic lawmakers on Wednesday remained dubious of Hegseth’s claims that the U.S. military’s weapons stockpiles remain strong&#8230;",
+          "link": "https://thehill.com/policy/defense/5877148-us-iran-war-munitions-stockpiles/",
+          "pubDate": "Wed, 13 May 2026 22:38:03 +0000"
         },
         {
-          "title": "Marty Makary&#8217;s tenure as head of FDA ends with &#8216;difficulty&#8217;",
-          "summary": "Food and Drug Administration (FDA) Commissioner Marty Makary stepped down on Tuesday,&#160;capping weeks of pressure and rumors that his job was in&#160;jeopardy. &#160; The agency’s top food regulator, Kyle&#160;Diamantas,&#160;will take over, President Trump wrote on Truth Social.&#160; Trump told reporters ahead of his trip to China on Tuesday that Makary had been “having some difficulty” in the role. &#8230;",
-          "link": "https://thehill.com/policy/healthcare/5875030-marty-makarys-tenure-as-head-of-fda-ends-with-difficulty/",
-          "pubDate": "Tue, 12 May 2026 22:03:46 +0000"
+          "title": "Scott Bessent hails John Fetterman vote for Trump&#8217;s new Fed chief",
+          "summary": "Treasury Secretary Scott Bessent offered indirect praise for Sen. John Fetterman (D-Pa.) on Wednesday after the centrist Democrat broke party lines on a vote confirming Kevin Warsh as the next Federal Reserve chair. Bessent hailed Republican senators and Fetterman for putting “country before political ideology” in a post on the social platform X following the&#8230;",
+          "link": "https://thehill.com/homenews/senate/5877138-treasury-secretary-praises-fetterman/",
+          "pubDate": "Wed, 13 May 2026 22:32:06 +0000"
         },
         {
-          "title": "South Carolina Republicans decline to consider redistricting in blow to Trump",
-          "summary": "South Carolina&#8217;s Senate on Monday declined to extend its legislative calendar to consider drawing new GOP-favored congressional lines, dealing a blow to President Trump before the midterms this fall. The measure failed via a 29-17 vote after Trump on Monday urged Republicans to back the extension. “South Carolina Republicans: BE BOLD AND COURAGEOUS, just like&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5875039-south-carolina-senate-redistricting/",
-          "pubDate": "Tue, 12 May 2026 21:59:38 +0000"
+          "title": "Kemp calls for redistricting special session to redraw 2028 maps in Georgia",
+          "summary": "Georgia Gov. Brian Kemp (R) on Wednesday called for a special legislative session for lawmakers to redraw the state&#8217;s maps ahead of the 2028 elections. Kemp&#8217;s proclamation called on lawmakers to reconvene on June 17 to &#8220;consider enacting, revising, repealing, or amending general law for the division of the State into appropriate districts&#8221; following the&#8230;",
+          "link": "https://thehill.com/homenews/state-watch/5877031-georgia-redistricting-maps-2028/",
+          "pubDate": "Wed, 13 May 2026 22:30:56 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "BofA drops blunt warning about Fed rate cuts",
-          "summary": "BofA drops blunt warning about Fed rate cuts",
-          "link": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-blunt-warning-fed-023300848.html",
-          "pubDate": "2026-05-12T02:33:00Z"
+          "title": "Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel",
+          "summary": "Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel",
+          "link": "https://finance.yahoo.com/news/explained-perpetual-dex-wall-street-152000841.html",
+          "pubDate": "2026-05-13T15:20:00Z"
         },
         {
-          "title": "KeyBanc Raises its Price Target on Microchip Technology (MCHP) to $135",
-          "summary": "KeyBanc Raises its Price Target on Microchip Technology (MCHP) to $135",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-raises-price-target-microchip-143805426.html",
-          "pubDate": "2026-05-11T14:38:05Z"
+          "title": "Consumer debt still seems manageable… for now",
+          "summary": "Consumer debt still seems manageable… for now",
+          "link": "https://finance.yahoo.com/economy/articles/consumer-debt-still-seems-manageable-120100852.html",
+          "pubDate": "2026-05-12T15:00:00Z"
         },
         {
-          "title": "Roth Capital Raises its Price Target on ON Semiconductor (ON) to $125",
-          "summary": "Roth Capital Raises its Price Target on ON Semiconductor (ON) to $125",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/roth-capital-raises-price-target-143835758.html",
-          "pubDate": "2026-05-11T14:38:35Z"
+          "title": "Global Supply Shock Reignites Oil Exploration Boom",
+          "summary": "Global Supply Shock Reignites Oil Exploration Boom",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/global-supply-shock-reignites-oil-150000908.html",
+          "pubDate": "2026-05-12T15:00:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists say this algae could remove microplastics from drinking water",
-          "summary": "Researchers created a special kind of algae that can grab microscopic plastic pollution out of water almost like a magnet. The algae produce limonene, an orange-scented oil that helps them bind to water-repelling microplastics, forming easy-to-remove clumps. As a bonus, the algae also clean wastewater while growing.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260511213201.htm",
-          "pubDate": "Tue, 12 May 2026 07:16:28 EDT"
+          "title": "Quantum breakthrough could revolutionize teleportation and computing",
+          "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
+          "pubDate": "Wed, 13 May 2026 03:55:23 EDT"
         },
         {
-          "title": "This strange giant dinosaur may change what we know about Jurassic titans",
-          "summary": "A bizarre new giant dinosaur discovered in Argentina is giving paleontologists a fresh look at how Jurassic titans evolved in the Southern Hemisphere. Bicharracosaurus dionidei stretched about 20 meters long and carried a strange mix of features seen in both Diplodocus and Brachiosaurus relatives. Scientists believe it could represent the first known Jurassic brachiosaurid from South America, helping fill a major gap in the dinosaur fossil record.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260511213154.htm",
-          "pubDate": "Tue, 12 May 2026 05:35:28 EDT"
+          "title": "A rare cancer-fighting plant compound has been decoded",
+          "summary": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery that had puzzled researchers for years. Because mitraphylline appears only in tiny amounts in tropical plants like kratom and cat’s claw, the discovery could make it far easier to produce sustainably in the future.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
+          "pubDate": "Tue, 12 May 2026 21:45:40 EDT"
         },
         {
-          "title": "NASA’s Hubble  reveals a giant chaotic planet nursery unlike anything seen before",
-          "summary": "Hubble has revealed a giant planet-forming disk unlike anything astronomers have seen before. Nicknamed “Dracula’s Chivito,” the enormous structure appears turbulent and oddly lopsided, with towering filaments visible on only one side. The disk contains enough material to potentially create multiple giant planets, making it a fascinating new laboratory for studying how planetary systems are born.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260511213151.htm",
-          "pubDate": "Tue, 12 May 2026 00:42:10 EDT"
+          "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+          "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+          "pubDate": "Wed, 13 May 2026 03:33:27 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Jazz and classical music have become simpler, a new study finds",
-          "summary": "Mathematical analysis suggests that melodies and harmonies have become less complex as music evolves and musicians find new ways “to create great music.”",
-          "link": "https://www.sciencenews.org/article/jazz-classical-music-simpler-pop-rock",
-          "pubDate": "Tue, 12 May 2026 15:00:00 +0000"
+          "title": "First evidence of Neandertal dentistry found in ancient molar",
+          "summary": "A 59,000-year-old Neandertal molar unearthed in Siberia was drilled with a stone tool – the earliest evidence of primitive dentistry.",
+          "link": "https://www.sciencenews.org/article/first-evidence-neandertal-dentist-molar",
+          "pubDate": "Wed, 13 May 2026 18:00:00 +0000"
         },
         {
-          "title": "Uterus transplants can provide a path to pregnancy and parenthood",
-          "summary": "Donated uteruses transplanted into women without a womb can allow for successful pregnancy and birth.",
-          "link": "https://www.sciencenews.org/article/uterus-transplant-womb-pregnancy-ivf",
-          "pubDate": "Tue, 12 May 2026 13:45:00 +0000"
+          "title": "Hantavirus questions grow in the wake of a cruise ship outbreak",
+          "summary": "Scientists still don’t know why Andes hantavirus is the only one shown to spread from person to person.",
+          "link": "https://www.sciencenews.org/article/andes-hantavirus-cruise-ship-outbreak",
+          "pubDate": "Wed, 13 May 2026 17:24:54 +0000"
         },
         {
-          "title": "Astronomers may have found a record-breaking pair of black holes",
-          "summary": "At some 60 billion times the mass of the sun, this dark void could be home to a pair of black holes that are due for a cosmic collision.",
-          "link": "https://www.sciencenews.org/article/largest-pair-black-holes-collision",
-          "pubDate": "Mon, 11 May 2026 17:30:00 +0000"
+          "title": "To get string theory, you need only four physics assumptions",
+          "summary": "Tenets of quantum mechanics and special relativity, among other theoretical ideas, lead inexorably to string theory.",
+          "link": "https://www.sciencenews.org/article/string-theory-assumptions-bootstrap",
+          "pubDate": "Wed, 13 May 2026 16:00:00 +0000"
         }
       ]
     }
