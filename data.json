@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-13T23:00:54.101Z",
-  "date": "2026-05-14",
+  "lastUpdate": "2026-05-14T23:00:20.759Z",
+  "date": "2026-05-15",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-          "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-          "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-          "pubDate": "Wed, 13 May 2026 21:58:47 +0000"
+          "title": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
+          "summary": "There are no confirmed cases in the US, but 41 people who were potentially exposed to the Andes virus are in quarantine or being monitored for symptoms.",
+          "link": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
+          "pubDate": "Thu, 14 May 2026 21:00:29 +0000"
         },
         {
-          "title": "Instagram’s New Instants App Is a Snapchat Clone for Thirst Traps",
-          "summary": "Instagram’s Instants app lets you send disappearing photos—and it’s probably where your horny friends will post spicy pics.",
-          "link": "https://www.wired.com/story/instagrams-new-instants-app-is-a-snapchat-clone-for-thirst-traps/",
-          "pubDate": "Wed, 13 May 2026 20:49:17 +0000"
+          "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+          "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+          "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+          "pubDate": "Thu, 14 May 2026 20:27:34 +0000"
         },
         {
-          "title": "What It Will Take to Make AI Sustainable",
-          "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
-          "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
-          "pubDate": "Wed, 13 May 2026 19:15:59 +0000"
+          "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
+          "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
+          "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026/",
+          "pubDate": "Thu, 14 May 2026 20:20:06 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Notion just turned its workspace into a hub for AI agents",
-          "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-          "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-          "pubDate": "Wed, 13 May 2026 21:45:09 +0000"
+          "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+          "summary": "Here's what the biggest tech court case of the year is all about.",
+          "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+          "pubDate": "Thu, 14 May 2026 22:47:51 +0000"
         },
         {
-          "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-          "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-          "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-          "pubDate": "Wed, 13 May 2026 19:49:42 +0000"
+          "title": "Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger",
+          "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+          "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+          "pubDate": "Thu, 14 May 2026 21:30:44 +0000"
         },
         {
-          "title": "Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-          "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-          "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-          "pubDate": "Wed, 13 May 2026 19:28:06 +0000"
+          "title": "OpenAI says Codex is coming to your phone",
+          "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+          "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+          "pubDate": "Thu, 14 May 2026 20:58:55 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
-          "summary": "The US president says his first request to Xi would be to \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
-          "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 13 May 2026 17:00:12 GMT"
+          "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+          "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+          "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 14 May 2026 13:02:13 GMT"
         },
         {
-          "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-          "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
-          "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 13 May 2026 15:36:38 GMT"
+          "title": "'Floating armoury' ship reportedly seized by Iran",
+          "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
+          "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 14 May 2026 13:33:20 GMT"
         },
         {
-          "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
-          "summary": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
-          "link": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 13 May 2026 13:37:53 GMT"
+          "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
+          "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+          "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 14 May 2026 21:39:10 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
-          "summary": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
-          "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
-          "pubDate": "Wed, 13 May 2026 20:38:20 GMT"
+          "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+          "summary": "Miran served as a contrarian voice on the rate-setting Federal Open Market Committee.",
+          "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+          "pubDate": "Thu, 14 May 2026 21:47:36 GMT"
         },
         {
-          "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
-          "summary": "Traders also think it is likely that the president will talk about Iran, despite his comments that the U.S. doesn't need China's help in resolving the war.",
-          "link": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
-          "pubDate": "Wed, 13 May 2026 18:13:49 GMT"
+          "title": "UFC&apos;s Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
+          "summary": "In the letter, Dana White said that the cap is already starting to create problems for the gambling industry.",
+          "link": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
+          "pubDate": "Thu, 14 May 2026 18:45:00 GMT"
         },
         {
-          "title": "Jensen Huang joins Trump&apos;s China trip after the U.S. president called the Nvidia CEO",
-          "summary": "The U.S. chipmaker executive was not included in earlier lists of business leaders participating in President Donald Trump's trip to China this week.",
-          "link": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
-          "pubDate": "Wed, 13 May 2026 13:54:12 GMT"
+          "title": "Some short sellers are seeing opportunity in this tech mania. How they&apos;re spotting fake AI stocks",
+          "summary": "Hedge fund managers said the current environment — fueled by aggressive spending on AI — is creating a fertile backdrop for bearish wagers",
+          "link": "https://www.cnbc.com/2026/05/14/some-short-sellers-are-seeing-opportunity-in-this-tech-mania-how-theyre-spotting-fake-ai-stocks.html",
+          "pubDate": "Thu, 14 May 2026 18:35:22 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Congress confronts new questions about US stockpiles, Iran firepower",
-          "summary": "Defense Secretary Pete Hegseth’s appearance before House and Senate appropriators on Tuesday hasn’t settled the debate in Congress over two mounting questions about the Iran war: whether U.S. stockpiles are dangerously low and how much firepower Tehran maintains. Democratic lawmakers on Wednesday remained dubious of Hegseth’s claims that the U.S. military’s weapons stockpiles remain strong&#8230;",
-          "link": "https://thehill.com/policy/defense/5877148-us-iran-war-munitions-stockpiles/",
-          "pubDate": "Wed, 13 May 2026 22:38:03 +0000"
+          "title": "Trump and Xi&#8217;s initial meeting reveals dueling priorities",
+          "summary": "President Trump and Chinese President Xi Jinping brought dueling priorities to their high-stakes summit in Beijing, with Xi pressing Trump on Taiwan, while Trump&#8217;s focused on trade, business and farmers. Trump showed up with nearly 20 top executives from companies like Tesla and SpaceX, Nvidia, Goldman Sachs, Blackrock, Boeing and GE Aerospace, among others. He told Xi&#8230;",
+          "link": "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/",
+          "pubDate": "Thu, 14 May 2026 22:27:35 +0000"
         },
         {
-          "title": "Scott Bessent hails John Fetterman vote for Trump&#8217;s new Fed chief",
-          "summary": "Treasury Secretary Scott Bessent offered indirect praise for Sen. John Fetterman (D-Pa.) on Wednesday after the centrist Democrat broke party lines on a vote confirming Kevin Warsh as the next Federal Reserve chair. Bessent hailed Republican senators and Fetterman for putting “country before political ideology” in a post on the social platform X following the&#8230;",
-          "link": "https://thehill.com/homenews/senate/5877138-treasury-secretary-praises-fetterman/",
-          "pubDate": "Wed, 13 May 2026 22:32:06 +0000"
+          "title": "Fetterman: Democratic base becoming &#8216;increasingly anti-American&#8217;",
+          "summary": "Sen. John Fetterman (D-Pa.) on Wednesday accused the Democratic base of becoming &#8220;increasingly anti-American&#8221; amid calls against U.S. military intervention in Venezuela, Iran and Cuba. Reason Magazine&#8217;s Nick Gillespie, asked Fetterman on the &#8220;Reason Interview&#8221; podcast about what the senator thinks of his politics now, having backed Sen. Bernie Sanders (I-Vt.), a democratic socialist, in&#8230;",
+          "link": "https://thehill.com/homenews/senate/5879003-fetterman-democrats-anti-american/",
+          "pubDate": "Thu, 14 May 2026 22:07:14 +0000"
         },
         {
-          "title": "Kemp calls for redistricting special session to redraw 2028 maps in Georgia",
-          "summary": "Georgia Gov. Brian Kemp (R) on Wednesday called for a special legislative session for lawmakers to redraw the state&#8217;s maps ahead of the 2028 elections. Kemp&#8217;s proclamation called on lawmakers to reconvene on June 17 to &#8220;consider enacting, revising, repealing, or amending general law for the division of the State into appropriate districts&#8221; following the&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5877031-georgia-redistricting-maps-2028/",
-          "pubDate": "Wed, 13 May 2026 22:30:56 +0000"
+          "title": "Comey says Trump seems &#8216;off&#8217; compared to 2017",
+          "summary": "Former FBI Director James Comey said on Thursday that “something’s off” with President Trump, arguing the president’s behavior has become more erratic and self-obsessed since his first term. “I mean, I&#8217;ve always thought Donald Trump was a little bit off, but whoa, compared to even to six years ago, something&#8217;s off,” Comey told CNN’s Kasie&#8230;",
+          "link": "https://thehill.com/homenews/administration/5879035-comey-trump-behavior-concerns/",
+          "pubDate": "Thu, 14 May 2026 21:53:34 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,64 +213,64 @@
           "pubDate": "2026-05-13T15:20:00Z"
         },
         {
-          "title": "Consumer debt still seems manageable… for now",
-          "summary": "Consumer debt still seems manageable… for now",
-          "link": "https://finance.yahoo.com/economy/articles/consumer-debt-still-seems-manageable-120100852.html",
-          "pubDate": "2026-05-12T15:00:00Z"
+          "title": "NY Fed defeats Puerto Rican bank's appeal tied to Venezuela-related cutoff",
+          "summary": "NY Fed defeats Puerto Rican bank's appeal tied to Venezuela-related cutoff",
+          "link": "https://finance.yahoo.com/news/ny-fed-defeats-puerto-rican-151523159.html",
+          "pubDate": "2026-05-13T15:15:23Z"
         },
         {
-          "title": "Global Supply Shock Reignites Oil Exploration Boom",
-          "summary": "Global Supply Shock Reignites Oil Exploration Boom",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/global-supply-shock-reignites-oil-150000908.html",
-          "pubDate": "2026-05-12T15:00:00Z"
+          "title": "Jim Cramer Just Identified an AI Infrastructure Supplier Yet to Fully Price in April’s Compute Demand Surge",
+          "summary": "Jim Cramer Just Identified an AI Infrastructure Supplier Yet to Fully Price in April’s Compute Demand Surge",
+          "link": "https://finance.yahoo.com/news/jim-cramer-just-identified-ai-151502378.html",
+          "pubDate": "2026-05-13T15:15:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Quantum breakthrough could revolutionize teleportation and computing",
-          "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
-          "pubDate": "Wed, 13 May 2026 03:55:23 EDT"
+          "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
+          "summary": "Scientists have uncovered compelling evidence that dinosaur fossils may still contain traces of their original proteins, overturning a long-standing belief that fossilization destroys all organic material. In a remarkably well-preserved Edmontosaurus fossil from South Dakota, researchers detected remnants of collagen — the main protein found in bone — using advanced techniques including mass spectrometry and protein sequencing.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260514084421.htm",
+          "pubDate": "Thu, 14 May 2026 09:02:12 EDT"
         },
         {
-          "title": "A rare cancer-fighting plant compound has been decoded",
-          "summary": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure, solving a mystery that had puzzled researchers for years. Because mitraphylline appears only in tiny amounts in tropical plants like kratom and cat’s claw, the discovery could make it far easier to produce sustainably in the future.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
-          "pubDate": "Tue, 12 May 2026 21:45:40 EDT"
+          "title": "Who are the Japanese? Huge DNA discovery rewrites history",
+          "summary": "Scientists analyzing the genomes of thousands of people across Japan discovered evidence for a previously overlooked third ancestral group, challenging the long-accepted “dual origins” theory. The newly identified ancestry appears linked to the ancient Emishi people of northeastern Japan. Researchers also uncovered inherited Neanderthal and Denisovan DNA connected to conditions like diabetes, heart disease, and cancer.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
+          "pubDate": "Thu, 14 May 2026 01:00:37 EDT"
         },
         {
-          "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-          "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-          "pubDate": "Wed, 13 May 2026 03:33:27 EDT"
+          "title": "Deadly “red sky” solar storm from 800 years ago discovered in ancient trees",
+          "summary": "Researchers in Japan traced a hidden medieval solar storm using ancient tree rings and centuries-old sky observations. The team linked reports of eerie red auroras with spikes of carbon-14 trapped in buried wood, revealing a powerful solar radiation event around 1200 CE. The findings suggest the Sun was far more active at the time, with unusually short solar cycles.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260513221818.htm",
+          "pubDate": "Thu, 14 May 2026 01:55:09 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "siteName": "Science News",
       "items": [
         {
-          "title": "First evidence of Neandertal dentistry found in ancient molar",
-          "summary": "A 59,000-year-old Neandertal molar unearthed in Siberia was drilled with a stone tool – the earliest evidence of primitive dentistry.",
-          "link": "https://www.sciencenews.org/article/first-evidence-neandertal-dentist-molar",
-          "pubDate": "Wed, 13 May 2026 18:00:00 +0000"
+          "title": "Water drops on soap bubble films act like merging galaxies",
+          "summary": "Water droplets on soap films orbited and merged like colliding galaxies, a technique that could help scientists study the cosmos.",
+          "link": "https://www.sciencenews.org/article/water-soap-film-galaxies-study-cosmos",
+          "pubDate": "Thu, 14 May 2026 17:00:00 +0000"
         },
         {
-          "title": "Hantavirus questions grow in the wake of a cruise ship outbreak",
-          "summary": "Scientists still don’t know why Andes hantavirus is the only one shown to spread from person to person.",
-          "link": "https://www.sciencenews.org/article/andes-hantavirus-cruise-ship-outbreak",
-          "pubDate": "Wed, 13 May 2026 17:24:54 +0000"
+          "title": "AI can take the friction out of life, but some effort can be good",
+          "summary": "Technologies, including chatbots, promise to make life easier. But removing the friction, or effort involved in thinking, has costs.",
+          "link": "https://www.sciencenews.org/article/ai-removes-friction-effort-balance-good",
+          "pubDate": "Thu, 14 May 2026 15:00:00 +0000"
         },
         {
-          "title": "To get string theory, you need only four physics assumptions",
-          "summary": "Tenets of quantum mechanics and special relativity, among other theoretical ideas, lead inexorably to string theory.",
-          "link": "https://www.sciencenews.org/article/string-theory-assumptions-bootstrap",
-          "pubDate": "Wed, 13 May 2026 16:00:00 +0000"
+          "title": "Female rats like a different kind of tickling than males",
+          "summary": "Female rats prefer gentler tickling, a finding that could reshape animal happiness research.",
+          "link": "https://www.sciencenews.org/article/rats-tickling-preference-happiness",
+          "pubDate": "Thu, 14 May 2026 13:00:00 +0000"
         }
       ]
     }
