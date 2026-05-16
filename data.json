@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-15T23:00:12.155Z",
-  "date": "2026-05-16",
+  "lastUpdate": "2026-05-16T23:00:49.187Z",
+  "date": "2026-05-17",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
-          "summary": "It’s the best time of year to pick up all the outdoor gadgets, tents, sleeping bags, and other gear you’ll need for summer fun.",
-          "link": "https://www.wired.com/story/rei-anniversary-sale-2026/",
-          "pubDate": "Fri, 15 May 2026 20:57:08 +0000"
+          "title": "Old Oil and Gas Wells Could Find Second Life Producing Clean Energy",
+          "summary": "States across the US are looking to take major sources of pollution and use them to generate much-needed power.",
+          "link": "https://www.wired.com/story/oil-wells-second-life-clean-energy/",
+          "pubDate": "Sat, 16 May 2026 11:00:00 +0000"
         },
         {
-          "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
-          "summary": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
-          "link": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/",
-          "pubDate": "Fri, 15 May 2026 19:51:16 +0000"
+          "title": "How to Control Everything on Your Phone With Your Voice (iOS and Android)",
+          "summary": "Go fully hands-free with these tips for Android and iOS.",
+          "link": "https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/",
+          "pubDate": "Sat, 16 May 2026 11:00:00 +0000"
         },
         {
-          "title": "Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real",
-          "summary": "The LA mayoral candidate and former reality TV star is fueling his campaign with fears about an ultra-potent meth. Experts say it’s drug war propaganda.",
-          "link": "https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/",
-          "pubDate": "Fri, 15 May 2026 17:31:26 +0000"
+          "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+          "summary": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+          "link": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+          "pubDate": "Sat, 16 May 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-          "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
-          "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-          "pubDate": "Fri, 15 May 2026 20:30:20 +0000"
+          "title": "The haves and have nots of the AI gold rush",
+          "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+          "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+          "pubDate": "Sat, 16 May 2026 20:17:16 +0000"
         },
         {
-          "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-          "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
-          "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
-          "pubDate": "Fri, 15 May 2026 20:25:35 +0000"
+          "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+          "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+          "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+          "pubDate": "Sat, 16 May 2026 19:26:14 +0000"
         },
         {
-          "title": "A hotel check-in system left a million passports and driver&#8217;s licenses open for anyone to see",
-          "summary": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
-          "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
-          "pubDate": "Fri, 15 May 2026 18:51:33 +0000"
+          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+          "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+          "pubDate": "Sat, 16 May 2026 18:54:28 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-          "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-          "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 15 May 2026 21:28:25 GMT"
+          "title": "Taiwan insists it is independent after Trump warning",
+          "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+          "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 16 May 2026 17:01:53 GMT"
         },
         {
-          "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-          "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 15 May 2026 21:50:14 GMT"
+          "title": "Man drives car into pedestrians in Italy, injuring eight",
+          "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+          "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 16 May 2026 20:36:17 GMT"
         },
         {
-          "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-          "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
-          "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 15 May 2026 21:17:05 GMT"
+          "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+          "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+          "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 16 May 2026 11:44:54 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Kevin Warsh comes into the Fed facing a big &apos;family fight&apos; over cutting interest rates",
+          "summary": "With inflation spiking and Treasury yields surging, Warsh is likely to confront a Federal Open Market Committee in no mood to ease.",
+          "link": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+          "pubDate": "Sat, 16 May 2026 13:41:29 GMT"
+        },
+        {
+          "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+          "summary": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday.",
+          "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+          "pubDate": "Sat, 16 May 2026 08:26:02 GMT"
+        },
         {
           "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
           "summary": "The Omaha-based company built a position worth more than $2.6 billion, making Delta Berkshire's 14th-largest holding at the end of March.",
           "link": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html",
           "pubDate": "Fri, 15 May 2026 20:50:03 GMT"
-        },
-        {
-          "title": "&apos;Biggest bottleneck in the AI buildup&apos; fuels DRAM ETF to record",
-          "summary": "The Roundhill Memory ETF (DRAM) just reached $10 billion in assets at the fastest pace ever for an exchange-traded fund according to TMX VettaFi.",
-          "link": "https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html",
-          "pubDate": "Fri, 15 May 2026 17:02:06 GMT"
-        },
-        {
-          "title": "NFL wants certain trading contracts banned from prediction markets like &apos;first play of game,&apos; injuries",
-          "summary": "The letter, which was reviewed by CNBC, calls for banning certain contracts and raising the age requirements for participation on sports-related contracts.",
-          "link": "https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html",
-          "pubDate": "Fri, 15 May 2026 16:27:26 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Tina Peters to go free after Colorado Gov. Polis commutes her sentence",
-          "summary": "Tina Peters, a former elections clerk who was the first local official convicted over efforts to subvert the 2020 presidential election, will go free from prison after Colorado Gov. Jared Polis (D) commuted her sentence Friday. Polis told Colorado Public Radio earlier in the day from the governor&#8217;s office that he would cut her almost&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5880729-election-clerk-freed-colorado/",
-          "pubDate": "Fri, 15 May 2026 21:18:48 +0000"
+          "title": "Sunday shows preview: Trump returns from China as Iran war fuels economic anxiety",
+          "summary": "President Trump is back home following a high-stakes meeting in Beijing with Chinese President Xi Jinping that focused on trade, Taiwan and the spiking energy prices amid the war in Iran. Trump arrived on Wednesday and met with Xi the following day. He praised Xi, telling him it was &#8220;an honor&#8221; to be his friend.&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5881521-trump-china-iran-energy-prices/",
+          "pubDate": "Sat, 16 May 2026 21:56:39 +0000"
         },
         {
-          "title": "Comer says he&#8217;s planning on running for governor",
-          "summary": "Kentucky Rep. James Comer (R) signaled this week that he intends to run for governor in the Bluegrass State next year.&#160; “I plan on running for governor in 2027,” he told local outlet The Daily Independent on Thursday. “It’s not official yet; it will probably be official somewhere around December,” he continued.&#160; The GOP lawmaker&#8230;",
-          "link": "https://thehill.com/homenews/house/5880673-comer-plans-run-kentucky-governor/",
-          "pubDate": "Fri, 15 May 2026 21:03:23 +0000"
+          "title": "GOP senator blasts Hegseth for ‘careless decision’ on troop posture",
+          "summary": "Sen. Thom Tillis (R-N.C.) offered harsh criticism for Defense Secretary Pete Hegseth on Saturday over reported changes at the Pentagon, including a shift in U.S. military posture around the globe and the exits of multiple senior military officers in recent months. “The careless decision to reduce our force posture in Europe, along with moves by&#8230;",
+          "link": "https://thehill.com/policy/defense/5881659-tillis-criticizes-hegseth-pentagon-troop-posture/",
+          "pubDate": "Sat, 16 May 2026 21:55:12 +0000"
         },
         {
-          "title": "Rubio: Iran won&#8217;t be able to leverage US politics into forcing &#8216;bad&#8217; deal on Trump",
-          "summary": "Secretary of State Marco Rubio on Thursday said Iran attempting to use U.S. politics, specifically rising energy prices and its impact on Americans, will not pressure President Trump and lead him into a &#8220;bad&#8221; peace deal. Rubio offered the remarks during an interview with NBC News&#8216;s Tom Llamas, who asked if Trump’s remarks&#160;in China about&#8230;",
-          "link": "https://thehill.com/homenews/administration/5880595-trump-rubio-iran-negotiations/",
-          "pubDate": "Fri, 15 May 2026 20:57:34 +0000"
+          "title": "Live results: Cassidy fights for political life in Louisiana Senate GOP primary",
+          "summary": "Louisiana Sen. Bill Cassidy (R) is fighting for his political life in a GOP Senate primary Tuesday. Trump has endorsed Rep.&#160;Julia Letlow&#160;(R) in her challenge against Cassidy. Polling from last month shows the incumbent trailing Letlow and Republican John Fleming, who currently serves as the state treasurer. On the other side of the aisle, three&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5867934-live-results-louisiana-senate-primary/",
+          "pubDate": "Sat, 16 May 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Tesla, Toyota expose surprising auto industry truth",
-          "summary": "Tesla, Toyota expose surprising auto industry truth",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-toyota-expose-surprising-auto-043700448.html",
-          "pubDate": "2026-05-15T04:37:00Z"
+          "title": "AI data centers employ very few people: What the numbers how",
+          "summary": "AI data centers employ very few people: What the numbers how",
+          "link": "https://finance.yahoo.com/sectors/technology/articles/ai-data-centers-employ-very-165832949.html",
+          "pubDate": "2026-05-15T16:58:32Z"
         },
         {
-          "title": "How to get a low interest loan in 7 steps",
-          "summary": "How to get a low interest loan in 7 steps",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/qualify-low-interest-personal-loans-221743658.html",
-          "pubDate": "2026-05-14T15:33:18Z"
+          "title": "Here's what Ramsey Show host George Kamel says you need to do to retire with $3 million and be 'set for life'",
+          "summary": "Here's what Ramsey Show host George Kamel says you need to do to retire with $3 million and be 'set for life'",
+          "link": "https://finance.yahoo.com/markets/articles/heres-ramsey-show-host-george-211000005.html",
+          "pubDate": "2026-05-16T21:10:00Z"
         },
         {
-          "title": "What is an unsecured loan?",
-          "summary": "What is an unsecured loan?",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/unsecured-loan-205736524.html",
-          "pubDate": "2026-05-14T15:32:20Z"
+          "title": "A couple had $265K in savings and $1.7M projected for retirement — Ramit Sethi says they blew 1 crucial move",
+          "summary": "A couple had $265K in savings and $1.7M projected for retirement — Ramit Sethi says they blew 1 crucial move",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/couple-had-265k-savings-1-202500792.html",
+          "pubDate": "2026-05-16T20:25:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Is cannabis safe after 65? Stanford experts reveal 5 risks older adults should know",
-          "summary": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the chances of heart problems, falls, memory issues, dangerous drug interactions, and even addiction, especially for people over 65.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260515002201.htm",
-          "pubDate": "Fri, 15 May 2026 08:18:42 EDT"
+          "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
+          "summary": "Astronomers have revealed the sharpest image ever captured of a filament in the cosmic web — the enormous hidden structure connecting galaxies across the Universe. The glowing strand stretches 3 million light-years and links two galaxies from nearly 12 billion years ago. By observing this faint intergalactic gas directly for the first time in such detail, scientists gained new insight into how galaxies are fueled and formed.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
+          "pubDate": "Sat, 16 May 2026 09:15:10 EDT"
         },
         {
-          "title": "Scientists discover vitamin B2 may help cancer cells survive",
-          "summary": "Scientists have uncovered a surprising dark side to vitamin B2: it may help cancer cells stay alive. The vitamin supports a cellular shield that protects tumors from ferroptosis, a form of programmed cell death linked to cancer suppression. In lab tests, researchers used a vitamin B2-like compound called roseoflavin to break down that protection and trigger cancer cell death.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260515002158.htm",
-          "pubDate": "Fri, 15 May 2026 07:44:45 EDT"
+          "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
+          "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
+          "pubDate": "Sat, 16 May 2026 08:41:30 EDT"
         },
         {
-          "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
-          "summary": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven circuit linked directly to tinnitus-like behavior. The findings may explain why some people experience louder ringing in their ears while taking SSRIs.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
-          "pubDate": "Fri, 15 May 2026 07:11:38 EDT"
+          "title": "Stunning fossil discovery in Ethiopia rewrites human origins",
+          "summary": "A stunning fossil discovery in Ethiopia shows that early Homo and a previously unknown Australopithecus species lived together around 2.6 to 2.8 million years ago. The find overturns the classic “ape-to-human” progression and paints human evolution as a crowded, branching tree with multiple species coexisting. Scientists dated the fossils using volcanic ash deposits and are now investigating what these ancient relatives ate and whether they competed for resources.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260515234644.htm",
+          "pubDate": "Sat, 16 May 2026 07:20:39 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "siteName": "Science News",
       "items": [
         {
