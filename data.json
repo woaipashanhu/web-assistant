@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-17T23:01:02.935Z",
-  "date": "2026-05-18",
+  "lastUpdate": "2026-05-18T23:01:02.689Z",
+  "date": "2026-05-19",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
-          "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
-          "link": "https://www.wired.com/review/oto-smart-sprinkler/",
-          "pubDate": "Sun, 17 May 2026 11:02:00 +0000"
+          "title": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
+          "summary": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
+          "link": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+          "pubDate": "Mon, 18 May 2026 18:06:12 +0000"
         },
         {
-          "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
-          "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
-          "link": "https://www.wired.com/story/best-grills-and-smart-grills/",
-          "pubDate": "Sun, 17 May 2026 10:33:00 +0000"
+          "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+          "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+          "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+          "pubDate": "Mon, 18 May 2026 17:40:30 +0000"
         },
         {
-          "title": "Take Control of Your Debt With These Free Tools",
-          "summary": "These free debt calculators help you set up payment plans to get back in the black.",
-          "link": "https://www.wired.com/story/free-debt-calculator-apps-services/",
-          "pubDate": "Sun, 17 May 2026 10:30:00 +0000"
+          "title": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
+          "summary": "Leica’s first home entertainment projector is pricey, but like the company’s cameras, the image quality is worth the splurge.",
+          "link": "https://www.wired.com/review/review-leica-cine-play-1/",
+          "pubDate": "Mon, 18 May 2026 14:33:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Apple’s Siri revamp could include auto-deleting chats",
-          "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-          "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-          "pubDate": "Sun, 17 May 2026 20:15:00 +0000"
+          "title": "OSHA probing worker death at SpaceX&#8217;s Starbase site",
+          "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+          "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+          "pubDate": "Mon, 18 May 2026 21:55:02 +0000"
         },
         {
-          "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-          "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-          "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-          "pubDate": "Sun, 17 May 2026 19:46:34 +0000"
+          "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+          "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+          "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+          "pubDate": "Mon, 18 May 2026 21:29:31 +0000"
         },
         {
-          "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-          "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-          "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-          "pubDate": "Sun, 17 May 2026 16:32:04 +0000"
+          "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+          "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+          "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+          "pubDate": "Mon, 18 May 2026 19:27:52 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-          "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-          "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 17 May 2026 21:14:27 GMT"
+          "title": "Trump says he called off new Iran attack at request of Gulf states",
+          "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+          "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 18 May 2026 22:30:58 GMT"
         },
         {
-          "title": "How worrying is the Ebola outbreak in DR Congo?",
-          "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
-          "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 17 May 2026 18:06:31 GMT"
+          "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
+          "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+          "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 18 May 2026 19:31:18 GMT"
         },
         {
-          "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-          "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
-          "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 17 May 2026 14:18:23 GMT"
+          "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+          "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+          "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 18 May 2026 21:09:07 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "One of the market&apos;s hottest stock themes is buying everything AI can&apos;t replace",
-          "summary": "The search for HALO stocks is a hot theme in the stock market. There is now an ETF to invest in it.",
-          "link": "https://www.cnbc.com/2026/05/17/ai-stock-market-trade-halo-investing.html",
-          "pubDate": "Sun, 17 May 2026 14:21:26 GMT"
+          "title": "Nvidia earnings call drama: Will Jensen Huang talk &apos;Trump&apos; and China chips after Xi summit?",
+          "summary": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
+          "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+          "pubDate": "Mon, 18 May 2026 17:18:54 GMT"
         },
         {
-          "title": "AI-related layoffs a boost for stocks? Not necessarily",
-          "summary": "The data underscores an uncomfortable reality.",
-          "link": "https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html",
-          "pubDate": "Sun, 17 May 2026 13:36:59 GMT"
+          "title": "Warren Buffett teased to CNBC a ‘tiny purchase’ in March. Berkshire filing may have revealed it",
+          "summary": "When asked in March whether Berkshire was still putting money to work, Buffett said the conglomerate had made \"one tiny purchase.\"",
+          "link": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html",
+          "pubDate": "Mon, 18 May 2026 17:59:42 GMT"
         },
         {
-          "title": "Kevin Warsh comes into the Fed facing a big &apos;family fight&apos; over cutting interest rates",
-          "summary": "With inflation spiking and Treasury yields surging, Warsh is likely to confront a Federal Open Market Committee in no mood to ease.",
-          "link": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
-          "pubDate": "Sat, 16 May 2026 13:41:29 GMT"
+          "title": "JPMorgan&apos;s summer reading list for the wealthy includes books on AI, leadership and lemons",
+          "summary": "JPMorgan’s annual summer reading list, which has become the go-to selection of beach books for the wealthy, has 14 titles this year.",
+          "link": "https://www.cnbc.com/2026/05/18/jpmorgan-summer-reading-list.html",
+          "pubDate": "Mon, 18 May 2026 16:50:38 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Buttigieg blasts Duffy&#8217;s &#8216;Great American Road Trip&#8217; as &#8217;embarrassment&#8217;",
-          "summary": "Former Secretary of Transportation Pete Buttigieg (D) on Sunday went after the current secretary of the department, Sean Duffy, over a reality show he filmed. “I love road trips. I love America. I actually took a taxpayer-funded road trip lasting about seven months. It was in Afghanistan. This is something very different,” Buttigieg told CNN’s&#8230;",
-          "link": "https://thehill.com/policy/transportation/5882436-buttigieg-criticizes-duffy-road-trip/",
-          "pubDate": "Sun, 17 May 2026 22:32:36 +0000"
+          "title": "Trump-backed prayer rally roils debate on church and state",
+          "summary": "A massive religious gathering on the National Mall backed by the White House is sparking backlash from critics who say it blurs the lines between church and state. The unprecedented appearance of government officials featured virtual remarks from members of the administration including Vice President Vance, Director of National Intelligence Tulsi Gabbard and Defense Secretary&#8230;",
+          "link": "https://thehill.com/homenews/5884057-rededicate-250-prayer-rally/",
+          "pubDate": "Mon, 18 May 2026 22:30:02 +0000"
         },
         {
-          "title": "White House: China to buy at least $17B in US agricultural products per year",
-          "summary": "The White House said Sunday that China is set to purchase at least $17 billion in agricultural products from the U.S. per year, a move that comes after President Trump’s recent China trip. In a fact sheet released Sunday, the White House said that Trump, while in China, “negotiated a sweeping package of commitments that&#8230;",
-          "link": "https://thehill.com/business/5882365-china-us-trade-agreement/",
-          "pubDate": "Sun, 17 May 2026 21:07:44 +0000"
+          "title": "Jury says Elon Musk was too late in case against Sam Altman",
+          "summary": "{beacon} Technology The Big Story Jury says Elon Musk was too late in case against Sam Altman A California federal jury unanimously rejected Elon Musk’s claims against OpenAI and its co-founder Sam Altman, ending the latest chapter in a nearly decade-long feud. © Markus Schreiber and Czarek Sokolowski, Associated Press The advisory verdict took less than two&#8230;",
+          "link": "https://thehill.com/newsletters/technology/5884015-elon-musk-sam-altman-openai-case/",
+          "pubDate": "Mon, 18 May 2026 21:53:49 +0000"
         },
         {
-          "title": "GOP lawmakers battle as conservatives press for third budget reconciliation bill",
-          "summary": "Conservatives are calling on the House to pass a third GOP-only bill through the special reconciliation process to boost Pentagon funding and address alleged fraud in federal programs by the August recess — an extremely aggressive timeline that is sure to face headwinds in the slim majority. Chief among those pushing for that timeline is&#8230;",
-          "link": "https://thehill.com/homenews/house/5880546-gop-reconciliation-bill-pentagon-fraud/",
-          "pubDate": "Sun, 17 May 2026 21:00:00 +0000"
+          "title": "3 killed in shooting at San Diego mosque, 2 suspects found dead",
+          "summary": "Three people were killed in a shooting at the Islamic Center of San Diego, the county's largest mosque. Two suspects in the shooting are dead, police confirmed.",
+          "link": "https://thehill.com/homenews/state-watch/5883746-3-killed-in-shooting-at-san-diego-mosque-2-suspects-found-dead/",
+          "pubDate": "Mon, 18 May 2026 21:23:46 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Reports Say NextEra in Talks to Acquire Dominion Energy",
-          "summary": "Reports Say NextEra in Talks to Acquire Dominion Energy",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/reports-nextera-talks-acquire-dominion-224110634.html",
-          "pubDate": "2026-05-17T22:41:10Z"
+          "title": "170-year-old luxury fashion retailer quietly closes 21 stores",
+          "summary": "170-year-old luxury fashion retailer quietly closes 21 stores",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/170-old-luxury-fashion-retailer-013700371.html",
+          "pubDate": "2026-05-18T01:37:00Z"
         },
         {
-          "title": "Dow Jones Futures Fall, Oil Prices Rise As Trump Says 'Clock Is Ticking' For Iran; Nvidia Earnings Ahead",
-          "summary": "Dow Jones Futures Fall, Oil Prices Rise As Trump Says 'Clock Is Ticking' For Iran; Nvidia Earnings Ahead",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-threat-nvidia-earnings/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-05-17T22:38:19Z"
+          "title": "Do Wall Street Analysts Like Darden Restaurants Stock?",
+          "summary": "Do Wall Street Analysts Like Darden Restaurants Stock?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-darden-restaurants-141453956.html",
+          "pubDate": "2026-05-17T14:14:53Z"
         },
         {
-          "title": "Warren Buffett Successor Greg Abel Just More Than Tripled Berkshire's Stake in This \"Magnificent Seven\" Stock. Is It a Buy?",
-          "summary": "Warren Buffett Successor Greg Abel Just More Than Tripled Berkshire's Stake in This \"Magnificent Seven\" Stock. Is It a Buy?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-successor-greg-abel-223600672.html",
-          "pubDate": "2026-05-17T22:36:00Z"
+          "title": "Anthropic's shadow IPO market is already flashing trillion-dollar prices",
+          "summary": "Anthropic's shadow IPO market is already flashing trillion-dollar prices",
+          "link": "https://finance.yahoo.com/markets/article/anthropics-shadow-ipo-market-is-already-flashing-trillion-dollar-prices-141451664.html",
+          "pubDate": "2026-05-17T14:14:51Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists uncover surprising health benefits of watermelon",
-          "summary": "Studies suggest watermelon could be a hidden powerhouse for better health. Researchers found that people who eat watermelon tend to have higher-quality diets packed with more vitamins, fiber, and antioxidants — while consuming less added sugar and saturated fat. Another study showed watermelon juice may help protect blood vessel function and support heart health.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260517030515.htm",
-          "pubDate": "Sun, 17 May 2026 08:56:21 EDT"
+          "title": "The “impossible” LED that could change everything",
+          "summary": "Scientists at the University of Cambridge have achieved what was once considered impossible by electrically powering insulating nanoparticles to create a completely new kind of LED. Using tiny organic “molecular antennas,” the team found a way to funnel energy into materials that normally cannot conduct electricity, producing ultra pure near infrared light with remarkable efficiency.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260518011222.htm",
+          "pubDate": "Mon, 18 May 2026 01:18:55 EDT"
         },
         {
-          "title": "Scientists reveal how seven days of fasting transforms the human body",
-          "summary": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study, researchers tracked thousands of proteins in the blood and found widespread shifts affecting organs throughout the body — including the brain. While the body quickly switches from burning glucose to fat, the most intriguing biological changes linked to potential health benefits didn’t emerge until later in the fast.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260517030404.htm",
-          "pubDate": "Sun, 17 May 2026 08:38:40 EDT"
+          "title": "This popular fermented food may help flush microplastics from the body",
+          "summary": "Scientists in South Korea have discovered that a probiotic bacterium found in kimchi may help the body flush out tiny plastic particles before they can build up in organs. In lab tests, the kimchi-derived microbe clung tightly to nanoplastics even under conditions designed to mimic the human intestine, where other bacteria quickly lost their grip.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260517211451.htm",
+          "pubDate": "Mon, 18 May 2026 05:59:47 EDT"
         },
         {
-          "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
-          "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s environment. In one striking experiment, elderly mice treated with the therapy later behaved like healthy younger mice.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
-          "pubDate": "Sun, 17 May 2026 07:11:34 EDT"
+          "title": "Plant believed extinct for 60 years suddenly reappears",
+          "summary": "A random photo snapped in the Australian outback has led to the rediscovery of a plant thought extinct for nearly 60 years — proving that ordinary people with smartphones are quietly transforming science. After bird bander Aaron Bean uploaded pictures of a strange shrub to iNaturalist, botanist Anthony Bean immediately recognized it as Ptilotus senarius, a rare species missing since 1967.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260517211447.htm",
+          "pubDate": "Mon, 18 May 2026 04:51:42 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Crabs&#8217; sideways walk may have evolved just once",
-          "summary": "A study of 50 crab species in Japan traces the iconic sideways walk to a single ancestor, suggesting the trait drove the group's remarkable diversity.",
-          "link": "https://www.sciencenews.org/article/crab-sideways-walk-evolved-once",
-          "pubDate": "Fri, 15 May 2026 17:00:00 +0000"
+          "title": "Meet ‘Snuffleupagus,’ a newfound fish sporting shaggy camouflage",
+          "summary": "Found near Australia, Solenostomus snuffleupagus is a shaggy swimmer that closely resembles Mr. Snuffleupagus from Sesame Street.",
+          "link": "https://www.sciencenews.org/article/new-fish-sesame-street-snuffleupagus",
+          "pubDate": "Mon, 18 May 2026 17:00:00 +0000"
         },
         {
-          "title": "Our understanding of Charles Darwin continues to evolve",
-          "summary": "Historian Janet Browne’s Darwin: A Biography lifts the curtain on the private life of Charles Darwin, one of science’s most controversial pioneers.",
-          "link": "https://www.sciencenews.org/article/charles-darwin-new-biography-evolution",
-          "pubDate": "Fri, 15 May 2026 15:00:00 +0000"
+          "title": "After Dobbs, miscarriage care looked different in states with abortion bans",
+          "summary": "States with abortion bans are trending away from evidence-based miscarriage treatment that includes mifepristone, compared with states without bans.",
+          "link": "https://www.sciencenews.org/article/dobbs-miscarriage-abortion-ban-states",
+          "pubDate": "Mon, 18 May 2026 15:00:00 +0000"
         },
         {
-          "title": "A Greenland explorer will eat only decaying seal for a month",
-          "summary": "British chef Mike Keen will ski across Greenland eating only fermented seal. Researchers will study how the Inuit diet shapes gut health.",
-          "link": "https://www.sciencenews.org/article/greenland-explorer-eat-decaying-seal",
-          "pubDate": "Fri, 15 May 2026 13:00:00 +0000"
+          "title": "Never-ending storms make for good plot twists. Could they plague Earth?",
+          "summary": "While the thunderstorms in The Legend of Zelda defy physics, plenty of places on Earth experience extreme weather.",
+          "link": "https://www.sciencenews.org/article/never-ending-thunderstorms-earth-zelda",
+          "pubDate": "Mon, 18 May 2026 13:00:00 +0000"
         }
       ]
     }
