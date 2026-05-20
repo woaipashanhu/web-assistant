@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-19T23:00:16.020Z",
-  "date": "2026-05-20",
+  "lastUpdate": "2026-05-20T23:00:58.652Z",
+  "date": "2026-05-21",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-          "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They're certainly not alone.",
-          "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-          "pubDate": "Tue, 19 May 2026 22:53:04 +0000"
+          "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
+          "summary": "It’s the best time of year to pick up all the outdoor gadgets, tents, sleeping bags, and other gear you’ll need for summer fun.",
+          "link": "https://www.wired.com/story/rei-anniversary-sale-2026/",
+          "pubDate": "Wed, 20 May 2026 22:16:09 +0000"
         },
         {
-          "title": "California’s Wildfire Season Is Already Overactive",
-          "summary": "Major fires are threatening homes and ecologically sensitive areas following a hot, dry winter.",
-          "link": "https://www.wired.com/story/californias-wildfire-season-already-overactive/",
-          "pubDate": "Tue, 19 May 2026 22:20:37 +0000"
+          "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+          "summary": "One line tucked into a federal highway bill would strip funds from cities and states unless they kill their automated plate tracking programs—effectively banning the tech for all but toll collection.",
+          "link": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+          "pubDate": "Wed, 20 May 2026 21:58:06 +0000"
         },
         {
-          "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-          "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
-          "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-          "pubDate": "Tue, 19 May 2026 20:00:48 +0000"
+          "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
+          "summary": "The long-awaited documents SpaceX filed with US regulators Wednesday included details about a lucrative deal to lend GPUs to a major AI rival.",
+          "link": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
+          "pubDate": "Wed, 20 May 2026 21:43:40 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Google just declared itself a contender in AI design at IO 2026",
-          "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-          "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-          "pubDate": "Tue, 19 May 2026 21:33:30 +0000"
+          "title": "Clouted wants to take the guesswork out of making short videos go viral",
+          "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+          "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+          "pubDate": "Wed, 20 May 2026 22:30:45 +0000"
         },
         {
-          "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-          "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-          "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-          "pubDate": "Tue, 19 May 2026 21:25:31 +0000"
+          "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+          "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+          "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+          "pubDate": "Wed, 20 May 2026 22:26:08 +0000"
         },
         {
-          "title": "How to use Google’s new AI agents to go beyond your standard searches",
-          "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-          "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-          "pubDate": "Tue, 19 May 2026 21:16:25 +0000"
+          "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
+          "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+          "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+          "pubDate": "Wed, 20 May 2026 22:03:51 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-          "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
-          "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 19 May 2026 18:05:26 GMT"
+          "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+          "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+          "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 20 May 2026 20:11:02 GMT"
         },
         {
-          "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-          "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
-          "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 19 May 2026 19:32:22 GMT"
+          "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+          "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
+          "link": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 20 May 2026 16:34:40 GMT"
         },
         {
-          "title": "Key people smuggler arrested after BBC uncovered identity",
-          "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
-          "link": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 19 May 2026 17:05:41 GMT"
+          "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+          "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+          "link": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 20 May 2026 20:17:51 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Fed to hike? When traders see a rate increase coming",
-          "summary": "Traders on prediction market platforms see increasing odds that an interest rate hike from the central bank comes by July 2027.",
-          "link": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html",
-          "pubDate": "Tue, 19 May 2026 21:51:22 GMT"
+          "title": "OpenAI takes the lead in AI IPO horse race: &apos;Getting to public markets first is very important&apos;",
+          "summary": "It comes after reports that the AI giant and ChatGPT owner is set to file confidentially for an IPO as soon as this week.",
+          "link": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+          "pubDate": "Wed, 20 May 2026 19:05:35 GMT"
         },
         {
-          "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns",
-          "summary": "Standard Chartered will trim corporate functions roles and target a more than 20% increase in income per employee by 2028 as it seeks stronger returns.",
-          "link": "https://www.cnbc.com/2026/05/19/standard-chartered-job-cuts-corporate-roles-profit-targets.html",
-          "pubDate": "Tue, 19 May 2026 04:40:25 GMT"
+          "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+          "summary": "A majority of officials anticipated that interest rate increases would be necessary if the Iran war continued to aggravate inflation.",
+          "link": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
+          "pubDate": "Wed, 20 May 2026 19:04:09 GMT"
         },
         {
-          "title": "Nvidia earnings call drama: Will Jensen Huang talk &apos;Trump&apos; and China chips after Xi summit?",
-          "summary": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
-          "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-          "pubDate": "Mon, 18 May 2026 17:18:54 GMT"
+          "title": "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months",
+          "summary": "Mercury has emerged as one of a select group of fintech firms, like Ramp and Stripe, that continued to thrive after the collapse of pandemic-era valuations.",
+          "link": "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
+          "pubDate": "Wed, 20 May 2026 15:57:55 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "GOP panel looks to advance legislation making daylight saving permanent",
-          "summary": "Republicans on the House Energy and Commerce Committee are planning to move ahead with legislation that would make &#8220;springing forward&#8221; permanent across the U.S. Matthew VanHyfte, a spokesperson for the committee’s Republicans, told The Hill that the panel plans to notice on Wednesday evening a full markup of the bill that will “list the legislation that includes&#8230;",
-          "link": "https://thehill.com/homenews/house/5886117-daylight-saving-time-house-republicans-markup/",
-          "pubDate": "Tue, 19 May 2026 22:36:55 +0000"
+          "title": "John Adams quote projected on DOJ building to protest &#8216;anti-weaponization&#8217; fund",
+          "summary": "A quote from the second U.S. president, John Adams, was projected onto the Department of Justice building on Tuesday night following the Trump administration’s announcement of an “anti-weaponization fund.” “A government of laws, not of men,” the quote from Adams read, projected onto a banner of President Trump, which hangs from the building. Justice Connection,&#8230;",
+          "link": "https://thehill.com/homenews/administration/5888304-adams-government-justice-building/",
+          "pubDate": "Wed, 20 May 2026 22:30:10 +0000"
         },
         {
-          "title": "Trump golf resort manager advising on reflecting pool project",
-          "summary": "A manager of one of President Trump’s golf courses has served as an unofficial adviser on the renovations to the Lincoln Memorial Reflecting Pool, an Interior Department spokesperson confirmed on Tuesday.&#160; David Schutzenhofer helped recruit Greenwater Services for a $1.7 million no-bid contract with the Trump administration to install a permanent purification system in the&#8230;",
-          "link": "https://thehill.com/homenews/administration/5886092-golf-course-trump-adviser-reflecting-pool/",
-          "pubDate": "Tue, 19 May 2026 22:32:25 +0000"
+          "title": "Lawmakers, health leaders make bipartisan push to expand clinical trials access",
+          "summary": "A House Democrat and Republican on Wednesday highlighted their push to expand access to clinical trials, saying artificial intelligence could be one tool used to reach more underrepresented communities seeking additional treatment options. The Clinical Trial Modernization Act, co-sponsored by Reps. Raul Ruiz (D-Calif.) and Erin Houchin (R-Ind.), is a bipartisan effort aiming to address&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5888314-clinical-trials-underrepresented-communities/",
+          "pubDate": "Wed, 20 May 2026 22:26:45 +0000"
         },
         {
-          "title": "Vance says Europe &#8216;overreacting&#8217; to Pentagon halting Poland troop rotation",
-          "summary": "Vice President Vance on Tuesday defended last week’s abrupt pause in a ​U.S. troop deployment to Poland, saying the brigade of 4,000 service members had been “delayed” to Europe and not withdrawn. Speaking at a White House briefing, Vance ​called the pause “a&#160;very small and very minor thing,” blaming the European media for “overreacting,” while&#8230;",
-          "link": "https://thehill.com/policy/defense/5886053-vance-poland-troop-deployment/",
-          "pubDate": "Tue, 19 May 2026 22:26:01 +0000"
+          "title": "Anti-prediction market group kicks off DC ad blitz",
+          "summary": "{beacon} Technology Technology &#8202; The Big Story&#160; Anti-prediction market group kicks off DC ad blitz A new group describing itself as a “market integrity watchdog” rolled out a six-figure ad blitz in Washington, D.C., on Wednesday morning, taking aim at prediction market Kalshi, which has ramped up its own messaging in Washington this year. ©&#8230;",
+          "link": "https://thehill.com/newsletters/technology/5888391-kalshi-fairpredicts-market-integrity/",
+          "pubDate": "Wed, 20 May 2026 22:22:57 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Jim Cramer Is Intrigued By Charles Schwab (SCHW)",
-          "summary": "Jim Cramer Is Intrigued By Charles Schwab (SCHW)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intrigued-charles-schwab-144518913.html",
-          "pubDate": "2026-05-18T14:45:18Z"
+          "title": "Target sees unexpected shift in customer behavior",
+          "summary": "Target sees unexpected shift in customer behavior",
+          "link": "https://finance.yahoo.com/economy/articles/target-sees-unexpected-shift-customer-150445821.html",
+          "pubDate": "2026-05-20T15:04:45Z"
         },
         {
-          "title": "Jim Cramer Shares Key Insights About Apple (AAPL)",
-          "summary": "Jim Cramer Shares Key Insights About Apple (AAPL)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-insights-144502668.html",
-          "pubDate": "2026-05-18T14:45:02Z"
+          "title": "Roadcheck Week, Supreme Court ruling tighten US freight capacity",
+          "summary": "Roadcheck Week, Supreme Court ruling tighten US freight capacity",
+          "link": "https://finance.yahoo.com/economy/policy/articles/roadcheck-week-supreme-court-ruling-145955491.html",
+          "pubDate": "2026-05-19T14:59:55Z"
         },
         {
-          "title": "Jim Cramer Discusses Netflix (NFLX), JPMorgan & Risk-Reward",
-          "summary": "Jim Cramer Discusses Netflix (NFLX), JPMorgan & Risk-Reward",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-netflix-nflx-144512670.html",
-          "pubDate": "2026-05-18T14:45:12Z"
+          "title": "Perpetuals Rolls Out UpsideOnly With AI-Driven Market Prediction Model",
+          "summary": "Perpetuals Rolls Out UpsideOnly With AI-Driven Market Prediction Model",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/perpetuals-rolls-upsideonly-ai-driven-145900842.html",
+          "pubDate": "2026-05-19T14:59:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists found a smarter Mediterranean diet that slashes diabetes risk by 31%",
-          "summary": "A large European study revealed that a lower-calorie Mediterranean diet paired with exercise and coaching dramatically reduced the risk of type 2 diabetes. Participants who made these lifestyle changes were 31% less likely to develop the disease over six years. They also lost more weight and trimmed their waistlines compared to those following a standard Mediterranean diet alone.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260519003103.htm",
-          "pubDate": "Tue, 19 May 2026 03:02:22 EDT"
+          "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
+          "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
+          "pubDate": "Wed, 20 May 2026 08:54:32 EDT"
         },
         {
-          "title": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
-          "summary": "Scientists have uncovered remarkable new details about Bronze Age life in Central Europe by studying rare burials untouched by cremation. The research reveals communities experimenting with new foods, burial rituals, and cultural connections while largely staying rooted in their local homelands.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260518041445.htm",
-          "pubDate": "Tue, 19 May 2026 05:19:58 EDT"
+          "title": "Scientists use light to create tiny molecules that could transform medicine",
+          "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the intense internal strain they contain. By using photocatalysis and carefully tuning the starting molecules, the team managed to guide the reaction into a clean and efficient pathway.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
+          "pubDate": "Wed, 20 May 2026 06:00:45 EDT"
         },
         {
-          "title": "Hidden earthquake faults beneath Seattle may be more dangerous than expected",
-          "summary": "A hidden network of earthquake faults running beneath Seattle may be far more active than scientists realized. New research reveals that smaller “secondary” faults in the Seattle Fault Zone appear to rupture roughly every 350 years — much more often than the massive main fault that has long worried geologists.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260518041442.htm",
-          "pubDate": "Tue, 19 May 2026 10:00:01 EDT"
+          "title": "Britain’s 11,000-year-old “oldest northerner” was a 3-year-old girl, DNA reveals",
+          "summary": "Scientists have identified the oldest known human remains in Northern Britain as a young girl who lived around 11,000 years ago. Found in a Cumbrian cave and nicknamed the “Ossick Lass,” she was likely between 2.5 and 3.5 years old when she died. Nearby jewelry and evidence of multiple burials suggest the cave held deep spiritual importance for some of Britain’s earliest hunter-gatherers. The discovery is shedding new light on life — and death — just after the Ice Age.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260519224326.htm",
+          "pubDate": "Wed, 20 May 2026 03:07:58 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "siteName": "Science News",
       "items": [
         {
-          "title": "What freediving can reveal about human health — and our limits",
-          "summary": "The practice of freediving is teaching physiologists how humans stretch their physical and mental limits, which in turn may improve treatments for lung and heart ailments.",
-          "link": "https://www.sciencenews.org/article/freediving-physical-mental-limits-risks",
-          "pubDate": "Tue, 19 May 2026 18:00:00 +0000"
+          "title": "An ancient moonpocalypse may explain Neptune’s odd moon Nereid",
+          "summary": "Neptune’s oddball moon Nereid may be the sole remnant of an earlier system, formed near the planet rather than being pulled in from afar.",
+          "link": "https://www.sciencenews.org/article/neptunes-odd-moon-nereid-orbit-remnant",
+          "pubDate": "Wed, 20 May 2026 18:00:00 +0000"
         },
         {
-          "title": "AI-powered whale-spotting tech may help save San Francisco Bay’s gray whales",
-          "summary": "An AI trained to use thermal images to detect whale body heat could help warn ships at risk of colliding with the marine mammals.",
-          "link": "https://www.sciencenews.org/article/ai-tech-save-gray-whales",
-          "pubDate": "Tue, 19 May 2026 16:30:00 +0000"
+          "title": "How to scout a safe summer swimming hole",
+          "summary": "Best practices, including checking public E. coli reports and keeping your head above water can keep you safe while swimming.",
+          "link": "https://www.sciencenews.org/article/safe-summer-swimming-hole-e-coli",
+          "pubDate": "Wed, 20 May 2026 17:00:00 +0000"
         },
         {
-          "title": "Damaged DNA can spread between human cells. What could that mean for cancer?",
-          "summary": "DNA can voyage along intercellular highways called tunneling nanotubes. It’s a phenomenon that could potentially spread tumor DNA to healthy cells.",
-          "link": "https://www.sciencenews.org/article/damaged-dna-spread-nanotubes-cells-cancer",
-          "pubDate": "Tue, 19 May 2026 15:12:58 +0000"
+          "title": "The outlook for a climate-regulating ocean current is&#8230;not good",
+          "summary": "An ocean current called the Atlantic Meridional Overturning Circulation will weaken by 50 percent by 2100. The question is what to do about it.",
+          "link": "https://www.sciencenews.org/article/climate-regulating-ocean-current-amoc",
+          "pubDate": "Wed, 20 May 2026 15:00:00 +0000"
         }
       ]
     }
