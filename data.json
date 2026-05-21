@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-20T23:00:58.652Z",
-  "date": "2026-05-21",
+  "lastUpdate": "2026-05-21T23:00:47.769Z",
+  "date": "2026-05-22",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
-          "summary": "It’s the best time of year to pick up all the outdoor gadgets, tents, sleeping bags, and other gear you’ll need for summer fun.",
-          "link": "https://www.wired.com/story/rei-anniversary-sale-2026/",
-          "pubDate": "Wed, 20 May 2026 22:16:09 +0000"
+          "title": "What to Do in LA if You’re Here for Business (2025)",
+          "summary": "A tech industry guide to where to stay, eat, work, and play while visiting LA.",
+          "link": "https://www.wired.com/story/los-angeles-tech-travel-guide/",
+          "pubDate": "Thu, 21 May 2026 21:47:47 +0000"
         },
         {
-          "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-          "summary": "One line tucked into a federal highway bill would strip funds from cities and states unless they kill their automated plate tracking programs—effectively banning the tech for all but toll collection.",
-          "link": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
-          "pubDate": "Wed, 20 May 2026 21:58:06 +0000"
+          "title": "‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says",
+          "summary": "Three firms will pay nearly $1 million for selling “Active Listening” technology that they claimed tapped people’s phones for advertising. The FTC alleges the “tech” was just pricey email lists.",
+          "link": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/",
+          "pubDate": "Thu, 21 May 2026 21:35:52 +0000"
         },
         {
-          "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
-          "summary": "The long-awaited documents SpaceX filed with US regulators Wednesday included details about a lucrative deal to lend GPUs to a major AI rival.",
-          "link": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
-          "pubDate": "Wed, 20 May 2026 21:43:40 +0000"
+          "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+          "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+          "pubDate": "Thu, 21 May 2026 20:44:53 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Clouted wants to take the guesswork out of making short videos go viral",
-          "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-          "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-          "pubDate": "Wed, 20 May 2026 22:30:45 +0000"
+          "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+          "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+          "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+          "pubDate": "Thu, 21 May 2026 21:39:03 +0000"
         },
         {
-          "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
-          "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-          "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-          "pubDate": "Wed, 20 May 2026 22:26:08 +0000"
+          "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+          "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
+          "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
+          "pubDate": "Thu, 21 May 2026 21:13:23 +0000"
         },
         {
-          "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
-          "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-          "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-          "pubDate": "Wed, 20 May 2026 22:03:51 +0000"
+          "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+          "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
+          "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+          "pubDate": "Thu, 21 May 2026 21:00:42 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-          "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
-          "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 20 May 2026 20:11:02 GMT"
+          "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+          "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+          "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 21 May 2026 21:44:55 GMT"
         },
         {
-          "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-          "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
-          "link": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 20 May 2026 16:34:40 GMT"
+          "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+          "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
+          "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 21 May 2026 20:12:25 GMT"
         },
         {
-          "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-          "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
-          "link": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 20 May 2026 20:17:51 GMT"
+          "title": "Iran steps up claim to control Strait of Hormuz",
+          "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+          "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 21 May 2026 14:37:29 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "OpenAI takes the lead in AI IPO horse race: &apos;Getting to public markets first is very important&apos;",
-          "summary": "It comes after reports that the AI giant and ChatGPT owner is set to file confidentially for an IPO as soon as this week.",
-          "link": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
-          "pubDate": "Wed, 20 May 2026 19:05:35 GMT"
+          "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
+          "summary": "Mining company Perpetua Resources has secured a $2.9 billion loan from the U.S. Export-Import Bank as the U.S. looks to secure access to critical minerals.",
+          "link": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
+          "pubDate": "Thu, 21 May 2026 20:08:44 GMT"
         },
         {
-          "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-          "summary": "A majority of officials anticipated that interest rate increases would be necessary if the Iran war continued to aggravate inflation.",
-          "link": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
-          "pubDate": "Wed, 20 May 2026 19:04:09 GMT"
+          "title": "Prediction markets are fueling a high-stakes brawl between states and federal regulators",
+          "summary": "Sixteen states are in legal proceedings against prediction market platforms, while one state has moved to ban them.",
+          "link": "https://www.cnbc.com/2026/05/21/where-the-feds-are-fighting-states-over-prediction-markets.html",
+          "pubDate": "Thu, 21 May 2026 20:11:34 GMT"
         },
         {
-          "title": "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months",
-          "summary": "Mercury has emerged as one of a select group of fintech firms, like Ramp and Stripe, that continued to thrive after the collapse of pandemic-era valuations.",
-          "link": "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
-          "pubDate": "Wed, 20 May 2026 15:57:55 GMT"
+          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
+          "summary": "Traders on prediction market Polymarket think SpaceX, OpenAI and Anthropic on their first day of trading will surpass valuations of at least $1.4 trillion.",
+          "link": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "pubDate": "Thu, 21 May 2026 20:28:40 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "John Adams quote projected on DOJ building to protest &#8216;anti-weaponization&#8217; fund",
-          "summary": "A quote from the second U.S. president, John Adams, was projected onto the Department of Justice building on Tuesday night following the Trump administration’s announcement of an “anti-weaponization fund.” “A government of laws, not of men,” the quote from Adams read, projected onto a banner of President Trump, which hangs from the building. Justice Connection,&#8230;",
-          "link": "https://thehill.com/homenews/administration/5888304-adams-government-justice-building/",
-          "pubDate": "Wed, 20 May 2026 22:30:10 +0000"
+          "title": "Missing New Jersey GOP Rep. Tom Kean Jr. expects to return &#8216;in the next couple of weeks&#8217;",
+          "summary": "Rep. Tom Kean Jr. (R-N.J.) is attempting to end speculation about when he may return from a mysterious months-long absence from Congress, telling a New Jersey newspaper Thursday that he plans to be back “in the next couple of weeks.” “I anticipate that in the next couple of weeks, I’ll return to voting and&#8230;",
+          "link": "https://thehill.com/homenews/house/5890389-kean-jr-health-update/",
+          "pubDate": "Thu, 21 May 2026 22:29:22 +0000"
         },
         {
-          "title": "Lawmakers, health leaders make bipartisan push to expand clinical trials access",
-          "summary": "A House Democrat and Republican on Wednesday highlighted their push to expand access to clinical trials, saying artificial intelligence could be one tool used to reach more underrepresented communities seeking additional treatment options. The Clinical Trial Modernization Act, co-sponsored by Reps. Raul Ruiz (D-Calif.) and Erin Houchin (R-Ind.), is a bipartisan effort aiming to address&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5888314-clinical-trials-underrepresented-communities/",
-          "pubDate": "Wed, 20 May 2026 22:26:45 +0000"
+          "title": "NASCAR&#8217;s Kyle Busch, a 2-time champion, dies",
+          "summary": "His family reported that he had been hospitalized with a severe illness.",
+          "link": "https://thehill.com/homenews/nexstar_media_wire/5890309-nascars-kyle-busch-a-2-time-champion-dies/",
+          "pubDate": "Thu, 21 May 2026 22:25:17 +0000"
         },
         {
-          "title": "Anti-prediction market group kicks off DC ad blitz",
-          "summary": "{beacon} Technology Technology &#8202; The Big Story&#160; Anti-prediction market group kicks off DC ad blitz A new group describing itself as a “market integrity watchdog” rolled out a six-figure ad blitz in Washington, D.C., on Wednesday morning, taking aim at prediction market Kalshi, which has ramped up its own messaging in Washington this year. ©&#8230;",
-          "link": "https://thehill.com/newsletters/technology/5888391-kalshi-fairpredicts-market-integrity/",
-          "pubDate": "Wed, 20 May 2026 22:22:57 +0000"
+          "title": "House punts Iran war powers resolution vote",
+          "summary": "The House punted a vote Thursday on a Democratic-led war powers resolution aimed at limiting President Trump’s military action on Iran. House Republicans appear to have pushed the vote over attendance issues. Trump and GOP leaders have argued that&#160;the president has the unilateral authority to confront Tehran militarily. They’ve also warned that ending the war&#8230;",
+          "link": "https://thehill.com/homenews/house/5890194-house-rejects-iran-war-powers-resolution/",
+          "pubDate": "Thu, 21 May 2026 22:21:41 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,64 +213,64 @@
           "pubDate": "2026-05-20T15:04:45Z"
         },
         {
-          "title": "Roadcheck Week, Supreme Court ruling tighten US freight capacity",
-          "summary": "Roadcheck Week, Supreme Court ruling tighten US freight capacity",
-          "link": "https://finance.yahoo.com/economy/policy/articles/roadcheck-week-supreme-court-ruling-145955491.html",
-          "pubDate": "2026-05-19T14:59:55Z"
+          "title": "Why the Earnings Report Reaction in Nvidia Stock Matters So Much More This Time",
+          "summary": "Why the Earnings Report Reaction in Nvidia Stock Matters So Much More This Time",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-earnings-report-reaction-nvidia-152046021.html",
+          "pubDate": "2026-05-20T15:20:46Z"
         },
         {
-          "title": "Perpetuals Rolls Out UpsideOnly With AI-Driven Market Prediction Model",
-          "summary": "Perpetuals Rolls Out UpsideOnly With AI-Driven Market Prediction Model",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/perpetuals-rolls-upsideonly-ai-driven-145900842.html",
-          "pubDate": "2026-05-19T14:59:00Z"
+          "title": "Stocks Rally as Crude Oil and Bond Yields Slump",
+          "summary": "Stocks Rally as Crude Oil and Bond Yields Slump",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-crude-oil-bond-151722712.html",
+          "pubDate": "2026-05-20T15:17:22Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-          "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
-          "pubDate": "Wed, 20 May 2026 08:54:32 EDT"
+          "title": "MIT scientists discover amino acid that helps the gut heal itself",
+          "summary": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researchers say the discovery could eventually lead to new dietary therapies for cancer patients suffering from treatment-related gut damage.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+          "pubDate": "Thu, 21 May 2026 00:40:33 EDT"
         },
         {
-          "title": "Scientists use light to create tiny molecules that could transform medicine",
-          "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the intense internal strain they contain. By using photocatalysis and carefully tuning the starting molecules, the team managed to guide the reaction into a clean and efficient pathway.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
-          "pubDate": "Wed, 20 May 2026 06:00:45 EDT"
+          "title": "Scientists discover the nutrient that can supercharge cellular energy",
+          "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
+          "pubDate": "Thu, 21 May 2026 01:34:34 EDT"
         },
         {
-          "title": "Britain’s 11,000-year-old “oldest northerner” was a 3-year-old girl, DNA reveals",
-          "summary": "Scientists have identified the oldest known human remains in Northern Britain as a young girl who lived around 11,000 years ago. Found in a Cumbrian cave and nicknamed the “Ossick Lass,” she was likely between 2.5 and 3.5 years old when she died. Nearby jewelry and evidence of multiple burials suggest the cave held deep spiritual importance for some of Britain’s earliest hunter-gatherers. The discovery is shedding new light on life — and death — just after the Ice Age.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260519224326.htm",
-          "pubDate": "Wed, 20 May 2026 03:07:58 EDT"
+          "title": "Common pesticide linked to hidden brain damage, scientists warn",
+          "summary": "Scientists have uncovered alarming new evidence that a common insecticide may leave lasting marks on the developing brain before a child is even born. Researchers studying New York City children found that prenatal exposure to chlorpyrifos — a pesticide once widely used indoors and still used in agriculture — was linked to widespread brain abnormalities and weaker motor skills years later.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260520233218.htm",
+          "pubDate": "Thu, 21 May 2026 08:27:22 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "siteName": "Science News",
       "items": [
         {
-          "title": "An ancient moonpocalypse may explain Neptune’s odd moon Nereid",
-          "summary": "Neptune’s oddball moon Nereid may be the sole remnant of an earlier system, formed near the planet rather than being pulled in from afar.",
-          "link": "https://www.sciencenews.org/article/neptunes-odd-moon-nereid-orbit-remnant",
-          "pubDate": "Wed, 20 May 2026 18:00:00 +0000"
+          "title": "New tools may help diagnose Parkinson’s earlier than ever",
+          "summary": "From special pens to earwax evaluations, a plethora of emerging diagnostics could one day be a major boon for people with the debilitating disease.",
+          "link": "https://www.sciencenews.org/article/parkinsons-diagnosis-tools-pen-chemical",
+          "pubDate": "Thu, 21 May 2026 17:45:00 +0000"
         },
         {
-          "title": "How to scout a safe summer swimming hole",
-          "summary": "Best practices, including checking public E. coli reports and keeping your head above water can keep you safe while swimming.",
-          "link": "https://www.sciencenews.org/article/safe-summer-swimming-hole-e-coli",
-          "pubDate": "Wed, 20 May 2026 17:00:00 +0000"
+          "title": "Screening all kids for type 1 diabetes can catch more cases early",
+          "summary": "Identifying children with early signs of type 1 diabetes makes a difference to their health. A new study suggests wider screening is effective.",
+          "link": "https://www.sciencenews.org/article/type-1-diabetes-screening-children",
+          "pubDate": "Thu, 21 May 2026 15:00:00 +0000"
         },
         {
-          "title": "The outlook for a climate-regulating ocean current is&#8230;not good",
-          "summary": "An ocean current called the Atlantic Meridional Overturning Circulation will weaken by 50 percent by 2100. The question is what to do about it.",
-          "link": "https://www.sciencenews.org/article/climate-regulating-ocean-current-amoc",
-          "pubDate": "Wed, 20 May 2026 15:00:00 +0000"
+          "title": "One mystery of the Great Pyramid&#8217;s longevity has finally been solved",
+          "summary": "Differences in how the pyramid and surrounding soil vibrate, along with design choices, have protected the structure from earthquakes.",
+          "link": "https://www.sciencenews.org/article/egypt-great-pyramid-mystery-earthquake",
+          "pubDate": "Thu, 21 May 2026 15:00:00 +0000"
         }
       ]
     }
