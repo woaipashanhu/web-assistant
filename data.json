@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-21T23:00:47.769Z",
-  "date": "2026-05-22",
+  "lastUpdate": "2026-05-22T23:00:48.718Z",
+  "date": "2026-05-23",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "What to Do in LA if You’re Here for Business (2025)",
-          "summary": "A tech industry guide to where to stay, eat, work, and play while visiting LA.",
-          "link": "https://www.wired.com/story/los-angeles-tech-travel-guide/",
-          "pubDate": "Thu, 21 May 2026 21:47:47 +0000"
+          "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+          "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+          "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+          "pubDate": "Fri, 22 May 2026 18:52:47 +0000"
         },
         {
-          "title": "‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says",
-          "summary": "Three firms will pay nearly $1 million for selling “Active Listening” technology that they claimed tapped people’s phones for advertising. The FTC alleges the “tech” was just pricey email lists.",
-          "link": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/",
-          "pubDate": "Thu, 21 May 2026 21:35:52 +0000"
+          "title": "Shein Buying Everlane Actually Makes Perfect Sense",
+          "summary": "The acquisition struck many people as a bizarre mismatch, but it's really a sign of where Chinese ecommerce giants are already going.",
+          "link": "https://www.wired.com/story/made-in-china-why-shein-bought-everlane/",
+          "pubDate": "Fri, 22 May 2026 17:53:01 +0000"
         },
         {
-          "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
-          "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
-          "pubDate": "Thu, 21 May 2026 20:44:53 +0000"
+          "title": "Memorial Day 2026 Grill and Griddle Deals: Weber, Traeger, Recteq",
+          "summary": "Some of WIRED's favorite griddles, grills, and pellet smokers are as much as $250 off for Memorial Day weekend.",
+          "link": "https://www.wired.com/story/memorial-day-grill-griddle-deals-2026/",
+          "pubDate": "Fri, 22 May 2026 17:48:45 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
-          "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
-          "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-          "pubDate": "Thu, 21 May 2026 21:39:03 +0000"
+          "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+          "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+          "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+          "pubDate": "Fri, 22 May 2026 22:55:57 +0000"
         },
         {
-          "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
-          "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
-          "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
-          "pubDate": "Thu, 21 May 2026 21:13:23 +0000"
+          "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+          "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
+          "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+          "pubDate": "Fri, 22 May 2026 21:37:17 +0000"
         },
         {
-          "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-          "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
-          "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-          "pubDate": "Thu, 21 May 2026 21:00:42 +0000"
+          "title": "Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure you still want this?&#8217;",
+          "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+          "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+          "pubDate": "Fri, 22 May 2026 21:02:36 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-          "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
-          "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 21 May 2026 21:44:55 GMT"
+          "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+          "summary": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
+          "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 22 May 2026 19:40:14 GMT"
         },
         {
-          "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-          "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
-          "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 21 May 2026 20:12:25 GMT"
+          "title": "Rubio tries to reassure Nato allies over US troop deployments",
+          "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+          "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 22 May 2026 15:18:30 GMT"
         },
         {
-          "title": "Iran steps up claim to control Strait of Hormuz",
-          "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
-          "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 21 May 2026 14:37:29 GMT"
+          "title": "Ebola risk raised to 'very high' in DR Congo",
+          "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
+          "link": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 22 May 2026 16:23:08 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
-          "summary": "Mining company Perpetua Resources has secured a $2.9 billion loan from the U.S. Export-Import Bank as the U.S. looks to secure access to critical minerals.",
-          "link": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
-          "pubDate": "Thu, 21 May 2026 20:08:44 GMT"
+          "title": "Kevin Warsh&apos;s real Fed &apos;regime change&apos; may happen deep inside Wall Street&apos;s plumbing",
+          "summary": "Warsh could guide to a smaller role in day-to-day markets, while also setting clearer rules for how and when it should intervene.",
+          "link": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
+          "pubDate": "Fri, 22 May 2026 18:23:49 GMT"
         },
         {
-          "title": "Prediction markets are fueling a high-stakes brawl between states and federal regulators",
-          "summary": "Sixteen states are in legal proceedings against prediction market platforms, while one state has moved to ban them.",
-          "link": "https://www.cnbc.com/2026/05/21/where-the-feds-are-fighting-states-over-prediction-markets.html",
-          "pubDate": "Thu, 21 May 2026 20:11:34 GMT"
+          "title": "Which company will the U.S. government take a stake in next? Here’s what traders think",
+          "summary": "After new stakes in quantum companies were revealed, traders on prediction market platform Kalshi think IonQ, Micron and Anduril could be next.",
+          "link": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
+          "pubDate": "Fri, 22 May 2026 15:29:39 GMT"
         },
         {
-          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
-          "summary": "Traders on prediction market Polymarket think SpaceX, OpenAI and Anthropic on their first day of trading will surpass valuations of at least $1.4 trillion.",
-          "link": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
-          "pubDate": "Thu, 21 May 2026 20:28:40 GMT"
+          "title": "Despite murky legal landscape, companies are undeterred in their prediction market investments",
+          "summary": "Companies reiterated plans to growing their prediction markets businesses in recent earnings calls even as a regulatory debate continues.",
+          "link": "https://www.cnbc.com/2026/05/22/companies-keep-investing-in-prediction-markets-despite-legal-battle.html",
+          "pubDate": "Fri, 22 May 2026 15:14:52 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Missing New Jersey GOP Rep. Tom Kean Jr. expects to return &#8216;in the next couple of weeks&#8217;",
-          "summary": "Rep. Tom Kean Jr. (R-N.J.) is attempting to end speculation about when he may return from a mysterious months-long absence from Congress, telling a New Jersey newspaper Thursday that he plans to be back “in the next couple of weeks.” “I anticipate that in the next couple of weeks, I’ll return to voting and&#8230;",
-          "link": "https://thehill.com/homenews/house/5890389-kean-jr-health-update/",
-          "pubDate": "Thu, 21 May 2026 22:29:22 +0000"
+          "title": "Schiff: Gabbard&#8217;s resignation ‘only positive contribution’ to US security",
+          "summary": "Sen. Adam Schiff (D-Calif.) said Director of National Intelligence (DNI) Tulsi Gabbard’s decision to resign Friday was the “only positive contribution” she’s made to national security, criticizing the outgoing intelligence chief just hours after announcing her departure from the role. “While the circumstances around her departure are deserving of our sympathy, let’s be clear: Tulsi&#8230;",
+          "link": "https://thehill.com/homenews/administration/5892198-schiff-criticizes-gabbard-resignation/",
+          "pubDate": "Fri, 22 May 2026 21:59:26 +0000"
         },
         {
-          "title": "NASCAR&#8217;s Kyle Busch, a 2-time champion, dies",
-          "summary": "His family reported that he had been hospitalized with a severe illness.",
-          "link": "https://thehill.com/homenews/nexstar_media_wire/5890309-nascars-kyle-busch-a-2-time-champion-dies/",
-          "pubDate": "Thu, 21 May 2026 22:25:17 +0000"
+          "title": "Pratt: Bass concern over AI ads &#8216;funniest thing I&#8217;ve ever heard&#8217;",
+          "summary": "Los Angeles mayoral candidate Spencer Pratt&#160;on Wednesday dismissed Mayor Karen Bass&#8217;s concern over violence in his AI-generated campaign advertisements as the &#8220;funniest thing I&#8217;ve ever heard.&#8221; Bass has criticized Pratt&#8217;s ads, which have depicted the mayor in Joker makeup while Angelenos pelt her with tomatoes as she leads a dystopian Los Angeles, as &#8220;taking on&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5892095-spencer-pratt-karen-bass-ai-generated-ads/",
+          "pubDate": "Fri, 22 May 2026 21:48:56 +0000"
         },
         {
-          "title": "House punts Iran war powers resolution vote",
-          "summary": "The House punted a vote Thursday on a Democratic-led war powers resolution aimed at limiting President Trump’s military action on Iran. House Republicans appear to have pushed the vote over attendance issues. Trump and GOP leaders have argued that&#160;the president has the unilateral authority to confront Tehran militarily. They’ve also warned that ending the war&#8230;",
-          "link": "https://thehill.com/homenews/house/5890194-house-rejects-iran-war-powers-resolution/",
-          "pubDate": "Thu, 21 May 2026 22:21:41 +0000"
+          "title": "Cruz on Blanche&#8217;s Senate GOP meeting: &#8216;Fireworks at an epic level&#8217;",
+          "summary": "Sen. Ted Cruz (R-Texas) says that about half the Senate Republican Conference blasted acting Attorney General Todd Blanche at an explosive meeting in the Capitol on Thursday, summing up his GOP colleagues’ anger over a proposed $1.8 billion “anti-weaponization” fund as “fireworks at an epic level.” Cruz said he was surprised by the outpouring of&#8230;",
+          "link": "https://thehill.com/homenews/senate/5892149-cruz-republican-anger-blanche/",
+          "pubDate": "Fri, 22 May 2026 21:34:37 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Target sees unexpected shift in customer behavior",
-          "summary": "Target sees unexpected shift in customer behavior",
-          "link": "https://finance.yahoo.com/economy/articles/target-sees-unexpected-shift-customer-150445821.html",
-          "pubDate": "2026-05-20T15:04:45Z"
+          "title": "Seagate Stock, Western Digital Bounce Back After Nvidia Results",
+          "summary": "Seagate Stock, Western Digital Bounce Back After Nvidia Results",
+          "link": "https://www.investors.com/news/technology/seagate-stock-western-digital-stock-nvidia-earnings/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-05-21T15:44:34Z"
         },
         {
-          "title": "Why the Earnings Report Reaction in Nvidia Stock Matters So Much More This Time",
-          "summary": "Why the Earnings Report Reaction in Nvidia Stock Matters So Much More This Time",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-earnings-report-reaction-nvidia-152046021.html",
-          "pubDate": "2026-05-20T15:20:46Z"
+          "title": "Can SoFi Hit $50 by 2030?",
+          "summary": "Can SoFi Hit $50 by 2030?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-hit-50-2030-154300113.html",
+          "pubDate": "2026-05-21T15:43:00Z"
         },
         {
-          "title": "Stocks Rally as Crude Oil and Bond Yields Slump",
-          "summary": "Stocks Rally as Crude Oil and Bond Yields Slump",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-crude-oil-bond-151722712.html",
-          "pubDate": "2026-05-20T15:17:22Z"
+          "title": "United Airlines Stock Soars on Upbeat Summer Travel Forecast",
+          "summary": "United Airlines Stock Soars on Upbeat Summer Travel Forecast",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-stock-soars-upbeat-154312422.html",
+          "pubDate": "2026-05-21T15:43:12Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "MIT scientists discover amino acid that helps the gut heal itself",
-          "summary": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researchers say the discovery could eventually lead to new dietary therapies for cancer patients suffering from treatment-related gut damage.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
-          "pubDate": "Thu, 21 May 2026 00:40:33 EDT"
+          "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery",
+          "summary": "A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common medications — and even slowed cartilage damage inside the joint.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260522031135.htm",
+          "pubDate": "Fri, 22 May 2026 07:07:58 EDT"
         },
         {
-          "title": "Scientists discover the nutrient that can supercharge cellular energy",
-          "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
-          "pubDate": "Thu, 21 May 2026 01:34:34 EDT"
+          "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
+          "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the brain’s white matter — the communication highways that help different brain regions work together.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+          "pubDate": "Fri, 22 May 2026 08:33:40 EDT"
         },
         {
-          "title": "Common pesticide linked to hidden brain damage, scientists warn",
-          "summary": "Scientists have uncovered alarming new evidence that a common insecticide may leave lasting marks on the developing brain before a child is even born. Researchers studying New York City children found that prenatal exposure to chlorpyrifos — a pesticide once widely used indoors and still used in agriculture — was linked to widespread brain abnormalities and weaker motor skills years later.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260520233218.htm",
-          "pubDate": "Thu, 21 May 2026 08:27:22 EDT"
+          "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
+          "summary": "Scientists have identified potentially cancer-causing chemicals hiding in many everyday foods, especially those exposed to high heat cooking methods like grilling, roasting, smoking, and frying. The compounds, known as PAHs, can form during cooking or enter foods through contamination, raising concerns about long-term health risks.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
+          "pubDate": "Fri, 22 May 2026 10:46:22 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "siteName": "Science News",
       "items": [
         {
-          "title": "New tools may help diagnose Parkinson’s earlier than ever",
-          "summary": "From special pens to earwax evaluations, a plethora of emerging diagnostics could one day be a major boon for people with the debilitating disease.",
-          "link": "https://www.sciencenews.org/article/parkinsons-diagnosis-tools-pen-chemical",
-          "pubDate": "Thu, 21 May 2026 17:45:00 +0000"
+          "title": "Physics explains why gold stays pristine",
+          "summary": "Metals like copper oxidize — reacting with oxygen in the air — but gold doesn’t, thanks to a quick switch in atom arrangement on its surface.",
+          "link": "https://www.sciencenews.org/article/physics-explains-gold-shiny-oxidize",
+          "pubDate": "Fri, 22 May 2026 17:00:00 +0000"
         },
         {
-          "title": "Screening all kids for type 1 diabetes can catch more cases early",
-          "summary": "Identifying children with early signs of type 1 diabetes makes a difference to their health. A new study suggests wider screening is effective.",
-          "link": "https://www.sciencenews.org/article/type-1-diabetes-screening-children",
-          "pubDate": "Thu, 21 May 2026 15:00:00 +0000"
+          "title": "Congo prepared for Ebola. Now a rare strain is exposing gaps in readiness",
+          "summary": "As Congo’s Bundibugyo Ebola outbreak grows, public health responders are turning to old-school tactics to fight it as scientists search for new tools.",
+          "link": "https://www.sciencenews.org/article/congo-ebola-rare-strain-gaps-readiness",
+          "pubDate": "Fri, 22 May 2026 16:00:00 +0000"
         },
         {
-          "title": "One mystery of the Great Pyramid&#8217;s longevity has finally been solved",
-          "summary": "Differences in how the pyramid and surrounding soil vibrate, along with design choices, have protected the structure from earthquakes.",
-          "link": "https://www.sciencenews.org/article/egypt-great-pyramid-mystery-earthquake",
-          "pubDate": "Thu, 21 May 2026 15:00:00 +0000"
+          "title": "Ultrasound aimed at the brain offers new hope for Parkinson’s patients",
+          "summary": "A noninvasive treatment called high-intensity focused ultrasound helped relieve the shaking, stiffness and pain that accompany Parkinson’s disease.",
+          "link": "https://www.sciencenews.org/article/parkinsons-ultrasound-brain-shake-pain",
+          "pubDate": "Fri, 22 May 2026 15:00:00 +0000"
         }
       ]
     }
