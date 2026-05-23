@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-22T23:00:48.718Z",
-  "date": "2026-05-23",
+  "lastUpdate": "2026-05-23T23:01:06.893Z",
+  "date": "2026-05-24",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
-          "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-          "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
-          "pubDate": "Fri, 22 May 2026 18:52:47 +0000"
+          "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+          "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+          "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+          "pubDate": "Sat, 23 May 2026 15:30:00 +0000"
         },
         {
-          "title": "Shein Buying Everlane Actually Makes Perfect Sense",
-          "summary": "The acquisition struck many people as a bizarre mismatch, but it's really a sign of where Chinese ecommerce giants are already going.",
-          "link": "https://www.wired.com/story/made-in-china-why-shein-bought-everlane/",
-          "pubDate": "Fri, 22 May 2026 17:53:01 +0000"
+          "title": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
+          "summary": "Wishing for your very own Dyson vacuum? Don’t miss these vacuum deals happening over the holiday weekend.",
+          "link": "https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/",
+          "pubDate": "Sat, 23 May 2026 13:37:45 +0000"
         },
         {
-          "title": "Memorial Day 2026 Grill and Griddle Deals: Weber, Traeger, Recteq",
-          "summary": "Some of WIRED's favorite griddles, grills, and pellet smokers are as much as $250 off for Memorial Day weekend.",
-          "link": "https://www.wired.com/story/memorial-day-grill-griddle-deals-2026/",
-          "pubDate": "Fri, 22 May 2026 17:48:45 +0000"
+          "title": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
+          "summary": "Its do-it-all thermoplastic lining can both carry gear through wet muck and transport wet, mucky groceries home from the store.",
+          "link": "https://www.wired.com/story/llbean-zip-hunters-tote-bag/",
+          "pubDate": "Sat, 23 May 2026 11:01:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-          "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
-          "link": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-          "pubDate": "Fri, 22 May 2026 22:55:57 +0000"
+          "title": "SolarSquare in talks to raise up to $60M as India&#8217;s rooftop solar market draws major VC interest",
+          "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+          "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+          "pubDate": "Sat, 23 May 2026 20:03:13 +0000"
         },
         {
-          "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
-          "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
-          "link": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
-          "pubDate": "Fri, 22 May 2026 21:37:17 +0000"
+          "title": "These special phone and app features can help protect you from spyware",
+          "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+          "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+          "pubDate": "Sat, 23 May 2026 16:00:00 +0000"
         },
         {
-          "title": "Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure you still want this?&#8217;",
-          "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
-          "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-          "pubDate": "Fri, 22 May 2026 21:02:36 +0000"
+          "title": "Ferrari is using IBM&#8217;s AI to create F1 superfans",
+          "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+          "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+          "pubDate": "Sat, 23 May 2026 15:08:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-          "summary": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
-          "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 22 May 2026 19:40:14 GMT"
+          "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+          "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+          "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 23 May 2026 22:10:24 GMT"
         },
         {
-          "title": "Rubio tries to reassure Nato allies over US troop deployments",
-          "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-          "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 22 May 2026 15:18:30 GMT"
+          "title": "At least 82 killed in Chinese coal mine explosion",
+          "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+          "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 23 May 2026 15:18:40 GMT"
         },
         {
-          "title": "Ebola risk raised to 'very high' in DR Congo",
-          "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
-          "link": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 22 May 2026 16:23:08 GMT"
+          "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+          "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+          "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 23 May 2026 19:55:16 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+          "summary": "U.S. and Chinese officials have met and spoken publicly about differing priorities since the Trump-Xi summit concluded in Beijing last week.",
+          "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+          "pubDate": "Sat, 23 May 2026 11:19:52 GMT"
+        },
         {
           "title": "Kevin Warsh&apos;s real Fed &apos;regime change&apos; may happen deep inside Wall Street&apos;s plumbing",
           "summary": "Warsh could guide to a smaller role in day-to-day markets, while also setting clearer rules for how and when it should intervene.",
@@ -145,17 +151,11 @@
           "summary": "After new stakes in quantum companies were revealed, traders on prediction market platform Kalshi think IonQ, Micron and Anduril could be next.",
           "link": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
           "pubDate": "Fri, 22 May 2026 15:29:39 GMT"
-        },
-        {
-          "title": "Despite murky legal landscape, companies are undeterred in their prediction market investments",
-          "summary": "Companies reiterated plans to growing their prediction markets businesses in recent earnings calls even as a regulatory debate continues.",
-          "link": "https://www.cnbc.com/2026/05/22/companies-keep-investing-in-prediction-markets-despite-legal-battle.html",
-          "pubDate": "Fri, 22 May 2026 15:14:52 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Schiff: Gabbard&#8217;s resignation ‘only positive contribution’ to US security",
-          "summary": "Sen. Adam Schiff (D-Calif.) said Director of National Intelligence (DNI) Tulsi Gabbard’s decision to resign Friday was the “only positive contribution” she’s made to national security, criticizing the outgoing intelligence chief just hours after announcing her departure from the role. “While the circumstances around her departure are deserving of our sympathy, let’s be clear: Tulsi&#8230;",
-          "link": "https://thehill.com/homenews/administration/5892198-schiff-criticizes-gabbard-resignation/",
-          "pubDate": "Fri, 22 May 2026 21:59:26 +0000"
+          "title": "Senate war hawks signal concern about potential US-Iran deal",
+          "summary": "Republican war hawks are making a last-minute plea to President Trump to abandon efforts to strike a peace deal with Iran amid reports that the two nations are nearing an agreement. President Trump spoke with Gulf and other regional leaders from the White House on Saturday to review the latest proposal from Iran to end&#8230;",
+          "link": "https://thehill.com/homenews/senate/5892991-gop-lawmakers-pressure-trump-iran/",
+          "pubDate": "Sat, 23 May 2026 22:20:58 +0000"
         },
         {
-          "title": "Pratt: Bass concern over AI ads &#8216;funniest thing I&#8217;ve ever heard&#8217;",
-          "summary": "Los Angeles mayoral candidate Spencer Pratt&#160;on Wednesday dismissed Mayor Karen Bass&#8217;s concern over violence in his AI-generated campaign advertisements as the &#8220;funniest thing I&#8217;ve ever heard.&#8221; Bass has criticized Pratt&#8217;s ads, which have depicted the mayor in Joker makeup while Angelenos pelt her with tomatoes as she leads a dystopian Los Angeles, as &#8220;taking on&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5892095-spencer-pratt-karen-bass-ai-generated-ads/",
-          "pubDate": "Fri, 22 May 2026 21:48:56 +0000"
+          "title": "Trump says Iran deal &#8216;largely negotiated,&#8217; Strait of Hormuz will be opened",
+          "summary": "President Trump said on Saturday that a deal with Iran was “largely negotiated” and would include the&#160;reopening of the Strait of Hormuz&#160;following a phone call with Arab allies in the region. “Final aspects and details of the Deal are currently being discussed, and will be announced shortly,” Trump&#160;wrote&#160;on Truth Social. “In addition to many other&#8230;",
+          "link": "https://thehill.com/homenews/administration/5892964-trump-iran-deal-strait-hormuz/",
+          "pubDate": "Sat, 23 May 2026 21:13:13 +0000"
         },
         {
-          "title": "Cruz on Blanche&#8217;s Senate GOP meeting: &#8216;Fireworks at an epic level&#8217;",
-          "summary": "Sen. Ted Cruz (R-Texas) says that about half the Senate Republican Conference blasted acting Attorney General Todd Blanche at an explosive meeting in the Capitol on Thursday, summing up his GOP colleagues’ anger over a proposed $1.8 billion “anti-weaponization” fund as “fireworks at an epic level.” Cruz said he was surprised by the outpouring of&#8230;",
-          "link": "https://thehill.com/homenews/senate/5892149-cruz-republican-anger-blanche/",
-          "pubDate": "Fri, 22 May 2026 21:34:37 +0000"
+          "title": "Trump faces growing pressure to reopen Hormuz Strait — one way or another",
+          "summary": "President Trump is facing growing pressure on multiple fronts to take action to reopen the Strait of Hormuz, the key waterway in the Middle East, as Americans face a Memorial Day weekend with the highest gas prices in nearly four years. Iran is coming under pressure from the Qataris and Pakistanis, the mediators between the&#8230;",
+          "link": "https://thehill.com/policy/defense/5892312-trump-pressure-iran-strait-hormuz/",
+          "pubDate": "Sat, 23 May 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Seagate Stock, Western Digital Bounce Back After Nvidia Results",
-          "summary": "Seagate Stock, Western Digital Bounce Back After Nvidia Results",
-          "link": "https://www.investors.com/news/technology/seagate-stock-western-digital-stock-nvidia-earnings/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-05-21T15:44:34Z"
+          "title": "Another retail chain closing all stores after 33 years in business",
+          "summary": "Another retail chain closing all stores after 33 years in business",
+          "link": "https://finance.yahoo.com/economy/articles/another-retail-chain-closing-stores-033300636.html",
+          "pubDate": "2026-05-23T03:33:00Z"
         },
         {
-          "title": "Can SoFi Hit $50 by 2030?",
-          "summary": "Can SoFi Hit $50 by 2030?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-hit-50-2030-154300113.html",
-          "pubDate": "2026-05-21T15:43:00Z"
+          "title": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
+          "summary": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-05-23T21:55:50Z"
         },
         {
-          "title": "United Airlines Stock Soars on Upbeat Summer Travel Forecast",
-          "summary": "United Airlines Stock Soars on Upbeat Summer Travel Forecast",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-stock-soars-upbeat-154312422.html",
-          "pubDate": "2026-05-21T15:43:12Z"
+          "title": "Vertiv (VRT) Launches Vertiv PowerUPS 100 Standby Series in North America",
+          "summary": "Vertiv (VRT) Launches Vertiv PowerUPS 100 Standby Series in North America",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-launches-vertiv-powerups-201358721.html",
+          "pubDate": "2026-05-23T21:20:58Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "Scientists warn popular vitamin D supplement may have a “previously unknown” downside",
+          "summary": "A surprising study suggests vitamin D2 supplements may reduce the body’s levels of vitamin D3 — the more effective form of vitamin D. Researchers found D3 not only boosts vitamin D status more efficiently, but may also play a unique role in helping the immune system fight off viruses and bacteria. The discovery is prompting scientists to rethink whether D3 should become the preferred choice for supplementation.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
+          "pubDate": "Sat, 23 May 2026 10:38:26 EDT"
+        },
         {
           "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery",
           "summary": "A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common medications — and even slowed cartilage damage inside the joint.",
@@ -241,19 +247,19 @@
           "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the brain’s white matter — the communication highways that help different brain regions work together.",
           "link": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
           "pubDate": "Fri, 22 May 2026 08:33:40 EDT"
-        },
-        {
-          "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
-          "summary": "Scientists have identified potentially cancer-causing chemicals hiding in many everyday foods, especially those exposed to high heat cooking methods like grilling, roasting, smoking, and frying. The compounds, known as PAHs, can form during cooking or enter foods through contamination, raising concerns about long-term health risks.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
-          "pubDate": "Fri, 22 May 2026 10:46:22 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "The science of us",
+          "summary": "Editor in chief Nancy Shute introduces a new social sciences column that explores what it means to be human.",
+          "link": "https://www.sciencenews.org/article/the-science-of-us-june-2026",
+          "pubDate": "Sat, 23 May 2026 11:00:00 +0000"
+        },
         {
           "title": "Physics explains why gold stays pristine",
           "summary": "Metals like copper oxidize — reacting with oxygen in the air — but gold doesn’t, thanks to a quick switch in atom arrangement on its surface.",
@@ -265,12 +271,6 @@
           "summary": "As Congo’s Bundibugyo Ebola outbreak grows, public health responders are turning to old-school tactics to fight it as scientists search for new tools.",
           "link": "https://www.sciencenews.org/article/congo-ebola-rare-strain-gaps-readiness",
           "pubDate": "Fri, 22 May 2026 16:00:00 +0000"
-        },
-        {
-          "title": "Ultrasound aimed at the brain offers new hope for Parkinson’s patients",
-          "summary": "A noninvasive treatment called high-intensity focused ultrasound helped relieve the shaking, stiffness and pain that accompany Parkinson’s disease.",
-          "link": "https://www.sciencenews.org/article/parkinsons-ultrasound-brain-shake-pain",
-          "pubDate": "Fri, 22 May 2026 15:00:00 +0000"
         }
       ]
     }
