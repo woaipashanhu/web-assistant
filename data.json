@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-23T23:01:06.893Z",
-  "date": "2026-05-24",
+  "lastUpdate": "2026-05-24T23:00:47.003Z",
+  "date": "2026-05-25",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-          "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-          "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-          "pubDate": "Sat, 23 May 2026 15:30:00 +0000"
+          "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
+          "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+          "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+          "pubDate": "Sun, 24 May 2026 15:55:15 +0000"
         },
         {
-          "title": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
-          "summary": "Wishing for your very own Dyson vacuum? Don’t miss these vacuum deals happening over the holiday weekend.",
-          "link": "https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/",
-          "pubDate": "Sat, 23 May 2026 13:37:45 +0000"
+          "title": "Best Memorial Day Mattress Deals: Helix, Saatva (2026)",
+          "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing.",
+          "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
+          "pubDate": "Sun, 24 May 2026 15:50:18 +0000"
         },
         {
-          "title": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
-          "summary": "Its do-it-all thermoplastic lining can both carry gear through wet muck and transport wet, mucky groceries home from the store.",
-          "link": "https://www.wired.com/story/llbean-zip-hunters-tote-bag/",
-          "pubDate": "Sat, 23 May 2026 11:01:00 +0000"
+          "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
+          "summary": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
+          "link": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
+          "pubDate": "Sun, 24 May 2026 11:01:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "SolarSquare in talks to raise up to $60M as India&#8217;s rooftop solar market draws major VC interest",
-          "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
-          "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-          "pubDate": "Sat, 23 May 2026 20:03:13 +0000"
+          "title": "Everyone is navigating AI security in real time &#8212; even Google",
+          "summary": "We're in the transition period -- all of us.",
+          "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+          "pubDate": "Sun, 24 May 2026 21:39:21 +0000"
         },
         {
-          "title": "These special phone and app features can help protect you from spyware",
-          "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
-          "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-          "pubDate": "Sat, 23 May 2026 16:00:00 +0000"
+          "title": "Xreal, Google&#8217;s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+          "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+          "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+          "pubDate": "Sun, 24 May 2026 19:00:00 +0000"
         },
         {
-          "title": "Ferrari is using IBM&#8217;s AI to create F1 superfans",
-          "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-          "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-          "pubDate": "Sat, 23 May 2026 15:08:00 +0000"
+          "title": "6 kitchen gadgets that make adulting feel easier",
+          "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+          "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+          "pubDate": "Sun, 24 May 2026 17:00:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-          "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-          "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 23 May 2026 22:10:24 GMT"
+          "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+          "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
+          "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 24 May 2026 20:26:26 GMT"
         },
         {
-          "title": "At least 82 killed in Chinese coal mine explosion",
-          "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-          "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 23 May 2026 15:18:40 GMT"
+          "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+          "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+          "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 24 May 2026 16:50:46 GMT"
         },
         {
-          "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-          "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
-          "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 23 May 2026 19:55:16 GMT"
+          "title": "Turkish riot police storm opposition offices after leaders ousted",
+          "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+          "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 24 May 2026 19:49:39 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Senate war hawks signal concern about potential US-Iran deal",
-          "summary": "Republican war hawks are making a last-minute plea to President Trump to abandon efforts to strike a peace deal with Iran amid reports that the two nations are nearing an agreement. President Trump spoke with Gulf and other regional leaders from the White House on Saturday to review the latest proposal from Iran to end&#8230;",
-          "link": "https://thehill.com/homenews/senate/5892991-gop-lawmakers-pressure-trump-iran/",
-          "pubDate": "Sat, 23 May 2026 22:20:58 +0000"
+          "title": "WHO chief says hantavirus &#8216;situation is stable for now&#8217;",
+          "summary": "World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus on Sunday said the hantavirus &#8220;situation is stable for now.&#8221; Dr. Tedros provided an update stating that the WHO has reported 12 cases of hantavirus and three deaths, with no other confirmed deaths since May 2. The outbreak is believed to have originated from South America after&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5893589-who-hantavirus-update-stable/",
+          "pubDate": "Sun, 24 May 2026 22:17:34 +0000"
         },
         {
-          "title": "Trump says Iran deal &#8216;largely negotiated,&#8217; Strait of Hormuz will be opened",
-          "summary": "President Trump said on Saturday that a deal with Iran was “largely negotiated” and would include the&#160;reopening of the Strait of Hormuz&#160;following a phone call with Arab allies in the region. “Final aspects and details of the Deal are currently being discussed, and will be announced shortly,” Trump&#160;wrote&#160;on Truth Social. “In addition to many other&#8230;",
-          "link": "https://thehill.com/homenews/administration/5892964-trump-iran-deal-strait-hormuz/",
-          "pubDate": "Sat, 23 May 2026 21:13:13 +0000"
+          "title": "Despite high gas prices, drivers aren&#8217;t expected to hit the brakes on Memorial Day travel",
+          "summary": "U.S. drivers are facing high gas prices over Memorial Day weekend but are not expected to hit the brakes en masse on their holiday travel plans. The national average gasoline price&#160;was about $4.55 per gallon&#160;as of Friday, driven up by the war with Iran. That’s more than $1.50 per gallon higher since the conflict began&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5892067-memorial-day-weekend-travel-gas-prices-aaa-iran/",
+          "pubDate": "Sun, 24 May 2026 22:00:00 +0000"
         },
         {
-          "title": "Trump faces growing pressure to reopen Hormuz Strait — one way or another",
-          "summary": "President Trump is facing growing pressure on multiple fronts to take action to reopen the Strait of Hormuz, the key waterway in the Middle East, as Americans face a Memorial Day weekend with the highest gas prices in nearly four years. Iran is coming under pressure from the Qataris and Pakistanis, the mediators between the&#8230;",
-          "link": "https://thehill.com/policy/defense/5892312-trump-pressure-iran-strait-hormuz/",
-          "pubDate": "Sat, 23 May 2026 21:00:00 +0000"
+          "title": "Lemon urges reporters covering Trump: ‘Have some dignity and a backbone’",
+          "summary": "Independent journalist Don Lemon on Thursday called on news reporters covering President Trump to &#8220;have some dignity and a backbone,&#8221; using former late-night host Stephen Colbert as an example. Lemon, on his podcast &#8220;The Don Lemon Show,&#8221; said that &#8220;all of the late-night shows are going dark&#8221; to praise Colbert ahead of the airing of&#8230;",
+          "link": "https://thehill.com/media/5893544-don-lemon-calls-for-press-dignity/",
+          "pubDate": "Sun, 24 May 2026 21:50:10 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Another retail chain closing all stores after 33 years in business",
-          "summary": "Another retail chain closing all stores after 33 years in business",
-          "link": "https://finance.yahoo.com/economy/articles/another-retail-chain-closing-stores-033300636.html",
-          "pubDate": "2026-05-23T03:33:00Z"
+          "title": "Another pet supplies store operator files Chapter 11 bankruptcy",
+          "summary": "Another pet supplies store operator files Chapter 11 bankruptcy",
+          "link": "https://finance.yahoo.com/economy/articles/another-pet-supplies-store-operator-203300293.html",
+          "pubDate": "2026-05-23T20:33:00Z"
         },
         {
-          "title": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
-          "summary": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly' With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
+          "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
+          "summary": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-05-23T21:55:50Z"
+          "pubDate": "2026-05-24T22:46:52Z"
         },
         {
-          "title": "Vertiv (VRT) Launches Vertiv PowerUPS 100 Standby Series in North America",
-          "summary": "Vertiv (VRT) Launches Vertiv PowerUPS 100 Standby Series in North America",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-launches-vertiv-powerups-201358721.html",
-          "pubDate": "2026-05-23T21:20:58Z"
+          "title": "Is Hormel Foods (HRL) One of the 10 High Yield Stocks for Lasting Retirement Income?",
+          "summary": "Is Hormel Foods (HRL) One of the 10 High Yield Stocks for Lasting Retirement Income?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-hrl-one-10-222050272.html",
+          "pubDate": "2026-05-24T22:20:50Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists warn popular vitamin D supplement may have a “previously unknown” downside",
-          "summary": "A surprising study suggests vitamin D2 supplements may reduce the body’s levels of vitamin D3 — the more effective form of vitamin D. Researchers found D3 not only boosts vitamin D status more efficiently, but may also play a unique role in helping the immune system fight off viruses and bacteria. The discovery is prompting scientists to rethink whether D3 should become the preferred choice for supplementation.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
-          "pubDate": "Sat, 23 May 2026 10:38:26 EDT"
+          "title": "Surprising research reveals why you shouldn&#039;t add bananas to your smoothies",
+          "summary": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can change how much nutrition your body actually gets.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
+          "pubDate": "Sun, 24 May 2026 08:48:32 EDT"
         },
         {
-          "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery",
-          "summary": "A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common medications — and even slowed cartilage damage inside the joint.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260522031135.htm",
-          "pubDate": "Fri, 22 May 2026 07:07:58 EDT"
+          "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
+          "summary": "A newly identified brain protein may play a major role in how the body ages. Researchers discovered that declining levels of Menin in the hypothalamus triggered inflammation, memory problems, bone loss, and other aging-related changes in mice. Restoring Menin reversed several of these effects, while a simple amino acid supplement called D-serine boosted cognition. The discovery opens a surprising new path for fighting age-related decline.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
+          "pubDate": "Sun, 24 May 2026 01:40:19 EDT"
         },
         {
-          "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
-          "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the brain’s white matter — the communication highways that help different brain regions work together.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
-          "pubDate": "Fri, 22 May 2026 08:33:40 EDT"
+          "title": "Scientists “recharge” damaged nerves to ease chronic pain",
+          "summary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived by supplying them with healthy mitochondria, the tiny energy producers inside cells.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260523103950.htm",
+          "pubDate": "Sun, 24 May 2026 07:51:53 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "siteName": "Science News",
       "items": [
         {
