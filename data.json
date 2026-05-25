@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-24T23:00:47.003Z",
-  "date": "2026-05-25",
+  "lastUpdate": "2026-05-25T23:00:51.838Z",
+  "date": "2026-05-26",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
+          "title": "The Electric Ferrari Luce Is Finally Here",
+          "summary": "The covers have come off the Ferrari Luce, the most anticipated EV ever. It completely breaks the Italian car maker's aesthetic archetype.",
+          "link": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here/",
+          "pubDate": "Mon, 25 May 2026 21:03:01 +0000"
+        },
+        {
+          "title": "A Swimmer Broke a World Record at the Enhanced Games",
+          "summary": "Dozens of juiced athletes competed at the Enhanced Games in Las Vegas. Most won’t admit what drugs they used.",
+          "link": "https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/",
+          "pubDate": "Mon, 25 May 2026 17:32:55 +0000"
+        },
+        {
+          "title": "Memorial Day Tech Deals: Sony, Apple, Anker, and More",
           "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-          "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
-          "pubDate": "Sun, 24 May 2026 15:55:15 +0000"
-        },
-        {
-          "title": "Best Memorial Day Mattress Deals: Helix, Saatva (2026)",
-          "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing.",
-          "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
-          "pubDate": "Sun, 24 May 2026 15:50:18 +0000"
-        },
-        {
-          "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
-          "summary": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
-          "link": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
-          "pubDate": "Sun, 24 May 2026 11:01:00 +0000"
+          "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-2/",
+          "pubDate": "Mon, 25 May 2026 17:23:29 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Everyone is navigating AI security in real time &#8212; even Google",
-          "summary": "We're in the transition period -- all of us.",
-          "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-          "pubDate": "Sun, 24 May 2026 21:39:21 +0000"
+          "title": "What ClickUp&#8217;s mass layoff tells us about the future of work",
+          "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+          "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+          "pubDate": "Mon, 25 May 2026 16:00:00 +0000"
         },
         {
-          "title": "Xreal, Google&#8217;s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-          "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
-          "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-          "pubDate": "Sun, 24 May 2026 19:00:00 +0000"
+          "title": "The pope’s AI encyclical isn’t really about AI",
+          "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+          "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+          "pubDate": "Mon, 25 May 2026 15:09:41 +0000"
         },
         {
-          "title": "6 kitchen gadgets that make adulting feel easier",
-          "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
-          "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
-          "pubDate": "Sun, 24 May 2026 17:00:00 +0000"
+          "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+          "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+          "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+          "pubDate": "Mon, 25 May 2026 15:00:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-          "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
-          "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 24 May 2026 20:26:26 GMT"
+          "title": "Deal with US not imminent, Iran says",
+          "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+          "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 25 May 2026 22:05:29 GMT"
         },
         {
-          "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-          "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-          "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 24 May 2026 16:50:46 GMT"
+          "title": "Oil prices slide on hopes of US-Iran peace deal",
+          "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+          "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 25 May 2026 13:05:56 GMT"
         },
         {
-          "title": "Turkish riot police storm opposition offices after leaders ousted",
-          "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
-          "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 24 May 2026 19:49:39 GMT"
+          "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+          "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+          "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 25 May 2026 21:24:34 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+          "summary": "Chinese telecom giant Huawei announced Monday a new way of designing chips that improves their capabilities, despite U.S. restrictions on the company.",
+          "link": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
+          "pubDate": "Mon, 25 May 2026 06:48:16 GMT"
+        },
         {
           "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
           "summary": "U.S. and Chinese officials have met and spoken publicly about differing priorities since the Trump-Xi summit concluded in Beijing last week.",
@@ -145,17 +151,11 @@
           "summary": "Warsh could guide to a smaller role in day-to-day markets, while also setting clearer rules for how and when it should intervene.",
           "link": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
           "pubDate": "Fri, 22 May 2026 18:23:49 GMT"
-        },
-        {
-          "title": "Which company will the U.S. government take a stake in next? Here’s what traders think",
-          "summary": "After new stakes in quantum companies were revealed, traders on prediction market platform Kalshi think IonQ, Micron and Anduril could be next.",
-          "link": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
-          "pubDate": "Fri, 22 May 2026 15:29:39 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "WHO chief says hantavirus &#8216;situation is stable for now&#8217;",
-          "summary": "World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus on Sunday said the hantavirus &#8220;situation is stable for now.&#8221; Dr. Tedros provided an update stating that the WHO has reported 12 cases of hantavirus and three deaths, with no other confirmed deaths since May 2. The outbreak is believed to have originated from South America after&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5893589-who-hantavirus-update-stable/",
-          "pubDate": "Sun, 24 May 2026 22:17:34 +0000"
+          "title": "Races to watch in Texas’s primary runoffs: Cornyn-Paxton, Chip Roy&#8217;s attorney general bid, House contests",
+          "summary": "Sen. John Cornyn (R-Texas) will be in the fight of his political life Tuesday, as he looks to defy the odds and defeat Texas Attorney General Ken Paxton, who clinched an endorsement from President Trump, in the Senate GOP runoff. The last-minute support tees up another test of Trump&#8217;s influence in a Republican primary. The president has already successfully picked off several&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5891209-texas-cornyn-paxton-trump-senate-primary-runoff/",
+          "pubDate": "Mon, 25 May 2026 21:00:00 +0000"
         },
         {
-          "title": "Despite high gas prices, drivers aren&#8217;t expected to hit the brakes on Memorial Day travel",
-          "summary": "U.S. drivers are facing high gas prices over Memorial Day weekend but are not expected to hit the brakes en masse on their holiday travel plans. The national average gasoline price&#160;was about $4.55 per gallon&#160;as of Friday, driven up by the war with Iran. That’s more than $1.50 per gallon higher since the conflict began&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5892067-memorial-day-weekend-travel-gas-prices-aaa-iran/",
-          "pubDate": "Sun, 24 May 2026 22:00:00 +0000"
+          "title": "Sherrill denied access to ICE detention facility in New Jersey",
+          "summary": "New Jersey Gov. Mikie Sherrill (D) on Monday said she was denied access to an Immigration and Customs Enforcement (ICE) detention center in Newark amid protests outside the facility and a hunger strike within its walls. The governor said being denied access to Delaney Hall, the detention center, raised &#8220;serious questions about what they are&#8230;",
+          "link": "https://thehill.com/homenews/state-watch/5894189-new-jersey-detention-center-sherrill/",
+          "pubDate": "Mon, 25 May 2026 20:20:48 +0000"
         },
         {
-          "title": "Lemon urges reporters covering Trump: ‘Have some dignity and a backbone’",
-          "summary": "Independent journalist Don Lemon on Thursday called on news reporters covering President Trump to &#8220;have some dignity and a backbone,&#8221; using former late-night host Stephen Colbert as an example. Lemon, on his podcast &#8220;The Don Lemon Show,&#8221; said that &#8220;all of the late-night shows are going dark&#8221; to praise Colbert ahead of the airing of&#8230;",
-          "link": "https://thehill.com/media/5893544-don-lemon-calls-for-press-dignity/",
-          "pubDate": "Sun, 24 May 2026 21:50:10 +0000"
+          "title": "Russia warns foreign nationals to leave Kyiv after large attack",
+          "summary": "The Russian Foreign Ministry on Monday urged foreign nationals to leave Kyiv, after Russian forces conducted a large-scale attack on the Ukrainian capital. Russian forces are carrying out “consistent and systemic strikes at enterprises of the Ukrainian defence industry &#8230; including specific facilities for designing, manufacturing and programming drones and preparing them for operation,” the&#8230;",
+          "link": "https://thehill.com/policy/international/5894206-russian-foreign-ministry-kyiv-warning/",
+          "pubDate": "Mon, 25 May 2026 19:56:11 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Another pet supplies store operator files Chapter 11 bankruptcy",
-          "summary": "Another pet supplies store operator files Chapter 11 bankruptcy",
-          "link": "https://finance.yahoo.com/economy/articles/another-pet-supplies-store-operator-203300293.html",
-          "pubDate": "2026-05-23T20:33:00Z"
+          "title": "Lowe’s sounds the alarm as customers change their tune",
+          "summary": "Lowe’s sounds the alarm as customers change their tune",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-flags-warning-sign-shoppers-143700930.html",
+          "pubDate": "2026-05-24T14:37:00Z"
         },
         {
-          "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
-          "summary": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-05-24T22:46:52Z"
+          "title": "Gavin Newsom's office urges drivers to avoid branded gas meant to 'rip you off' — but studies show it's worth the price",
+          "summary": "Gavin Newsom's office urges drivers to avoid branded gas meant to 'rip you off' — but studies show it's worth the price",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/gavin-newsoms-office-urges-drivers-141500426.html",
+          "pubDate": "2026-05-24T14:15:00Z"
         },
         {
-          "title": "Is Hormel Foods (HRL) One of the 10 High Yield Stocks for Lasting Retirement Income?",
-          "summary": "Is Hormel Foods (HRL) One of the 10 High Yield Stocks for Lasting Retirement Income?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-hrl-one-10-222050272.html",
-          "pubDate": "2026-05-24T22:20:50Z"
+          "title": "Michael Burry says the SEC's plan to trade stocks like crypto could create a nightmare for investors",
+          "summary": "Michael Burry says the SEC's plan to trade stocks like crypto could create a nightmare for investors",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/michael-burry-says-secs-plan-143000315.html",
+          "pubDate": "2026-05-24T14:30:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Surprising research reveals why you shouldn&#039;t add bananas to your smoothies",
-          "summary": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can change how much nutrition your body actually gets.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
-          "pubDate": "Sun, 24 May 2026 08:48:32 EDT"
+          "title": "This prehistoric fish may explain how animals first walked on Earth",
+          "summary": "Scientists have peered inside the skull of a 380-million-year-old Antarctic fish that was closely related to the first animals to walk on land, revealing surprising clues about how life began its move out of the water. Using advanced neutron imaging, researchers discovered that Koharalepis jarviki had features suited for living near the water’s surface, including openings in its skull that may have helped it gulp air and a light-sensitive organ linked to day-night rhythms.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260525000459.htm",
+          "pubDate": "Mon, 25 May 2026 09:30:01 EDT"
         },
         {
-          "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
-          "summary": "A newly identified brain protein may play a major role in how the body ages. Researchers discovered that declining levels of Menin in the hypothalamus triggered inflammation, memory problems, bone loss, and other aging-related changes in mice. Restoring Menin reversed several of these effects, while a simple amino acid supplement called D-serine boosted cognition. The discovery opens a surprising new path for fighting age-related decline.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
-          "pubDate": "Sun, 24 May 2026 01:40:19 EDT"
+          "title": "100-million-year-old bug had crab-like claws unlike any known insect",
+          "summary": "Deep inside 100-million-year-old amber from Myanmar, scientists uncovered a bizarre ancient bug with clawed front legs that look more like a crab’s pincers than anything seen in modern insects. The discovery is so unusual that researchers say these crab-like “chelae” evolved independently in this lineage, making it only the fourth known example of such structures appearing in insects at all.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260525000457.htm",
+          "pubDate": "Mon, 25 May 2026 08:53:59 EDT"
         },
         {
-          "title": "Scientists “recharge” damaged nerves to ease chronic pain",
-          "summary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived by supplying them with healthy mitochondria, the tiny energy producers inside cells.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260523103950.htm",
-          "pubDate": "Sun, 24 May 2026 07:51:53 EDT"
+          "title": "Scientists discover why Ozempic and Wegovy weight loss eventually plateaus",
+          "summary": "New NIH research reveals that semaglutide sparks different responses inside appetite-controlling brain cells, offering fresh insight into why GLP-1 weight-loss drugs don’t work the same for everyone. Scientists also found a possible way to extend the drugs’ effects, potentially helping patients push past weight-loss plateaus.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260525000453.htm",
+          "pubDate": "Mon, 25 May 2026 09:39:26 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "siteName": "Science News",
       "items": [
         {
