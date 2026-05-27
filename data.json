@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-26T23:00:51.396Z",
-  "date": "2026-05-27",
+  "lastUpdate": "2026-05-27T23:00:31.504Z",
+  "date": "2026-05-28",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-          "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
-          "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-          "pubDate": "Tue, 26 May 2026 20:46:03 +0000"
+          "title": "Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme",
+          "summary": "According to federal prosecutors, Michele Spagnuolo made more than $1 million on the prediction market platform using confidential information about Google Search traffic.",
+          "link": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
+          "pubDate": "Wed, 27 May 2026 22:22:23 +0000"
         },
         {
-          "title": "The Best Movies to Stream This Month (May 2026)",
-          "summary": "Bugonia, Good Boy, and Send Help are among the films deserving of your eyeballs this month.",
-          "link": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now/",
-          "pubDate": "Tue, 26 May 2026 20:29:54 +0000"
+          "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
+          "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
+          "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
+          "pubDate": "Wed, 27 May 2026 18:00:00 +0000"
         },
         {
-          "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-          "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
-          "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-          "pubDate": "Tue, 26 May 2026 20:17:47 +0000"
+          "title": "A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House",
+          "summary": "Amid ongoing economic anxieties, BLK and other companies are giving away basic essentials to appeal to the public.",
+          "link": "https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/",
+          "pubDate": "Wed, 27 May 2026 17:52:46 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "What we&#8217;re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
-          "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
-          "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
-          "pubDate": "Tue, 26 May 2026 22:55:01 +0000"
+          "title": "Rivian will deliver the first R2 SUVs on June 9",
+          "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
+          "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+          "pubDate": "Wed, 27 May 2026 21:15:04 +0000"
         },
         {
-          "title": "Trump Admin permits Volvo to keep selling connected cars in the U.S.",
-          "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
-          "link": "https://techcrunch.com/2026/05/26/trump-admin-permits-volvo-to-keep-selling-connected-cars-in-the-u-s/",
-          "pubDate": "Tue, 26 May 2026 22:55:01 +0000"
+          "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+          "summary": "The Series B round was led by Battery Ventures.",
+          "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+          "pubDate": "Wed, 27 May 2026 21:11:15 +0000"
         },
         {
-          "title": "Trump admin wants nuclear startups to use plutonium for their reactors",
-          "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
-          "link": "https://techcrunch.com/2026/05/26/trump-admin-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
-          "pubDate": "Tue, 26 May 2026 22:37:46 +0000"
+          "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+          "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+          "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+          "pubDate": "Wed, 27 May 2026 20:10:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-          "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
-          "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 26 May 2026 15:15:29 GMT"
+          "title": "Israel issues evacuation order for swathes of southern Lebanon",
+          "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+          "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 27 May 2026 20:26:03 GMT"
         },
         {
-          "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-          "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
-          "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 26 May 2026 03:06:06 GMT"
+          "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+          "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
+          "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 27 May 2026 18:50:50 GMT"
         },
         {
-          "title": "Four killed as school minibus collides with train in Belgium",
-          "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
-          "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 26 May 2026 17:11:24 GMT"
+          "title": "Trump says US 'not satisfied' with Iran deal yet",
+          "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
+          "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 27 May 2026 17:37:33 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
-          "summary": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer.",
-          "link": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
-          "pubDate": "Tue, 26 May 2026 19:43:54 GMT"
+          "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
+          "summary": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely.",
+          "link": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
+          "pubDate": "Wed, 27 May 2026 22:18:07 GMT"
         },
         {
-          "title": "Pope Leo is concerned about AI replacing human work. Traders share his concern long term",
-          "summary": "The leader of the Catholic Church warned about artificial intelligence upending the labor market. Traders on Kalshi see unemployment jumping before 2030.",
-          "link": "https://www.cnbc.com/2026/05/26/traders-share-pope-leos-worries-on-ais-job-market-impact.html",
-          "pubDate": "Tue, 26 May 2026 19:31:51 GMT"
+          "title": "Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition: &apos;We are on the lookout&apos;",
+          "summary": "A $20 billion deal would be among the largest in JPMorgan's history and could invite regulatory scrutiny given its position as the largest U.S. bank by assets.",
+          "link": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html",
+          "pubDate": "Wed, 27 May 2026 15:51:16 GMT"
         },
         {
-          "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
-          "summary": "Chinese telecom giant Huawei announced Monday a new way of designing chips that improves their capabilities, despite U.S. restrictions on the company.",
-          "link": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
-          "pubDate": "Mon, 25 May 2026 06:48:16 GMT"
+          "title": "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too",
+          "summary": "The new products allow customers to create AI assistants capable of carrying out investing strategies or spending instructions with minimal human involvement.",
+          "link": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
+          "pubDate": "Wed, 27 May 2026 13:11:43 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "The Memo: Trump and allies seek to spin Iran deal amid hazy details",
-          "summary": "A fierce battle is underway to shape public perceptions of a deal to end the war in Iran — even though no such agreement has been arrived at and progress toward it was called into question by fresh U.S. attacks on southern Iran on Monday.&#160; Despite those strikes, serious negotiations are plainly taking place. The&#8230;",
-          "link": "https://thehill.com/homenews/administration/5896266-trump-iran-war-deal-public-perception/",
-          "pubDate": "Tue, 26 May 2026 22:31:27 +0000"
+          "title": "At least $60M from National Park entrance fee fund going toward Trump&#8217;s DC projects",
+          "summary": "At least $60 million in National Park Service (NPS) funds are going toward Washington, D.C.-based projects as President Trump seeks to “beautify” the city ahead of the nation’s 250th anniversary, contracts reveal. Projects&#160;that&#160;aim&#160;to&#160;improve&#160;city&#160;fountains&#160;and&#160;memorials&#160;are being funded by NPS funds that are collected through the Recreation Enhancement Fee Program.&#160; This&#160;program&#160;receives funding from visitor entrance fees. At least&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5898443-trump-dc-projects-nps-america-250/",
+          "pubDate": "Wed, 27 May 2026 22:28:35 +0000"
         },
         {
-          "title": "DOE eyes using plutonium in nuclear fuel",
-          "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story&#160; DOE eyes using plutonium for nuclear power&#160; The Energy Department may allow up to five companies to use its surplus plutonium, which has historically been used in nuclear warheads, as fuel. © Ted Shaffrey, Associated Press The department has selected the firms for “advanced&#8230;",
-          "link": "https://thehill.com/homenews/5896231-doe-eyes-using-plutonium-in-nuclear-fuel/",
-          "pubDate": "Tue, 26 May 2026 22:18:53 +0000"
+          "title": "Hegseth heads to Asia with Taiwan questions swirling",
+          "summary": "Defense Secretary Pete Hegseth is headed to Asia this week, where he will attend the continent’s biggest defense forum as questions swirl about the U.S.’s support for Taiwan.&#160; Hegseth, who will depart for the Shangri-La Dialogue in Singapore on Wednesday, will huddle with Singaporean Prime Minister Lawrence Wong and Minister of Defense Chan Chun Sing,&#8230;",
+          "link": "https://thehill.com/policy/defense/5898423-hegseth-shangri-la-dialogue-taiwan/",
+          "pubDate": "Wed, 27 May 2026 22:17:46 +0000"
         },
         {
-          "title": "House NDAA draft would limit Trump&#8217;s troop cuts, battleship plans",
-          "summary": "A major defense policy bill released by House Republicans Tuesday looks to maintain limits on how many U.S. troops can be moved from Europe and South Korea and bars construction of the first “Trump-class” battleship until the Navy can prove it has the technology to make it. The&#160;draft text of the legislation, known as the&#8230;",
-          "link": "https://thehill.com/policy/defense/5896228-ndaa-house-trump-troops-battleship/",
-          "pubDate": "Tue, 26 May 2026 22:06:53 +0000"
+          "title": "US &#8216;disappointed&#8217; after Netherlands blocks takeover of online ID platform",
+          "summary": "The U.S. said Wednesday that it was “disappointed” in a decision by the Dutch government to block New York-based Kyndryl’s planned acquisition of a cloud services provider over concerns about national security. “We were disappointed by the Dutch government’s decision regarding the Kyndryl-Solvinity deal,” the U.S. Embassy in The Hague, Netherlands, said in a statement.&#8230;",
+          "link": "https://thehill.com/homenews/5898407-dutch-block-us-tech-acquisition/",
+          "pubDate": "Wed, 27 May 2026 22:15:05 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "BJ’s Wholesale plans major store changes as customers pull back",
-          "summary": "BJ’s Wholesale plans major store changes as customers pull back",
-          "link": "https://finance.yahoo.com/economy/articles/bj-wholesale-plans-major-store-140700001.html",
-          "pubDate": "2026-05-25T14:07:00Z"
+          "title": "IDVO’s International Dividend Strategy Carries an Unhedged Currency Risk That Can Wipe Out a Year of Yield",
+          "summary": "IDVO’s International Dividend Strategy Carries an Unhedged Currency Risk That Can Wipe Out a Year of Yield",
+          "link": "https://finance.yahoo.com/markets/options/articles/idvo-international-dividend-strategy-carries-150009463.html",
+          "pubDate": "2026-05-26T15:00:09Z"
         },
         {
-          "title": "CMS Energy Stock: Analyst Estimates & Ratings",
-          "summary": "CMS Energy Stock: Analyst Estimates & Ratings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-stock-analyst-estimates-143943864.html",
-          "pubDate": "2026-05-25T14:39:43Z"
+          "title": "Ecopetrol Launches $492 Million Tender Offer for Brava Energia Stake",
+          "summary": "Ecopetrol Launches $492 Million Tender Offer for Brava Energia Stake",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/ecopetrol-launches-492-million-tender-150000795.html",
+          "pubDate": "2026-05-26T15:00:00Z"
         },
         {
-          "title": "Crossroads Capital Investment Maintains a Constructive Outlook on FTAI Aviation (FTAI)",
-          "summary": "Crossroads Capital Investment Maintains a Constructive Outlook on FTAI Aviation (FTAI)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/crossroads-capital-investment-maintains-constructive-143728441.html",
-          "pubDate": "2026-05-25T14:37:28Z"
+          "title": "Do Wall Street Analysts Like Corpay Stock?",
+          "summary": "Do Wall Street Analysts Like Corpay Stock?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-corpay-stock-145038479.html",
+          "pubDate": "2026-05-26T14:50:38Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
-          "summary": "Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for future treatments targeting dementia and brain fog.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
-          "pubDate": "Tue, 26 May 2026 09:39:35 EDT"
+          "title": "Scientists break 30-year superconductivity record at normal pressure",
+          "summary": "Scientists at the University of Houston have shattered a long-standing superconductivity record, creating a material that can conduct electricity with zero resistance at the highest temperature ever achieved under normal pressure conditions. Their breakthrough pushes superconductivity to 151 Kelvin (minus 122°C), beating a record that stood for more than 30 years.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260527023220.htm",
+          "pubDate": "Wed, 27 May 2026 09:44:25 EDT"
         },
         {
-          "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
-          "summary": "Scientists working at CERN’s Large Hadron Collider may be seeing the strongest hints yet of physics beyond the Standard Model — the decades-old theory that explains the fundamental particles and forces of the universe. By studying incredibly rare particle transformations called “penguin decays,” researchers found behavior that doesn’t fully match theoretical predictions, raising the possibility that unknown particles or forces are influencing the results.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260526022012.htm",
-          "pubDate": "Tue, 26 May 2026 09:23:43 EDT"
+          "title": "NASA’s Webb telescope discovers a planet where rock clouds vanish every night",
+          "summary": "A giant planet nearly 700 light-years away has a bizarre daily weather cycle where mineral clouds appear every morning and vanish by nightfall. Using the James Webb Space Telescope, astronomers discovered that WASP-94A b’s mornings are filled with clouds made of rock-like minerals, while its evenings are surprisingly clear. The finding gave scientists their clearest look yet into the planet’s atmosphere and revealed it’s far more Jupiter-like than previously believed.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260527023212.htm",
+          "pubDate": "Wed, 27 May 2026 06:24:22 EDT"
         },
         {
-          "title": "Queenless wasp colonies explode into chaos but hidden helpers save them",
-          "summary": "When a queen wasp suddenly disappears, her colony doesn’t calmly choose a successor — it erupts into chaos. Researchers found that female wasps immediately begin battling for power, shattering the colony’s social order in a frenzy of aggression. But while some fight for the throne, others quietly become the colony’s unsung heroes, stepping up to gather food and care for the young so the society doesn’t collapse.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260526021958.htm",
-          "pubDate": "Tue, 26 May 2026 08:19:49 EDT"
+          "title": "NASA’s Fermi telescope reveals the power source behind monster supernovae",
+          "summary": "NASA’s Fermi telescope has detected what may be the first confirmed gamma-ray signal from a superluminous supernova — one of the most extreme explosions in the universe. Scientists believe the blast was powered by a rapidly spinning magnetar, an exotic neutron star with unbelievably strong magnetic fields. The event, called SN 2017egm, erupted 440 million light-years away and may help explain why some supernovae become extraordinarily bright.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260527023210.htm",
+          "pubDate": "Wed, 27 May 2026 05:48:18 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Solar flares may show predictable warning signs hours before erupting",
-          "summary": "Scientists spotted patterns hours before a major solar flare, a discovery that could help forecast dangerous eruptions.",
-          "link": "https://www.sciencenews.org/article/solar-flare-warning-signs-eruptions",
-          "pubDate": "Tue, 26 May 2026 15:00:00 +0000"
+          "title": "Huge volcanic eruption offers clues to fighting climate change",
+          "summary": "The South Pacific blast may have consumed its own methane — but using this idea against the greenhouse gas is controversial.",
+          "link": "https://www.sciencenews.org/article/volcanic-eruption-clues-climate-change",
+          "pubDate": "Wed, 27 May 2026 17:00:00 +0000"
         },
         {
-          "title": "Why is hantavirus so deadly? It&#8217;s not what you may think",
-          "summary": "Andes hantavirus causes deadly lung failure, but its method of attack differs from other respiratory illnesses. The details might inform future treatments.",
-          "link": "https://www.sciencenews.org/article/andes-hantavirus-treatments-lung-fail",
-          "pubDate": "Tue, 26 May 2026 13:00:00 +0000"
+          "title": "Grapefruit-sized hail may become more common in a warmer world",
+          "summary": "A global model suggests that climate change could make hailstones larger and more damaging in many regions, especially at mid-to-high latitudes.",
+          "link": "https://www.sciencenews.org/article/large-hail-climate-change-more-common",
+          "pubDate": "Wed, 27 May 2026 15:00:00 +0000"
         },
         {
-          "title": "Even careful scuba divers can damage coral reefs",
-          "summary": "Hours of diving videos and hundreds of survey responses reveal the common diver mistakes that can cause irreversible reef damage.",
-          "link": "https://www.sciencenews.org/article/scuba-diver-damage-coral-reefs",
-          "pubDate": "Tue, 26 May 2026 11:00:00 +0000"
+          "title": "AI bots ignore evidence. Can we trust them with science?",
+          "summary": "Scientists rethink their ideas after experiments. AI agents struggle to learn from evidence and recognize when an idea is obviously incorrect.",
+          "link": "https://www.sciencenews.org/article/ai-ignore-evidence-trust-science",
+          "pubDate": "Wed, 27 May 2026 13:00:00 +0000"
         }
       ]
     }
