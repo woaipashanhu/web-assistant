@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-27T23:00:31.504Z",
-  "date": "2026-05-28",
+  "lastUpdate": "2026-05-28T23:00:30.733Z",
+  "date": "2026-05-29",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme",
-          "summary": "According to federal prosecutors, Michele Spagnuolo made more than $1 million on the prediction market platform using confidential information about Google Search traffic.",
-          "link": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
-          "pubDate": "Wed, 27 May 2026 22:22:23 +0000"
+          "title": "The $6 Billion Chinese Startup Trying to Build Hands for Every Robot",
+          "summary": "LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories—and eventually replace human labor altogether.",
+          "link": "https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/",
+          "pubDate": "Thu, 28 May 2026 19:14:31 +0000"
         },
         {
-          "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
-          "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
-          "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
-          "pubDate": "Wed, 27 May 2026 18:00:00 +0000"
+          "title": "Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook",
+          "summary": "Meta’s upcoming Instagram Plus and Facebook Plus subscriptions are the latest example of the company seeing what works elsewhere and mimicking it.",
+          "link": "https://www.wired.com/story/meta-copies-snapchats-homework-again/",
+          "pubDate": "Thu, 28 May 2026 19:09:17 +0000"
         },
         {
-          "title": "A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House",
-          "summary": "Amid ongoing economic anxieties, BLK and other companies are giving away basic essentials to appeal to the public.",
-          "link": "https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/",
-          "pubDate": "Wed, 27 May 2026 17:52:46 +0000"
+          "title": "The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are",
+          "summary": "The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none—and now says adversaries are using the data to target soldiers during a war.",
+          "link": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
+          "pubDate": "Thu, 28 May 2026 16:59:33 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Rivian will deliver the first R2 SUVs on June 9",
-          "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
-          "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
-          "pubDate": "Wed, 27 May 2026 21:15:04 +0000"
+          "title": "The internet is being rebuilt for machines",
+          "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+          "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+          "pubDate": "Thu, 28 May 2026 21:24:01 +0000"
         },
         {
-          "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
-          "summary": "The Series B round was led by Battery Ventures.",
-          "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
-          "pubDate": "Wed, 27 May 2026 21:11:15 +0000"
+          "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+          "summary": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
+          "link": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
+          "pubDate": "Thu, 28 May 2026 20:29:00 +0000"
         },
         {
-          "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-          "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-          "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-          "pubDate": "Wed, 27 May 2026 20:10:00 +0000"
+          "title": "Asana acquires no-code agent-builder StackAI",
+          "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+          "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+          "pubDate": "Thu, 28 May 2026 20:06:07 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israel issues evacuation order for swathes of southern Lebanon",
-          "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
-          "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 27 May 2026 20:26:03 GMT"
+          "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+          "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
+          "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 28 May 2026 22:13:30 GMT"
         },
         {
-          "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-          "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
-          "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 27 May 2026 18:50:50 GMT"
+          "title": "Are US and Iran close to peace or sliding back to war?",
+          "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+          "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 28 May 2026 16:56:19 GMT"
         },
         {
-          "title": "Trump says US 'not satisfied' with Iran deal yet",
-          "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
-          "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 27 May 2026 17:37:33 GMT"
+          "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+          "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
+          "link": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 28 May 2026 16:20:50 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
-          "summary": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely.",
-          "link": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
-          "pubDate": "Wed, 27 May 2026 22:18:07 GMT"
+          "title": "CFTC sues Rhode Island over actions against prediction markets",
+          "summary": "It marks the seventh state the commission has sued in a dispute over who has the right to regulate event contract platforms.",
+          "link": "https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html",
+          "pubDate": "Thu, 28 May 2026 19:57:39 GMT"
         },
         {
-          "title": "Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition: &apos;We are on the lookout&apos;",
-          "summary": "A $20 billion deal would be among the largest in JPMorgan's history and could invite regulatory scrutiny given its position as the largest U.S. bank by assets.",
-          "link": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html",
-          "pubDate": "Wed, 27 May 2026 15:51:16 GMT"
+          "title": "Gaming association says states have lost $1 billion in tax revenue due to prediction markets",
+          "summary": "Bill Miller, American Gaming Association president and CEO, added that prediction market platforms in his view amount to \"backdoor sports betting.\"",
+          "link": "https://www.cnbc.com/2026/05/28/states-have-lost-1-billion-due-to-prediction-markets-gaming-association.html",
+          "pubDate": "Thu, 28 May 2026 16:51:57 GMT"
         },
         {
-          "title": "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too",
-          "summary": "The new products allow customers to create AI assistants capable of carrying out investing strategies or spending instructions with minimal human involvement.",
-          "link": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
-          "pubDate": "Wed, 27 May 2026 13:11:43 GMT"
+          "title": "Nio shares jump 10% after releasing first flagship EV in more than two years",
+          "summary": "Chinese electric car company Nio has launched two lower-priced brands in the last two years to broaden its customer base in a sluggish Chinese consumer market.",
+          "link": "https://www.cnbc.com/2026/05/28/nio-surges-9percent-after-releasing-first-flagship-ev-in-more-than-two-years.html",
+          "pubDate": "Thu, 28 May 2026 09:42:06 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "At least $60M from National Park entrance fee fund going toward Trump&#8217;s DC projects",
-          "summary": "At least $60 million in National Park Service (NPS) funds are going toward Washington, D.C.-based projects as President Trump seeks to “beautify” the city ahead of the nation’s 250th anniversary, contracts reveal. Projects&#160;that&#160;aim&#160;to&#160;improve&#160;city&#160;fountains&#160;and&#160;memorials&#160;are being funded by NPS funds that are collected through the Recreation Enhancement Fee Program.&#160; This&#160;program&#160;receives funding from visitor entrance fees. At least&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5898443-trump-dc-projects-nps-america-250/",
-          "pubDate": "Wed, 27 May 2026 22:28:35 +0000"
+          "title": "Police respond to ‘swatting’ call at Justice Amy Coney Barrett&#8217;s home",
+          "summary": "Supreme Court Justice Amy Coney Barrett was the victim of a&#160;“swatting”&#160;call Wednesday night at her&#160;Virginia&#160;home,&#160;according to&#160;local police.&#160; Police radio traffic shows law enforcement received a call for “suspicious noise of gunshots” at Barrett’s suburban Virginia address. The dispatcher warned responding officers shortly afterward that a “high priority resident of the county” lived there and the report may not be authentic. When reached for comment,&#160;Fairfax County&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5900372-justice-barrett-swatting-incident/",
+          "pubDate": "Thu, 28 May 2026 22:31:40 +0000"
         },
         {
-          "title": "Hegseth heads to Asia with Taiwan questions swirling",
-          "summary": "Defense Secretary Pete Hegseth is headed to Asia this week, where he will attend the continent’s biggest defense forum as questions swirl about the U.S.’s support for Taiwan.&#160; Hegseth, who will depart for the Shangri-La Dialogue in Singapore on Wednesday, will huddle with Singaporean Prime Minister Lawrence Wong and Minister of Defense Chan Chun Sing,&#8230;",
-          "link": "https://thehill.com/policy/defense/5898423-hegseth-shangri-la-dialogue-taiwan/",
-          "pubDate": "Wed, 27 May 2026 22:17:46 +0000"
+          "title": "Los Angeles mayoral race draws attention with viral moments, surprise rise of Bass challenger Pratt",
+          "summary": "ATLANTA — The Los Angeles mayoral race has increasingly drawn national attention, transforming from a local contest into one of the more unconventional municipal races in recent memory. Mayor Karen Bass (D) faces a challenge on Tuesday&#160;from 15 candidates, including former reality TV star&#160;Spencer Pratt, whose candidacy has surged from novelty to serious contender.&#160;The nonpartisan primary sends&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5900350-los-angeles-mayoral-race-pratt-bass/",
+          "pubDate": "Thu, 28 May 2026 22:22:36 +0000"
         },
         {
-          "title": "US &#8216;disappointed&#8217; after Netherlands blocks takeover of online ID platform",
-          "summary": "The U.S. said Wednesday that it was “disappointed” in a decision by the Dutch government to block New York-based Kyndryl’s planned acquisition of a cloud services provider over concerns about national security. “We were disappointed by the Dutch government’s decision regarding the Kyndryl-Solvinity deal,” the U.S. Embassy in The Hague, Netherlands, said in a statement.&#8230;",
-          "link": "https://thehill.com/homenews/5898407-dutch-block-us-tech-acquisition/",
-          "pubDate": "Wed, 27 May 2026 22:15:05 +0000"
+          "title": "US Ebola quarantine facility in Kenya to open Friday",
+          "summary": "Trump administration officials confirmed Thursday&#160;that&#160;they will not allow any American who was exposed to Ebola back into the country.&#160; A&#160;50-bed&#160;field hospital quarantine facility&#160;for Americans&#160;that is&#160;being&#160;constructed in Kenya&#160;will be operational on Friday, according to senior administration officials.&#160; If someone tests positive or develops symptoms,&#160;they&#160;will&#160;be sent elsewhere for&#160;advanced care. Officials&#160;weren’t&#160;clear where&#160;such patients would be sent but said&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5900320-field-hospital-quarantine-kenya/",
+          "pubDate": "Thu, 28 May 2026 21:54:19 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "IDVO’s International Dividend Strategy Carries an Unhedged Currency Risk That Can Wipe Out a Year of Yield",
-          "summary": "IDVO’s International Dividend Strategy Carries an Unhedged Currency Risk That Can Wipe Out a Year of Yield",
-          "link": "https://finance.yahoo.com/markets/options/articles/idvo-international-dividend-strategy-carries-150009463.html",
-          "pubDate": "2026-05-26T15:00:09Z"
+          "title": "Short Sellers Are Betting Record Amounts Against Stocks. But the Market is Rallying On a Potential Deal Between Trump and Iran.",
+          "summary": "Short Sellers Are Betting Record Amounts Against Stocks. But the Market is Rallying On a Potential Deal Between Trump and Iran.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/short-sellers-betting-record-amounts-151459982.html",
+          "pubDate": "2026-05-27T15:14:59Z"
         },
         {
-          "title": "Ecopetrol Launches $492 Million Tender Offer for Brava Energia Stake",
-          "summary": "Ecopetrol Launches $492 Million Tender Offer for Brava Energia Stake",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/ecopetrol-launches-492-million-tender-150000795.html",
-          "pubDate": "2026-05-26T15:00:00Z"
+          "title": "Stocks Mixed Awaiting Fresh Iran News",
+          "summary": "Stocks Mixed Awaiting Fresh Iran News",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-awaiting-fresh-iran-151733316.html",
+          "pubDate": "2026-05-27T15:17:33Z"
         },
         {
-          "title": "Do Wall Street Analysts Like Corpay Stock?",
-          "summary": "Do Wall Street Analysts Like Corpay Stock?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-corpay-stock-145038479.html",
-          "pubDate": "2026-05-26T14:50:38Z"
+          "title": "Micron replaces mighty Walmart in the $1 trillion club",
+          "summary": "Micron replaces mighty Walmart in the $1 trillion club",
+          "link": "https://finance.yahoo.com/markets/article/micron-replaces-mighty-walmart-in-the-1-trillion-club-150035520.html",
+          "pubDate": "2026-05-27T15:00:35Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists break 30-year superconductivity record at normal pressure",
-          "summary": "Scientists at the University of Houston have shattered a long-standing superconductivity record, creating a material that can conduct electricity with zero resistance at the highest temperature ever achieved under normal pressure conditions. Their breakthrough pushes superconductivity to 151 Kelvin (minus 122°C), beating a record that stood for more than 30 years.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260527023220.htm",
-          "pubDate": "Wed, 27 May 2026 09:44:25 EDT"
+          "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
+          "summary": "Scientists have solved the mystery of the Seychelles’ vanished crocodiles using DNA from historic museum specimens. The reptiles were not a unique species after all, but an isolated population of saltwater crocodiles that likely drifted thousands of kilometers across the Indian Ocean.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260528082503.htm",
+          "pubDate": "Thu, 28 May 2026 10:16:47 EDT"
         },
         {
-          "title": "NASA’s Webb telescope discovers a planet where rock clouds vanish every night",
-          "summary": "A giant planet nearly 700 light-years away has a bizarre daily weather cycle where mineral clouds appear every morning and vanish by nightfall. Using the James Webb Space Telescope, astronomers discovered that WASP-94A b’s mornings are filled with clouds made of rock-like minerals, while its evenings are surprisingly clear. The finding gave scientists their clearest look yet into the planet’s atmosphere and revealed it’s far more Jupiter-like than previously believed.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260527023212.htm",
-          "pubDate": "Wed, 27 May 2026 06:24:22 EDT"
+          "title": "Arctic Ocean passed a tipping point and scientists say it may never recover",
+          "summary": "The Arctic Ocean may have crossed a dangerous tipping point. Scientists say the rapid disappearance of sea ice is triggering a hidden chemical shift that is stripping the ocean of nitrate — a nutrient essential for the tiny plankton that support Arctic life. As nitrate levels plunge, the entire food web could feel the impact, from fish and seabirds to whales and polar ecosystems.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260528082457.htm",
+          "pubDate": "Thu, 28 May 2026 08:58:49 EDT"
         },
         {
-          "title": "NASA’s Fermi telescope reveals the power source behind monster supernovae",
-          "summary": "NASA’s Fermi telescope has detected what may be the first confirmed gamma-ray signal from a superluminous supernova — one of the most extreme explosions in the universe. Scientists believe the blast was powered by a rapidly spinning magnetar, an exotic neutron star with unbelievably strong magnetic fields. The event, called SN 2017egm, erupted 440 million light-years away and may help explain why some supernovae become extraordinarily bright.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260527023210.htm",
-          "pubDate": "Wed, 27 May 2026 05:48:18 EDT"
+          "title": "Scottish wrens may be evolving into new species through island gigantism",
+          "summary": "Tiny birds on remote Scottish islands are undergoing a dramatic evolutionary transformation. Scientists studying four isolated populations of British Wrens discovered that some island birds have grown astonishingly large — with the biggest St Kilda Wrens weighing more than twice as much as the smallest mainland birds. The research suggests these wrens are evolving independently, developing unique songs, appearances, and genetics that may eventually turn them into entirely new species.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260528082453.htm",
+          "pubDate": "Thu, 28 May 2026 08:49:31 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Huge volcanic eruption offers clues to fighting climate change",
-          "summary": "The South Pacific blast may have consumed its own methane — but using this idea against the greenhouse gas is controversial.",
-          "link": "https://www.sciencenews.org/article/volcanic-eruption-clues-climate-change",
-          "pubDate": "Wed, 27 May 2026 17:00:00 +0000"
+          "title": "Homing pigeons may use a surprising navigation mechanism",
+          "summary": "How animals navigate by Earth's magnetic field is hotly debated. New research in pigeons points to iron-laden liver immune cells as the compass.",
+          "link": "https://www.sciencenews.org/article/pigeon-navigation-iron-liver-cells",
+          "pubDate": "Thu, 28 May 2026 18:00:00 +0000"
         },
         {
-          "title": "Grapefruit-sized hail may become more common in a warmer world",
-          "summary": "A global model suggests that climate change could make hailstones larger and more damaging in many regions, especially at mid-to-high latitudes.",
-          "link": "https://www.sciencenews.org/article/large-hail-climate-change-more-common",
-          "pubDate": "Wed, 27 May 2026 15:00:00 +0000"
+          "title": "Can DEET attract mosquitoes? A lab study offers clues",
+          "summary": "Lab experiments suggest mosquitoes can smell DEET and learn to associate it with food, but it’s unclear whether that happens in the wild.",
+          "link": "https://www.sciencenews.org/article/deet-repellent-attract-mosquitoe-spray",
+          "pubDate": "Thu, 28 May 2026 15:00:00 +0000"
         },
         {
-          "title": "AI bots ignore evidence. Can we trust them with science?",
-          "summary": "Scientists rethink their ideas after experiments. AI agents struggle to learn from evidence and recognize when an idea is obviously incorrect.",
-          "link": "https://www.sciencenews.org/article/ai-ignore-evidence-trust-science",
-          "pubDate": "Wed, 27 May 2026 13:00:00 +0000"
+          "title": "A $4 tongue swab test detects tuberculosis within 30 minutes",
+          "summary": "The new test may catch active tuberculosis in those with low access to health care or who have trouble making the phlegm needed for traditional tests.",
+          "link": "https://www.sciencenews.org/article/test-tuberculosis-quick-inexpensive-tb",
+          "pubDate": "Thu, 28 May 2026 13:00:00 +0000"
         }
       ]
     }
