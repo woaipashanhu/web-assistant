@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-28T23:00:30.733Z",
-  "date": "2026-05-29",
+  "lastUpdate": "2026-05-29T23:00:01.057Z",
+  "date": "2026-05-30",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The $6 Billion Chinese Startup Trying to Build Hands for Every Robot",
-          "summary": "LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories—and eventually replace human labor altogether.",
-          "link": "https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/",
-          "pubDate": "Thu, 28 May 2026 19:14:31 +0000"
+          "title": "24 Best Father’s Day Gifts for Dads (2026)",
+          "summary": "Dads are traditionally tough to shop for—let me help with these handpicked gift ideas for fathers with great taste.",
+          "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
+          "pubDate": "Fri, 29 May 2026 22:44:00 +0000"
         },
         {
-          "title": "Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook",
-          "summary": "Meta’s upcoming Instagram Plus and Facebook Plus subscriptions are the latest example of the company seeing what works elsewhere and mimicking it.",
-          "link": "https://www.wired.com/story/meta-copies-snapchats-homework-again/",
-          "pubDate": "Thu, 28 May 2026 19:09:17 +0000"
+          "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
+          "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent.",
+          "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+          "pubDate": "Fri, 29 May 2026 20:56:59 +0000"
         },
         {
-          "title": "The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are",
-          "summary": "The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none—and now says adversaries are using the data to target soldiers during a war.",
-          "link": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
-          "pubDate": "Thu, 28 May 2026 16:59:33 +0000"
+          "title": "The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
+          "summary": "The website, which compares human beings to extraterrestrials, touts arrest numbers from the Trump administration’s sweeping immigration crackdown. But some of its details are really out there.",
+          "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
+          "pubDate": "Fri, 29 May 2026 20:53:09 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "The internet is being rebuilt for machines",
-          "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-          "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-          "pubDate": "Thu, 28 May 2026 21:24:01 +0000"
+          "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+          "summary": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+          "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+          "pubDate": "Fri, 29 May 2026 22:21:38 +0000"
         },
         {
-          "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
-          "summary": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
-          "link": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
-          "pubDate": "Thu, 28 May 2026 20:29:00 +0000"
+          "title": "Coders are refusing to work without AI — and that could come back to bite them",
+          "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+          "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+          "pubDate": "Fri, 29 May 2026 22:14:22 +0000"
         },
         {
-          "title": "Asana acquires no-code agent-builder StackAI",
-          "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
-          "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-          "pubDate": "Thu, 28 May 2026 20:06:07 +0000"
+          "title": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "pubDate": "Fri, 29 May 2026 18:49:19 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
-          "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
-          "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 28 May 2026 22:13:30 GMT"
+          "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+          "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+          "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 29 May 2026 21:40:45 GMT"
         },
         {
-          "title": "Are US and Iran close to peace or sliding back to war?",
-          "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
-          "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 28 May 2026 16:56:19 GMT"
+          "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+          "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
+          "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 29 May 2026 17:27:09 GMT"
         },
         {
-          "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-          "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
-          "link": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 28 May 2026 16:20:50 GMT"
+          "title": "Trump holds meeting to make 'final determination' on Iran deal",
+          "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+          "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 29 May 2026 19:32:24 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
+          "summary": "Bowman said reacting to the inflation surge, driven primarily by energy prices and tariffs, has proven ineffective.",
+          "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
+          "pubDate": "Fri, 29 May 2026 16:39:46 GMT"
+        },
         {
           "title": "CFTC sues Rhode Island over actions against prediction markets",
           "summary": "It marks the seventh state the commission has sued in a dispute over who has the right to regulate event contract platforms.",
@@ -145,17 +151,11 @@
           "summary": "Bill Miller, American Gaming Association president and CEO, added that prediction market platforms in his view amount to \"backdoor sports betting.\"",
           "link": "https://www.cnbc.com/2026/05/28/states-have-lost-1-billion-due-to-prediction-markets-gaming-association.html",
           "pubDate": "Thu, 28 May 2026 16:51:57 GMT"
-        },
-        {
-          "title": "Nio shares jump 10% after releasing first flagship EV in more than two years",
-          "summary": "Chinese electric car company Nio has launched two lower-priced brands in the last two years to broaden its customer base in a sluggish Chinese consumer market.",
-          "link": "https://www.cnbc.com/2026/05/28/nio-surges-9percent-after-releasing-first-flagship-ev-in-more-than-two-years.html",
-          "pubDate": "Thu, 28 May 2026 09:42:06 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Police respond to ‘swatting’ call at Justice Amy Coney Barrett&#8217;s home",
-          "summary": "Supreme Court Justice Amy Coney Barrett was the victim of a&#160;“swatting”&#160;call Wednesday night at her&#160;Virginia&#160;home,&#160;according to&#160;local police.&#160; Police radio traffic shows law enforcement received a call for “suspicious noise of gunshots” at Barrett’s suburban Virginia address. The dispatcher warned responding officers shortly afterward that a “high priority resident of the county” lived there and the report may not be authentic. When reached for comment,&#160;Fairfax County&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5900372-justice-barrett-swatting-incident/",
-          "pubDate": "Thu, 28 May 2026 22:31:40 +0000"
+          "title": "Bessent: &#8216;President Trump should be on&#8217; $250 bill",
+          "summary": "Treasury Secretary Scott Bessent on Friday endorsed a $250 bill to commemorate the U.S. semiquincentennial featuring President Trump. Larry Kudlow, a conservative contributor for Fox Business, asked the Trump administration official about his opinion of the proposed currency during a sit-down interview at the Ronald Reagan Presidential Library in California. “We are going to have the&#8230;",
+          "link": "https://thehill.com/homenews/administration/5901929-bessent-president-trump-should-be-on-250-bill/",
+          "pubDate": "Fri, 29 May 2026 22:01:56 +0000"
         },
         {
-          "title": "Los Angeles mayoral race draws attention with viral moments, surprise rise of Bass challenger Pratt",
-          "summary": "ATLANTA — The Los Angeles mayoral race has increasingly drawn national attention, transforming from a local contest into one of the more unconventional municipal races in recent memory. Mayor Karen Bass (D) faces a challenge on Tuesday&#160;from 15 candidates, including former reality TV star&#160;Spencer Pratt, whose candidacy has surged from novelty to serious contender.&#160;The nonpartisan primary sends&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5900350-los-angeles-mayoral-race-pratt-bass/",
-          "pubDate": "Thu, 28 May 2026 22:22:36 +0000"
+          "title": "Pentagon&#8217;s $9B Dell deal sparks Trump conflict of interest concerns",
+          "summary": "The Pentagon’s new $9.7 billion contract with Dell is raising questions about potential conflicts of interest after President Trump touted the company’s products and purchased significant amounts of its stock. The Department of Defense (DOD) on Wednesday announced a five-year agreement with Dell for Microsoft software and cloud services as part of an effort consolidate&#8230;",
+          "link": "https://thehill.com/policy/technology/5901889-pentagon-dell-deal-trump-conflict-of-interest/",
+          "pubDate": "Fri, 29 May 2026 21:41:29 +0000"
         },
         {
-          "title": "US Ebola quarantine facility in Kenya to open Friday",
-          "summary": "Trump administration officials confirmed Thursday&#160;that&#160;they will not allow any American who was exposed to Ebola back into the country.&#160; A&#160;50-bed&#160;field hospital quarantine facility&#160;for Americans&#160;that is&#160;being&#160;constructed in Kenya&#160;will be operational on Friday, according to senior administration officials.&#160; If someone tests positive or develops symptoms,&#160;they&#160;will&#160;be sent elsewhere for&#160;advanced care. Officials&#160;weren’t&#160;clear where&#160;such patients would be sent but said&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5900320-field-hospital-quarantine-kenya/",
-          "pubDate": "Thu, 28 May 2026 21:54:19 +0000"
+          "title": "Bulgaria to end US military aircraft stay after visa program dispute",
+          "summary": "Bulgarian Prime Minister Rumen Radev said ​Friday that his country will cut the stay of the U.S. military aircraft in Sofia at the end of June after the Trump administration did not greenlight a visa-free pass for Bulgarian visitors to the U.S. “I called for the suspension of visas for Bulgarian citizens during my conversation&#8230;",
+          "link": "https://thehill.com/policy/defense/5901808-radev-ends-us-military-aircraft/",
+          "pubDate": "Fri, 29 May 2026 20:09:15 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Short Sellers Are Betting Record Amounts Against Stocks. But the Market is Rallying On a Potential Deal Between Trump and Iran.",
-          "summary": "Short Sellers Are Betting Record Amounts Against Stocks. But the Market is Rallying On a Potential Deal Between Trump and Iran.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/short-sellers-betting-record-amounts-151459982.html",
-          "pubDate": "2026-05-27T15:14:59Z"
+          "title": "47-year-old high-end steak and seafood chain closes 80 locations",
+          "summary": "47-year-old high-end steak and seafood chain closes 80 locations",
+          "link": "https://finance.yahoo.com/economy/articles/47-old-high-end-steak-170700893.html",
+          "pubDate": "2026-05-28T17:07:00Z"
         },
         {
-          "title": "Stocks Mixed Awaiting Fresh Iran News",
-          "summary": "Stocks Mixed Awaiting Fresh Iran News",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-awaiting-fresh-iran-151733316.html",
-          "pubDate": "2026-05-27T15:17:33Z"
+          "title": "Top Bank Says Ethereum’s Slump May Be Masking Major Upside",
+          "summary": "Top Bank Says Ethereum’s Slump May Be Masking Major Upside",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/top-bank-says-ethereum-slump-154300205.html",
+          "pubDate": "2026-05-28T15:43:00Z"
         },
         {
-          "title": "Micron replaces mighty Walmart in the $1 trillion club",
-          "summary": "Micron replaces mighty Walmart in the $1 trillion club",
-          "link": "https://finance.yahoo.com/markets/article/micron-replaces-mighty-walmart-in-the-1-trillion-club-150035520.html",
-          "pubDate": "2026-05-27T15:00:35Z"
+          "title": "Stocks Rebound Amid News of a US-Iran Deal",
+          "summary": "Stocks Rebound Amid News of a US-Iran Deal",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-amid-news-us-152803209.html",
+          "pubDate": "2026-05-28T15:28:03Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
-          "summary": "Scientists have solved the mystery of the Seychelles’ vanished crocodiles using DNA from historic museum specimens. The reptiles were not a unique species after all, but an isolated population of saltwater crocodiles that likely drifted thousands of kilometers across the Indian Ocean.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260528082503.htm",
-          "pubDate": "Thu, 28 May 2026 10:16:47 EDT"
+          "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
+          "summary": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speeding up or slowing down, but by powerful winds high in its atmosphere. Webb’s unprecedented observations revealed that Saturn’s northern lights actively heat the atmosphere, creating winds that generate electrical currents, which then power the aurora all over again in a self-sustaining cycle.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
+          "pubDate": "Fri, 29 May 2026 09:58:44 EDT"
         },
         {
-          "title": "Arctic Ocean passed a tipping point and scientists say it may never recover",
-          "summary": "The Arctic Ocean may have crossed a dangerous tipping point. Scientists say the rapid disappearance of sea ice is triggering a hidden chemical shift that is stripping the ocean of nitrate — a nutrient essential for the tiny plankton that support Arctic life. As nitrate levels plunge, the entire food web could feel the impact, from fish and seabirds to whales and polar ecosystems.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260528082457.htm",
-          "pubDate": "Thu, 28 May 2026 08:58:49 EDT"
+          "title": "Hidden driving danger when edible cannabis and alcohol mix",
+          "summary": "Using cannabis edibles and alcohol together may make drivers far more impaired than either substance alone, according to new research from Johns Hopkins. Even more concerning, common field sobriety tests often failed to detect the cannabis-related impairment.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260529043656.htm",
+          "pubDate": "Fri, 29 May 2026 09:42:07 EDT"
         },
         {
-          "title": "Scottish wrens may be evolving into new species through island gigantism",
-          "summary": "Tiny birds on remote Scottish islands are undergoing a dramatic evolutionary transformation. Scientists studying four isolated populations of British Wrens discovered that some island birds have grown astonishingly large — with the biggest St Kilda Wrens weighing more than twice as much as the smallest mainland birds. The research suggests these wrens are evolving independently, developing unique songs, appearances, and genetics that may eventually turn them into entirely new species.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260528082453.htm",
-          "pubDate": "Thu, 28 May 2026 08:49:31 EDT"
+          "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
+          "summary": "Scientists have discovered Labrujasuchus expectatus, a bizarre crocodile relative that looked more like an ostrich-like dinosaur than anything resembling a modern crocodile. It walked on two legs, had tiny arms, and sported a toothless beak—an unexpected combination for a member of the crocodile lineage.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
+          "pubDate": "Fri, 29 May 2026 08:39:56 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Here’s how to make an origami torus with the fewest folds possible",
+          "summary": "A mathematician found the most efficient way to fold paper into a doughnutlike shape.",
+          "link": "https://www.sciencenews.org/article/origami-torus-fewest-folds-math",
+          "pubDate": "Fri, 29 May 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Europa may not vent water into space after all",
+          "summary": "The debate could reopen in 2030 when NASA’s Europa Clipper spacecraft gets the closest view of the icy moon’s surface.",
+          "link": "https://www.sciencenews.org/article/europa-moon-no-water-plumes-space",
+          "pubDate": "Fri, 29 May 2026 13:00:00 +0000"
+        },
         {
           "title": "Homing pigeons may use a surprising navigation mechanism",
           "summary": "How animals navigate by Earth's magnetic field is hotly debated. New research in pigeons points to iron-laden liver immune cells as the compass.",
           "link": "https://www.sciencenews.org/article/pigeon-navigation-iron-liver-cells",
           "pubDate": "Thu, 28 May 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Can DEET attract mosquitoes? A lab study offers clues",
-          "summary": "Lab experiments suggest mosquitoes can smell DEET and learn to associate it with food, but it’s unclear whether that happens in the wild.",
-          "link": "https://www.sciencenews.org/article/deet-repellent-attract-mosquitoe-spray",
-          "pubDate": "Thu, 28 May 2026 15:00:00 +0000"
-        },
-        {
-          "title": "A $4 tongue swab test detects tuberculosis within 30 minutes",
-          "summary": "The new test may catch active tuberculosis in those with low access to health care or who have trouble making the phlegm needed for traditional tests.",
-          "link": "https://www.sciencenews.org/article/test-tuberculosis-quick-inexpensive-tb",
-          "pubDate": "Thu, 28 May 2026 13:00:00 +0000"
         }
       ]
     }
