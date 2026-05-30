@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-29T23:00:01.057Z",
-  "date": "2026-05-30",
+  "lastUpdate": "2026-05-30T23:00:45.143Z",
+  "date": "2026-05-31",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "24 Best Father’s Day Gifts for Dads (2026)",
-          "summary": "Dads are traditionally tough to shop for—let me help with these handpicked gift ideas for fathers with great taste.",
-          "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
-          "pubDate": "Fri, 29 May 2026 22:44:00 +0000"
+          "title": "Keychron K2 HE Concrete Edition Review: Rock-Solid Typing",
+          "summary": "Keychron's K2 HE Concrete Edition sounds like a cute gimmick, but as I discovered, there's a really solid keyboard beyond the absurd choice of materials.",
+          "link": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
+          "pubDate": "Sat, 30 May 2026 11:00:00 +0000"
         },
         {
-          "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
-          "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent.",
-          "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
-          "pubDate": "Fri, 29 May 2026 20:56:59 +0000"
+          "title": "‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth",
+          "summary": "Kane Parsons was just 16 years old when he created a viral YouTube horror series based on a 4chan meme. Now he’s ready to conquer the big screen.",
+          "link": "https://www.wired.com/story/backrooms-movie-kane-parsons-interview/",
+          "pubDate": "Sat, 30 May 2026 11:00:00 +0000"
         },
         {
-          "title": "The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
-          "summary": "The website, which compares human beings to extraterrestrials, touts arrest numbers from the Trump administration’s sweeping immigration crackdown. But some of its details are really out there.",
-          "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
-          "pubDate": "Fri, 29 May 2026 20:53:09 +0000"
+          "title": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
+          "summary": "With inflation and gas prices rising, I’m trying to save money wherever I can. I tested Tello’s budget cell phone plan, and for me, it turns out prepaid can be just as good.",
+          "link": "https://www.wired.com/review/tello-mobile-custom-plans/",
+          "pubDate": "Sat, 30 May 2026 10:39:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
-          "summary": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
-          "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
-          "pubDate": "Fri, 29 May 2026 22:21:38 +0000"
+          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+          "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+          "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "pubDate": "Sat, 30 May 2026 21:45:00 +0000"
         },
         {
-          "title": "Coders are refusing to work without AI — and that could come back to bite them",
-          "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-          "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-          "pubDate": "Fri, 29 May 2026 22:14:22 +0000"
+          "title": "This weekend’s two biggest movies were both directed by YouTubers",
+          "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+          "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+          "pubDate": "Sat, 30 May 2026 21:12:37 +0000"
         },
         {
-          "title": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
-          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-          "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "pubDate": "Fri, 29 May 2026 18:49:19 +0000"
+          "title": "Snap alums unveil Ghost Angels fund",
+          "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+          "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+          "pubDate": "Sat, 30 May 2026 17:00:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-          "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
-          "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 29 May 2026 21:40:45 GMT"
+          "title": "US, UK and Australia to develop underwater drone technology",
+          "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+          "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 30 May 2026 12:16:26 GMT"
         },
         {
-          "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-          "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
-          "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 29 May 2026 17:27:09 GMT"
-        },
-        {
-          "title": "Trump holds meeting to make 'final determination' on Iran deal",
+          "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
           "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
           "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 29 May 2026 19:32:24 GMT"
+          "pubDate": "Sat, 30 May 2026 11:39:32 GMT"
+        },
+        {
+          "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+          "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+          "link": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 30 May 2026 15:39:12 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
+          "summary": "With Elon Musk's SpaceX IPO ahead, retail investors are rushing into space-themed ETFs including NASA which offers direct access to the rocket company.",
+          "link": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
+          "pubDate": "Sat, 30 May 2026 15:33:42 GMT"
+        },
         {
           "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
           "summary": "Bowman said reacting to the inflation surge, driven primarily by energy prices and tariffs, has proven ineffective.",
@@ -145,17 +151,11 @@
           "summary": "It marks the seventh state the commission has sued in a dispute over who has the right to regulate event contract platforms.",
           "link": "https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html",
           "pubDate": "Thu, 28 May 2026 19:57:39 GMT"
-        },
-        {
-          "title": "Gaming association says states have lost $1 billion in tax revenue due to prediction markets",
-          "summary": "Bill Miller, American Gaming Association president and CEO, added that prediction market platforms in his view amount to \"backdoor sports betting.\"",
-          "link": "https://www.cnbc.com/2026/05/28/states-have-lost-1-billion-due-to-prediction-markets-gaming-association.html",
-          "pubDate": "Thu, 28 May 2026 16:51:57 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Bessent: &#8216;President Trump should be on&#8217; $250 bill",
-          "summary": "Treasury Secretary Scott Bessent on Friday endorsed a $250 bill to commemorate the U.S. semiquincentennial featuring President Trump. Larry Kudlow, a conservative contributor for Fox Business, asked the Trump administration official about his opinion of the proposed currency during a sit-down interview at the Ronald Reagan Presidential Library in California. “We are going to have the&#8230;",
-          "link": "https://thehill.com/homenews/administration/5901929-bessent-president-trump-should-be-on-250-bill/",
-          "pubDate": "Fri, 29 May 2026 22:01:56 +0000"
+          "title": "Lead prosecutor steps away from Comey criminal case",
+          "summary": "The federal prosecutor who secured an indictment against former FBI Director James Comey for allegedly threatening the life of President Trump in a since-deleted social media post of seashells has stepped down, according to a recent court filing. A “notice of substitution” filed in the Eastern District of North Carolina on Friday stated that Matthew&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5902719-prosecutor-steps-down-comey-case/",
+          "pubDate": "Sat, 30 May 2026 22:21:38 +0000"
         },
         {
-          "title": "Pentagon&#8217;s $9B Dell deal sparks Trump conflict of interest concerns",
-          "summary": "The Pentagon’s new $9.7 billion contract with Dell is raising questions about potential conflicts of interest after President Trump touted the company’s products and purchased significant amounts of its stock. The Department of Defense (DOD) on Wednesday announced a five-year agreement with Dell for Microsoft software and cloud services as part of an effort consolidate&#8230;",
-          "link": "https://thehill.com/policy/technology/5901889-pentagon-dell-deal-trump-conflict-of-interest/",
-          "pubDate": "Fri, 29 May 2026 21:41:29 +0000"
+          "title": "Sherrill, Mullin find common ground on securing protests outside ICE facility in NJ",
+          "summary": "New Jersey Gov. Mikie Sherrill (D) and Department of Homeland Security (DHS) Secretary Markwayne Mullin found common ground on Saturday after the governor deployed state police to maintain order outside a Newark immigration detention center that has been the site of escalating protests. Sherrill said the New Jersey police officers have responded to protests taking&#8230;",
+          "link": "https://thehill.com/homenews/5902714-sherill-mullin-immigration-protests/",
+          "pubDate": "Sat, 30 May 2026 22:08:06 +0000"
         },
         {
-          "title": "Bulgaria to end US military aircraft stay after visa program dispute",
-          "summary": "Bulgarian Prime Minister Rumen Radev said ​Friday that his country will cut the stay of the U.S. military aircraft in Sofia at the end of June after the Trump administration did not greenlight a visa-free pass for Bulgarian visitors to the U.S. “I called for the suspension of visas for Bulgarian citizens during my conversation&#8230;",
-          "link": "https://thehill.com/policy/defense/5901808-radev-ends-us-military-aircraft/",
-          "pubDate": "Fri, 29 May 2026 20:09:15 +0000"
+          "title": "Sunday shows preview: Will Trump greenlight a new Iran deal?",
+          "summary": "All eyes are on an emerging deal between the U.S. and Iran that would extend the current ceasefire and reopen the Strait of Hormuz, but it remains unclear when — or if — President Trump and Tehran will ultimately sign off. The two sides reached a tentative agreement this week that, if approved, would mark&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5902687-sunday-shows-preview-trump-iran-deal/",
+          "pubDate": "Sat, 30 May 2026 21:39:55 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "47-year-old high-end steak and seafood chain closes 80 locations",
-          "summary": "47-year-old high-end steak and seafood chain closes 80 locations",
-          "link": "https://finance.yahoo.com/economy/articles/47-old-high-end-steak-170700893.html",
-          "pubDate": "2026-05-28T17:07:00Z"
+          "title": "Skip XRP and Buy This Top Cryptocurrency Instead",
+          "summary": "Skip XRP and Buy This Top Cryptocurrency Instead",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/skip-xrp-buy-top-cryptocurrency-223900574.html",
+          "pubDate": "2026-05-30T22:39:00Z"
         },
         {
-          "title": "Top Bank Says Ethereum’s Slump May Be Masking Major Upside",
-          "summary": "Top Bank Says Ethereum’s Slump May Be Masking Major Upside",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/top-bank-says-ethereum-slump-154300205.html",
-          "pubDate": "2026-05-28T15:43:00Z"
+          "title": "Galaxy Digital (GLXY): Leopold Aschenbrenner Is Bearish on This Stock",
+          "summary": "Galaxy Digital (GLXY): Leopold Aschenbrenner Is Bearish on This Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/galaxy-digital-glxy-leopold-aschenbrenner-195727813.html",
+          "pubDate": "2026-05-30T19:57:27Z"
         },
         {
-          "title": "Stocks Rebound Amid News of a US-Iran Deal",
-          "summary": "Stocks Rebound Amid News of a US-Iran Deal",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-amid-news-us-152803209.html",
-          "pubDate": "2026-05-28T15:28:03Z"
+          "title": "Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position",
+          "summary": "Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-inc-lbrt-leopold-195548949.html",
+          "pubDate": "2026-05-30T19:55:48Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "New 3D silicon chip breakthrough could extend Moore’s Law for years",
+          "summary": "As traditional chip miniaturization slows, researchers have found a way to pack more computing power into the same space by stacking silicon circuits in multiple layers. The new process uses ultra-thin silicon membranes and low-temperature manufacturing techniques to overcome a major obstacle that has long blocked the production of true 3D chips.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm",
+          "pubDate": "Sat, 30 May 2026 06:26:24 EDT"
+        },
+        {
+          "title": "Repairing DNA damage: Scientists discover a surprising new benefit of melatonin",
+          "summary": "A new study suggests melatonin supplements may help night shift workers boost their body&#039;s DNA repair processes, potentially offsetting some of the damage linked to working overnight. The findings are early but raise the possibility of a simple strategy to help reduce long-term health risks associated with night shift work.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260530004618.htm",
+          "pubDate": "Sat, 30 May 2026 05:11:34 EDT"
+        },
         {
           "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
           "summary": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speeding up or slowing down, but by powerful winds high in its atmosphere. Webb’s unprecedented observations revealed that Saturn’s northern lights actively heat the atmosphere, creating winds that generate electrical currents, which then power the aurora all over again in a self-sustaining cycle.",
           "link": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
-          "pubDate": "Fri, 29 May 2026 09:58:44 EDT"
-        },
-        {
-          "title": "Hidden driving danger when edible cannabis and alcohol mix",
-          "summary": "Using cannabis edibles and alcohol together may make drivers far more impaired than either substance alone, according to new research from Johns Hopkins. Even more concerning, common field sobriety tests often failed to detect the cannabis-related impairment.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260529043656.htm",
-          "pubDate": "Fri, 29 May 2026 09:42:07 EDT"
-        },
-        {
-          "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
-          "summary": "Scientists have discovered Labrujasuchus expectatus, a bizarre crocodile relative that looked more like an ostrich-like dinosaur than anything resembling a modern crocodile. It walked on two legs, had tiny arms, and sported a toothless beak—an unexpected combination for a member of the crocodile lineage.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
-          "pubDate": "Fri, 29 May 2026 08:39:56 EDT"
+          "pubDate": "Fri, 29 May 2026 04:36:58 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "siteName": "Science News",
       "items": [
         {
