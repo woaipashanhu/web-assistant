@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-30T23:00:45.143Z",
-  "date": "2026-05-31",
+  "lastUpdate": "2026-05-31T23:00:33.957Z",
+  "date": "2026-06-01",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Keychron K2 HE Concrete Edition Review: Rock-Solid Typing",
-          "summary": "Keychron's K2 HE Concrete Edition sounds like a cute gimmick, but as I discovered, there's a really solid keyboard beyond the absurd choice of materials.",
-          "link": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
-          "pubDate": "Sat, 30 May 2026 11:00:00 +0000"
+          "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
+          "summary": "The M-Track Duo HD Producer Pack removes the last remaining excuse for terrible audio and potentially terrible opinions.",
+          "link": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
+          "pubDate": "Sun, 31 May 2026 11:01:00 +0000"
         },
         {
-          "title": "‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth",
-          "summary": "Kane Parsons was just 16 years old when he created a viral YouTube horror series based on a 4chan meme. Now he’s ready to conquer the big screen.",
-          "link": "https://www.wired.com/story/backrooms-movie-kane-parsons-interview/",
-          "pubDate": "Sat, 30 May 2026 11:00:00 +0000"
+          "title": "Wi-Fi Router vs. Mesh System: Which Is Best for You?",
+          "summary": "Find out whether a single Wi-Fi router or a mesh system makes the most sense for your home network.",
+          "link": "https://www.wired.com/story/mesh-system-vs-wi-fi-router/",
+          "pubDate": "Sun, 31 May 2026 10:34:00 +0000"
         },
         {
-          "title": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
-          "summary": "With inflation and gas prices rising, I’m trying to save money wherever I can. I tested Tello’s budget cell phone plan, and for me, it turns out prepaid can be just as good.",
-          "link": "https://www.wired.com/review/tello-mobile-custom-plans/",
-          "pubDate": "Sat, 30 May 2026 10:39:00 +0000"
+          "title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
+          "summary": "Forget the pricey, postpaid cell plans and two-year contracts. Save with one of these WIRED-tested options from US Mobile, Boost, and Google Fi.",
+          "link": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
+          "pubDate": "Sun, 31 May 2026 10:01:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-          "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-          "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-          "pubDate": "Sat, 30 May 2026 21:45:00 +0000"
+          "title": "Erin Brockovich takes aim at data center secrecy",
+          "summary": "Environmental activist Erin Brockovich has a new mission.",
+          "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "pubDate": "Sun, 31 May 2026 21:05:14 +0000"
         },
         {
           "title": "This weekend’s two biggest movies were both directed by YouTubers",
           "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
-          "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-          "pubDate": "Sat, 30 May 2026 21:12:37 +0000"
+          "link": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+          "pubDate": "Sun, 31 May 2026 18:34:58 +0000"
         },
         {
-          "title": "Snap alums unveil Ghost Angels fund",
-          "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
-          "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-          "pubDate": "Sat, 30 May 2026 17:00:00 +0000"
+          "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+          "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+          "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+          "pubDate": "Sun, 31 May 2026 18:28:17 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US, UK and Australia to develop underwater drone technology",
-          "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
-          "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 30 May 2026 12:16:26 GMT"
+          "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+          "summary": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
+          "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 31 May 2026 22:39:12 GMT"
         },
         {
-          "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-          "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-          "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 30 May 2026 11:39:32 GMT"
+          "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+          "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+          "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 31 May 2026 18:13:39 GMT"
         },
         {
-          "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
-          "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
-          "link": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 30 May 2026 15:39:12 GMT"
+          "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+          "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+          "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 31 May 2026 06:34:04 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Former Barclays CEO Jes Staley agrees to July 23 interview about Jeffrey Epstein by Oversight panel",
+          "summary": "Microsoft co-founder Bill Gates is scheduled to be interviewed about his relationship to the sex offender Jeffrey Epstein in June.",
+          "link": "https://www.cnbc.com/2026/05/31/jes-staley-jeffrey-epstein-interview-house-jpmorgan-chase-barclays.html",
+          "pubDate": "Sun, 31 May 2026 15:53:27 GMT"
+        },
         {
           "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
           "summary": "With Elon Musk's SpaceX IPO ahead, retail investors are rushing into space-themed ETFs including NASA which offers direct access to the rocket company.",
@@ -145,17 +151,11 @@
           "summary": "Bowman said reacting to the inflation surge, driven primarily by energy prices and tariffs, has proven ineffective.",
           "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
           "pubDate": "Fri, 29 May 2026 16:39:46 GMT"
-        },
-        {
-          "title": "CFTC sues Rhode Island over actions against prediction markets",
-          "summary": "It marks the seventh state the commission has sued in a dispute over who has the right to regulate event contract platforms.",
-          "link": "https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html",
-          "pubDate": "Thu, 28 May 2026 19:57:39 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,81 +179,87 @@
       ]
     },
     "site_5": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Lead prosecutor steps away from Comey criminal case",
-          "summary": "The federal prosecutor who secured an indictment against former FBI Director James Comey for allegedly threatening the life of President Trump in a since-deleted social media post of seashells has stepped down, according to a recent court filing. A “notice of substitution” filed in the Eastern District of North Carolina on Friday stated that Matthew&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5902719-prosecutor-steps-down-comey-case/",
-          "pubDate": "Sat, 30 May 2026 22:21:38 +0000"
+          "title": "Trump responds to NYT article, says it&#8217;s &#8216;very good&#8217; administration is losing legal talent",
+          "summary": "President Trump on Sunday said it is &#8220;very good&#8221; that thousands of lawyers have chosen to no longer work for the administration, referring to The New York Times&#8217;s reporting on the exodus. The Times story reported that more than 10,000 lawyers working for the federal government have left since the end of 2024 until March&#8230;",
+          "link": "https://thehill.com/homenews/administration/5903296-lawyers-leaving-trump-administration/",
+          "pubDate": "Sun, 31 May 2026 22:12:23 +0000"
         },
         {
-          "title": "Sherrill, Mullin find common ground on securing protests outside ICE facility in NJ",
-          "summary": "New Jersey Gov. Mikie Sherrill (D) and Department of Homeland Security (DHS) Secretary Markwayne Mullin found common ground on Saturday after the governor deployed state police to maintain order outside a Newark immigration detention center that has been the site of escalating protests. Sherrill said the New Jersey police officers have responded to protests taking&#8230;",
-          "link": "https://thehill.com/homenews/5902714-sherill-mullin-immigration-protests/",
-          "pubDate": "Sat, 30 May 2026 22:08:06 +0000"
+          "title": "Pence: There’s ‘clearly” been an effort to ‘rewrite’ Jan. 6 history",
+          "summary": "Former Vice President Mike Pence on Sunday said there has “clearly” been an effort to “rewrite” the history of the Jan. 6, 2021, Capitol riot. “Look, I&#8217;m very confident that of the judgment of history in the years ahead about our role, about all the Republicans and Democrats who returned that day after Capitol Police&#8230;",
+          "link": "https://thehill.com/homenews/administration/5903309-mike-pence-capitol-riot-rewrite/",
+          "pubDate": "Sun, 31 May 2026 21:34:26 +0000"
         },
         {
-          "title": "Sunday shows preview: Will Trump greenlight a new Iran deal?",
-          "summary": "All eyes are on an emerging deal between the U.S. and Iran that would extend the current ceasefire and reopen the Strait of Hormuz, but it remains unclear when — or if — President Trump and Tehran will ultimately sign off. The two sides reached a tentative agreement this week that, if approved, would mark&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5902687-sunday-shows-preview-trump-iran-deal/",
-          "pubDate": "Sat, 30 May 2026 21:39:55 +0000"
+          "title": "Rare, endangered bee gets habitat protection across 6 states: Here&#8217;s where",
+          "summary": "The bee was once found in roughly half of the U.S. Now, rare sightings have been limited to about a dozen states.",
+          "link": "https://thehill.com/homenews/state-watch/5903208-rare-bee-habitat-protection/",
+          "pubDate": "Sun, 31 May 2026 21:00:46 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Skip XRP and Buy This Top Cryptocurrency Instead",
-          "summary": "Skip XRP and Buy This Top Cryptocurrency Instead",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/skip-xrp-buy-top-cryptocurrency-223900574.html",
-          "pubDate": "2026-05-30T22:39:00Z"
+          "title": "Warren Buffett's Berkshire dumps entire stake in dividend stock",
+          "summary": "Warren Buffett's Berkshire dumps entire stake in dividend stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-dumps-entire-203300760.html",
+          "pubDate": "2026-05-30T20:33:00Z"
         },
         {
-          "title": "Galaxy Digital (GLXY): Leopold Aschenbrenner Is Bearish on This Stock",
-          "summary": "Galaxy Digital (GLXY): Leopold Aschenbrenner Is Bearish on This Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/galaxy-digital-glxy-leopold-aschenbrenner-195727813.html",
-          "pubDate": "2026-05-30T19:57:27Z"
+          "title": "Dow Jones Futures: Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
+          "summary": "Dow Jones Futures: Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-05-31T22:25:34Z"
         },
         {
-          "title": "Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position",
-          "summary": "Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-inc-lbrt-leopold-195548949.html",
-          "pubDate": "2026-05-30T19:55:48Z"
+          "title": "BOJ may heed calls to pause bond taper next year",
+          "summary": "BOJ may heed calls to pause bond taper next year",
+          "link": "https://finance.yahoo.com/economy/policy/articles/analysis-boj-may-heed-calls-064926660.html",
+          "pubDate": "2026-05-31T22:11:42Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "New 3D silicon chip breakthrough could extend Moore’s Law for years",
-          "summary": "As traditional chip miniaturization slows, researchers have found a way to pack more computing power into the same space by stacking silicon circuits in multiple layers. The new process uses ultra-thin silicon membranes and low-temperature manufacturing techniques to overcome a major obstacle that has long blocked the production of true 3D chips.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm",
-          "pubDate": "Sat, 30 May 2026 06:26:24 EDT"
+          "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
+          "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective with age, while bonobos maintain a more egalitarian social style.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
+          "pubDate": "Sun, 31 May 2026 11:03:38 EDT"
         },
         {
-          "title": "Repairing DNA damage: Scientists discover a surprising new benefit of melatonin",
-          "summary": "A new study suggests melatonin supplements may help night shift workers boost their body&#039;s DNA repair processes, potentially offsetting some of the damage linked to working overnight. The findings are early but raise the possibility of a simple strategy to help reduce long-term health risks associated with night shift work.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260530004618.htm",
-          "pubDate": "Sat, 30 May 2026 05:11:34 EDT"
+          "title": "Scientists found the hidden switch fueling alzheimer’s brain inflammation",
+          "summary": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chemically altered in a way that keeps the brain’s immune system stuck in overdrive, harming the connections between nerve cells.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260530053424.htm",
+          "pubDate": "Sun, 31 May 2026 11:30:38 EDT"
         },
         {
-          "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
-          "summary": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speeding up or slowing down, but by powerful winds high in its atmosphere. Webb’s unprecedented observations revealed that Saturn’s northern lights actively heat the atmosphere, creating winds that generate electrical currents, which then power the aurora all over again in a self-sustaining cycle.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
-          "pubDate": "Fri, 29 May 2026 04:36:58 EDT"
+          "title": "Why cancer spreads more in middle age than in old age",
+          "summary": "Melanoma may not become steadily more dangerous with age as scientists once assumed. In a surprising discovery, researchers found that cancer spread was lowest in young mice, surged in middle-aged mice, and then dropped again in very old mice. The key appears to be a special type of immune cell that helps keep cancer dormant and prevents it from spreading.",
+          "link": "https://www.sciencedaily.com/releases/2026/05/260530053422.htm",
+          "pubDate": "Sun, 31 May 2026 11:25:45 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "A new pancreatic cancer pill may be a game changer for patients",
+          "summary": "Daraxonrasib, which nearly doubled patients' survival time, fights the disease in a new way. It bear-hugs a cancer protein that drives cell growth.",
+          "link": "https://www.sciencenews.org/article/pancreatic-cancer-pill-daraxonrasib",
+          "pubDate": "Sun, 31 May 2026 12:00:00 +0000"
+        },
         {
           "title": "Here’s how to make an origami torus with the fewest folds possible",
           "summary": "A mathematician found the most efficient way to fold paper into a doughnutlike shape.",
@@ -265,12 +271,6 @@
           "summary": "The debate could reopen in 2030 when NASA’s Europa Clipper spacecraft gets the closest view of the icy moon’s surface.",
           "link": "https://www.sciencenews.org/article/europa-moon-no-water-plumes-space",
           "pubDate": "Fri, 29 May 2026 13:00:00 +0000"
-        },
-        {
-          "title": "Homing pigeons may use a surprising navigation mechanism",
-          "summary": "How animals navigate by Earth's magnetic field is hotly debated. New research in pigeons points to iron-laden liver immune cells as the compass.",
-          "link": "https://www.sciencenews.org/article/pigeon-navigation-iron-liver-cells",
-          "pubDate": "Thu, 28 May 2026 18:00:00 +0000"
         }
       ]
     }
