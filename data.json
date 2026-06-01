@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-05-31T23:00:33.957Z",
-  "date": "2026-06-01",
+  "lastUpdate": "2026-06-01T23:00:42.685Z",
+  "date": "2026-06-02",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
-          "summary": "The M-Track Duo HD Producer Pack removes the last remaining excuse for terrible audio and potentially terrible opinions.",
-          "link": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
-          "pubDate": "Sun, 31 May 2026 11:01:00 +0000"
+          "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+          "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+          "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+          "pubDate": "Mon, 01 Jun 2026 17:17:58 +0000"
         },
         {
-          "title": "Wi-Fi Router vs. Mesh System: Which Is Best for You?",
-          "summary": "Find out whether a single Wi-Fi router or a mesh system makes the most sense for your home network.",
-          "link": "https://www.wired.com/story/mesh-system-vs-wi-fi-router/",
-          "pubDate": "Sun, 31 May 2026 10:34:00 +0000"
+          "title": "Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep",
+          "summary": "I tested the top sleep wearables for every type of sleeper, including devices from Oura, Whoop, and Eight Sleep.",
+          "link": "https://www.wired.com/story/best-sleep-trackers/",
+          "pubDate": "Mon, 01 Jun 2026 13:02:00 +0000"
         },
         {
-          "title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
-          "summary": "Forget the pricey, postpaid cell plans and two-year contracts. Save with one of these WIRED-tested options from US Mobile, Boost, and Google Fi.",
-          "link": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
-          "pubDate": "Sun, 31 May 2026 10:01:00 +0000"
+          "title": "Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish",
+          "summary": "With true plug-and-play support, versatile connectivity, and excellent sound, Universal Audio’s Volt 876 makes recording simple.",
+          "link": "https://www.wired.com/review/universal-audio-volt-876-usb-audio-interface/",
+          "pubDate": "Mon, 01 Jun 2026 11:06:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Erin Brockovich takes aim at data center secrecy",
-          "summary": "Environmental activist Erin Brockovich has a new mission.",
-          "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-          "pubDate": "Sun, 31 May 2026 21:05:14 +0000"
+          "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+          "summary": "The Google parent company plans to raise the funds by selling stock.",
+          "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+          "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000"
         },
         {
-          "title": "This weekend’s two biggest movies were both directed by YouTubers",
-          "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
-          "link": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-          "pubDate": "Sun, 31 May 2026 18:34:58 +0000"
+          "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+          "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
+          "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+          "pubDate": "Mon, 01 Jun 2026 21:40:35 +0000"
         },
         {
-          "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
-          "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
-          "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
-          "pubDate": "Sun, 31 May 2026 18:28:17 +0000"
+          "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+          "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+          "pubDate": "Mon, 01 Jun 2026 21:35:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-          "summary": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
-          "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 31 May 2026 22:39:12 GMT"
+          "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+          "summary": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal.",
+          "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 01 Jun 2026 21:27:01 GMT"
         },
         {
-          "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-          "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-          "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 31 May 2026 18:13:39 GMT"
+          "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+          "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+          "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 01 Jun 2026 21:50:52 GMT"
         },
         {
-          "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-          "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
-          "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 31 May 2026 06:34:04 GMT"
+          "title": "Three Ebola vaccines in development amid growing outbreak fears",
+          "summary": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
+          "link": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 01 Jun 2026 14:30:39 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Former Barclays CEO Jes Staley agrees to July 23 interview about Jeffrey Epstein by Oversight panel",
-          "summary": "Microsoft co-founder Bill Gates is scheduled to be interviewed about his relationship to the sex offender Jeffrey Epstein in June.",
-          "link": "https://www.cnbc.com/2026/05/31/jes-staley-jeffrey-epstein-interview-house-jpmorgan-chase-barclays.html",
-          "pubDate": "Sun, 31 May 2026 15:53:27 GMT"
+          "title": "Greg Abel just made his first big deal as Berkshire CEO. Why Warren Buffett is happy",
+          "summary": "Berkshire's purchase of homebuilder Taylor Morrison gives the conglomerate a larger foothold in housing and appears to have been struck at a bargain valuation.",
+          "link": "https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html",
+          "pubDate": "Mon, 01 Jun 2026 17:46:28 GMT"
         },
         {
-          "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
-          "summary": "With Elon Musk's SpaceX IPO ahead, retail investors are rushing into space-themed ETFs including NASA which offers direct access to the rocket company.",
-          "link": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
-          "pubDate": "Sat, 30 May 2026 15:33:42 GMT"
+          "title": "Individual traders drove Kalshi’s rise. Now, it’s going for Wall Street",
+          "summary": "In a series of moves in 2026, the prediction market platform in the U.S. is working to make its event contracts more attractive to institutional trading.",
+          "link": "https://www.cnbc.com/2026/06/01/individual-traders-drove-kalshis-rise-now-its-going-for-wall-street.html",
+          "pubDate": "Mon, 01 Jun 2026 15:22:09 GMT"
         },
         {
-          "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
-          "summary": "Bowman said reacting to the inflation surge, driven primarily by energy prices and tariffs, has proven ineffective.",
-          "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
-          "pubDate": "Fri, 29 May 2026 16:39:46 GMT"
+          "title": "Rubio odds for GOP 2028 nominee close to overtaking Vance on Kalshi",
+          "summary": "Vice President Vance has seen his odds slip since the start of the year, as the secretary of State's chances have been buoyed by international conflicts.",
+          "link": "https://www.cnbc.com/2026/06/01/rubio-odds-for-gop-2028-nominee-close-to-overtaking-vance-on-kalshi.html",
+          "pubDate": "Mon, 01 Jun 2026 15:03:17 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump responds to NYT article, says it&#8217;s &#8216;very good&#8217; administration is losing legal talent",
-          "summary": "President Trump on Sunday said it is &#8220;very good&#8221; that thousands of lawyers have chosen to no longer work for the administration, referring to The New York Times&#8217;s reporting on the exodus. The Times story reported that more than 10,000 lawyers working for the federal government have left since the end of 2024 until March&#8230;",
-          "link": "https://thehill.com/homenews/administration/5903296-lawyers-leaving-trump-administration/",
-          "pubDate": "Sun, 31 May 2026 22:12:23 +0000"
+          "title": "Mamdani signs order &#8216;repealing bedtimes&#8217; so kids can watch Knicks in NBA Finals",
+          "summary": "New York City Zohran Mamdani (D) on Monday signed an executive order &#8220;repealing bedtimes&#8221; to allow kids in the Big Apple to watch the New York Knicks in the NBA Finals. “Today, I signed an Executive Order temporarily repealing bedtimes in the City of New York so that kids of all ages can watch our&#8230;",
+          "link": "https://thehill.com/policy/keeping-score/5904785-spurs-vs-knicks-nba-finals-mamdani/",
+          "pubDate": "Mon, 01 Jun 2026 22:26:24 +0000"
         },
         {
-          "title": "Pence: There’s ‘clearly” been an effort to ‘rewrite’ Jan. 6 history",
-          "summary": "Former Vice President Mike Pence on Sunday said there has “clearly” been an effort to “rewrite” the history of the Jan. 6, 2021, Capitol riot. “Look, I&#8217;m very confident that of the judgment of history in the years ahead about our role, about all the Republicans and Democrats who returned that day after Capitol Police&#8230;",
-          "link": "https://thehill.com/homenews/administration/5903309-mike-pence-capitol-riot-rewrite/",
-          "pubDate": "Sun, 31 May 2026 21:34:26 +0000"
+          "title": "Demings &#8216;surprised at the timing&#8217; of Jill Biden interview about husband&#8217;s health",
+          "summary": "Former Rep. Val Demings (D-Fla.) on Sunday said she was &#8220;surprised at the timing&#8221; of former first lady Jill Biden&#8217;s interview about former President Biden&#8217;s health almost one and a half years after they left the White House. Demings appeared on NBC News&#8217;s &#8220;Meet the Press&#8221; and was asked about Jill Biden&#8217;s recent remarks about&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5904732-demings-surprised-jill-biden-timing/",
+          "pubDate": "Mon, 01 Jun 2026 22:09:41 +0000"
         },
         {
-          "title": "Rare, endangered bee gets habitat protection across 6 states: Here&#8217;s where",
-          "summary": "The bee was once found in roughly half of the U.S. Now, rare sightings have been limited to about a dozen states.",
-          "link": "https://thehill.com/homenews/state-watch/5903208-rare-bee-habitat-protection/",
-          "pubDate": "Sun, 31 May 2026 21:00:46 +0000"
+          "title": "The Memo: Do voters care about the Graham Platner sexting furor?",
+          "summary": "The compelling but controversial candidacy of Maine Democrat Graham Platner has taken yet another turn with little more than a week left before the Senate primary in the Pine Tree State. Platner is enmeshed in a sexting furor after The Wall Street Journal and The New York Times reported that the candidate has in the&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5904793-platner-sexting-furore-maine-senate/",
+          "pubDate": "Mon, 01 Jun 2026 22:01:03 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Warren Buffett's Berkshire dumps entire stake in dividend stock",
-          "summary": "Warren Buffett's Berkshire dumps entire stake in dividend stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-dumps-entire-203300760.html",
-          "pubDate": "2026-05-30T20:33:00Z"
+          "title": "The Gap (GAP) – Among the Top 10 High Dividend Stocks to Invest In According to Analysts",
+          "summary": "The Gap (GAP) – Among the Top 10 High Dividend Stocks to Invest In According to Analysts",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/gap-gap-among-top-10-142102637.html",
+          "pubDate": "2026-05-31T14:21:02Z"
         },
         {
-          "title": "Dow Jones Futures: Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
-          "summary": "Dow Jones Futures: Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-05-31T22:25:34Z"
+          "title": "Citi Revises DOW Outlook amid Emerging Demand Destruction Concerns",
+          "summary": "Citi Revises DOW Outlook amid Emerging Demand Destruction Concerns",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/citi-revises-dow-outlook-amid-142112474.html",
+          "pubDate": "2026-05-31T14:21:12Z"
         },
         {
-          "title": "BOJ may heed calls to pause bond taper next year",
-          "summary": "BOJ may heed calls to pause bond taper next year",
-          "link": "https://finance.yahoo.com/economy/policy/articles/analysis-boj-may-heed-calls-064926660.html",
-          "pubDate": "2026-05-31T22:11:42Z"
+          "title": "Trump praised Dell, bought its stock — now the company has landed a $9.7B Pentagon contract and shares are up 255%",
+          "summary": "Trump praised Dell, bought its stock — now the company has landed a $9.7B Pentagon contract and shares are up 255%",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/dell-exploded-255-since-trump-141500533.html",
+          "pubDate": "2026-05-31T14:15:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
-          "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective with age, while bonobos maintain a more egalitarian social style.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
-          "pubDate": "Sun, 31 May 2026 11:03:38 EDT"
+          "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
+          "summary": "Kitchen sponges release microplastics as they wear down during everyday use, with some sponge types shedding far more than others. Researchers estimated that millions of households could collectively release hundreds of tons of microplastics annually.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260601025356.htm",
+          "pubDate": "Mon, 01 Jun 2026 09:52:40 EDT"
         },
         {
-          "title": "Scientists found the hidden switch fueling alzheimer’s brain inflammation",
-          "summary": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chemically altered in a way that keeps the brain’s immune system stuck in overdrive, harming the connections between nerve cells.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260530053424.htm",
-          "pubDate": "Sun, 31 May 2026 11:30:38 EDT"
+          "title": "The forgotten organ that could predict how long you live",
+          "summary": "A long-overlooked organ may hold surprising clues to healthy aging and cancer survival. Researchers at Mass General Brigham used AI to analyze CT scans from tens of thousands of adults and found that people with healthier thymuses—a small immune-system organ once thought to become largely irrelevant after childhood—lived longer and had substantially lower risks of heart disease, cancer, and death.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
+          "pubDate": "Mon, 01 Jun 2026 06:17:04 EDT"
         },
         {
-          "title": "Why cancer spreads more in middle age than in old age",
-          "summary": "Melanoma may not become steadily more dangerous with age as scientists once assumed. In a surprising discovery, researchers found that cancer spread was lowest in young mice, surged in middle-aged mice, and then dropped again in very old mice. The key appears to be a special type of immune cell that helps keep cancer dormant and prevents it from spreading.",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260530053422.htm",
-          "pubDate": "Sun, 31 May 2026 11:25:45 EDT"
+          "title": "NASA’s X-59 is about to break the sound barrier for the first time",
+          "summary": "NASA’s futuristic X-59 jet is about to face its biggest challenge yet: breaking the sound barrier for the first time. After a successful series of test flights that pushed the aircraft to near-supersonic speeds, engineers are preparing to fly it faster than Mach 1 and eventually up to Mach 1.6 at 60,000 feet. The sleek experimental aircraft is designed to replace the thunderous sonic boom with a much quieter “thump,” a breakthrough that could help bring supersonic passenger travel back over populated areas.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
+          "pubDate": "Mon, 01 Jun 2026 07:48:14 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A new pancreatic cancer pill may be a game changer for patients",
-          "summary": "Daraxonrasib, which nearly doubled patients' survival time, fights the disease in a new way. It bear-hugs a cancer protein that drives cell growth.",
-          "link": "https://www.sciencenews.org/article/pancreatic-cancer-pill-daraxonrasib",
-          "pubDate": "Sun, 31 May 2026 12:00:00 +0000"
+          "title": "The math of choosing a restaurant meal is revealed in Richard Feynman’s notes",
+          "summary": "Physicist Richard Feynman turned a lunch dilemma into a math problem. Researchers finally cracked his notes and found people approximate his solution on their own.",
+          "link": "https://www.sciencenews.org/article/math-restaurant-meal-feynman",
+          "pubDate": "Mon, 01 Jun 2026 19:00:00 +0000"
         },
         {
-          "title": "Here’s how to make an origami torus with the fewest folds possible",
-          "summary": "A mathematician found the most efficient way to fold paper into a doughnutlike shape.",
-          "link": "https://www.sciencenews.org/article/origami-torus-fewest-folds-math",
-          "pubDate": "Fri, 29 May 2026 15:00:00 +0000"
+          "title": "More young people are looking to AI chatbots for mental health help",
+          "summary": "A new survey estimates 8 million young people use AI chatbots for help when stressed, angry or sad, an increase from 2024.",
+          "link": "https://www.sciencenews.org/article/teens-young-adults-mental-health-ai",
+          "pubDate": "Mon, 01 Jun 2026 15:00:00 +0000"
         },
         {
-          "title": "Europa may not vent water into space after all",
-          "summary": "The debate could reopen in 2030 when NASA’s Europa Clipper spacecraft gets the closest view of the icy moon’s surface.",
-          "link": "https://www.sciencenews.org/article/europa-moon-no-water-plumes-space",
-          "pubDate": "Fri, 29 May 2026 13:00:00 +0000"
+          "title": "A tiny part of your brain may still listen under anesthesia",
+          "summary": "Tones, oddball sounds and words can spark brain cell responses, hinting at nuanced processing without consciousness.",
+          "link": "https://www.sciencenews.org/article/brain-cells-listen-under-anesthesia",
+          "pubDate": "Mon, 01 Jun 2026 13:00:00 +0000"
         }
       ]
     }
