@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-02T23:00:42.168Z",
-  "date": "2026-06-03",
+  "lastUpdate": "2026-06-03T23:00:31.270Z",
+  "date": "2026-06-04",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "He Blew the Whistle on DOGE. Then His Brakes Were Cut",
-          "summary": "A federal IT staffer filed a complaint about DOGE, then went public. Shortly after Elon Musk boosted a post calling his claims false, his brake lines were cut. Now he’s suing for defamation.",
-          "link": "https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/",
-          "pubDate": "Tue, 02 Jun 2026 19:16:01 +0000"
+          "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+          "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
+          "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+          "pubDate": "Wed, 03 Jun 2026 18:49:32 +0000"
         },
         {
-          "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-          "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-          "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-          "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000"
+          "title": "Elon Musk and America’s Far Right Stoke Anger Over Murder of UK Teen",
+          "summary": "Influential figures, including Nick Fuentes, have been accused of “hijacking” the murder of Henry Nowak to push a racist agenda.",
+          "link": "https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/",
+          "pubDate": "Wed, 03 Jun 2026 18:29:11 +0000"
         },
         {
-          "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who’s Calling",
-          "summary": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s calling you is who they appear to be.",
-          "link": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
-          "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000"
+          "title": "Amazon Employees Show Up to City Council Meetings to Demand Limits on Data Centers",
+          "summary": "Activists say it’s the first time Big Tech employees have publicly called for regulations governing data center projects.",
+          "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
+          "pubDate": "Wed, 03 Jun 2026 18:07:11 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-          "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-          "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-          "pubDate": "Tue, 02 Jun 2026 22:50:56 +0000"
+          "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+          "summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+          "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+          "pubDate": "Wed, 03 Jun 2026 22:56:51 +0000"
         },
         {
-          "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
-          "summary": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse computers.",
-          "link": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
-          "pubDate": "Tue, 02 Jun 2026 20:20:00 +0000"
+          "title": "Defense tech is flooded with money, but who&#8217;s built to last?",
+          "summary": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril’s first check, most of them&#160;will get lost in the Valley of Death between prototype contract [&#8230;]",
+          "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+          "pubDate": "Wed, 03 Jun 2026 20:51:41 +0000"
         },
         {
-          "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-          "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-          "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-          "pubDate": "Tue, 02 Jun 2026 19:11:48 +0000"
+          "title": "Uber to put 500 data-collection vehicles on the road this year",
+          "summary": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
+          "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+          "pubDate": "Wed, 03 Jun 2026 20:08:28 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-          "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
-          "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 02 Jun 2026 21:51:20 GMT"
+          "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+          "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 03 Jun 2026 21:19:19 GMT"
         },
         {
-          "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-          "summary": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
-          "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 02 Jun 2026 19:13:21 GMT"
+          "title": "US House votes to halt Iran war, in rebuke to Trump",
+          "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+          "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 03 Jun 2026 22:37:44 GMT"
         },
         {
-          "title": "British couple lose Iran jail sentence appeal, family says",
-          "summary": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
-          "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 02 Jun 2026 16:04:18 GMT"
+          "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+          "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+          "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 03 Jun 2026 20:28:01 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Traders say Karen Bass and Spencer Pratt will advance to runoff in high-profile L.A. mayoral race",
-          "summary": "Los Angeles voters go to the polls Tuesday. If no candidate receives more than 50%, the top-two vote getters will advance to a November runoff.",
-          "link": "https://www.cnbc.com/2026/06/02/bass-and-pratt-will-advance-in-la-mayoral-race-traders-say.html",
-          "pubDate": "Tue, 02 Jun 2026 19:55:47 GMT"
+          "title": "Bitcoin set to slump to new lows for 2026 after recent sell-off, traders forecast",
+          "summary": "The cryptocurrency is likely to break below its lows hit in early February, traders on prediction market Kalshi believe.",
+          "link": "https://www.cnbc.com/2026/06/03/bitcoin-to-slump-to-new-lows-after-recent-sell-off-traders-predict.html",
+          "pubDate": "Wed, 03 Jun 2026 20:06:54 GMT"
         },
         {
-          "title": "Goldman Sachs CEO David Solomon says markets are in &apos;greed&apos; mode as AI companies seek billions",
-          "summary": "Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.",
-          "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
-          "pubDate": "Tue, 02 Jun 2026 19:06:48 GMT"
+          "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
+          "summary": "Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.",
+          "link": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
+          "pubDate": "Wed, 03 Jun 2026 15:32:54 GMT"
         },
         {
-          "title": "Polymarket closes its first block trade as prediction markets push for Wall Street adoption",
-          "summary": "Prediction market platforms have increasingly looked to institutional traders, not individual ones, as the next venue for growth.",
-          "link": "https://www.cnbc.com/2026/06/02/polymarket-closes-first-block-trade-in-push-for-institutional-adoption.html",
-          "pubDate": "Tue, 02 Jun 2026 12:25:12 GMT"
+          "title": "Fed Chair Warsh makes first hires at central bank, including &apos;Project 2025&apos; author",
+          "summary": "The new Fed chair has made his first hires. One wrote the Fed chapter in the conservative policy blueprint \"Project 2025.\"",
+          "link": "https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html",
+          "pubDate": "Wed, 03 Jun 2026 14:38:04 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Who is Bill Pulte, Trump&#8217;s pick for new intel chief",
-          "summary": "President Trump on Tuesday named Federal Housing Finance Agency (FHFA) head Bill Pulte to be the acting head of the Office of the Director of National Intelligence, replacing Tulsi Gabbard, who resigned last month. The move drew immediate fury from Democrats and pushback from Republicans, who questioned whether he had any qualifications for the role.&#8230;",
-          "link": "https://thehill.com/homenews/administration/5906680-trump-names-pulte-acting-intel-chief/",
-          "pubDate": "Tue, 02 Jun 2026 22:35:38 +0000"
+          "title": "Trump says UFC arena outside White House could be permanent",
+          "summary": "President Trump suggested on Wednesday that the UFC arena currently under construction on the White House’s South Lawn could be a permanent addition. “I’m looking at it and maybe we’ll never ever take it down,” Trump said in a video posted on his official TikTok account on Tuesday.&#160; The president directed the installation of this&#8230;",
+          "link": "https://thehill.com/homenews/administration/5908763-trump-suggests-permanent-ufc-arena/",
+          "pubDate": "Wed, 03 Jun 2026 22:08:03 +0000"
         },
         {
-          "title": "Hostage situation, bomb threat reported at Chase Bank in California: Police",
-          "summary": "Several nearby buildings have been placed on lockdown.",
-          "link": "https://thehill.com/homenews/state-watch/5906677-hostage-situation-bomb-threat-reported-at-chase-bank-in-california-police/",
-          "pubDate": "Tue, 02 Jun 2026 22:32:25 +0000"
+          "title": "Trump formalizes move of career federal workers into &#8216;at will&#8217; roles",
+          "summary": "President Trump formally moved to implement his plan for making it easier to fire federal workers in policy roles, signing an executive order moving them into a new class that critics say will be akin to political employees. Schedule Policy/Career (P/C), an effort pushed under the first Trump administration as Schedule F, allows some 8,000 federal&#8230;",
+          "link": "https://thehill.com/homenews/5908761-trump-federal-workers-schedule-pc/",
+          "pubDate": "Wed, 03 Jun 2026 21:54:26 +0000"
         },
         {
-          "title": "Pentagon hires convicted Jan. 6 rioter for counterterrorism post",
-          "summary": "The Trump administration has hired a convicted Jan. 6, 2021, rioter to work in the Pentagon’s office that oversees sensitive special operations and irregular warfare matters. Elias Irizarry, who was 19 when he participated in the attack at the U.S. Capitol, was appointed to a position within the Defense Department&#8217;s Special Operations and Low Intensity Conflict&#8230;",
-          "link": "https://thehill.com/policy/defense/5906798-pentagon-appointment-jan-6-special-operations/",
-          "pubDate": "Tue, 02 Jun 2026 22:28:23 +0000"
+          "title": "Trump attacks CNN&#8217;s Collins: &#8216;Hatred in her eyes&#8217;",
+          "summary": "President Trump on Wednesday attacked CNN&#8217;s Kaitlan Collins, accusing her of having &#8220;hatred in her eyes,&#8221; while he took questions from reporters in the Oval Office. The president was answering a question about the recently defunct &#8220;anti-weaponization&#8221; fund, which he called &#8220;a beautiful thing.&#8221; He then attacked CNN, calling the network &#8220;crooked as hell&#8221; and&#8230;",
+          "link": "https://thehill.com/homenews/administration/5908663-trump-attacks-cnn-kaitlan-collins/",
+          "pubDate": "Wed, 03 Jun 2026 21:53:37 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Why SoundHound AI's CEO Says the Company Doesn't Need to Spend Excessively on AI Like Big Tech Giants",
-          "summary": "Why SoundHound AI's CEO Says the Company Doesn't Need to Spend Excessively on AI Like Big Tech Giants",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-soundhound-ais-ceo-says-143500582.html",
-          "pubDate": "2026-06-01T14:35:00Z"
+          "title": "Global fashion retailer closing all stores after 33 years",
+          "summary": "Global fashion retailer closing all stores after 33 years",
+          "link": "https://finance.yahoo.com/economy/articles/global-fashion-retailer-closing-stores-213300239.html",
+          "pubDate": "2026-06-02T21:33:00Z"
         },
         {
-          "title": "FedEx Freight embarks on journey as standalone LTL carrier",
-          "summary": "FedEx Freight embarks on journey as standalone LTL carrier",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-freight-embarks-journey-standalone-143444706.html",
-          "pubDate": "2026-06-01T14:34:44Z"
+          "title": "Cracks Are Forming in Private Credit. The BIZD ETF Is Waving a Red Flag About Where This Market Is Going Next.",
+          "summary": "Cracks Are Forming in Private Credit. The BIZD ETF Is Waving a Red Flag About Where This Market Is Going Next.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cracks-forming-private-credit-bizd-150003213.html",
+          "pubDate": "2026-06-02T15:00:03Z"
         },
         {
-          "title": "Logistics M&A accelerates as WWEX and Auctane form ShipStation Global",
-          "summary": "Logistics M&A accelerates as WWEX and Auctane form ShipStation Global",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/logistics-m-accelerates-wwex-auctane-143754206.html",
-          "pubDate": "2026-06-01T14:37:54Z"
+          "title": "Snowflake CEO after mind-blowing stock gain: Our investments are coming together",
+          "summary": "Snowflake CEO after mind-blowing stock gain: Our investments are coming together",
+          "link": "https://finance.yahoo.com/markets/article/snowflake-ceo-after-mind-blowing-stock-gain-our-investments-are-coming-together-150107980.html",
+          "pubDate": "2026-06-02T15:01:07Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A hidden pollutant is changing how the world&#039;s forests breathe",
-          "summary": "A massive global analysis found that nitrogen pollution can either speed up or dramatically slow the natural \"breathing\" of forest soils, depending on the ecosystem&#039;s condition. The results reveal hidden tipping points that could affect how forests store carbon and cope with climate change.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260602021659.htm",
-          "pubDate": "Tue, 02 Jun 2026 10:11:57 EDT"
+          "title": "Popular GLP-1 weight-loss drugs linked to lower risks of addiction and overdose",
+          "summary": "A massive study of more than 600,000 U.S. veterans suggests that popular GLP-1 drugs such as semaglutide may do far more than help with diabetes and weight loss—they could also fight addiction itself. Researchers found that people taking these medications were less likely to develop substance use disorders involving alcohol, nicotine, cannabis, cocaine, opioids, and other drugs, while those already struggling with addiction experienced fewer overdoses, hospitalizations, emergency visits, and drug-related deaths.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260603023919.htm",
+          "pubDate": "Wed, 03 Jun 2026 10:04:58 EDT"
         },
         {
-          "title": "The secret underground system keeping the Grand Canyon alive",
-          "summary": "Scientists are venturing into the Grand Canyon’s hidden cave networks to solve a mystery: how snowmelt travels underground to supply the park’s vital springs. Their discoveries could help protect the canyon’s water from drought, contamination, and other growing threats.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260602021648.htm",
-          "pubDate": "Tue, 02 Jun 2026 09:21:40 EDT"
+          "title": "A child&#039;s tooth and strange green stones uncover a 5,500-year-old mystery",
+          "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that deeper excavations could uncover prehistoric burials.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
+          "pubDate": "Wed, 03 Jun 2026 05:10:16 EDT"
         },
         {
-          "title": "Scientists discover gut bacteria that may help protect against autism and ADHD",
-          "summary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first year of life, and certain combinations were linked to early signs of autism and ADHD by age three.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
-          "pubDate": "Tue, 02 Jun 2026 10:18:47 EDT"
+          "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
+          "summary": "One of the most powerful typhoons ever recorded this early in the Pacific season did more than unleash flooding and extreme winds—it sent enormous ripples all the way into the upper atmosphere. As Super Typhoon Sinlaku rapidly exploded into a category 5-equivalent storm, satellites captured rare gravity waves spreading outward like rings on a pond, visible high above Earth through a faint glow in the atmosphere.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260603023113.htm",
+          "pubDate": "Wed, 03 Jun 2026 06:53:45 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Microsoft’s quantum chip got an upgrade. Critics are still skeptical",
-          "summary": "Swapping materials in its Majorana 2 chip boosted the effectiveness of quantum bits that rely on the math of topology to reduce errors, Microsoft says.",
-          "link": "https://www.sciencenews.org/article/microsoft-quantum-chip-upgrade-majorana",
-          "pubDate": "Tue, 02 Jun 2026 18:15:00 +0000"
+          "title": "A secret to making a queen bee may lie in the wax around it",
+          "summary": "Queen-cell wax helps shape honeybee queen development, challenging the idea that royal jelly alone makes a queen, a new study suggests.",
+          "link": "https://www.sciencenews.org/article/queen-honeybee-development-wax",
+          "pubDate": "Wed, 03 Jun 2026 15:00:00 +0000"
         },
         {
-          "title": "The math of choosing a restaurant meal is revealed in Richard Feynman’s notes",
-          "summary": "Physicist Richard Feynman turned a lunch dilemma into a math problem. Researchers finally cracked his notes and found people approximate his solution on their own.",
-          "link": "https://www.sciencenews.org/article/math-restaurant-meal-feynman",
-          "pubDate": "Mon, 01 Jun 2026 19:00:00 +0000"
+          "title": "Curbing Congo’s Ebola outbreak is hampered by unknowns about the virus",
+          "summary": "Answers to key questions could help public health officials develop Ebola treatments, predict the outbreak’s trajectory and prevent a future one.",
+          "link": "https://www.sciencenews.org/article/ebola-outbreak-congo-unknowns",
+          "pubDate": "Wed, 03 Jun 2026 13:00:00 +0000"
         },
         {
-          "title": "More young people are looking to AI chatbots for mental health help",
-          "summary": "A new survey estimates 8 million young people use AI chatbots for help when stressed, angry or sad, an increase from 2024.",
-          "link": "https://www.sciencenews.org/article/teens-young-adults-mental-health-ai",
-          "pubDate": "Mon, 01 Jun 2026 15:00:00 +0000"
+          "title": "Ötzi the Iceman’s remains yielded ‘viable’ yeasts in the lab",
+          "summary": "The cold-loving yeasts from Ötzi’s remains suggest the Iceman’s microbiome may not be completely frozen in time.",
+          "link": "https://www.sciencenews.org/article/otzi-iceman-viable-yeasts-microbiome",
+          "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000"
         }
       ]
     }
