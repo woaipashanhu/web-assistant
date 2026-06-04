@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-03T23:00:31.270Z",
-  "date": "2026-06-04",
+  "lastUpdate": "2026-06-04T23:00:25.301Z",
+  "date": "2026-06-05",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-          "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-          "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-          "pubDate": "Wed, 03 Jun 2026 18:49:32 +0000"
+          "title": "Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US",
+          "summary": "The USDA this week confirmed the first known infection of the carnivorous fly larva, which feast on the flesh of living mammals, after the United States eradicated the nightmare bugs in the 1960s.",
+          "link": "https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/",
+          "pubDate": "Thu, 04 Jun 2026 21:30:00 +0000"
         },
         {
-          "title": "Elon Musk and America’s Far Right Stoke Anger Over Murder of UK Teen",
-          "summary": "Influential figures, including Nick Fuentes, have been accused of “hijacking” the murder of Henry Nowak to push a racist agenda.",
-          "link": "https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/",
-          "pubDate": "Wed, 03 Jun 2026 18:29:11 +0000"
+          "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+          "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+          "pubDate": "Thu, 04 Jun 2026 18:44:49 +0000"
         },
         {
-          "title": "Amazon Employees Show Up to City Council Meetings to Demand Limits on Data Centers",
-          "summary": "Activists say it’s the first time Big Tech employees have publicly called for regulations governing data center projects.",
-          "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
-          "pubDate": "Wed, 03 Jun 2026 18:07:11 +0000"
+          "title": "Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working",
+          "summary": "The indie artist has played a string of surprise, small-venue shows with no phones allowed, prompting fans to piece together clues about a potential upcoming album.",
+          "link": "https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/",
+          "pubDate": "Thu, 04 Jun 2026 18:27:48 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
-          "summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-          "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-          "pubDate": "Wed, 03 Jun 2026 22:56:51 +0000"
+          "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
+          "summary": "The AI giant's co-founder explained why the company may tap the public market for capital and why tokenmaxxing pushback isn't a concern.",
+          "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "pubDate": "Thu, 04 Jun 2026 22:43:26 +0000"
         },
         {
-          "title": "Defense tech is flooded with money, but who&#8217;s built to last?",
-          "summary": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril’s first check, most of them&#160;will get lost in the Valley of Death between prototype contract [&#8230;]",
-          "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
-          "pubDate": "Wed, 03 Jun 2026 20:51:41 +0000"
+          "title": "Airbnb&#8217;s Brian Chesky plans to launch a new AI lab",
+          "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+          "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+          "pubDate": "Thu, 04 Jun 2026 22:29:50 +0000"
         },
         {
-          "title": "Uber to put 500 data-collection vehicles on the road this year",
-          "summary": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
-          "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
-          "pubDate": "Wed, 03 Jun 2026 20:08:28 +0000"
+          "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+          "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+          "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+          "pubDate": "Thu, 04 Jun 2026 21:44:09 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-          "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
-          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 03 Jun 2026 21:19:19 GMT"
+          "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+          "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+          "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 04 Jun 2026 21:34:14 GMT"
         },
         {
-          "title": "US House votes to halt Iran war, in rebuke to Trump",
-          "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
-          "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 03 Jun 2026 22:37:44 GMT"
+          "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+          "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+          "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 04 Jun 2026 20:37:46 GMT"
         },
         {
-          "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-          "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
-          "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 03 Jun 2026 20:28:01 GMT"
+          "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+          "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+          "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 04 Jun 2026 14:46:36 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Kalshi is building a prediction markets &apos;Bloomberg Terminal&apos; for high-end traders, source says",
+          "summary": "The prediction market platform is developing the platform to create a singular platform for its highly engaged traders.",
+          "link": "https://www.cnbc.com/2026/06/04/kalshi-is-building-a-bloomberg-terminal-for-prediction-markets.html",
+          "pubDate": "Thu, 04 Jun 2026 12:47:27 GMT"
+        },
         {
           "title": "Bitcoin set to slump to new lows for 2026 after recent sell-off, traders forecast",
           "summary": "The cryptocurrency is likely to break below its lows hit in early February, traders on prediction market Kalshi believe.",
@@ -145,17 +151,11 @@
           "summary": "Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.",
           "link": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
           "pubDate": "Wed, 03 Jun 2026 15:32:54 GMT"
-        },
-        {
-          "title": "Fed Chair Warsh makes first hires at central bank, including &apos;Project 2025&apos; author",
-          "summary": "The new Fed chair has made his first hires. One wrote the Fed chapter in the conservative policy blueprint \"Project 2025.\"",
-          "link": "https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html",
-          "pubDate": "Wed, 03 Jun 2026 14:38:04 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump says UFC arena outside White House could be permanent",
-          "summary": "President Trump suggested on Wednesday that the UFC arena currently under construction on the White House’s South Lawn could be a permanent addition. “I’m looking at it and maybe we’ll never ever take it down,” Trump said in a video posted on his official TikTok account on Tuesday.&#160; The president directed the installation of this&#8230;",
-          "link": "https://thehill.com/homenews/administration/5908763-trump-suggests-permanent-ufc-arena/",
-          "pubDate": "Wed, 03 Jun 2026 22:08:03 +0000"
+          "title": "Arizona AG will seek to revive 2020 ‘fake elector’ case",
+          "summary": "The Arizona attorney general’s office said on Thursday that it will seek fresh indictments against a group of so-called “fake electors” after the state’s highest court refused to revive the 2020 election subversion case. “The Arizona Attorney General’s Office will return this case to the grand jury,” a spokesperson for Attorney General Kris Mayes (D)&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5911038-fake-electors-case-arizona-ag/",
+          "pubDate": "Thu, 04 Jun 2026 22:19:10 +0000"
         },
         {
-          "title": "Trump formalizes move of career federal workers into &#8216;at will&#8217; roles",
-          "summary": "President Trump formally moved to implement his plan for making it easier to fire federal workers in policy roles, signing an executive order moving them into a new class that critics say will be akin to political employees. Schedule Policy/Career (P/C), an effort pushed under the first Trump administration as Schedule F, allows some 8,000 federal&#8230;",
-          "link": "https://thehill.com/homenews/5908761-trump-federal-workers-schedule-pc/",
-          "pubDate": "Wed, 03 Jun 2026 21:54:26 +0000"
+          "title": "House passes agriculture and FDA appropriations bill",
+          "summary": "The House on Thursday passed its second fiscal year 2027 appropriations bill, marking a key milestone for GOP leaders as they navigate the annual government funding process while juggling a crowded legislative agenda. The lower chamber voted 213-210 to pass the agriculture, rural development, Food and Drug Administration (FDA) and related agencies appropriations bill. Five&#8230;",
+          "link": "https://thehill.com/homenews/house/5910698-house-agriculture-fda-appropriations-bill/",
+          "pubDate": "Thu, 04 Jun 2026 22:12:35 +0000"
         },
         {
-          "title": "Trump attacks CNN&#8217;s Collins: &#8216;Hatred in her eyes&#8217;",
-          "summary": "President Trump on Wednesday attacked CNN&#8217;s Kaitlan Collins, accusing her of having &#8220;hatred in her eyes,&#8221; while he took questions from reporters in the Oval Office. The president was answering a question about the recently defunct &#8220;anti-weaponization&#8221; fund, which he called &#8220;a beautiful thing.&#8221; He then attacked CNN, calling the network &#8220;crooked as hell&#8221; and&#8230;",
-          "link": "https://thehill.com/homenews/administration/5908663-trump-attacks-cnn-kaitlan-collins/",
-          "pubDate": "Wed, 03 Jun 2026 21:53:37 +0000"
+          "title": "US announces science and AI partnership with Japan",
+          "summary": "The U.S. has announced a new partnership with Japan on science and artificial intelligence. Energy Department Undersecretary for Science Darío Gil told reporters Thursday that each country would invest $500 million in the joint venture. “This is the defining moment for the next era of science,” he said. “We’re linking our brightest minds and the&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5911027-us-announces-science-and-ai-partnership-with-japan/",
+          "pubDate": "Thu, 04 Jun 2026 22:11:14 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Global fashion retailer closing all stores after 33 years",
-          "summary": "Global fashion retailer closing all stores after 33 years",
-          "link": "https://finance.yahoo.com/economy/articles/global-fashion-retailer-closing-stores-213300239.html",
-          "pubDate": "2026-06-02T21:33:00Z"
+          "title": "69-year-old furniture store chain files for Chapter 11 bankruptcy",
+          "summary": "69-year-old furniture store chain files for Chapter 11 bankruptcy",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/69-old-furniture-store-chain-170700563.html",
+          "pubDate": "2026-06-03T17:07:00Z"
         },
         {
-          "title": "Cracks Are Forming in Private Credit. The BIZD ETF Is Waving a Red Flag About Where This Market Is Going Next.",
-          "summary": "Cracks Are Forming in Private Credit. The BIZD ETF Is Waving a Red Flag About Where This Market Is Going Next.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cracks-forming-private-credit-bizd-150003213.html",
-          "pubDate": "2026-06-02T15:00:03Z"
+          "title": "Soybean Prices Have Likely Hit a Floor. Wait for These Levels and Then Buy.",
+          "summary": "Soybean Prices Have Likely Hit a Floor. Wait for These Levels and Then Buy.",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/soybean-prices-likely-hit-floor-151029347.html",
+          "pubDate": "2026-06-03T15:10:29Z"
         },
         {
-          "title": "Snowflake CEO after mind-blowing stock gain: Our investments are coming together",
-          "summary": "Snowflake CEO after mind-blowing stock gain: Our investments are coming together",
-          "link": "https://finance.yahoo.com/markets/article/snowflake-ceo-after-mind-blowing-stock-gain-our-investments-are-coming-together-150107980.html",
-          "pubDate": "2026-06-02T15:01:07Z"
+          "title": "HELOC and home equity loan interest rates today, Wednesday, June 3, 2026: Rate shopping matters, even when rates are low",
+          "summary": "HELOC and home equity loan interest rates today, Wednesday, June 3, 2026: Rate shopping matters, even when rates are low",
+          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-june-3-2026-100000807.html",
+          "pubDate": "2026-06-03T10:00:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Popular GLP-1 weight-loss drugs linked to lower risks of addiction and overdose",
-          "summary": "A massive study of more than 600,000 U.S. veterans suggests that popular GLP-1 drugs such as semaglutide may do far more than help with diabetes and weight loss—they could also fight addiction itself. Researchers found that people taking these medications were less likely to develop substance use disorders involving alcohol, nicotine, cannabis, cocaine, opioids, and other drugs, while those already struggling with addiction experienced fewer overdoses, hospitalizations, emergency visits, and drug-related deaths.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260603023919.htm",
-          "pubDate": "Wed, 03 Jun 2026 10:04:58 EDT"
+          "title": "A study of 8,300 older adults revealed a surprising salt habit",
+          "summary": "A large study of older adults in Brazil found that adding extra salt at the table is still a common habit, especially among men. While too much salt is linked to serious health problems and faster cognitive decline, researchers discovered that women’s salt-shaking habits were tied more closely to lifestyle and diet.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
+          "pubDate": "Thu, 04 Jun 2026 10:05:04 EDT"
         },
         {
-          "title": "A child&#039;s tooth and strange green stones uncover a 5,500-year-old mystery",
-          "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that deeper excavations could uncover prehistoric burials.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
-          "pubDate": "Wed, 03 Jun 2026 05:10:16 EDT"
+          "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
+          "summary": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers to see not only the ant’s outer features but also structures inside its body. The findings offer new clues about the species’ biology and suggest it likely built large nests in trees.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+          "pubDate": "Thu, 04 Jun 2026 08:30:55 EDT"
         },
         {
-          "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
-          "summary": "One of the most powerful typhoons ever recorded this early in the Pacific season did more than unleash flooding and extreme winds—it sent enormous ripples all the way into the upper atmosphere. As Super Typhoon Sinlaku rapidly exploded into a category 5-equivalent storm, satellites captured rare gravity waves spreading outward like rings on a pond, visible high above Earth through a faint glow in the atmosphere.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260603023113.htm",
-          "pubDate": "Wed, 03 Jun 2026 06:53:45 EDT"
+          "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
+          "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn&#039;t be done. In a major clinical trial, the treatment nearly doubled survival for patients with advanced disease and reduced the risk of death by 60%.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+          "pubDate": "Thu, 04 Jun 2026 09:18:44 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A secret to making a queen bee may lie in the wax around it",
-          "summary": "Queen-cell wax helps shape honeybee queen development, challenging the idea that royal jelly alone makes a queen, a new study suggests.",
-          "link": "https://www.sciencenews.org/article/queen-honeybee-development-wax",
-          "pubDate": "Wed, 03 Jun 2026 15:00:00 +0000"
+          "title": "Remote workers feel isolated. Back-to-office mandates are not a fix",
+          "summary": "Making social connection part of job design, whether people work remotely, hybrid or in-person, is key to supporting employees‘ well-being.",
+          "link": "https://www.sciencenews.org/article/remote-workers-isolated-office-social",
+          "pubDate": "Thu, 04 Jun 2026 19:07:10 +0000"
         },
         {
-          "title": "Curbing Congo’s Ebola outbreak is hampered by unknowns about the virus",
-          "summary": "Answers to key questions could help public health officials develop Ebola treatments, predict the outbreak’s trajectory and prevent a future one.",
-          "link": "https://www.sciencenews.org/article/ebola-outbreak-congo-unknowns",
-          "pubDate": "Wed, 03 Jun 2026 13:00:00 +0000"
+          "title": "Bumblebees can solve problems on their own",
+          "summary": "With no training, bumblebees can work out how to use a ball like a ladder to feed on sugar from an out-of-reach flower.",
+          "link": "https://www.sciencenews.org/article/bumblebees-problem-solving-spontaneous",
+          "pubDate": "Thu, 04 Jun 2026 18:00:00 +0000"
         },
         {
-          "title": "Ötzi the Iceman’s remains yielded ‘viable’ yeasts in the lab",
-          "summary": "The cold-loving yeasts from Ötzi’s remains suggest the Iceman’s microbiome may not be completely frozen in time.",
-          "link": "https://www.sciencenews.org/article/otzi-iceman-viable-yeasts-microbiome",
-          "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000"
+          "title": "Even quiet black holes create winds, new Milky Way observations reveal",
+          "summary": "New observations suggest the supermassive black hole at the Milky Way’s core is blowing gas away from the central behemoth.",
+          "link": "https://www.sciencenews.org/article/milky-way-supermassive-black-hole-wind",
+          "pubDate": "Thu, 04 Jun 2026 14:00:00 +0000"
         }
       ]
     }
