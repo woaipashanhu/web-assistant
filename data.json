@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-05T23:00:24.842Z",
-  "date": "2026-06-06",
+  "lastUpdate": "2026-06-06T23:00:06.605Z",
+  "date": "2026-06-07",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "GroWell Cap Review: I Have Hair for the First Time in 15 Years",
-          "summary": "I shaved my head 15 years ago and never looked back. This GroWell LED cap changed that.",
-          "link": "https://www.wired.com/story/growell-cap-rave/",
-          "pubDate": "Fri, 05 Jun 2026 18:16:25 +0000"
+          "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
+          "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
+          "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+          "pubDate": "Sat, 06 Jun 2026 14:00:00 +0000"
         },
         {
-          "title": "The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies",
-          "summary": "Releasing sterilized flies can crash a local population of flesh-eating screwworms. But the US currently has limited capacity to produce them.",
-          "link": "https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak/",
-          "pubDate": "Fri, 05 Jun 2026 18:16:22 +0000"
+          "title": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
+          "summary": "Unjected and PureBlood.Dating are hosting in-person meetups—and have transformed the dating landscape into a political battleground over bodily autonomy.",
+          "link": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
+          "pubDate": "Sat, 06 Jun 2026 11:00:00 +0000"
         },
         {
-          "title": "Logitech G512 X 98 Review: A Hybrid Mish-Mash",
-          "summary": "The Logitech G512 X 98 lets you swap between mechanical and analog switches in an attempt to achieve the best of both worlds. Unfortunately, its solution isn't as well thought out as I’d hoped.",
-          "link": "https://www.wired.com/review/logitech-g512-x-98/",
-          "pubDate": "Fri, 05 Jun 2026 16:10:56 +0000"
+          "title": "2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions",
+          "summary": "These are the best Bluetooth, Wi-Fi, GPS, and cellular gadgets to ensure you never lose anything ever again.",
+          "link": "https://www.wired.com/story/the-best-bluetooth-trackers/",
+          "pubDate": "Sat, 06 Jun 2026 10:38:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Reid Hoffman is leaving Microsoft&#8217;s board to go &#8216;founder mode&#8217; with  startup Manus",
-          "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
-          "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-          "pubDate": "Fri, 05 Jun 2026 22:35:01 +0000"
+          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+          "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+          "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "pubDate": "Sat, 06 Jun 2026 20:32:24 +0000"
         },
         {
-          "title": "Founders share VC horror stories, and some are naming names",
-          "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
-          "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
-          "pubDate": "Fri, 05 Jun 2026 21:47:56 +0000"
+          "title": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple Intelligence updates",
+          "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+          "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "pubDate": "Sat, 06 Jun 2026 18:13:36 +0000"
         },
         {
-          "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-          "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
-          "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
-          "pubDate": "Fri, 05 Jun 2026 20:31:04 +0000"
+          "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+          "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+          "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+          "pubDate": "Sat, 06 Jun 2026 17:42:15 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-          "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-          "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 05 Jun 2026 18:16:15 GMT"
+          "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+          "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+          "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 06 Jun 2026 20:50:40 GMT"
         },
         {
-          "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-          "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-          "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 05 Jun 2026 15:29:39 GMT"
+          "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+          "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 06 Jun 2026 14:46:20 GMT"
         },
         {
-          "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-          "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
-          "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 05 Jun 2026 21:35:55 GMT"
+          "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+          "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+          "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 06 Jun 2026 21:14:00 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
+          "summary": "As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.",
+          "link": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
+          "pubDate": "Sat, 06 Jun 2026 13:28:42 GMT"
+        },
         {
           "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
           "summary": "Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon.",
@@ -145,17 +151,11 @@
           "summary": "Tim Urbanowicz, chief investment strategist at Innovator from Goldman Sachs Asset Management, tackles the AI boom.",
           "link": "https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html",
           "pubDate": "Fri, 05 Jun 2026 12:17:43 GMT"
-        },
-        {
-          "title": "China poaches more AI talent from the U.S. as it eyes the next &apos;super-app&apos;",
-          "summary": "Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.",
-          "link": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
-          "pubDate": "Fri, 05 Jun 2026 07:50:47 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump talks fertilizer, fuel to farmers in Wisconsin, but also Reflecting Pool, fountains",
-          "summary": "President Trump sought to appeal to farmers at a roundtable in Wisconsin on Friday amid skyrocketing fertilizer and energy prices as a result of the U.S. war in Iran. “We’re going to come out, and your fertilizer prices are going to go way down, just like they were four months ago,” Trump told farmers in&#8230;",
-          "link": "https://thehill.com/homenews/administration/5912786-fertilizer-energy-prices-rise/",
-          "pubDate": "Fri, 05 Jun 2026 22:09:27 +0000"
+          "title": "&#8216;Mass casualty event&#8217; reported at West Virginia ball park",
+          "summary": "Multiple people were taken to the hospital Saturday afternoon following what 911 officials called a \"mass casualty event\" at Kendrick Family Ball Park in Morgantown.",
+          "link": "https://thehill.com/homenews/nexstar_media_wire/5913430-mass-casualty-event-reported-at-west-virginia-ball-park/",
+          "pubDate": "Sat, 06 Jun 2026 21:41:32 +0000"
         },
         {
-          "title": "DOJ prosecutor in California opens &#8216;multiple election fraud&#8217; probes",
-          "summary": "A federal prosecutor in California has opened probes into alleged voter fraud in the state after President Trump accused Democrats of “cheating” in the primary elections this week. Bill Essayli, the first assistant U.S. attorney for the Central District of California, announced Friday that his office had “multiple election fraud investigations underway” but did not&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5912737-california-election-fraud-probes/",
-          "pubDate": "Fri, 05 Jun 2026 21:49:39 +0000"
+          "title": "Spencer Pratt in Los Angeles spearheads wave of reality stars running for office",
+          "summary": "A new wave of celebrities are appearing on ballots across the country, showing just how far a famous face can carry a candidate to office with no political experience. ​Spencer Pratt, a reality television personality, is in second place in the Los Angeles mayor&#8217;s race. Another reality television star, Luke Gulbranson, has announced his run&#8230;",
+          "link": "https://thehill.com/homenews/state-watch/5912766-celebrities-political-ballot-wave/",
+          "pubDate": "Sat, 06 Jun 2026 21:00:00 +0000"
         },
         {
-          "title": "&#8217;60 Minutes&#8217; correspondents say they&#8217;ll stick with show",
-          "summary": "Three top correspondents at &#8220;60 Minutes&#8221; say they will stay with the program amid speculation about their futures as CBS News implements sweeping changes across the show and the network more broadly. In a letter to colleagues, which was obtained by The Hill on Friday, Lesley Stahl, Bill Whitaker and Jon Wertheim wrote they are&#8230;",
-          "link": "https://thehill.com/homenews/media/5912564-60-minutes-correspondents-cbs-news/",
-          "pubDate": "Fri, 05 Jun 2026 20:22:17 +0000"
+          "title": "World Cup stadiums earn prestigious certifications as green buildings before matches begin",
+          "summary": "Most of the stadiums for this year&#8217;s FIFA World Cup have achieved green building status after a push for certification in the run-up to the tournament. As the tournament opens, 13 of the 16 stadiums have earned LEED certification, the world&#8217;s most widely used green building rating system, the U.S. Green Building Council said. Ten&#8230;",
+          "link": "https://thehill.com/homenews/ap/ap-sports/5913402-leed-certified-fifa-stadiums/",
+          "pubDate": "Sat, 06 Jun 2026 20:52:59 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Blue Origin's explosion just made SpaceX even harder to catch",
-          "summary": "Blue Origin's explosion just made SpaceX even harder to catch",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/blue-origins-explosion-just-made-153300685.html",
-          "pubDate": "2026-06-04T15:33:00Z"
+          "title": "Turnaround Stories and Shorting Stocks",
+          "summary": "Turnaround Stories and Shorting Stocks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/turnaround-stories-shorting-stocks-223426098.html",
+          "pubDate": "2026-06-06T22:34:26Z"
         },
         {
-          "title": "JPMorgan's Jamie Dimon to flex massive branch network in SpaceX IPO pitch",
-          "summary": "JPMorgan's Jamie Dimon to flex massive branch network in SpaceX IPO pitch",
-          "link": "https://finance.yahoo.com/markets/article/jpmorgans-jamie-dimon-to-flex-massive-branch-network-in-spacex-ipo-pitch-153058850.html",
-          "pubDate": "2026-06-04T15:30:58Z"
+          "title": "5 Best Debt-Free IT Stocks to Buy Now",
+          "summary": "5 Best Debt-Free IT Stocks to Buy Now",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-debt-free-stocks-221049781.html",
+          "pubDate": "2026-06-06T22:10:49Z"
         },
         {
-          "title": "As AI Semiconductor Revenue Swells, AVGO Stock is Destined to Trend Higher",
-          "summary": "As AI Semiconductor Revenue Swells, AVGO Stock is Destined to Trend Higher",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ai-semiconductor-revenue-swells-avgo-152836280.html",
-          "pubDate": "2026-06-04T15:28:36Z"
+          "title": "UWM Holdings (UWMC) Criticized Two Harbors’ Board, Here’s What You Need to Know",
+          "summary": "UWM Holdings (UWMC) Criticized Two Harbors’ Board, Here’s What You Need to Know",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-uwmc-criticized-two-215901442.html",
+          "pubDate": "2026-06-06T21:59:01Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
-          "summary": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissions by 40%, and could help prevent spills from reaching sensitive marine habitats.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
-          "pubDate": "Fri, 05 Jun 2026 02:34:20 EDT"
+          "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+          "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled states without adding complicated hardware.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+          "pubDate": "Sat, 06 Jun 2026 09:02:19 EDT"
         },
         {
-          "title": "Hidden supermassive black hole pairs may finally have a visible signal",
-          "summary": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The timing and brightness of these bursts could provide a unique fingerprint of black holes slowly spiraling toward a future collision.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
-          "pubDate": "Fri, 05 Jun 2026 08:32:00 EDT"
+          "title": "Tiny X-ray telescope could unlock the Moon&#039;s hidden chemistry",
+          "summary": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a compact telescope orbiting the Moon could identify key elements across the entire lunar surface, helping reveal how the Moon formed and evolved.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm",
+          "pubDate": "Sat, 06 Jun 2026 09:24:27 EDT"
         },
         {
-          "title": "Scientists discover why ozempic may not work for some people",
-          "summary": "Scientists have identified genetic variants that may make some people less responsive to GLP-1 drugs used to treat Type 2 diabetes. Roughly 10% of the population carries these variants, which appear to cause a mysterious form of \"GLP-1 resistance.\" In several clinical trials, carriers were significantly less likely to reach healthy blood sugar targets while taking GLP-1 medications.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260605023417.htm",
-          "pubDate": "Fri, 05 Jun 2026 11:13:02 EDT"
+          "title": "Scientists sound the alarm as dangerous amoebas spread globally",
+          "summary": "Scientists warn that free-living amoebae may be an underappreciated public health threat, capable of causing deadly infections and shielding other dangerous microbes from water treatment. Climate change and aging infrastructure could help these resilient organisms spread more widely in the years ahead.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260606015137.htm",
+          "pubDate": "Sat, 06 Jun 2026 07:35:28 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "siteName": "Science News",
       "items": [
         {
