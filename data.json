@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-06T23:00:06.605Z",
-  "date": "2026-06-07",
+  "lastUpdate": "2026-06-07T23:00:07.852Z",
+  "date": "2026-06-08",
   "sites": [
     {
       "id": "site_0",
@@ -59,86 +59,86 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
-          "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
-          "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
-          "pubDate": "Sat, 06 Jun 2026 14:00:00 +0000"
+          "title": "Sigma BF Review (2026): Eccentric but Strangely Lovable",
+          "summary": "Sigma’s new entry is both a bold design experiment and a pretty decent camera.",
+          "link": "https://www.wired.com/review/sigma-bf-camera/",
+          "pubDate": "Sun, 07 Jun 2026 11:01:00 +0000"
         },
         {
-          "title": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
-          "summary": "Unjected and PureBlood.Dating are hosting in-person meetups—and have transformed the dating landscape into a political battleground over bodily autonomy.",
-          "link": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
-          "pubDate": "Sat, 06 Jun 2026 11:00:00 +0000"
+          "title": "You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick",
+          "summary": "These 5- to 6-inch blades are the secret workhorses of the kitchen, whether you’re a smaller person, have smaller hands, or just desire a smaller but still high-functioning knife.",
+          "link": "https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/",
+          "pubDate": "Sun, 07 Jun 2026 11:00:00 +0000"
         },
         {
-          "title": "2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions",
-          "summary": "These are the best Bluetooth, Wi-Fi, GPS, and cellular gadgets to ensure you never lose anything ever again.",
-          "link": "https://www.wired.com/story/the-best-bluetooth-trackers/",
-          "pubDate": "Sat, 06 Jun 2026 10:38:00 +0000"
+          "title": "Lauf eElja Electric Mountain Bike Review: Power Trip",
+          "summary": "Lauf’s sleek new entry feels closer to a traditional mountain bike than anything I’ve ridden before.",
+          "link": "https://www.wired.com/review/lauf-eelja-electric-mountain-bike/",
+          "pubDate": "Sun, 07 Jun 2026 10:22:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-          "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-          "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-          "pubDate": "Sat, 06 Jun 2026 20:32:24 +0000"
+          "title": "Is this the dawn of the Tokenpocalypse?",
+          "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+          "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "pubDate": "Sun, 07 Jun 2026 20:26:13 +0000"
         },
         {
-          "title": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple Intelligence updates",
-          "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-          "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-          "pubDate": "Sat, 06 Jun 2026 18:13:36 +0000"
+          "title": "Notion restores access to Anthropic after service disruption",
+          "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+          "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "pubDate": "Sun, 07 Jun 2026 17:56:22 +0000"
         },
         {
-          "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-          "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-          "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-          "pubDate": "Sat, 06 Jun 2026 17:42:15 +0000"
+          "title": "OpenAI is still working on that ‘super app’",
+          "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+          "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+          "pubDate": "Sun, 07 Jun 2026 16:23:22 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-          "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
-          "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 06 Jun 2026 20:50:40 GMT"
+          "title": "Israel strikes Beirut suburb days after US-brokered truce",
+          "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+          "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 07 Jun 2026 20:56:09 GMT"
         },
         {
-          "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-          "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 06 Jun 2026 14:46:20 GMT"
+          "title": "Zelensky's close European allies set out five conditions for peace talks",
+          "summary": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
+          "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 07 Jun 2026 21:39:43 GMT"
         },
         {
-          "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-          "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
-          "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 06 Jun 2026 21:14:00 GMT"
+          "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
+          "summary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
+          "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 07 Jun 2026 22:02:31 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "CNBC市场",
       "items": [
         {
           "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
           "summary": "As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.",
           "link": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
-          "pubDate": "Sat, 06 Jun 2026 13:28:42 GMT"
+          "pubDate": "Sun, 07 Jun 2026 18:56:25 GMT"
         },
         {
           "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "&#8216;Mass casualty event&#8217; reported at West Virginia ball park",
-          "summary": "Multiple people were taken to the hospital Saturday afternoon following what 911 officials called a \"mass casualty event\" at Kendrick Family Ball Park in Morgantown.",
-          "link": "https://thehill.com/homenews/nexstar_media_wire/5913430-mass-casualty-event-reported-at-west-virginia-ball-park/",
-          "pubDate": "Sat, 06 Jun 2026 21:41:32 +0000"
+          "title": "Iranian soccer team arrives in Mexico for World Cup amid US visa issues",
+          "summary": "The Iranian men’s soccer team arrived in Mexico on Sunday, with the FIFA World Cup just four days away.&#160; The Iranian squad posted to Instagram photos of the team, dressed in matching white shirts and blue blazers, boarding a plane in Antalya, Turkey, on Saturday. The team has been training in Turkey ahead of the&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5914041-iran-men-soccer-team-arrives-mexico/",
+          "pubDate": "Sun, 07 Jun 2026 21:43:42 +0000"
         },
         {
-          "title": "Spencer Pratt in Los Angeles spearheads wave of reality stars running for office",
-          "summary": "A new wave of celebrities are appearing on ballots across the country, showing just how far a famous face can carry a candidate to office with no political experience. ​Spencer Pratt, a reality television personality, is in second place in the Los Angeles mayor&#8217;s race. Another reality television star, Luke Gulbranson, has announced his run&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5912766-celebrities-political-ballot-wave/",
-          "pubDate": "Sat, 06 Jun 2026 21:00:00 +0000"
+          "title": "Bolton warns Trump actions in Iran could spark nuclear arms race",
+          "summary": "Former national security adviser John Bolton on Sunday warned that President Trump’s actions in the war against Iran could spark a nuclear arms race. “Whatever deal President Trump makes with Iran, his often-contradictory decisions during the conflict have laid the groundwork for more nuclear proliferation in the Middle East,” Bolton said in an opinion piece&#8230;",
+          "link": "https://thehill.com/policy/defense/5914064-bolton-warns-trump-iran-nuclear/",
+          "pubDate": "Sun, 07 Jun 2026 21:40:33 +0000"
         },
         {
-          "title": "World Cup stadiums earn prestigious certifications as green buildings before matches begin",
-          "summary": "Most of the stadiums for this year&#8217;s FIFA World Cup have achieved green building status after a push for certification in the run-up to the tournament. As the tournament opens, 13 of the 16 stadiums have earned LEED certification, the world&#8217;s most widely used green building rating system, the U.S. Green Building Council said. Ten&#8230;",
-          "link": "https://thehill.com/homenews/ap/ap-sports/5913402-leed-certified-fifa-stadiums/",
-          "pubDate": "Sat, 06 Jun 2026 20:52:59 +0000"
+          "title": "Iran fires on Israel, jeopardizing ceasefire",
+          "summary": "The ceasefire between the U.S. and Iran was tested after the Islamic regime fired missiles at Israel on Sunday, an incident President Trump has been briefed about, a U.S. official told The Hill&#8217;s broadcast partner NewsNation. Iran launched ballistic missiles on northern Israel, with the Israeli Defense Forces (IDF) stating on the social platform X&#8230;",
+          "link": "https://thehill.com/homenews/administration/5914039-iran-fires-on-israel-jeopardizing-ceasefire/",
+          "pubDate": "Sun, 07 Jun 2026 21:22:19 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Turnaround Stories and Shorting Stocks",
-          "summary": "Turnaround Stories and Shorting Stocks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/turnaround-stories-shorting-stocks-223426098.html",
-          "pubDate": "2026-06-06T22:34:26Z"
+          "title": "Here is why Stantec Inc. (STN) is among the Best Water Infrastructure Stocks to Buy for Scarcity Trends",
+          "summary": "Here is why Stantec Inc. (STN) is among the Best Water Infrastructure Stocks to Buy for Scarcity Trends",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-stantec-inc-stn-among-224158502.html",
+          "pubDate": "2026-06-07T22:41:58Z"
         },
         {
-          "title": "5 Best Debt-Free IT Stocks to Buy Now",
-          "summary": "5 Best Debt-Free IT Stocks to Buy Now",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-debt-free-stocks-221049781.html",
-          "pubDate": "2026-06-06T22:10:49Z"
+          "title": "Mueller Water (MWA) Gets A Quiet Target Hike As Results Stay Steady",
+          "summary": "Mueller Water (MWA) Gets A Quiet Target Hike As Results Stay Steady",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/mueller-water-mwa-gets-quiet-224146385.html",
+          "pubDate": "2026-06-07T22:41:46Z"
         },
         {
-          "title": "UWM Holdings (UWMC) Criticized Two Harbors’ Board, Here’s What You Need to Know",
-          "summary": "UWM Holdings (UWMC) Criticized Two Harbors’ Board, Here’s What You Need to Know",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-uwmc-criticized-two-215901442.html",
-          "pubDate": "2026-06-06T21:59:01Z"
+          "title": "Why Analysts Are Still Bullish On United Rentals (URI) Despite Macro Noise",
+          "summary": "Why Analysts Are Still Bullish On United Rentals (URI) Despite Macro Noise",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-bullish-united-224128219.html",
+          "pubDate": "2026-06-07T22:41:28Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -243,15 +243,15 @@
           "pubDate": "Sat, 06 Jun 2026 09:24:27 EDT"
         },
         {
-          "title": "Scientists sound the alarm as dangerous amoebas spread globally",
-          "summary": "Scientists warn that free-living amoebae may be an underappreciated public health threat, capable of causing deadly infections and shielding other dangerous microbes from water treatment. Climate change and aging infrastructure could help these resilient organisms spread more widely in the years ahead.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260606015137.htm",
-          "pubDate": "Sat, 06 Jun 2026 07:35:28 EDT"
+          "title": "Ancient Chinese medicine could transform hair loss treatment",
+          "summary": "A traditional Chinese medicinal root used for over a thousand years is attracting new scientific attention for its potential to combat hair loss. Studies suggest Polygonum multiflorum can block harmful hormones, activate hair-growth signals, protect follicles, and boost blood flow to the scalp. Researchers say the herb’s effects align remarkably well with both ancient descriptions and modern hair biology.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm",
+          "pubDate": "Sun, 07 Jun 2026 04:19:08 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "siteName": "Science News",
       "items": [
         {
