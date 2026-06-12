@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-11T23:00:05.325Z",
-  "date": "2026-06-12",
+  "lastUpdate": "2026-06-12T23:00:05.470Z",
+  "date": "2026-06-13",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service",
-          "summary": "Crowding the gates of a major health care conference, protesters called for Palantir to be booted out of the UK’s National Health Service over privacy concerns and political grievances.",
-          "link": "https://www.wired.com/story/palantir-protests-nhs-conference-uk/",
-          "pubDate": "Thu, 11 Jun 2026 21:33:31 +0000"
+          "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+          "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+          "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+          "pubDate": "Fri, 12 Jun 2026 21:16:25 +0000"
         },
         {
-          "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-          "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
-          "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-          "pubDate": "Thu, 11 Jun 2026 21:21:04 +0000"
+          "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
+          "summary": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
+          "link": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
+          "pubDate": "Fri, 12 Jun 2026 18:03:25 +0000"
         },
         {
-          "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
-          "summary": "Activists raised a 40-foot-tall inflatable Elon Musk in Manhattan to draw attention to the risk he allegedly poses to investors.",
-          "link": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
-          "pubDate": "Thu, 11 Jun 2026 20:50:13 +0000"
+          "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
+          "summary": "A cottage industry of celebrity figurines, blinking screens, and other DIY gadgets is helping drivers bypass Tesla's distracted-driving controls.",
+          "link": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/",
+          "pubDate": "Fri, 12 Jun 2026 17:57:34 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-          "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-          "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-          "pubDate": "Thu, 11 Jun 2026 20:33:10 +0000"
+          "title": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google",
+          "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+          "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+          "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000"
         },
         {
-          "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-          "summary": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
-          "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-          "pubDate": "Thu, 11 Jun 2026 20:27:25 +0000"
+          "title": "SpaceX IPO closes up 19% and delivers the world&#8217;s first trillionaire",
+          "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+          "pubDate": "Fri, 12 Jun 2026 20:20:00 +0000"
         },
         {
-          "title": "SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-ups lift",
-          "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
-          "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-          "pubDate": "Thu, 11 Jun 2026 19:58:01 +0000"
+          "title": "SpaceX IPO: Live updates on everything you need to know",
+          "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+          "pubDate": "Fri, 12 Jun 2026 20:04:38 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "El Niño under way and threatens weather extremes, scientists say",
-          "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-          "link": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 11 Jun 2026 13:26:24 GMT"
+          "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+          "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 12 Jun 2026 21:04:05 GMT"
         },
         {
-          "title": "Deadly Sudan drone strike targets funeral procession",
-          "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
-          "link": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 11 Jun 2026 15:57:04 GMT"
+          "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+          "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+          "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 12 Jun 2026 22:00:52 GMT"
         },
         {
-          "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-          "summary": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
-          "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 11 Jun 2026 20:26:06 GMT"
+          "title": "French town buries murdered child as questions mount over police failings",
+          "summary": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
+          "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 12 Jun 2026 16:19:12 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it",
+          "summary": "The S&P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
+          "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
+          "pubDate": "Fri, 12 Jun 2026 15:59:09 GMT"
+        },
+        {
+          "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+          "summary": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
+          "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+          "pubDate": "Fri, 12 Jun 2026 11:34:46 GMT"
+        },
         {
           "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
           "summary": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
           "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
-          "pubDate": "Thu, 11 Jun 2026 22:21:47 GMT"
-        },
-        {
-          "title": "SpaceX to close above $2 trillion market cap on its debut, prediction market traders say",
-          "summary": "Traders on Polymarket think it's likely SpaceX will join a group of just six companies with a market value beyond $2 trillion.",
-          "link": "https://www.cnbc.com/2026/06/11/spacex-to-close-above-2-trillion-market-cap-on-its-debut-traders-say.html",
-          "pubDate": "Thu, 11 Jun 2026 21:44:43 GMT"
-        },
-        {
-          "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
-          "summary": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
-          "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
-          "pubDate": "Thu, 11 Jun 2026 22:53:14 GMT"
+          "pubDate": "Fri, 12 Jun 2026 14:50:28 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Senate defense policy bill excludes IVF provision",
-          "summary": "The Senate Armed Services Committee rejected a provision in the annual defense policy bill that would have expanded coverage of fertility services for military members and their families, including in vitro fertilization, according to Sen. Tammy Duckworth (D-Ill.). “All my provision&#160;seeks&#160;to do is provide our troops with the same access to IVF that all Members of Congress already have. After everything our&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5920930-senate-defense-bill-excludes-ivf-coverage/",
-          "pubDate": "Thu, 11 Jun 2026 22:28:13 +0000"
+          "title": "Trillionaire Elon Musk makes history with SpaceX IPO: 5 takeaways",
+          "summary": "Elon Musk’s SpaceX went public Friday, setting a new record with its stock market debut and turning the tech mogul into the world’s first trillionaire. The highly anticipated initial public offering (IPO) popped 11 percent when trading officially opened on the Nasdaq, sending the company’s valuation soaring to a massive $1.96 trillion. Here are five&#8230;",
+          "link": "https://thehill.com/policy/technology/5922382-elon-musk-trillionaire-spacex-ipo/",
+          "pubDate": "Fri, 12 Jun 2026 22:10:04 +0000"
         },
         {
-          "title": "Judge rules Ken Paxton cannot move forward with ActBlue lawsuit",
-          "summary": "A federal judge in Massachusetts ruled Thursday that Texas Attorney General Ken Paxton (R) cannot move forward with a donation-vetting lawsuit against progressive fundraising platform ActBlue. District Judge Richard G. Stearns blocked Paxton from “continuing to litigate” the case, finding that ActBlue was likely to succeed in its claims that the action infringed on its&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5920896-texas-ken-paxton-actblue-fundraising-lawsuit-halted/",
-          "pubDate": "Thu, 11 Jun 2026 22:06:34 +0000"
+          "title": "Leaked Iran deal details anger Trump",
+          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} View Online Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Leaked Iran deal details anger Trump President Trump on Thursday lauded an Iran deal he said could be signed as soon as this weekend. As Iranian state media leaked what it said were details&#8230;",
+          "link": "https://thehill.com/homenews/5922450-trump-iran-deal-leak-reports-anger/",
+          "pubDate": "Fri, 12 Jun 2026 21:51:45 +0000"
         },
         {
-          "title": "Kaitlan Collins: MAGA base doesn&#8217;t realize Trump &#8216;seeks validation&#8217; from mainstream media",
-          "summary": "CNN&#8217;s Kaitlan Collins said Tuesday in an interview that President Trump&#8217;s core base of supporters do not know that he &#8220;seeks validation&#8221; from the news media, despite his longstanding feud with the news media. The CNN reporter spoke with New York Times reporter Shawn McCreesh for Interview magazine about the president&#8217;s relationship with the media. Collins&#8230;",
-          "link": "https://thehill.com/media/5920757-trump-media-feud-cnn-kaitlan/",
-          "pubDate": "Thu, 11 Jun 2026 21:49:57 +0000"
+          "title": "Democrat urges Comer to call Vance, White House officials for questioning over Epstein files report",
+          "summary": "A top Democrat on the House Oversight Committee urged Rep. James Comer (R-Ky.) on Friday to call several Trump administration officials in for testimony following an explosive report on the White House’s purported efforts&#160;to contain the scandal surrounding convicted sex offender Jeffrey Epstein. Rep. Robert Garcia (D-Calif.) pressed Comer in a letter&#160;to “take immediate steps”&#8230;",
+          "link": "https://thehill.com/homenews/house/5922434-epstein-files-white-house-robert-garcia-house-testimony/",
+          "pubDate": "Fri, 12 Jun 2026 21:44:13 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Follow The Money: How Blackstone's AI Kingmaker Role Spans Google, Anthropic And More",
-          "summary": "Follow The Money: How Blackstone's AI Kingmaker Role Spans Google, Anthropic And More",
-          "link": "https://www.investors.com/news/technology/google-stock-blackstone-joint-venture-ai-data-centers-nvidia/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-06-10T15:26:01Z"
+          "title": "Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena",
+          "summary": "Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/securitize-brings-tokenized-clo-fund-194300779.html",
+          "pubDate": "2026-06-12T19:43:00Z"
         },
         {
-          "title": "Should You Buy CrowdStrike Before Its Stock Split?",
-          "summary": "Should You Buy CrowdStrike Before Its Stock Split?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-crowdstrike-stock-split-152500946.html",
-          "pubDate": "2026-06-10T15:25:00Z"
+          "title": "Think you're ready to retire? Here's the average savings for a 60-year-old, plus 4 ways to catch up if you're behind",
+          "summary": "Think you're ready to retire? Here's the average savings for a 60-year-old, plus 4 ways to catch up if you're behind",
+          "link": "https://finance.yahoo.com/markets/options/articles/think-youre-ready-retire-heres-154500402.html",
+          "pubDate": "2026-06-11T15:45:00Z"
         },
         {
-          "title": "Stocks Resume Decline as Chipmakers and AI Companies Fall",
-          "summary": "Stocks Resume Decline as Chipmakers and AI Companies Fall",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-resume-decline-chipmakers-ai-152145497.html",
-          "pubDate": "2026-06-10T15:21:45Z"
+          "title": "HOOD Stock Pops as Robinhood Plans to Enter the IPO Market as Underwriter",
+          "summary": "HOOD Stock Pops as Robinhood Plans to Enter the IPO Market as Underwriter",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/hood-stock-pops-robinhood-plans-154602558.html",
+          "pubDate": "2026-06-11T15:46:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists discover a strange property in rice and turn it into a smart material",
-          "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts differently to gentle movements and sudden impacts. The material can adapt its stiffness automatically, opening the door to safer soft robots and protective equipment that responds instantly to collisions.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
-          "pubDate": "Thu, 11 Jun 2026 08:29:52 EDT"
+          "title": "These tiny holes could change how the world cleans water",
+          "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption, improving water reuse, and delivering separation performance far beyond current filters.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
+          "pubDate": "Fri, 12 Jun 2026 09:13:19 EDT"
         },
         {
-          "title": "The deadly tapeworm spreading across America has reached the Pacific Northwest",
-          "summary": "A potentially dangerous tapeworm linked to severe, cancer-like disease has now been found in the Pacific Northwest, marking its first detection in wild animals along the U.S. West Coast. Researchers discovered the parasite, Echinococcus multilocularis, in 37% of coyotes tested around Puget Sound—a surprisingly high rate for a region where it had never been reported until recently.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260611024610.htm",
-          "pubDate": "Thu, 11 Jun 2026 09:31:42 EDT"
+          "title": "Alaska’s glaciers have a startling response to rising temperatures",
+          "summary": "Alaska’s glaciers are proving to be highly sensitive to warming temperatures. Using radar satellites to monitor more than 3,000 glaciers, researchers found that every 1°C (1.8°F) increase in average summer temperature extends glacier melting by about three weeks. The study also revealed that intense heat waves can strip away up to 28% more protective snow cover, exposing ice much earlier than normal and accelerating ice loss.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260612032047.htm",
+          "pubDate": "Fri, 12 Jun 2026 09:45:46 EDT"
         },
         {
-          "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
-          "summary": "NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations with lunar landers being developed by both Blue Origin and SpaceX. The mission will require a remarkable sequence of heavy-lift rocket launches and complex in-space maneuvers, helping pave the way for future Moon landings and eventually crewed missions to Mars.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
-          "pubDate": "Thu, 11 Jun 2026 08:02:51 EDT"
+          "title": "Scientists discover a surprising cancer link to Alzheimer’s disease",
+          "summary": "Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and potential treatments borrowed from cancer medicine.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm",
+          "pubDate": "Fri, 12 Jun 2026 08:47:31 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Songs prep the brains of finches yet to hatch for a hot world",
-          "summary": "Adult finches make \"heat calls\" as the temperature rises. Exposure to the song prepares their unhatched young's brains for the heat.",
-          "link": "https://www.sciencenews.org/article/songs-prep-unhatched-finches-hot-world",
-          "pubDate": "Thu, 11 Jun 2026 22:00:00 +0000"
+          "title": "A popular sunscreen ingredient can finally be sold in the United States",
+          "summary": "The FDA will allow bemotrizinol in sunscreen. The chemical is long-lasting and defends against solar radiation that ages skin.",
+          "link": "https://www.sciencenews.org/article/sunscreen-bemotrizinol-fda-safe",
+          "pubDate": "Fri, 12 Jun 2026 18:58:30 +0000"
         },
         {
-          "title": "Measles has no treatments. Getting some may not be easy",
-          "summary": "Vaccination remains the priority, but some researchers are looking for drugs to fight the virus in people who don't get the shot.",
-          "link": "https://www.sciencenews.org/article/measles-treatments-vaccine-clinical-trial",
-          "pubDate": "Thu, 11 Jun 2026 19:04:23 +0000"
+          "title": "A new method could spot fentanyl variants no one has cataloged yet",
+          "summary": "Researchers used machine learning to help predict chemical signatures for over 1 billion possible fentanyls, including variants never seen before.",
+          "link": "https://www.sciencenews.org/article/fentanyl-variants-new-detection-method",
+          "pubDate": "Fri, 12 Jun 2026 17:00:00 +0000"
         },
         {
-          "title": "Clocks made from an atomic nucleus just ticked on for the first time",
-          "summary": "First dreamed up decades ago, the world's first nuclear clocks are set to improve quickly, becoming more precise and aiding the hunt for dark matter.",
-          "link": "https://www.sciencenews.org/article/nuclear-clock-atomic-nucleus-first",
-          "pubDate": "Thu, 11 Jun 2026 15:00:00 +0000"
+          "title": "Crossword: Power play",
+          "summary": "Solve the crossword from our July 2026 issue, in which we raise our solving skills to the next level.",
+          "link": "https://www.sciencenews.org/article/crossword-power-play-july-2026-puzzle",
+          "pubDate": "Fri, 12 Jun 2026 16:00:00 +0000"
         }
       ]
     }
