@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-12T23:00:05.470Z",
-  "date": "2026-06-13",
+  "lastUpdate": "2026-06-13T23:00:58.480Z",
+  "date": "2026-06-14",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-          "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
-          "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-          "pubDate": "Fri, 12 Jun 2026 21:16:25 +0000"
+          "title": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
+          "summary": "The rest of Dyson’s promised 2026 vacuum lineup is here, from the new Dyson V16 Piston Animal to an updated version of the favored Dyson V8 Cyclone.",
+          "link": "https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/",
+          "pubDate": "Sat, 13 Jun 2026 11:33:00 +0000"
         },
         {
-          "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
-          "summary": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
-          "link": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
-          "pubDate": "Fri, 12 Jun 2026 18:03:25 +0000"
+          "title": "How Can Soccer Players Bend Their Shots in Midair?",
+          "summary": "As World Cup action kicks off, we look at the physics of the beautiful game.",
+          "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
+          "pubDate": "Sat, 13 Jun 2026 11:00:00 +0000"
         },
         {
-          "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
-          "summary": "A cottage industry of celebrity figurines, blinking screens, and other DIY gadgets is helping drivers bypass Tesla's distracted-driving controls.",
-          "link": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/",
-          "pubDate": "Fri, 12 Jun 2026 17:57:34 +0000"
+          "title": "The FCC Wants to Kill Burner Phones",
+          "summary": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
+          "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
+          "pubDate": "Sat, 13 Jun 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google",
-          "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-          "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-          "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000"
+          "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+          "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+          "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+          "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000"
         },
         {
-          "title": "SpaceX IPO closes up 19% and delivers the world&#8217;s first trillionaire",
-          "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
-          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
-          "pubDate": "Fri, 12 Jun 2026 20:20:00 +0000"
+          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+          "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+          "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+          "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000"
         },
         {
-          "title": "SpaceX IPO: Live updates on everything you need to know",
-          "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-          "pubDate": "Fri, 12 Jun 2026 20:04:38 +0000"
+          "title": "OpenAI faces investigation from state attorneys general",
+          "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+          "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+          "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-          "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
-          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 12 Jun 2026 21:04:05 GMT"
+          "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+          "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+          "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 13 Jun 2026 18:39:26 GMT"
         },
         {
-          "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-          "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
-          "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 12 Jun 2026 22:00:52 GMT"
+          "title": "Switzerland to vote on plan to cap population at 10 million",
+          "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 13 Jun 2026 11:47:42 GMT"
         },
         {
-          "title": "French town buries murdered child as questions mount over police failings",
-          "summary": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
-          "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 12 Jun 2026 16:19:12 GMT"
+          "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+          "summary": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
+          "link": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 13 Jun 2026 22:17:08 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
+          "summary": "Peter Haynes, TD Securities' head of index and market structure, suggests SpaceX's public debut is only a small part of the larger SpaceX timeline.",
+          "link": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
+          "pubDate": "Sat, 13 Jun 2026 15:00:01 GMT"
+        },
         {
           "title": "The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it",
           "summary": "The S&P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
@@ -145,17 +151,11 @@
           "summary": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
           "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
           "pubDate": "Fri, 12 Jun 2026 11:34:46 GMT"
-        },
-        {
-          "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
-          "summary": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
-          "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
-          "pubDate": "Fri, 12 Jun 2026 14:50:28 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trillionaire Elon Musk makes history with SpaceX IPO: 5 takeaways",
-          "summary": "Elon Musk’s SpaceX went public Friday, setting a new record with its stock market debut and turning the tech mogul into the world’s first trillionaire. The highly anticipated initial public offering (IPO) popped 11 percent when trading officially opened on the Nasdaq, sending the company’s valuation soaring to a massive $1.96 trillion. Here are five&#8230;",
-          "link": "https://thehill.com/policy/technology/5922382-elon-musk-trillionaire-spacex-ipo/",
-          "pubDate": "Fri, 12 Jun 2026 22:10:04 +0000"
+          "title": "Trump taps James McDonald as US Attorney for Manhattan, replacing DNI pick Clayton",
+          "summary": "President Trump said on Saturday that he plans to tap James McDonald to serve as U.S. Attorney for the Southern District of New York, replacing Jay Clayton, who was nominated as director of national intelligence earlier this week. Trump made the announcement in a post on Truth Social on Saturday, ending speculation about who could&#8230;",
+          "link": "https://thehill.com/homenews/administration/5923092-mcdonald-named-us-attorney/",
+          "pubDate": "Sat, 13 Jun 2026 22:33:35 +0000"
         },
         {
-          "title": "Leaked Iran deal details anger Trump",
-          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} View Online Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Leaked Iran deal details anger Trump President Trump on Thursday lauded an Iran deal he said could be signed as soon as this weekend. As Iranian state media leaked what it said were details&#8230;",
-          "link": "https://thehill.com/homenews/5922450-trump-iran-deal-leak-reports-anger/",
-          "pubDate": "Fri, 12 Jun 2026 21:51:45 +0000"
+          "title": "Sunday shows preview: Will US, Iran finalize peace deal amid reported optimism?",
+          "summary": "The U.S. and Iran moved closer this week to reaching an agreement aimed at ending the conflict, easing nuclear tensions and reopening the Strait of Hormuz, but it remains to be seen whether the claim of a deal&#160;President Trump has made repeatedly over the past three months will finally come to fruition. &#160; Trump told&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5923077-iran-us-deal-nuclear-sunday-shows/",
+          "pubDate": "Sat, 13 Jun 2026 21:48:34 +0000"
         },
         {
-          "title": "Democrat urges Comer to call Vance, White House officials for questioning over Epstein files report",
-          "summary": "A top Democrat on the House Oversight Committee urged Rep. James Comer (R-Ky.) on Friday to call several Trump administration officials in for testimony following an explosive report on the White House’s purported efforts&#160;to contain the scandal surrounding convicted sex offender Jeffrey Epstein. Rep. Robert Garcia (D-Calif.) pressed Comer in a letter&#160;to “take immediate steps”&#8230;",
-          "link": "https://thehill.com/homenews/house/5922434-epstein-files-white-house-robert-garcia-house-testimony/",
-          "pubDate": "Fri, 12 Jun 2026 21:44:13 +0000"
+          "title": "Trump creates tricky terrain for Hilton in California governor&#8217;s race",
+          "summary": "President Trump&#8217;s voter fraud accusations in California are already highlighting the tricky terrain facing gubernatorial nominee Steve Hilton as he navigates running as a Trump-endorsed Republican in a state where the president is hugely unpopular.&#160; The British political adviser-turned-U.S. politician touted what is the most sought-after endorsement in GOP politics at every turn on the&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5920912-steve-hilton-trump-endorsement-california-governor-race/",
+          "pubDate": "Sat, 13 Jun 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,45 +213,45 @@
           "pubDate": "2026-06-12T19:43:00Z"
         },
         {
-          "title": "Think you're ready to retire? Here's the average savings for a 60-year-old, plus 4 ways to catch up if you're behind",
-          "summary": "Think you're ready to retire? Here's the average savings for a 60-year-old, plus 4 ways to catch up if you're behind",
-          "link": "https://finance.yahoo.com/markets/options/articles/think-youre-ready-retire-heres-154500402.html",
-          "pubDate": "2026-06-11T15:45:00Z"
+          "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
+          "summary": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
+          "pubDate": "2026-06-13T21:00:00Z"
         },
         {
-          "title": "HOOD Stock Pops as Robinhood Plans to Enter the IPO Market as Underwriter",
-          "summary": "HOOD Stock Pops as Robinhood Plans to Enter the IPO Market as Underwriter",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/hood-stock-pops-robinhood-plans-154602558.html",
-          "pubDate": "2026-06-11T15:46:02Z"
+          "title": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
+          "summary": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-inc-cdns-205647025.html",
+          "pubDate": "2026-06-13T20:56:47Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "These tiny holes could change how the world cleans water",
-          "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption, improving water reuse, and delivering separation performance far beyond current filters.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
-          "pubDate": "Fri, 12 Jun 2026 09:13:19 EDT"
+          "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
+          "summary": "A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dangerous animal in the ecosystem and may have regularly hunted early human relatives.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm",
+          "pubDate": "Sat, 13 Jun 2026 10:13:48 EDT"
         },
         {
-          "title": "Alaska’s glaciers have a startling response to rising temperatures",
-          "summary": "Alaska’s glaciers are proving to be highly sensitive to warming temperatures. Using radar satellites to monitor more than 3,000 glaciers, researchers found that every 1°C (1.8°F) increase in average summer temperature extends glacier melting by about three weeks. The study also revealed that intense heat waves can strip away up to 28% more protective snow cover, exposing ice much earlier than normal and accelerating ice loss.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260612032047.htm",
-          "pubDate": "Fri, 12 Jun 2026 09:45:46 EDT"
+          "title": "Alien planet spins revealed a hidden clue to how worlds form",
+          "summary": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brown dwarfs, challenging simple assumptions about mass and rotation. The results suggest that magnetic fields and formation processes play a major role in determining how fast worlds end up spinning.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
+          "pubDate": "Sat, 13 Jun 2026 08:57:55 EDT"
         },
         {
-          "title": "Scientists discover a surprising cancer link to Alzheimer’s disease",
-          "summary": "Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and potential treatments borrowed from cancer medicine.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm",
-          "pubDate": "Fri, 12 Jun 2026 08:47:31 EDT"
+          "title": "Your brain can keep improving into your 90s, study finds",
+          "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
+          "pubDate": "Sat, 13 Jun 2026 10:47:04 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "siteName": "Science News",
       "items": [
         {
