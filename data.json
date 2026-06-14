@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-13T23:00:58.480Z",
-  "date": "2026-06-14",
+  "lastUpdate": "2026-06-14T23:01:04.763Z",
+  "date": "2026-06-15",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
-          "summary": "The rest of Dyson’s promised 2026 vacuum lineup is here, from the new Dyson V16 Piston Animal to an updated version of the favored Dyson V8 Cyclone.",
-          "link": "https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/",
-          "pubDate": "Sat, 13 Jun 2026 11:33:00 +0000"
+          "title": "20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)",
+          "summary": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+          "link": "https://www.wired.com/gallery/best-gifts-for-men-2026/",
+          "pubDate": "Sun, 14 Jun 2026 11:36:00 +0000"
         },
         {
-          "title": "How Can Soccer Players Bend Their Shots in Midair?",
-          "summary": "As World Cup action kicks off, we look at the physics of the beautiful game.",
-          "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
-          "pubDate": "Sat, 13 Jun 2026 11:00:00 +0000"
+          "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
+          "summary": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
+          "link": "https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/",
+          "pubDate": "Sun, 14 Jun 2026 11:00:00 +0000"
         },
         {
-          "title": "The FCC Wants to Kill Burner Phones",
-          "summary": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
-          "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
-          "pubDate": "Sat, 13 Jun 2026 10:30:00 +0000"
+          "title": "Suunto Spark Review: The Perfect Pair for Runs and Rides",
+          "summary": "Suunto swaps bone for air conduction, giving these open-ear earbuds a perfect fit for the great outdoors.",
+          "link": "https://www.wired.com/review/suunto-spark/",
+          "pubDate": "Sun, 14 Jun 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-          "summary": "Once again, AI proves to be an unreliable source of information about AI.",
-          "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-          "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000"
+          "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+          "summary": "JPMorgan can't be pleased by any of this.",
+          "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+          "pubDate": "Sun, 14 Jun 2026 21:55:34 +0000"
         },
         {
-          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-          "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-          "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-          "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000"
+          "title": "UK may ban social media for children under 16",
+          "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+          "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+          "pubDate": "Sun, 14 Jun 2026 20:17:00 +0000"
         },
         {
-          "title": "OpenAI faces investigation from state attorneys general",
-          "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-          "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-          "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000"
+          "title": "As AI companies race to go public, who else is along for the ride?",
+          "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+          "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+          "pubDate": "Sun, 14 Jun 2026 16:38:09 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-          "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
-          "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 13 Jun 2026 18:39:26 GMT"
+          "title": "Swiss voters reject 10 million population cap",
+          "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
+          "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 14 Jun 2026 18:23:52 GMT"
         },
         {
-          "title": "Switzerland to vote on plan to cap population at 10 million",
-          "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
-          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 13 Jun 2026 11:47:42 GMT"
+          "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+          "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+          "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 14 Jun 2026 14:08:03 GMT"
         },
         {
-          "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
-          "summary": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
-          "link": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 13 Jun 2026 22:17:08 GMT"
+          "title": "Protesters clash with police ahead of G7 summit in Geneva",
+          "summary": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+          "link": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 14 Jun 2026 19:46:36 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Charlie Javice reportedly seeking a pardon from Trump",
+          "summary": "Javice founded a startup called Frank that JPMorgan acquired in 2021 for $175 million.",
+          "link": "https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html",
+          "pubDate": "Sun, 14 Jun 2026 20:29:12 GMT"
+        },
         {
           "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
           "summary": "Peter Haynes, TD Securities' head of index and market structure, suggests SpaceX's public debut is only a small part of the larger SpaceX timeline.",
@@ -145,17 +151,11 @@
           "summary": "The S&P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
           "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
           "pubDate": "Fri, 12 Jun 2026 15:59:09 GMT"
-        },
-        {
-          "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-          "summary": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
-          "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
-          "pubDate": "Fri, 12 Jun 2026 11:34:46 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump taps James McDonald as US Attorney for Manhattan, replacing DNI pick Clayton",
-          "summary": "President Trump said on Saturday that he plans to tap James McDonald to serve as U.S. Attorney for the Southern District of New York, replacing Jay Clayton, who was nominated as director of national intelligence earlier this week. Trump made the announcement in a post on Truth Social on Saturday, ending speculation about who could&#8230;",
-          "link": "https://thehill.com/homenews/administration/5923092-mcdonald-named-us-attorney/",
-          "pubDate": "Sat, 13 Jun 2026 22:33:35 +0000"
+          "title": "Pence cast doubt on possibility of US, Iran peace deal before Trump announcement",
+          "summary": "Former Vice President Mike Pence cast doubt on the possibility of a deal between Iran and the U.S. over the two countries’ war shortly before President Trump announced a deal has been reached on Sunday. “My concern right now is not with the intentions of the president. Look, I think the president has earned a&#8230;",
+          "link": "https://thehill.com/policy/international/5923793-mike-pence-iran-deal/",
+          "pubDate": "Sun, 14 Jun 2026 22:12:55 +0000"
         },
         {
-          "title": "Sunday shows preview: Will US, Iran finalize peace deal amid reported optimism?",
-          "summary": "The U.S. and Iran moved closer this week to reaching an agreement aimed at ending the conflict, easing nuclear tensions and reopening the Strait of Hormuz, but it remains to be seen whether the claim of a deal&#160;President Trump has made repeatedly over the past three months will finally come to fruition. &#160; Trump told&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5923077-iran-us-deal-nuclear-sunday-shows/",
-          "pubDate": "Sat, 13 Jun 2026 21:48:34 +0000"
+          "title": "Carville says El-Sayed can defeat Rogers in Michigan Senate race",
+          "summary": "Democratic strategist James Carville said Sunday that Michigan Senate candidate Abdul El-Sayed can beat former Rep. Mike Rogers (R-Mich.) in November. “Can Abdul El-Sayed beat Mike Rogers in a red-tinged swing state?” NewsNation’s Chris Stirewalt asked Carville on “The Hill Sunday.” “Well, sure he can, but he has to be the nominee first, and it&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5923737-carville-says-el-sayed-can-defeat-rogers-in-michigan-senate-race/",
+          "pubDate": "Sun, 14 Jun 2026 22:08:55 +0000"
         },
         {
-          "title": "Trump creates tricky terrain for Hilton in California governor&#8217;s race",
-          "summary": "President Trump&#8217;s voter fraud accusations in California are already highlighting the tricky terrain facing gubernatorial nominee Steve Hilton as he navigates running as a Trump-endorsed Republican in a state where the president is hugely unpopular.&#160; The British political adviser-turned-U.S. politician touted what is the most sought-after endorsement in GOP politics at every turn on the&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5920912-steve-hilton-trump-endorsement-california-governor-race/",
-          "pubDate": "Sat, 13 Jun 2026 21:00:00 +0000"
+          "title": "Trump announces deal with Iran",
+          "summary": "President Trump announced Sunday that his administration has reached a deal with the Iranian government, signaling a potential end to a three-and-a-half month conflict in the Middle East. “The Deal with the Islamic Republic of Iran is now complete,” Trump wrote on his Truth Social platform. “Congratulations to all! I hereby fully authorize the toll&#8230;",
+          "link": "https://thehill.com/homenews/administration/5923788-trump-announces-iran-deal/",
+          "pubDate": "Sun, 14 Jun 2026 22:05:09 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena",
-          "summary": "Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/securitize-brings-tokenized-clo-fund-194300779.html",
-          "pubDate": "2026-06-12T19:43:00Z"
+          "title": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal",
+          "summary": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal",
+          "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html",
+          "pubDate": "2026-06-14T22:47:51Z"
         },
         {
-          "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
-          "summary": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
-          "link": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
-          "pubDate": "2026-06-13T21:00:00Z"
+          "title": "What Does an Adaptive Biotech Insider's Sale of Nearly 40,000 Shares Mean for Investors?",
+          "summary": "What Does an Adaptive Biotech Insider's Sale of Nearly 40,000 Shares Mean for Investors?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/does-adaptive-biotech-insiders-sale-224603676.html",
+          "pubDate": "2026-06-14T22:46:03Z"
         },
         {
-          "title": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
-          "summary": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-inc-cdns-205647025.html",
-          "pubDate": "2026-06-13T20:56:47Z"
+          "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test",
+          "summary": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-06-14T22:42:59Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
-          "summary": "A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dangerous animal in the ecosystem and may have regularly hunted early human relatives.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm",
-          "pubDate": "Sat, 13 Jun 2026 10:13:48 EDT"
+          "title": "A dying star could create a new universe instead of a black hole",
+          "summary": "What if some black holes aren’t black holes at all? A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon. Instead, the collapse could trigger the birth of a tiny new universe inside the dying star. Driven by dark energy, this miniature cosmos would expand and push back against gravity, preventing complete collapse and creating an exotic object known as a gravastar.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm",
+          "pubDate": "Sun, 14 Jun 2026 04:08:31 EDT"
         },
         {
-          "title": "Alien planet spins revealed a hidden clue to how worlds form",
-          "summary": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brown dwarfs, challenging simple assumptions about mass and rotation. The results suggest that magnetic fields and formation processes play a major role in determining how fast worlds end up spinning.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
-          "pubDate": "Sat, 13 Jun 2026 08:57:55 EDT"
+          "title": "Scientists found a surprising problem with sugar-free diets",
+          "summary": "A surprising new study suggests that completely eliminating sugar may backfire. Mice on a sucrose-free low-fat diet showed worse blood sugar control, increased inflammation, disrupted gut bacteria, and signs of fatty liver compared with mice that consumed some sucrose. Researchers say the results highlight the importance of a balanced diet and a healthy gut microbiome rather than focusing solely on cutting out sugar.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260614011843.htm",
+          "pubDate": "Sun, 14 Jun 2026 02:37:07 EDT"
         },
         {
-          "title": "Your brain can keep improving into your 90s, study finds",
-          "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measurable gains across multiple aspects of brain health, including thinking clarity, emotional well-being, and sense of purpose.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
-          "pubDate": "Sat, 13 Jun 2026 10:47:04 EDT"
+          "title": "People taking GLP-1 weight loss drugs like Ozempic started moving less",
+          "summary": "People taking popular weight-loss drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound may be losing pounds, but they could also be moving less. Researchers analyzing Fitbit data found that daily step counts and exercise levels dropped after people started these medications, despite successful weight loss. Because the drugs can reduce muscle mass along with fat, the decline in physical activity raises concerns about preserving strength and long-term health.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260614011841.htm",
+          "pubDate": "Sun, 14 Jun 2026 02:28:54 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "siteName": "Science News",
       "items": [
         {
