@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-16T23:00:04.535Z",
-  "date": "2026-06-17",
+  "lastUpdate": "2026-06-17T23:00:04.731Z",
+  "date": "2026-06-18",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society",
-          "summary": "More than 200 of the world's elites registered for a retreat whose agenda runs from panels on cult-building and sex to prepping for World War III. An associated app offers matchmaking.",
-          "link": "https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/",
-          "pubDate": "Tue, 16 Jun 2026 20:21:57 +0000"
+          "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+          "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+          "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+          "pubDate": "Wed, 17 Jun 2026 22:52:00 +0000"
         },
         {
-          "title": "Why the Reflecting Pool Is Full of Algae After Trump's Renovation",
-          "summary": "Warm weather has fueled a bloom that National Park Service workers are trying to kill using everything from hydrogen peroxide to nanobubbles ahead of July 4 celebrations.",
-          "link": "https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/",
-          "pubDate": "Tue, 16 Jun 2026 18:14:59 +0000"
+          "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+          "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+          "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+          "pubDate": "Wed, 17 Jun 2026 18:25:35 +0000"
         },
         {
-          "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-          "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-          "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-          "pubDate": "Tue, 16 Jun 2026 17:50:52 +0000"
+          "title": "No, I Don’t Want to Watch Your Straight Hockey Show",
+          "summary": "From Amazon’s Off Campus to Netflix’s upcoming Icebreakers, the recent spate of hetero hockey romances shows Hollywood learned the wrong lessons from Heated Rivalry.",
+          "link": "https://www.wired.com/story/story/no-i-dont-want-to-watch-your-straight-hockey-show-heated-rivalry/",
+          "pubDate": "Wed, 17 Jun 2026 18:23:30 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests",
-          "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-          "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-          "pubDate": "Tue, 16 Jun 2026 22:34:17 +0000"
+          "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won&#8217;t be selling AI",
+          "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+          "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+          "pubDate": "Wed, 17 Jun 2026 21:30:50 +0000"
         },
         {
-          "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-          "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
-          "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-          "pubDate": "Tue, 16 Jun 2026 22:09:32 +0000"
+          "title": "Roelof Botha joins SpaceX&#8217;s board of directors",
+          "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+          "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+          "pubDate": "Wed, 17 Jun 2026 20:32:52 +0000"
         },
         {
-          "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-          "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-          "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-          "pubDate": "Tue, 16 Jun 2026 20:11:00 +0000"
+          "title": "After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a dive",
+          "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+          "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+          "pubDate": "Wed, 17 Jun 2026 20:24:28 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-          "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
-          "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 16 Jun 2026 15:31:24 GMT"
+          "title": "Iran sends tankers loaded with oil past US military blockade",
+          "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+          "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 17 Jun 2026 13:27:47 GMT"
         },
         {
-          "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-          "summary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
-          "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 16 Jun 2026 16:20:33 GMT"
+          "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+          "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+          "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 17 Jun 2026 09:13:34 GMT"
         },
         {
-          "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-          "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
-          "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 16 Jun 2026 21:44:25 GMT"
+          "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+          "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+          "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 17 Jun 2026 16:50:42 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Michael Burry says he&apos;s tempted to bet against SpaceX, but passes on expensive options",
-          "summary": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
-          "link": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
-          "pubDate": "Tue, 16 Jun 2026 20:55:45 GMT"
+          "title": "Jeffrey Gundlach says Fed&apos;s Warsh is not going to be the &apos;easy money&apos; chairman many hoped for",
+          "summary": "Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.",
+          "link": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
+          "pubDate": "Wed, 17 Jun 2026 20:26:56 GMT"
         },
         {
-          "title": "Fed Chair Warsh expected to withhold &apos;dot&apos; from central bank&apos;s interest rate outlook",
-          "summary": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
-          "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
-          "pubDate": "Tue, 16 Jun 2026 19:12:13 GMT"
+          "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
+          "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
+          "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
+          "pubDate": "Wed, 17 Jun 2026 19:27:43 GMT"
         },
         {
-          "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
-          "summary": "Traders think it's more likely than not that access is restored by July 1.",
-          "link": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
-          "pubDate": "Tue, 16 Jun 2026 15:44:01 GMT"
+          "title": "Chairman Warsh drastically alters Fed rate statement. Here&apos;s what&apos;s changed",
+          "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
+          "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+          "pubDate": "Wed, 17 Jun 2026 19:25:18 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Senate votes to consider bipartisan housing bill after months of GOP infighting",
-          "summary": "The Senate voted 87-8 on Tuesday to consider a bipartisan housing bill after months of haggling between the House and Senate GOP. The version ultimately agreed to by the House and Senate includes language to limit institutional investors&#8217; ability to buy up single-family homes, which House Republicans had fought to include.&#160; Sen. Tim Scott (R-S.C.),&#8230;",
-          "link": "https://thehill.com/homenews/senate/5927130-housing-bill-limits-investor-purchases/",
-          "pubDate": "Tue, 16 Jun 2026 22:18:30 +0000"
+          "title": "The Memo: Hawks lament ‘disaster’ on Iran as Trump strains to sell deal",
+          "summary": "President Trump tried to make the case for his interim peace deal with Iran on Wednesday, but a lengthy news conference only revealed that no last-minute rabbits would be pulled from the hat to assuage his critics. Trump’s comments, delivered as he prepared to leave a Group of Seven (G7) summit in France, also exposed&#8230;",
+          "link": "https://thehill.com/homenews/administration/5929372-trump-defends-iran-missile-rights/",
+          "pubDate": "Wed, 17 Jun 2026 22:24:53 +0000"
         },
         {
-          "title": "White House knocks George Conway ad promising impeachment",
-          "summary": "The White House on Tuesday knocked outspoken Trump critic and New York congressional candidate George Conway (D) for airing a congressional campaign ad where he promises to impeach President Trump. &#8220;Lightweight George Conway is a stupid person’s idea of a smart person,&#8221; White House spokesperson Davis Ingle told The Hill. &#8220;His severe and debilitating disease&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5927008-white-house-criticizes-george-conway/",
-          "pubDate": "Tue, 16 Jun 2026 22:14:24 +0000"
+          "title": "Trump signs MOU with Iran ending war while at Versailles with Macron",
+          "summary": "President Trump on Wednesday signed the memorandum of understanding (MOU) between the U.S. and Iran ending the war between the two countries while visiting French President Emmanuel Macron at Versailles. The details of the MOU were shared earlier Wednesday by senior administration officials in a call to reporters. Trump personally signed the copy of the&#8230;",
+          "link": "https://thehill.com/homenews/administration/5929356-trump-signs-iran-agreement/",
+          "pubDate": "Wed, 17 Jun 2026 22:18:42 +0000"
         },
         {
-          "title": "Live updates: Georgia GOP runoffs lead primary night; Trump huddles with G7 leaders",
-          "summary": "Oklahoma, Alabama and the District of Columbia, are hosting primary elections and runoffs Tuesday. All eyes are on Georgia, however, where Sen. Jon Ossoff (D) and Democratic gubernatorial nominee Keisha Lance Bottoms, a former Atlanta mayor, will learn their Republican opponents in the toss-up races. Here are the races to watch. President Trump, in France&#8230;",
-          "link": "https://thehill.com/homenews/administration/5924519-live-updates-trump-iran-g7/",
-          "pubDate": "Tue, 16 Jun 2026 22:03:51 +0000"
+          "title": "NATO chief downplays US military cutbacks",
+          "summary": "NATO Secretary-General Mark Rutte said Wednesday the U.S. cutting the number of troops and equipment it would provide to traditional allies in the event of an attack will not have an immediate impact. “This is not about where forces and assets are currently located,” Rutte told reporters in Brussels, according to The Associated Press. “It’s&#8230;",
+          "link": "https://thehill.com/policy/international/5929316-us-drawdown-nato-allies/",
+          "pubDate": "Wed, 17 Jun 2026 22:07:44 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Cathie Wood buys $529.7 million of popular new stock",
-          "summary": "Cathie Wood buys $529.7 million of popular new stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-529-7-133300502.html",
-          "pubDate": "2026-06-15T13:33:00Z"
+          "title": "Mark Cuban has a blunt response to Coinbase CEO",
+          "summary": "Mark Cuban has a blunt response to Coinbase CEO",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/mark-cuban-blunt-response-coinbase-215801475.html",
+          "pubDate": "2026-06-16T21:58:01Z"
         },
         {
-          "title": "SpaceX IPO reveals one stunning fact about the stock market: By the numbers",
-          "summary": "SpaceX IPO reveals one stunning fact about the stock market: By the numbers",
-          "link": "https://finance.yahoo.com/markets/article/spacex-ipo-reveals-one-stunning-fact-about-the-stock-market-by-the-numbers-144602845.html",
-          "pubDate": "2026-06-15T14:46:02Z"
+          "title": "Micron Technology (MU) Skyrocketed on Explosive Demand For High-Bandwidth Memory",
+          "summary": "Micron Technology (MU) Skyrocketed on Explosive Demand For High-Bandwidth Memory",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-skyrocketed-explosive-150456301.html",
+          "pubDate": "2026-06-16T15:04:56Z"
         },
         {
-          "title": "Danaher Corporation’s (DHR) Recovery Fell Short of Investor Expectations",
-          "summary": "Danaher Corporation’s (DHR) Recovery Fell Short of Investor Expectations",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/danaher-corporation-dhr-recovery-fell-144816438.html",
-          "pubDate": "2026-06-15T14:48:16Z"
+          "title": "Chevron Takes 70% Interest in Greek Offshore Exploration Block",
+          "summary": "Chevron Takes 70% Interest in Greek Offshore Exploration Block",
+          "link": "https://finance.yahoo.com/energy/articles/chevron-takes-70-interest-greek-150205376.html",
+          "pubDate": "2026-06-16T15:02:05Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Alien messages may have reached Earth without us realizing it",
-          "summary": "A new SETI study suggests we may be overlooking alien signals not because they aren&#039;t there, but because their own stars are scrambling them before they escape into space. Turbulent plasma and powerful stellar storms can spread an ultra-narrow radio transmission across a wider range of frequencies, making it much harder for traditional searches to spot. The effect could be especially important around M-dwarf stars, the most common stars in the Milky Way.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm",
-          "pubDate": "Tue, 16 Jun 2026 04:11:57 EDT"
+          "title": "Superconductivity breakthrough could unlock ultra-efficient electronics",
+          "summary": "A clever nanoscale redesign may have solved one of superconductivity’s biggest problems. Researchers in Sweden discovered that by subtly sculpting the surface beneath an ultrathin superconducting material, they could make it stay superconducting at higher temperatures and under much stronger magnetic fields.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260617032211.htm",
+          "pubDate": "Wed, 17 Jun 2026 04:24:20 EDT"
         },
         {
-          "title": "This strange material can become strong or fall apart in seconds",
-          "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
-          "pubDate": "Mon, 15 Jun 2026 07:54:43 EDT"
+          "title": "Humans may have hidden regenerative powers",
+          "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage treatment, researchers redirected the body’s normal healing response away from scar formation and toward regrowth, successfully restoring bone, joints, ligaments, and tendons after amputation in animal studies.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+          "pubDate": "Wed, 17 Jun 2026 10:25:31 EDT"
         },
         {
-          "title": "Scientists just found a hidden weakness in forever chemicals",
-          "summary": "Researchers discovered that hydrogen radicals generated by intense UV light can break down stubborn PFAS “forever chemicals” without added chemicals. The breakthrough reveals a key mechanism that could lead to greener and more effective technologies for permanently destroying these pollutants.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm",
-          "pubDate": "Tue, 16 Jun 2026 06:30:56 EDT"
+          "title": "Scientists discover spider that disguises itself as a parasitic fungus",
+          "summary": "Scientists have discovered a new Amazonian spider with an astonishing disguise: it looks like a parasitic fungus. The species, Taczanowskia waska, mimics both the appearance and behavior of the fungus, helping it stay hidden from predators and potentially catch prey more easily.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm",
+          "pubDate": "Wed, 17 Jun 2026 08:19:43 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Chinese money plant leaves hide a mathematical pattern",
-          "summary": "Tiny water-secreting pores appear to organize the major veins of the plant leaves into an arrangement known as a Voronoi diagram.",
-          "link": "https://www.sciencenews.org/article/chinese-money-plant-leaves-voronoi-pattern",
-          "pubDate": "Tue, 16 Jun 2026 17:00:00 +0000"
+          "title": "A deadly fungus that can infect cats and people is spreading",
+          "summary": "It’s just a matter of time before Sporothrix brasiliensis reaches the U.S. a CDC expert says.",
+          "link": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
+          "pubDate": "Wed, 17 Jun 2026 19:00:00 +0000"
         },
         {
-          "title": "A blood test for dementia may tell you if you have more than one type",
-          "summary": "AI helped researchers develop an experimental blood test that might let doctors diagnose overlapping dementias.",
-          "link": "https://www.sciencenews.org/article/experimental-blood-test-dementia-types",
-          "pubDate": "Tue, 16 Jun 2026 15:00:00 +0000"
+          "title": "A &#8216;Super El Niño&#8217; may be on the way. What does that mean?",
+          "summary": "Past super El Niños have brought bad flooding, deadly fires and disease outbreaks. Climate experts already expect “shockingly high” temps this winter.",
+          "link": "https://www.sciencenews.org/article/super-el-nino-high-temperatures-disease",
+          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
         },
         {
-          "title": "NASA seems to be backing away from hunting for life on Mars",
-          "summary": "Viking 1 kicked off the search for Martian life 50 years ago. Now NASA’s shifting priorities are putting the quest in limbo.",
-          "link": "https://www.sciencenews.org/article/nasa-mars-life-viking-space-rover",
-          "pubDate": "Tue, 16 Jun 2026 13:00:00 +0000"
+          "title": "The oldest known plague outbreak struck hunter-gatherers 5,500 years ago",
+          "summary": "Plague DNA in ancient graves near Siberia's Lake Baikal suggests the disease threatened people long before farming and crowded settlements.",
+          "link": "https://www.sciencenews.org/article/plague-outbreak-oldest-hunter-gatherers",
+          "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000"
         }
       ]
     }
