@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-17T23:00:04.731Z",
-  "date": "2026-06-18",
+  "lastUpdate": "2026-06-18T23:00:10.415Z",
+  "date": "2026-06-19",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-          "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-          "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-          "pubDate": "Wed, 17 Jun 2026 22:52:00 +0000"
+          "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+          "summary": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
+          "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+          "pubDate": "Thu, 18 Jun 2026 22:12:45 +0000"
         },
         {
-          "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-          "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
-          "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-          "pubDate": "Wed, 17 Jun 2026 18:25:35 +0000"
+          "title": "The White House Is Making Up Its Rules for AI in Real Time",
+          "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+          "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+          "pubDate": "Thu, 18 Jun 2026 21:03:43 +0000"
         },
         {
-          "title": "No, I Don’t Want to Watch Your Straight Hockey Show",
-          "summary": "From Amazon’s Off Campus to Netflix’s upcoming Icebreakers, the recent spate of hetero hockey romances shows Hollywood learned the wrong lessons from Heated Rivalry.",
-          "link": "https://www.wired.com/story/story/no-i-dont-want-to-watch-your-straight-hockey-show-heated-rivalry/",
-          "pubDate": "Wed, 17 Jun 2026 18:23:30 +0000"
+          "title": "44 Best Father’s Day Gifts for Dads (2026)",
+          "summary": "Dads are traditionally tough to shop for—let me help with these handpicked gift ideas for fathers with great taste.",
+          "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026-1/",
+          "pubDate": "Thu, 18 Jun 2026 19:45:35 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won&#8217;t be selling AI",
-          "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
-          "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-          "pubDate": "Wed, 17 Jun 2026 21:30:50 +0000"
+          "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+          "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+          "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "pubDate": "Thu, 18 Jun 2026 21:20:13 +0000"
         },
         {
-          "title": "Roelof Botha joins SpaceX&#8217;s board of directors",
-          "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-          "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-          "pubDate": "Wed, 17 Jun 2026 20:32:52 +0000"
+          "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+          "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+          "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "pubDate": "Thu, 18 Jun 2026 20:30:00 +0000"
         },
         {
-          "title": "After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a dive",
-          "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-          "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-          "pubDate": "Wed, 17 Jun 2026 20:24:28 +0000"
+          "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+          "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "pubDate": "Thu, 18 Jun 2026 19:59:22 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran sends tankers loaded with oil past US military blockade",
-          "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
-          "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 17 Jun 2026 13:27:47 GMT"
+          "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+          "summary": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+          "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 18 Jun 2026 21:34:28 GMT"
         },
         {
-          "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-          "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
-          "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 17 Jun 2026 09:13:34 GMT"
+          "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+          "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+          "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
         },
         {
-          "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-          "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
-          "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 17 Jun 2026 16:50:42 GMT"
+          "title": "What Iran and US get from deal and why both could struggle to keep it",
+          "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+          "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
+          "summary": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.",
+          "link": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html",
+          "pubDate": "Thu, 18 Jun 2026 20:10:47 GMT"
+        },
+        {
+          "title": "Markets are set for a much more hawkish Warsh Fed than expected",
+          "summary": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
+          "link": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
+          "pubDate": "Thu, 18 Jun 2026 18:04:41 GMT"
+        },
         {
           "title": "Jeffrey Gundlach says Fed&apos;s Warsh is not going to be the &apos;easy money&apos; chairman many hoped for",
           "summary": "Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.",
           "link": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
           "pubDate": "Wed, 17 Jun 2026 20:26:56 GMT"
-        },
-        {
-          "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
-          "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
-          "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
-          "pubDate": "Wed, 17 Jun 2026 19:27:43 GMT"
-        },
-        {
-          "title": "Chairman Warsh drastically alters Fed rate statement. Here&apos;s what&apos;s changed",
-          "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
-          "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
-          "pubDate": "Wed, 17 Jun 2026 19:25:18 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "The Memo: Hawks lament ‘disaster’ on Iran as Trump strains to sell deal",
-          "summary": "President Trump tried to make the case for his interim peace deal with Iran on Wednesday, but a lengthy news conference only revealed that no last-minute rabbits would be pulled from the hat to assuage his critics. Trump’s comments, delivered as he prepared to leave a Group of Seven (G7) summit in France, also exposed&#8230;",
-          "link": "https://thehill.com/homenews/administration/5929372-trump-defends-iran-missile-rights/",
-          "pubDate": "Wed, 17 Jun 2026 22:24:53 +0000"
+          "title": "FDA panel recommends mRNA flu vaccine for older adults",
+          "summary": "A first-of-its-kind flu shot is a step closer to being available to the public after a Food and Drug Administration (FDA) advisory panel voted Thursday to recommend Moderna’s mRNA-based vaccine for approval. The FDA’s independent vaccine advisors voted unanimously&#160;9-0&#160;that the benefits outweigh the risks for Moderna’s&#160;mFlusiva&#160;shot in people ages&#160;50 to 64 as well as 65 and older.&#160; Moderna is seeking&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5931348-moderna-mrna-flu-shot/",
+          "pubDate": "Thu, 18 Jun 2026 22:31:25 +0000"
         },
         {
-          "title": "Trump signs MOU with Iran ending war while at Versailles with Macron",
-          "summary": "President Trump on Wednesday signed the memorandum of understanding (MOU) between the U.S. and Iran ending the war between the two countries while visiting French President Emmanuel Macron at Versailles. The details of the MOU were shared earlier Wednesday by senior administration officials in a call to reporters. Trump personally signed the copy of the&#8230;",
-          "link": "https://thehill.com/homenews/administration/5929356-trump-signs-iran-agreement/",
-          "pubDate": "Wed, 17 Jun 2026 22:18:42 +0000"
+          "title": "Fewer in new poll say anyone can achieve American Dream",
+          "summary": "Fewer Americans are saying that anyone can achieve the American Dream than in the past, according to a new poll. In the Milken Center for Advancing the American Dream (MCAAD)-Gallup American Dream Study, 46 percent of respondents said they either “strongly agree” or “somewhat agree” with the idea that “everyone in this country has the&#8230;",
+          "link": "https://thehill.com/business/5931333-poll-american-dream-decline/",
+          "pubDate": "Thu, 18 Jun 2026 22:30:34 +0000"
         },
         {
-          "title": "NATO chief downplays US military cutbacks",
-          "summary": "NATO Secretary-General Mark Rutte said Wednesday the U.S. cutting the number of troops and equipment it would provide to traditional allies in the event of an attack will not have an immediate impact. “This is not about where forces and assets are currently located,” Rutte told reporters in Brussels, according to The Associated Press. “It’s&#8230;",
-          "link": "https://thehill.com/policy/international/5929316-us-drawdown-nato-allies/",
-          "pubDate": "Wed, 17 Jun 2026 22:07:44 +0000"
+          "title": "House subcommittee to examine airline competition",
+          "summary": "A House Judiciary subcommittee&#160;overseeing antitrust matters will hold a hearing next week examining airline competition and industry regulation after Spirit Airlines shut down&#160;all operations last month. The hearing, titled “The 30,000 Foot View: Competition and Regulation in the U.S. Airline Industry,” is scheduled to take place on June 24 before the Judiciary Committee’s Subcommittee on&#8230;",
+          "link": "https://thehill.com/homenews/house/5931311-airline-competition-hearing-antitrust/",
+          "pubDate": "Thu, 18 Jun 2026 22:13:14 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Mark Cuban has a blunt response to Coinbase CEO",
-          "summary": "Mark Cuban has a blunt response to Coinbase CEO",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/mark-cuban-blunt-response-coinbase-215801475.html",
-          "pubDate": "2026-06-16T21:58:01Z"
+          "title": "Grocery chain pays massive fine, accused of inflated price reporting",
+          "summary": "Grocery chain pays massive fine, accused of inflated price reporting",
+          "link": "https://finance.yahoo.com/healthcare/articles/grocery-chain-pays-massive-fine-231700048.html",
+          "pubDate": "2026-06-17T23:17:00Z"
         },
         {
-          "title": "Micron Technology (MU) Skyrocketed on Explosive Demand For High-Bandwidth Memory",
-          "summary": "Micron Technology (MU) Skyrocketed on Explosive Demand For High-Bandwidth Memory",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-skyrocketed-explosive-150456301.html",
-          "pubDate": "2026-06-16T15:04:56Z"
+          "title": "How Olema Pharmaceuticals (OLMA) Is Adding Pipeline Depth Behind Its Palazestrant Breast Cancer Bet",
+          "summary": "How Olema Pharmaceuticals (OLMA) Is Adding Pipeline Depth Behind Its Palazestrant Breast Cancer Bet",
+          "link": "https://finance.yahoo.com/healthcare/articles/olema-pharmaceuticals-olma-adding-pipeline-151705832.html",
+          "pubDate": "2026-06-17T15:17:05Z"
         },
         {
-          "title": "Chevron Takes 70% Interest in Greek Offshore Exploration Block",
-          "summary": "Chevron Takes 70% Interest in Greek Offshore Exploration Block",
-          "link": "https://finance.yahoo.com/energy/articles/chevron-takes-70-interest-greek-150205376.html",
-          "pubDate": "2026-06-16T15:02:05Z"
+          "title": "Why Neumora Therapeutics (NMRA) Faces a Major Catalyst From Navacaprant’s Upcoming Depression Data",
+          "summary": "Why Neumora Therapeutics (NMRA) Faces a Major Catalyst From Navacaprant’s Upcoming Depression Data",
+          "link": "https://finance.yahoo.com/healthcare/articles/why-neumora-therapeutics-nmra-faces-151712969.html",
+          "pubDate": "2026-06-17T15:17:12Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Superconductivity breakthrough could unlock ultra-efficient electronics",
-          "summary": "A clever nanoscale redesign may have solved one of superconductivity’s biggest problems. Researchers in Sweden discovered that by subtly sculpting the surface beneath an ultrathin superconducting material, they could make it stay superconducting at higher temperatures and under much stronger magnetic fields.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260617032211.htm",
-          "pubDate": "Wed, 17 Jun 2026 04:24:20 EDT"
+          "title": "Major errors found in Al Gore-founded Climate TRACE database",
+          "summary": "A new study from Northern Arizona University is raising red flags about a widely used global emissions database from Climate TRACE, a consortium co-founded by Al Gore. Researchers found that the database may be dramatically undercounting carbon dioxide emissions from cars and trucks in cities—by an average of 70% across 260 U.S. cities, with some cities showing gaps of more than 90%.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
+          "pubDate": "Thu, 18 Jun 2026 04:15:19 EDT"
         },
         {
-          "title": "Humans may have hidden regenerative powers",
-          "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage treatment, researchers redirected the body’s normal healing response away from scar formation and toward regrowth, successfully restoring bone, joints, ligaments, and tendons after amputation in animal studies.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-          "pubDate": "Wed, 17 Jun 2026 10:25:31 EDT"
+          "title": "Arizona reservoir nearly vanishes after snowpack collapse triggers massive fish kill",
+          "summary": "A historic lack of snow in the Gila River watershed has left Arizona’s San Carlos Reservoir less than 1% full, triggering a massive fish kill and an indefinite closure. Despite the bleak conditions, heavy summer rains could help the reservoir rebound.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260618041458.htm",
+          "pubDate": "Thu, 18 Jun 2026 09:53:38 EDT"
         },
         {
-          "title": "Scientists discover spider that disguises itself as a parasitic fungus",
-          "summary": "Scientists have discovered a new Amazonian spider with an astonishing disguise: it looks like a parasitic fungus. The species, Taczanowskia waska, mimics both the appearance and behavior of the fungus, helping it stay hidden from predators and potentially catch prey more easily.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm",
-          "pubDate": "Wed, 17 Jun 2026 08:19:43 EDT"
+          "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
+          "summary": "Plague was already a deadly killer 5,500 years ago, long before cities, farming, or the rat-infested conditions usually linked to historic outbreaks. By analyzing ancient DNA from hunter-gatherer cemeteries in Siberia, researchers discovered early plague strains in nearly 40% of the individuals studied and found evidence of rapid family-based outbreaks that wiped out many children and young teenagers.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260618041450.htm",
+          "pubDate": "Thu, 18 Jun 2026 08:16:46 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A deadly fungus that can infect cats and people is spreading",
-          "summary": "It’s just a matter of time before Sporothrix brasiliensis reaches the U.S. a CDC expert says.",
-          "link": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
-          "pubDate": "Wed, 17 Jun 2026 19:00:00 +0000"
+          "title": "A textbook assumption about early land vertebrates may be wrong",
+          "summary": "Three species that lived about 308 million years ago challenge the idea that the first land vertebrates underwent amphibian-like metamorphosis.",
+          "link": "https://www.sciencenews.org/article/assumption-early-land-vertebrates-wrong",
+          "pubDate": "Thu, 18 Jun 2026 18:00:00 +0000"
         },
         {
-          "title": "A &#8216;Super El Niño&#8217; may be on the way. What does that mean?",
-          "summary": "Past super El Niños have brought bad flooding, deadly fires and disease outbreaks. Climate experts already expect “shockingly high” temps this winter.",
-          "link": "https://www.sciencenews.org/article/super-el-nino-high-temperatures-disease",
-          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
+          "title": "A 2011 earthquake bounced a seismic wave off Earth&#8217;s core, nudging Japan east",
+          "summary": "The wave's round trip to Earth's core set off a fault slip along Japan's plate boundaries, revealing a seismic hazard scientists hadn't recognized.",
+          "link": "https://www.sciencenews.org/article/japan-earthquake-seismic-wave-core",
+          "pubDate": "Thu, 18 Jun 2026 18:00:00 +0000"
         },
         {
-          "title": "The oldest known plague outbreak struck hunter-gatherers 5,500 years ago",
-          "summary": "Plague DNA in ancient graves near Siberia's Lake Baikal suggests the disease threatened people long before farming and crowded settlements.",
-          "link": "https://www.sciencenews.org/article/plague-outbreak-oldest-hunter-gatherers",
-          "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000"
+          "title": "The truth about brain rot, according to science",
+          "summary": "Emerging research suggests overusing digital devices can be harmful, especially to mental health. But does being overly online truly rot our brains?",
+          "link": "https://www.sciencenews.org/article/brain-rot-digital-online-mental-health",
+          "pubDate": "Thu, 18 Jun 2026 13:00:00 +0000"
         }
       ]
     }
