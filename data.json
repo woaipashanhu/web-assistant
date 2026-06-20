@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-19T23:00:05.124Z",
-  "date": "2026-06-20",
+  "lastUpdate": "2026-06-20T23:00:05.118Z",
+  "date": "2026-06-21",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years",
-          "summary": "Years after initial tests, researchers are now racing to see if a vaccine developed in 2011 can help fight the current Bundibugyo outbreak in Congo.",
-          "link": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/",
-          "pubDate": "Fri, 19 Jun 2026 14:23:43 +0000"
+          "title": "Home Batteries: How They're Installed and How Much They Cost",
+          "summary": "After adding one to my home, here's why you might want a home battery, how they work, and what to look for, plus some installation tips.",
+          "link": "https://www.wired.com/story/how-to-buy-a-home-battery/",
+          "pubDate": "Sat, 20 Jun 2026 11:00:00 +0000"
         },
         {
-          "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
-          "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
-          "link": "https://www.wired.com/gallery/the-best-ipad/",
-          "pubDate": "Fri, 19 Jun 2026 12:00:00 +0000"
+          "title": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
+          "summary": "We’ve trawled the depths of Amazon to find the best deals on gear we’ve tested.",
+          "link": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
+          "pubDate": "Sat, 20 Jun 2026 10:38:00 +0000"
         },
         {
-          "title": "Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More",
-          "summary": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested multiroom mesh systems will get you online in no time.",
-          "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
-          "pubDate": "Fri, 19 Jun 2026 11:31:00 +0000"
+          "title": "16 Best Greens Powders (2026): Taste-Tested for Months",
+          "summary": "I did the research and taste-testing to find the best greens powders worth your money. Bloom Nutrition’s Superfood Greens Powder is my tried-and-true pick.",
+          "link": "https://www.wired.com/gallery/best-greens-powders/",
+          "pubDate": "Sat, 20 Jun 2026 10:31:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn&#8217;t work",
-          "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-          "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-          "pubDate": "Fri, 19 Jun 2026 22:40:14 +0000"
+          "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+          "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+          "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+          "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000"
         },
         {
-          "title": "Go eyes robotaxis and acquisitions after Japan&#8217;s biggest IPO of 2026. Here&#8217;s why it matters",
-          "summary": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, which went public Tuesday, plans to use the ¥88.6 billion [&#8230;]",
-          "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-          "pubDate": "Fri, 19 Jun 2026 21:45:00 +0000"
+          "title": "In the Weights is your new AI-centric vanity search",
+          "summary": "So ... what's your In the Weights score?",
+          "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "pubDate": "Sat, 20 Jun 2026 19:41:11 +0000"
         },
         {
-          "title": "Aura&#8217;s impressive e-ink photo frame doesn&#8217;t even look digital",
-          "summary": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digital. Digital frames have always been so popular [&#8230;]",
-          "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
-          "pubDate": "Fri, 19 Jun 2026 21:00:34 +0000"
+          "title": "Founders Fund&#8217;s outlier bet on humanely killed fish",
+          "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+          "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+          "pubDate": "Sat, 20 Jun 2026 18:26:02 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-          "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
-          "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 19 Jun 2026 19:27:12 GMT"
+          "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+          "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
+          "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 20 Jun 2026 21:11:57 GMT"
         },
         {
-          "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-          "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
-          "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 19 Jun 2026 19:36:10 GMT"
+          "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+          "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
+          "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 20 Jun 2026 17:40:43 GMT"
         },
         {
-          "title": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
-          "summary": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
-          "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 19 Jun 2026 17:02:02 GMT"
+          "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+          "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
+          "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 20 Jun 2026 15:31:12 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
+          "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
+          "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+          "pubDate": "Sat, 20 Jun 2026 22:59:26 GMT"
+        },
+        {
+          "title": "Bitcoin&apos;s future as revolutionary as the smartphone, according to CoinDesk",
+          "summary": "CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.",
+          "link": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
+          "pubDate": "Sat, 20 Jun 2026 15:00:01 GMT"
+        },
         {
           "title": "The riskiest SpaceX stock trade of all had a big first week",
           "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
           "link": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
           "pubDate": "Fri, 19 Jun 2026 15:53:11 GMT"
-        },
-        {
-          "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
-          "summary": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.",
-          "link": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html",
-          "pubDate": "Thu, 18 Jun 2026 20:10:47 GMT"
-        },
-        {
-          "title": "Markets are set for a much more hawkish Warsh Fed than expected",
-          "summary": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
-          "link": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
-          "pubDate": "Thu, 18 Jun 2026 18:04:41 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,81 +179,87 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trust in federal government at all-time low: Poll",
-          "summary": "Public trust in the federal government has reached its lowest level in more than two decades as nearly two-thirds of U.S. voters say they are not satisfied with the direction of the country, according to a new Fox News poll. The poll, released Wednesday, found that 25 percent of registered voters said they “generally trust”&#8230;",
-          "link": "https://thehill.com/homenews/administration/5932387-public-trust-federal-government-low/",
-          "pubDate": "Fri, 19 Jun 2026 22:16:55 +0000"
+          "title": "Vance leaves for Switzerland with Strait of Hormuz status unclear",
+          "summary": "Vice President JD Vance departed for Switzerland on Saturday ahead of technical-level talks on an&#160;interim ceasefire deal&#160;between the U.S. and Iran that aims to permanently halt fighting, reopen the Strait of Hormuz and begin nuclear negotiations. The discussions were initially scheduled to begin on Friday but&#160;were delayed&#160;due to an&#160;escalation in fighting&#160;between Israel and Hezbollah in&#8230;",
+          "link": "https://thehill.com/homenews/administration/5932867-vance-leads-us-iran-delegation/",
+          "pubDate": "Sat, 20 Jun 2026 21:41:28 +0000"
         },
         {
-          "title": "Trump&#8217;s Lincoln Memorial Reflecting Pool work comes under scrutiny: 4 things to know",
-          "summary": "President Trump’s efforts to renovate the Lincoln Memorial Reflecting Pool have not gone smoothly, despite the president maintaining he has a lot of experience with pools. Questions have swirled about the no-bid, multimillion dollar contract given to complete the pool renovations, one of several Trump beautification projects in Washington, D.C., ahead of the U.S.’s 250th&#8230;",
-          "link": "https://thehill.com/homenews/administration/5932337-lincoln-memorial-reflecting-pool-algae/",
-          "pubDate": "Fri, 19 Jun 2026 21:23:18 +0000"
+          "title": "Sunday shows preview: Iran’s Strait of Hormuz closure threatens Trump MOU ahead of planned Switzerland peace talks",
+          "summary": "Vice President Vance left for Switzerland Saturday evening to join special envoy Steve Witkoff and the president’s son-in-law, Jared Kushner, for technical talks with Iran in hopes of reaching a potential nuclear deal. The U.S. and Iran this week reached a preliminary agreement to reopen the Strait of Hormuz, a critical trading corridor whose months-long&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5932841-vance-switzerland-nuclear-deal/",
+          "pubDate": "Sat, 20 Jun 2026 21:27:04 +0000"
         },
         {
-          "title": "Strait of Hormuz feels tense and uncertain as peace deal takes hold",
-          "summary": "The Strait of Hormuz. A battlefield. A point of leverage. A geographic bend whose name has now found its way to kitchen tables across the globe.&#160; Since the early days of this war, few captains have dared cross it ever since the Islamic Revolutionary Guard Corps announced it was closed. There have been steep consequences&#8230;",
-          "link": "https://thehill.com/policy/international/5932306-strait-hormuz-iran-oil-trade/",
-          "pubDate": "Fri, 19 Jun 2026 21:07:36 +0000"
+          "title": "Black Democrats push back on Wasserman Schultz&#8217;s bid in Florida&#8217;s 20th District",
+          "summary": "Some Black Democrats are frustrated with Rep. Debbie Wasserman Schultz’s (D-Fla.) decision to run in a South Florida congressional district home to a large Black voting population, sparking an intraparty clash that is poised to become a defining battle of the campaign season. Wasserman Schultz, a veteran lawmaker who has served in Congress since 2005,&#8230;",
+          "link": "https://thehill.com/homenews/house/5931183-black-democrats-wasserman-schultz-florida/",
+          "pubDate": "Sat, 20 Jun 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Jim Cramer sends a stern message to SpaceX buyers",
-          "summary": "Jim Cramer sends a stern message to SpaceX buyers",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html",
-          "pubDate": "2026-06-19T02:47:00Z"
+          "title": "Cathie Wood dumps nearly $60 million in popular growth stocks",
+          "summary": "Cathie Wood dumps nearly $60 million in popular growth stocks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html",
+          "pubDate": "2026-06-19T22:33:00Z"
         },
         {
-          "title": "Crude Oil Prices Tumble as Strait of Hormuz Reopens",
-          "summary": "Crude Oil Prices Tumble as Strait of Hormuz Reopens",
-          "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-tumble-strait-153439101.html",
-          "pubDate": "2026-06-18T15:34:39Z"
+          "title": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
+          "summary": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-06-20T22:29:08Z"
         },
         {
-          "title": "US tech billionaire issues stark China warning: American companies have been ‘hollowed out’ by the Red Dragon",
-          "summary": "US tech billionaire issues stark China warning: American companies have been ‘hollowed out’ by the Red Dragon",
-          "link": "https://finance.yahoo.com/technology/articles/us-tech-billionaire-issues-stark-153500098.html",
-          "pubDate": "2026-06-18T15:35:00Z"
+          "title": "Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth",
+          "summary": "Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-remains-bullish-kanzhun-limited-203550695.html",
+          "pubDate": "2026-06-20T20:35:50Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Einstein’s “biggest blunder” may finally have an explanation",
-          "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
-          "pubDate": "Fri, 19 Jun 2026 05:43:07 EDT"
+          "title": "This simple twist could bring quantum computers closer to reality",
+          "summary": "Researchers found that twisting layered sheets of hexagonal boron nitride can dramatically change the light produced by quantum emitters embedded within the material. The technique offers an unexpected new level of control over components that could power future quantum computers, communications systems, and sensors.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm",
+          "pubDate": "Sat, 20 Jun 2026 12:37:09 EDT"
         },
         {
-          "title": "Think you&#039;re eating healthy? You may be missing this heart-protecting nutrient",
-          "summary": "Eating five servings of fruits and vegetables may not be enough if you&#039;re missing foods rich in flavanols, a group of compounds linked to better heart health. Researchers found that choices like blackberries, plums, apples, broad beans, cherries, and green tea can dramatically increase flavanol intake.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260619020512.htm",
-          "pubDate": "Fri, 19 Jun 2026 09:56:05 EDT"
+          "title": "A single cobalt shock could trigger global EV battery supply chaos",
+          "summary": "The global cobalt supply chain is more interconnected—and more vulnerable—than previously thought, with disruptions capable of triggering far-reaching cascades across multiple countries and industries. Researchers warn that protecting battery supply chains will require system-wide coordination because critical bottlenecks can turn local shocks into global problems.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260619101402.htm",
+          "pubDate": "Sat, 20 Jun 2026 10:00:29 EDT"
         },
         {
-          "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
-          "summary": "A distant galaxy nicknamed Shadow Blaster may have revealed a surprising source of cosmic neutrinos: extreme star formation instead of a supermassive black hole. The discovery suggests that hidden, dust-filled starburst galaxies could account for a significant fraction of the Universe’s high-energy neutrinos.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260619020510.htm",
-          "pubDate": "Fri, 19 Jun 2026 09:21:45 EDT"
+          "title": "This DNA repair gene went rogue and exposed a cancer weakness",
+          "summary": "Scientists have discovered that a gene normally considered a DNA-protecting \"good guy\" can become dangerous when cells make too much of it. The gene, EXO1, acts like molecular scissors that help repair DNA, but when overproduced it starts cutting DNA it shouldn&#039;t, creating damage linked to cancer.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
+          "pubDate": "Sat, 20 Jun 2026 08:27:35 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Is NASA falling out of love with Mars?",
+          "summary": "Editor in chief Nancy Shute discusses NASA's rocky relationship with Mars exploration.",
+          "link": "https://www.sciencenews.org/article/nasa-mars-exploration-july-2026-ed-note",
+          "pubDate": "Sat, 20 Jun 2026 11:00:00 +0000"
+        },
         {
           "title": "A textbook assumption about early land vertebrates may be wrong",
           "summary": "Three species that lived about 308 million years ago challenge the idea that the first land vertebrates underwent amphibian-like metamorphosis.",
@@ -265,12 +271,6 @@
           "summary": "The wave's round trip to Earth's core set off a fault slip along Japan's plate boundaries, revealing a seismic hazard scientists hadn't recognized.",
           "link": "https://www.sciencenews.org/article/japan-earthquake-seismic-wave-core",
           "pubDate": "Thu, 18 Jun 2026 18:00:00 +0000"
-        },
-        {
-          "title": "The truth about brain rot, according to science",
-          "summary": "Emerging research suggests overusing digital devices can be harmful, especially to mental health. But does being overly online truly rot our brains?",
-          "link": "https://www.sciencenews.org/article/brain-rot-digital-online-mental-health",
-          "pubDate": "Thu, 18 Jun 2026 13:00:00 +0000"
         }
       ]
     }
