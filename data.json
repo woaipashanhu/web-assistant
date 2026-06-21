@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-20T23:00:05.118Z",
-  "date": "2026-06-21",
+  "lastUpdate": "2026-06-21T23:00:21.170Z",
+  "date": "2026-06-22",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Home Batteries: How They're Installed and How Much They Cost",
-          "summary": "After adding one to my home, here's why you might want a home battery, how they work, and what to look for, plus some installation tips.",
-          "link": "https://www.wired.com/story/how-to-buy-a-home-battery/",
-          "pubDate": "Sat, 20 Jun 2026 11:00:00 +0000"
+          "title": "Wooting 60HE v2: Peak Keyboard Perfection",
+          "summary": "Wooting’s 60HE v2 isn’t just a terrific Hall Effect keyboard. It’s a fantastic keyboard period.",
+          "link": "https://www.wired.com/review/review-wooting-60he-v2/",
+          "pubDate": "Sun, 21 Jun 2026 11:01:00 +0000"
         },
         {
-          "title": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
-          "summary": "We’ve trawled the depths of Amazon to find the best deals on gear we’ve tested.",
-          "link": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
-          "pubDate": "Sat, 20 Jun 2026 10:38:00 +0000"
+          "title": "The Best NAS Devices for Your Home After Months of Testing",
+          "summary": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
+          "link": "https://www.wired.com/story/best-nas-devices/",
+          "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000"
         },
         {
-          "title": "16 Best Greens Powders (2026): Taste-Tested for Months",
-          "summary": "I did the research and taste-testing to find the best greens powders worth your money. Bloom Nutrition’s Superfood Greens Powder is my tried-and-true pick.",
-          "link": "https://www.wired.com/gallery/best-greens-powders/",
-          "pubDate": "Sat, 20 Jun 2026 10:31:00 +0000"
+          "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+          "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+          "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+          "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-          "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-          "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-          "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000"
+          "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+          "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+          "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+          "pubDate": "Sun, 21 Jun 2026 18:34:31 +0000"
         },
         {
-          "title": "In the Weights is your new AI-centric vanity search",
-          "summary": "So ... what's your In the Weights score?",
-          "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-          "pubDate": "Sat, 20 Jun 2026 19:41:11 +0000"
+          "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+          "summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+          "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+          "pubDate": "Sun, 21 Jun 2026 16:35:00 +0000"
         },
         {
-          "title": "Founders Fund&#8217;s outlier bet on humanely killed fish",
-          "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
-          "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-          "pubDate": "Sat, 20 Jun 2026 18:26:02 +0000"
+          "title": "TechCrunch Mobility: A new robotaxi scorecard shows China&#8217;s dominance",
+          "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+          "pubDate": "Sun, 21 Jun 2026 16:05:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
-          "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
-          "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 20 Jun 2026 21:11:57 GMT"
+          "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+          "summary": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
+          "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 21 Jun 2026 19:33:09 GMT"
         },
         {
-          "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-          "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
-          "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 20 Jun 2026 17:40:43 GMT"
+          "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+          "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+          "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 21 Jun 2026 10:55:05 GMT"
         },
         {
-          "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-          "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
-          "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 20 Jun 2026 15:31:12 GMT"
+          "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+          "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
+          "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 21 Jun 2026 15:01:28 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
-          "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
+          "title": "&apos;Regime change but in a velvet glove&apos;: How Kevin Warsh has set out to remake the Fed",
+          "summary": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+          "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+          "pubDate": "Sun, 21 Jun 2026 11:14:02 GMT"
+        },
+        {
+          "title": "U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz",
+          "summary": "Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.",
           "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
-          "pubDate": "Sat, 20 Jun 2026 22:59:26 GMT"
+          "pubDate": "Sun, 21 Jun 2026 12:16:26 GMT"
         },
         {
           "title": "Bitcoin&apos;s future as revolutionary as the smartphone, according to CoinDesk",
           "summary": "CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.",
           "link": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
           "pubDate": "Sat, 20 Jun 2026 15:00:01 GMT"
-        },
-        {
-          "title": "The riskiest SpaceX stock trade of all had a big first week",
-          "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
-          "link": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
-          "pubDate": "Fri, 19 Jun 2026 15:53:11 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Vance leaves for Switzerland with Strait of Hormuz status unclear",
-          "summary": "Vice President JD Vance departed for Switzerland on Saturday ahead of technical-level talks on an&#160;interim ceasefire deal&#160;between the U.S. and Iran that aims to permanently halt fighting, reopen the Strait of Hormuz and begin nuclear negotiations. The discussions were initially scheduled to begin on Friday but&#160;were delayed&#160;due to an&#160;escalation in fighting&#160;between Israel and Hezbollah in&#8230;",
-          "link": "https://thehill.com/homenews/administration/5932867-vance-leads-us-iran-delegation/",
-          "pubDate": "Sat, 20 Jun 2026 21:41:28 +0000"
+          "title": "Pence rips Trump’s Iran deal: ‘A plan to make a plan’",
+          "summary": "Former Vice President Mike Pence on Sunday tore into President Trump&#8217;s tentative deal between the U.S. and Iran as he deemed the agreement to be a &#8220;plan to make a plan.&#8221; Pence started an op-ed published in The Wall Street Journal by commending Trump for &#8220;acting decisively&#8221; by launching a military campaign against Iran. He&#8230;",
+          "link": "https://thehill.com/homenews/administration/5933451-pence-criticizes-trump-iran-deal/",
+          "pubDate": "Sun, 21 Jun 2026 22:11:56 +0000"
         },
         {
-          "title": "Sunday shows preview: Iran’s Strait of Hormuz closure threatens Trump MOU ahead of planned Switzerland peace talks",
-          "summary": "Vice President Vance left for Switzerland Saturday evening to join special envoy Steve Witkoff and the president’s son-in-law, Jared Kushner, for technical talks with Iran in hopes of reaching a potential nuclear deal. The U.S. and Iran this week reached a preliminary agreement to reopen the Strait of Hormuz, a critical trading corridor whose months-long&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5932841-vance-switzerland-nuclear-deal/",
-          "pubDate": "Sat, 20 Jun 2026 21:27:04 +0000"
+          "title": "Pirro vows to prosecute Reflection Pool vandals",
+          "summary": "U.S. Attorney for DC Jeanine Pirro on Sunday said her office would prosecute individuals caught vandalizing the Lincoln Memorial Reflecting Pool after the Trump administration spent millions on renovations. “Anyone who is in a position of vandalizing or attempting to vandalize the Reflecting Pool will face the criminal justice system in D.C.&#8221;” Pirro said during&#8230;",
+          "link": "https://thehill.com/homenews/administration/5933461-lincoln-memorial-pool-vandalism-prosecution/",
+          "pubDate": "Sun, 21 Jun 2026 21:52:01 +0000"
         },
         {
-          "title": "Black Democrats push back on Wasserman Schultz&#8217;s bid in Florida&#8217;s 20th District",
-          "summary": "Some Black Democrats are frustrated with Rep. Debbie Wasserman Schultz’s (D-Fla.) decision to run in a South Florida congressional district home to a large Black voting population, sparking an intraparty clash that is poised to become a defining battle of the campaign season. Wasserman Schultz, a veteran lawmaker who has served in Congress since 2005,&#8230;",
-          "link": "https://thehill.com/homenews/house/5931183-black-democrats-wasserman-schultz-florida/",
-          "pubDate": "Sat, 20 Jun 2026 21:00:00 +0000"
+          "title": "Trump touts ‘BEST ECONOMY EVER’ in Father’s Day message",
+          "summary": "President Trump on Sunday celebrated Father&#8217;s Day with a social media post touting that the U.S. has the &#8220;BEST ECONOMY EVER.&#8221; &#8220;Happy Father’s Day!&#8221; the president wrote on Truth Social. &#8220;Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOMY EVER! Greatest Military in the World, by far. We are WINNING on&#8230;",
+          "link": "https://thehill.com/homenews/administration/5933394-trump-economy-fathers-day/",
+          "pubDate": "Sun, 21 Jun 2026 21:19:43 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Cathie Wood dumps nearly $60 million in popular growth stocks",
-          "summary": "Cathie Wood dumps nearly $60 million in popular growth stocks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-nearly-60-223300469.html",
-          "pubDate": "2026-06-19T22:33:00Z"
+          "title": "Dave Ramsey Tells Couple Supporting 84-Year-Old Father-in-Law With $33,000 of Debt: ‘It Won’t End Until You End It’",
+          "summary": "Dave Ramsey Tells Couple Supporting 84-Year-Old Father-in-Law With $33,000 of Debt: ‘It Won’t End Until You End It’",
+          "link": "https://finance.yahoo.com/markets/articles/dave-ramsey-tells-couple-supporting-223739064.html",
+          "pubDate": "2026-06-21T22:37:39Z"
         },
         {
-          "title": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
-          "summary": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-06-20T22:29:08Z"
+          "title": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
+          "summary": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
+          "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-sparks-middle-east-210000952.html",
+          "pubDate": "2026-06-21T21:00:00Z"
         },
         {
-          "title": "Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth",
-          "summary": "Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-remains-bullish-kanzhun-limited-203550695.html",
-          "pubDate": "2026-06-20T20:35:50Z"
+          "title": "She tried to cancel her gym membership but no one was there — now a billing company won't stop charging her",
+          "summary": "She tried to cancel her gym membership but no one was there — now a billing company won't stop charging her",
+          "link": "https://finance.yahoo.com/small-business/articles/she-tried-cancel-her-gym-180000461.html",
+          "pubDate": "2026-06-21T18:00:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "This simple twist could bring quantum computers closer to reality",
-          "summary": "Researchers found that twisting layered sheets of hexagonal boron nitride can dramatically change the light produced by quantum emitters embedded within the material. The technique offers an unexpected new level of control over components that could power future quantum computers, communications systems, and sensors.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm",
-          "pubDate": "Sat, 20 Jun 2026 12:37:09 EDT"
+          "title": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
+          "summary": "Freshwater lakes across North America and Europe are becoming noticeably browner, reducing underwater visibility and reshaping fish populations. Research found that several popular sport fish, including trout, bass, perch, and whitefish, tend to decline in darker waters. Meanwhile, walleye and northern pike often become more abundant because they are better adapted to low-visibility conditions. The shift could change both lake ecosystems and the fishing experience for millions of anglers.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260621060322.htm",
+          "pubDate": "Sun, 21 Jun 2026 09:40:21 EDT"
         },
         {
-          "title": "A single cobalt shock could trigger global EV battery supply chaos",
-          "summary": "The global cobalt supply chain is more interconnected—and more vulnerable—than previously thought, with disruptions capable of triggering far-reaching cascades across multiple countries and industries. Researchers warn that protecting battery supply chains will require system-wide coordination because critical bottlenecks can turn local shocks into global problems.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260619101402.htm",
-          "pubDate": "Sat, 20 Jun 2026 10:00:29 EDT"
+          "title": "Chinese sodium battery surprised scientists by matching key Tesla benchmarks",
+          "summary": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weather charging and energy density, sodium could become a cheaper and more abundant alternative to lithium for EVs and large-scale energy storage.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260621060305.htm",
+          "pubDate": "Sun, 21 Jun 2026 10:06:09 EDT"
         },
         {
-          "title": "This DNA repair gene went rogue and exposed a cancer weakness",
-          "summary": "Scientists have discovered that a gene normally considered a DNA-protecting \"good guy\" can become dangerous when cells make too much of it. The gene, EXO1, acts like molecular scissors that help repair DNA, but when overproduced it starts cutting DNA it shouldn&#039;t, creating damage linked to cancer.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
-          "pubDate": "Sat, 20 Jun 2026 08:27:35 EDT"
+          "title": "Long-lived families reveal a rare genetic clue to healthy aging",
+          "summary": "A study of long-lived families has identified rare genetic variants that may help people stay healthier for much longer as they age. One standout mutation appears to temper inflammation, potentially delaying disease and extending years of healthy living.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260621060301.htm",
+          "pubDate": "Sun, 21 Jun 2026 10:57:42 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "siteName": "Science News",
       "items": [
         {
