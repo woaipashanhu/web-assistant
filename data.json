@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-23T23:00:21.214Z",
-  "date": "2026-06-24",
+  "lastUpdate": "2026-06-24T23:00:21.174Z",
+  "date": "2026-06-25",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The 16 Best Amazon Prime Day Deals Under $30 We've Found",
-          "summary": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
-          "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-june-2026-2/",
-          "pubDate": "Tue, 23 Jun 2026 21:19:01 +0000"
+          "title": "Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work",
+          "summary": "Whether you're looking to upgrade your skin care routine or invest in hair restoration, these are the best Prime Day deals on some of our favorite red light therapy devices.",
+          "link": "https://www.wired.com/story/best-led-devices-prime-day-deals-2026/",
+          "pubDate": "Wed, 24 Jun 2026 22:38:22 +0000"
         },
         {
-          "title": "Best Prime Day Deals on Yoto Players and Accessories",
-          "summary": "Between Prime Day deal and the screen-free technology, the Yoto Player is a great gift you can get the kids in your life without any guilt.",
-          "link": "https://www.wired.com/story/yoto-player-prime-day-deal-2026/",
-          "pubDate": "Tue, 23 Jun 2026 20:46:56 +0000"
+          "title": "97 Prime Day Deals on Gear We Stand By, Up To 50% Off (2026)",
+          "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+          "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/",
+          "pubDate": "Wed, 24 Jun 2026 22:36:32 +0000"
         },
         {
-          "title": "Best Prime Day Streaming Deals I’ve Found (2026): HBO, Paramount Plus",
-          "summary": "Prime Day isn’t just about cheap TVs. It's also about cheap stuff to watch on your cheap TV.",
-          "link": "https://www.wired.com/story/best-prime-day-streaming-deals-2026/",
-          "pubDate": "Tue, 23 Jun 2026 20:40:53 +0000"
+          "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
+          "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
+          "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+          "pubDate": "Wed, 24 Jun 2026 22:36:16 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Superhuman acquires AI detection startup GPTZero",
-          "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
-          "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
-          "pubDate": "Tue, 23 Jun 2026 21:48:23 +0000"
+          "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+          "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+          "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+          "pubDate": "Wed, 24 Jun 2026 22:41:41 +0000"
         },
         {
-          "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-          "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
-          "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-          "pubDate": "Tue, 23 Jun 2026 19:49:55 +0000"
+          "title": "AI was supposed to kill engineering jobs, but new data suggests they&#8217;re the most resilient",
+          "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+          "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+          "pubDate": "Wed, 24 Jun 2026 21:56:41 +0000"
         },
         {
-          "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
-          "summary": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
-          "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
-          "pubDate": "Tue, 23 Jun 2026 19:43:56 +0000"
+          "title": "AI researchers continue to leave Google for its rivals",
+          "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+          "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+          "pubDate": "Wed, 24 Jun 2026 21:42:07 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-          "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
-          "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 23 Jun 2026 16:27:17 GMT"
+          "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+          "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 24 Jun 2026 21:39:18 GMT"
         },
         {
-          "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-          "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
-          "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 23 Jun 2026 21:04:11 GMT"
+          "title": "Air conditioning creates political divide after France records hottest day",
+          "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 24 Jun 2026 13:51:24 GMT"
         },
         {
-          "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-          "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
-          "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 23 Jun 2026 16:47:45 GMT"
+          "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+          "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+          "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 24 Jun 2026 17:31:48 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
-          "summary": "The commission has now sued nine states in its battle to defend what it sees as its exclusive right to regulate event contracts.",
-          "link": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
-          "pubDate": "Tue, 23 Jun 2026 21:31:49 GMT"
+          "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+          "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
+          "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+          "pubDate": "Wed, 24 Jun 2026 21:42:05 GMT"
         },
         {
-          "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
-          "summary": "Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.",
-          "link": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
-          "pubDate": "Tue, 23 Jun 2026 20:25:32 GMT"
+          "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+          "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
+          "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+          "pubDate": "Wed, 24 Jun 2026 21:19:27 GMT"
         },
         {
-          "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
-          "summary": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
-          "link": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
-          "pubDate": "Tue, 23 Jun 2026 19:33:07 GMT"
+          "title": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
+          "summary": "Tarek Mansour said to CNBC's \"Squawk Box\" it made sense for the company at the stage to think about a debut on public markets.",
+          "link": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
+          "pubDate": "Wed, 24 Jun 2026 13:42:28 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "White House bats down speculation that Trump got access to Eli Lilly obesity drug for ‘compassionate use’",
-          "summary": "White House officials on Tuesday shot down a report speculating that President Trump gained access to the retatrutide weight-loss drug under the Food and Drug Administration’s (FDA) “compassionate use program.” The retatrutide drug is manufactured by Eli Lilly and is not FDA approved, however, one person gained access to the prescription through a program that&#8230;",
-          "link": "https://thehill.com/homenews/administration/5937098-white-house-denies-trump-retatrutide/",
-          "pubDate": "Tue, 23 Jun 2026 22:20:22 +0000"
+          "title": "Judge orders Kennedy Center to explain covering over building signage where Trump name was removed",
+          "summary": "A federal judge on Wednesday ordered the Trump administration to explain the tarp covering the Kennedy Center by next month as lawmakers question the plans for the world renowned performing arts venue amid a pending lawsuit.&#160; District Judge Christopher Cooper ordered the Trump administration to file a joint status report within 7 days of a&#8230;",
+          "link": "https://thehill.com/homenews/administration/5939348-tarp-kennedy-center-plans/",
+          "pubDate": "Wed, 24 Jun 2026 22:29:36 +0000"
         },
         {
-          "title": "Last American hantavirus cruise ship passenger released from quarantine",
-          "summary": "As of Sunday, all U.S. citizens on a cruise ship that was the center of a deadly hantavirus outbreak are out of quarantine, according to the Centers for Disease Control and Prevention (CDC). The 18 Americans onboard the M/V Hondius cruise ship have since completed their 42-day monitoring period, the CDC noted. Those individuals isolated&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5937145-hondius-cruise-hantavirus-quarantine/",
-          "pubDate": "Tue, 23 Jun 2026 22:17:49 +0000"
+          "title": "Trump requests $88 billion from Congress for Iran war, Ebola outbreak and farmers aid",
+          "summary": "The White House on Wednesday officially asked Congress for $87.6 billion in supplemental funding to pay for the Iran war, curtail the ongoing Ebola outbreak and provide aid to U.S. farmers, among other requests, according to a copy obtained by The Hill.&#160; In a letter to House Speaker Mike Johnson (R-La.), White House Office of&#8230;",
+          "link": "https://thehill.com/policy/defense/5939421-congress-asked-iran-war-ebola/",
+          "pubDate": "Wed, 24 Jun 2026 22:28:48 +0000"
         },
         {
-          "title": "M&#038;M&#8217;s without artificial dyes are coming soon. These other brands are following suit",
-          "summary": "Several companies have announced plans or taken steps to remove artificial dyes from their products.",
-          "link": "https://thehill.com/homenews/5936900-mms-without-artificial-dyes-are-coming-soon-these-other-brands-are-following-suit/",
-          "pubDate": "Tue, 23 Jun 2026 22:14:41 +0000"
+          "title": "Christian school pays $10K to student suspended for coming out as gay",
+          "summary": "A Tennessee Christian school agreed to pay a former student $10,000 to settle a legal battle after she sued the school for barring her from graduation and suspending her after she came out as gay on social media. A final judgment entered Monday resolved the lawsuit filed by Morgan Armstrong, a graduating senior at Tennessee&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5939402-christian-school-pays-10k-to-student-suspended-for-coming-out-as-gay/",
+          "pubDate": "Wed, 24 Jun 2026 22:25:59 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Intel CEO gives investors a reality check",
-          "summary": "Intel CEO gives investors a reality check",
-          "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html",
-          "pubDate": "2026-06-22T18:47:00Z"
+          "title": "Euro Falls Against Dollar on Shift in Rate Rise Bets, Weak German Data",
+          "summary": "Euro Falls Against Dollar on Shift in Rate Rise Bets, Weak German Data",
+          "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/euro-falls-against-dollar-on-shift-in-rate-rise-bets-weak-german-data-r6fhy6CrmEBMELAUMdb8?siteid=yhoof2&amp;yptr=yahoo",
+          "pubDate": "2026-06-23T14:59:32Z"
         },
         {
-          "title": "52-year-old Outback Steakhouse rival chain closes 24 locations",
-          "summary": "52-year-old Outback Steakhouse rival chain closes 24 locations",
-          "link": "https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html",
-          "pubDate": "2026-06-22T19:47:00Z"
+          "title": "China’s Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next",
+          "summary": "China’s Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next",
+          "link": "https://finance.yahoo.com/energy/articles/china-antimony-ban-sent-prices-150000191.html",
+          "pubDate": "2026-06-23T15:00:00Z"
         },
         {
-          "title": "Dollar Recovers as Euro Retreats on Dovish Lagarde Comments",
-          "summary": "Dollar Recovers as Euro Retreats on Dovish Lagarde Comments",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-recovers-euro-retreats-dovish-144127851.html",
-          "pubDate": "2026-06-22T14:41:27Z"
+          "title": "Cognizant Technology Stock Could Be a Great Way to Profit from AI at a Discount",
+          "summary": "Cognizant Technology Stock Could Be a Great Way to Profit from AI at a Discount",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cognizant-technology-stock-could-great-150122041.html",
+          "pubDate": "2026-06-23T15:01:22Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
-          "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and climate upheaval were reshaping the country’s wildlife and driving extinctions long before humans arrived.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
-          "pubDate": "Tue, 23 Jun 2026 03:30:41 EDT"
+          "title": "Scientists discover ancient brain cells that help block distractions",
+          "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+          "pubDate": "Wed, 24 Jun 2026 09:30:09 EDT"
         },
         {
-          "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-          "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries about the universe while paving the way for powerful future technologies in space and on Earth.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
-          "pubDate": "Tue, 23 Jun 2026 00:45:34 EDT"
+          "title": "The universe may be hiding conscious minds stranger than we can imagine",
+          "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
+          "pubDate": "Wed, 24 Jun 2026 10:49:57 EDT"
         },
         {
-          "title": "This emerging treatment is helping people avoid knee replacement surgery",
-          "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies suggest the procedure can provide years of relief by reducing inflammation inside the joint.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260622091502.htm",
-          "pubDate": "Mon, 22 Jun 2026 23:04:58 EDT"
+          "title": "Early humans were bringing fire into caves 1.8 million years ago",
+          "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors. The discovery pushes back the timeline for fire use and reveals surprisingly sophisticated behavior long before humans could create fire on demand.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
+          "pubDate": "Wed, 24 Jun 2026 05:12:51 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "siteName": "Science News",
       "items": [
         {
-          "title": "The &#8216;little brain&#8217; may give the aging mind a big boost",
-          "summary": "Most known for its role in movement, the cerebellum could compensate for flagging mental functions elsewhere in the brain.",
-          "link": "https://www.sciencenews.org/article/cerebellum-brain-aging-boost",
-          "pubDate": "Tue, 23 Jun 2026 17:00:00 +0000"
+          "title": "A Mars rover found organic carbon just sitting on a rock",
+          "summary": "The organic molecules could come from life or from ordinary chemistry — only samples returned to Earth can settle it.",
+          "link": "https://www.sciencenews.org/article/mars-carbon-complex-organic-rock",
+          "pubDate": "Wed, 24 Jun 2026 18:00:00 +0000"
         },
         {
-          "title": "Even ‘safe’ air pollution levels may affect heart health",
-          "summary": "An imaging study found early signs of coronary artery disease in people in Canada breathing air that regulators consider clean.",
-          "link": "https://www.sciencenews.org/article/safe-air-pollution-heart-health",
-          "pubDate": "Tue, 23 Jun 2026 15:00:00 +0000"
+          "title": "A potential hindrance to fusion power may help instead",
+          "summary": "Researchers were unsure whether alpha particles would aid or hinder fusion. Simulations suggest they help, by dampening turbulence.",
+          "link": "https://www.sciencenews.org/article/nuclear-fusion-alpha-particles-reactor",
+          "pubDate": "Wed, 24 Jun 2026 15:00:00 +0000"
         },
         {
-          "title": "A new dino fossil may solve an ancient murder mystery",
-          "summary": "A newly-described dinosaur, Jian changmaensis, may have glided through northwestern China about 120 million years ago, wreaking havoc on birds.",
-          "link": "https://www.sciencenews.org/article/new-dinosaur-fossil-murder-mystery",
-          "pubDate": "Tue, 23 Jun 2026 13:00:00 +0000"
+          "title": "The world’s largest scorpion lived 415 million years ago",
+          "summary": "A prehistoric scorpion was the largest ever to exist, and it may have preyed on land and freshwater species.",
+          "link": "https://www.sciencenews.org/article/largest-scorpion-lived-415-million-years-ago",
+          "pubDate": "Wed, 24 Jun 2026 13:00:00 +0000"
         }
       ]
     }
