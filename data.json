@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-24T23:00:21.174Z",
-  "date": "2026-06-25",
+  "lastUpdate": "2026-06-25T23:00:21.729Z",
+  "date": "2026-06-26",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work",
-          "summary": "Whether you're looking to upgrade your skin care routine or invest in hair restoration, these are the best Prime Day deals on some of our favorite red light therapy devices.",
-          "link": "https://www.wired.com/story/best-led-devices-prime-day-deals-2026/",
-          "pubDate": "Wed, 24 Jun 2026 22:38:22 +0000"
-        },
-        {
-          "title": "97 Prime Day Deals on Gear We Stand By, Up To 50% Off (2026)",
+          "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
           "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
-          "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/",
-          "pubDate": "Wed, 24 Jun 2026 22:36:32 +0000"
+          "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
+          "pubDate": "Thu, 25 Jun 2026 22:32:07 +0000"
         },
         {
-          "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
-          "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
-          "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-          "pubDate": "Wed, 24 Jun 2026 22:36:16 +0000"
+          "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
+          "summary": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.",
+          "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
+          "pubDate": "Thu, 25 Jun 2026 22:31:21 +0000"
+        },
+        {
+          "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
+          "summary": "This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and it’s up to 25 percent off right now for Prime Day.",
+          "link": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/",
+          "pubDate": "Thu, 25 Jun 2026 19:58:52 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-          "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-          "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-          "pubDate": "Wed, 24 Jun 2026 22:41:41 +0000"
+          "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+          "summary": "YouTube Shorts is getting a makeover.",
+          "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+          "pubDate": "Thu, 25 Jun 2026 22:02:12 +0000"
         },
         {
-          "title": "AI was supposed to kill engineering jobs, but new data suggests they&#8217;re the most resilient",
-          "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-          "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-          "pubDate": "Wed, 24 Jun 2026 21:56:41 +0000"
+          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+          "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "pubDate": "Thu, 25 Jun 2026 20:19:25 +0000"
         },
         {
-          "title": "AI researchers continue to leave Google for its rivals",
-          "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-          "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-          "pubDate": "Wed, 24 Jun 2026 21:42:07 +0000"
+          "title": "Polymarket says hackers stole users&#8217; funds",
+          "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+          "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+          "pubDate": "Thu, 25 Jun 2026 19:58:46 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
-          "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
-          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 24 Jun 2026 21:39:18 GMT"
+          "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+          "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 25 Jun 2026 13:09:58 GMT"
         },
         {
-          "title": "Air conditioning creates political divide after France records hottest day",
-          "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 24 Jun 2026 13:51:24 GMT"
+          "title": "People flee as building collapses on Caracas outskirts",
+          "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+          "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 25 Jun 2026 12:08:30 GMT"
         },
         {
-          "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-          "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
-          "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 24 Jun 2026 17:31:48 GMT"
+          "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
+          "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 25 Jun 2026 21:27:06 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-          "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
-          "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
-          "pubDate": "Wed, 24 Jun 2026 21:42:05 GMT"
+          "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+          "summary": "In a live CNBC interview from his home district, Goolsbee declined to speculate on where he thinks interest rates are headed.",
+          "link": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
+          "pubDate": "Thu, 25 Jun 2026 21:03:16 GMT"
         },
         {
-          "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
-          "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
-          "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
-          "pubDate": "Wed, 24 Jun 2026 21:19:27 GMT"
+          "title": "Bond ETF flows surge in hunt for yield: &apos;Market sniffing out something here,&apos; says BlackRock exec",
+          "summary": "Bond investors are abandoning aggregate benchmarks in favor of a broad mix of fixed-income investments to maximize yield with the stock market on edge.",
+          "link": "https://www.cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html",
+          "pubDate": "Thu, 25 Jun 2026 17:29:00 GMT"
         },
         {
-          "title": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
-          "summary": "Tarek Mansour said to CNBC's \"Squawk Box\" it made sense for the company at the stage to think about a debut on public markets.",
-          "link": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
-          "pubDate": "Wed, 24 Jun 2026 13:42:28 GMT"
+          "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
+          "summary": "The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.",
+          "link": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
+          "pubDate": "Thu, 25 Jun 2026 19:34:09 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Judge orders Kennedy Center to explain covering over building signage where Trump name was removed",
-          "summary": "A federal judge on Wednesday ordered the Trump administration to explain the tarp covering the Kennedy Center by next month as lawmakers question the plans for the world renowned performing arts venue amid a pending lawsuit.&#160; District Judge Christopher Cooper ordered the Trump administration to file a joint status report within 7 days of a&#8230;",
-          "link": "https://thehill.com/homenews/administration/5939348-tarp-kennedy-center-plans/",
-          "pubDate": "Wed, 24 Jun 2026 22:29:36 +0000"
+          "title": "5 takeaways from Supreme Court&#8217;s big rulings on immigration, guns",
+          "summary": "The Supreme Court left President Trump and gun rights advocates celebrating on Thursday. In a series of 6-3 decisions, the high court ticked off some of its anticipated remaining cases as the justices move closer to their summer recess. But their rulings didn’t come without friction on the bench.&#160; Here are five takeaways. Trump&#8217;s appointees&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5941656-supreme-court-immigration-decisions/",
+          "pubDate": "Thu, 25 Jun 2026 22:34:22 +0000"
         },
         {
-          "title": "Trump requests $88 billion from Congress for Iran war, Ebola outbreak and farmers aid",
-          "summary": "The White House on Wednesday officially asked Congress for $87.6 billion in supplemental funding to pay for the Iran war, curtail the ongoing Ebola outbreak and provide aid to U.S. farmers, among other requests, according to a copy obtained by The Hill.&#160; In a letter to House Speaker Mike Johnson (R-La.), White House Office of&#8230;",
-          "link": "https://thehill.com/policy/defense/5939421-congress-asked-iran-war-ebola/",
-          "pubDate": "Wed, 24 Jun 2026 22:28:48 +0000"
+          "title": "Trump urges House Republican rebels to stop ‘grandstanding&#8217; after meeting with Johnson",
+          "summary": "President Trump on Thursday urged House Republicans to unify and stop “grandstanding” after a group of hard-line conservatives brought most House activity to a halt this week over the Safeguard American Voter Eligibility (SAVE America) Act. Trump’s post came shortly after a Thursday afternoon meeting with Speaker Mike Johnson (R-La.), who had been searching for&#8230;",
+          "link": "https://thehill.com/homenews/house/5941627-save-america-act-trump-johnson/",
+          "pubDate": "Thu, 25 Jun 2026 22:28:42 +0000"
         },
         {
-          "title": "Christian school pays $10K to student suspended for coming out as gay",
-          "summary": "A Tennessee Christian school agreed to pay a former student $10,000 to settle a legal battle after she sued the school for barring her from graduation and suspending her after she came out as gay on social media. A final judgment entered Monday resolved the lawsuit filed by Morgan Armstrong, a graduating senior at Tennessee&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5939402-christian-school-pays-10k-to-student-suspended-for-coming-out-as-gay/",
-          "pubDate": "Wed, 24 Jun 2026 22:25:59 +0000"
+          "title": "Jeffries says he hopes Democrats remember after primaries &#8216;enemy is Donald Trump&#8217;",
+          "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Wednesday he hopes Democrats remember that after the primary elections are over, the party&#8217;s &#8220;enemy is Donald Trump.&#8221; MS NOW&#8217;s Jen Psaki spoke with Jeffries about Israel playing a role in the New York Democratic primary. She asked Jeffries about his reflection on the issue and how Democratic&#8230;",
+          "link": "https://thehill.com/homenews/5941529-democrats-trump-enemy-jeffries/",
+          "pubDate": "Thu, 25 Jun 2026 22:23:15 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Euro Falls Against Dollar on Shift in Rate Rise Bets, Weak German Data",
-          "summary": "Euro Falls Against Dollar on Shift in Rate Rise Bets, Weak German Data",
-          "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/euro-falls-against-dollar-on-shift-in-rate-rise-bets-weak-german-data-r6fhy6CrmEBMELAUMdb8?siteid=yhoof2&amp;yptr=yahoo",
-          "pubDate": "2026-06-23T14:59:32Z"
+          "title": "How Berkshire Hathaway's Portfolio Differs in the Post-Warren Buffett Era",
+          "summary": "How Berkshire Hathaway's Portfolio Differs in the Post-Warren Buffett Era",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-portfolio-differs-post-152000679.html",
+          "pubDate": "2026-06-24T15:20:00Z"
         },
         {
-          "title": "China’s Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next",
-          "summary": "China’s Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next",
-          "link": "https://finance.yahoo.com/energy/articles/china-antimony-ban-sent-prices-150000191.html",
-          "pubDate": "2026-06-23T15:00:00Z"
+          "title": "Wall Street Says AI Is Slowing. Taiwan Semiconductor’s Latest Move Says Otherwise.",
+          "summary": "Wall Street Says AI Is Slowing. Taiwan Semiconductor’s Latest Move Says Otherwise.",
+          "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-says-ai-slowing-152227316.html",
+          "pubDate": "2026-06-24T15:22:27Z"
         },
         {
-          "title": "Cognizant Technology Stock Could Be a Great Way to Profit from AI at a Discount",
-          "summary": "Cognizant Technology Stock Could Be a Great Way to Profit from AI at a Discount",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cognizant-technology-stock-could-great-150122041.html",
-          "pubDate": "2026-06-23T15:01:22Z"
+          "title": "How Applied Materials Could Become the Next $1 Trillion Chip Stock",
+          "summary": "How Applied Materials Could Become the Next $1 Trillion Chip Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-could-become-next-150258562.html",
+          "pubDate": "2026-06-24T15:02:58Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists discover ancient brain cells that help block distractions",
-          "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—similar to what is seen in ADHD—but regained normal focus as soon as the neurons were reactivated.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
-          "pubDate": "Wed, 24 Jun 2026 09:30:09 EDT"
+          "title": "They knew the pill was fake but their memory still improved",
+          "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
+          "pubDate": "Thu, 25 Jun 2026 07:23:11 EDT"
         },
         {
-          "title": "The universe may be hiding conscious minds stranger than we can imagine",
-          "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
-          "pubDate": "Wed, 24 Jun 2026 10:49:57 EDT"
+          "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+          "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don&#039;t happen in a single season—they emerge as decades of evidence slowly come together.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
+          "pubDate": "Thu, 25 Jun 2026 03:41:52 EDT"
         },
         {
-          "title": "Early humans were bringing fire into caves 1.8 million years ago",
-          "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors. The discovery pushes back the timeline for fire use and reveals surprisingly sophisticated behavior long before humans could create fire on demand.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
-          "pubDate": "Wed, 24 Jun 2026 05:12:51 EDT"
+          "title": "Osteopenia is silently weakening bones in millions of people",
+          "summary": "Osteopenia is a common but often overlooked condition that causes bones to become less dense and more fragile. Because it develops silently, many people only discover they have it after a fracture or bone scan. Aging, menopause, poor diet, and inactivity can all contribute to bone loss. Fortunately, exercise, adequate calcium and vitamin D, and other healthy habits can slow or even partially reverse the decline.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260624025511.htm",
+          "pubDate": "Thu, 25 Jun 2026 00:25:26 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A Mars rover found organic carbon just sitting on a rock",
-          "summary": "The organic molecules could come from life or from ordinary chemistry — only samples returned to Earth can settle it.",
-          "link": "https://www.sciencenews.org/article/mars-carbon-complex-organic-rock",
-          "pubDate": "Wed, 24 Jun 2026 18:00:00 +0000"
+          "title": "New science on algae die-offs is too late for the Reflecting Pool",
+          "summary": "Iron and hydrogen peroxide trigger cell death via ferroptosis, which cascades killer molecules through the population, causing mass die-offs of algae.",
+          "link": "https://www.sciencenews.org/article/algae-die-offs-reflecting-pool",
+          "pubDate": "Thu, 25 Jun 2026 20:22:27 +0000"
         },
         {
-          "title": "A potential hindrance to fusion power may help instead",
-          "summary": "Researchers were unsure whether alpha particles would aid or hinder fusion. Simulations suggest they help, by dampening turbulence.",
-          "link": "https://www.sciencenews.org/article/nuclear-fusion-alpha-particles-reactor",
-          "pubDate": "Wed, 24 Jun 2026 15:00:00 +0000"
+          "title": "Ancient flowering plants may have used dinosaurs to spread their seeds",
+          "summary": "Scientists thought angiosperms didn’t use animals to spread seeds until after the Age of Dinosaurs. Fossilized fruits from these plants challenge this idea.",
+          "link": "https://www.sciencenews.org/article/flowering-plants-dinosaurs-spread-seeds",
+          "pubDate": "Thu, 25 Jun 2026 18:00:00 +0000"
         },
         {
-          "title": "The world’s largest scorpion lived 415 million years ago",
-          "summary": "A prehistoric scorpion was the largest ever to exist, and it may have preyed on land and freshwater species.",
-          "link": "https://www.sciencenews.org/article/largest-scorpion-lived-415-million-years-ago",
-          "pubDate": "Wed, 24 Jun 2026 13:00:00 +0000"
+          "title": "We’ve had fire for longer than we thought",
+          "summary": "Archaeologists have unearthed new evidence that indicates hominids used fire up to 1.79 million years ago.",
+          "link": "https://www.sciencenews.org/article/hominids-had-fire-longer-than-thought",
+          "pubDate": "Thu, 25 Jun 2026 13:00:00 +0000"
         }
       ]
     }
