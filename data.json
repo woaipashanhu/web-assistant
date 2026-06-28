@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-27T23:00:21.446Z",
-  "date": "2026-06-28",
+  "lastUpdate": "2026-06-28T23:00:21.311Z",
+  "date": "2026-06-29",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)",
-          "summary": "Prime Day is officially over, but many of our favorite, hand-picked deals are still available through the weekend.",
-          "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/",
-          "pubDate": "Sat, 27 Jun 2026 18:01:21 +0000"
+          "title": "What to Do in Houston If You're Here for Business (2026)",
+          "summary": "Where to eat, stay, work, and eat some more while visiting Space City on business.",
+          "link": "https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/",
+          "pubDate": "Sun, 28 Jun 2026 12:21:00 +0000"
         },
         {
-          "title": "Duer’s Wear-Everywhere Pants Are on Sale This Weekend",
-          "summary": "It’s not often you can score discounts from the outdoor-coded Canadian company that makes understated and stylish performance clothing.",
-          "link": "https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/",
-          "pubDate": "Sat, 27 Jun 2026 11:01:00 +0000"
+          "title": "The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality",
+          "summary": "As the billionaire class gets richer, the growing online community is offering tips on how to survive with very little.",
+          "link": "https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/",
+          "pubDate": "Sun, 28 Jun 2026 11:00:00 +0000"
         },
         {
-          "title": "Does DeleteMe Actually Get Your Info off the Internet? I Tried It",
-          "summary": "Everyone is sick of spam calls and creeper sites that show weirdos where you live—but can any service solve it?",
-          "link": "https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/",
-          "pubDate": "Sat, 27 Jun 2026 10:31:00 +0000"
+          "title": "Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best",
+          "summary": "Sun hoodies are the greatest new garment since the original hoodie.",
+          "link": "https://www.wired.com/story/im-addicted-to-sun-hoodies/",
+          "pubDate": "Sun, 28 Jun 2026 10:02:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-          "summary": "Instagram users could soon see more ways to tune their content.",
-          "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
-          "pubDate": "Sat, 27 Jun 2026 21:27:37 +0000"
+          "title": "California law targeting loud streaming ads takes effect on July 1",
+          "summary": "Streaming ads might be getting a lot quieter.",
+          "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+          "pubDate": "Sun, 28 Jun 2026 21:34:14 +0000"
         },
         {
-          "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk&#8217;s orbital data center hype",
-          "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-          "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-          "pubDate": "Sat, 27 Jun 2026 20:42:36 +0000"
+          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+          "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "pubDate": "Sun, 28 Jun 2026 19:05:39 +0000"
         },
         {
-          "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-          "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-          "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-          "pubDate": "Sat, 27 Jun 2026 16:45:09 +0000"
+          "title": "Writer Ian Bogost says &#8216;The Small Stuff&#8217; can help us reclaim our lives from too much convenience",
+          "summary": "Has Silicon Valley been building the wrong things?",
+          "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+          "pubDate": "Sun, 28 Jun 2026 17:03:16 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-          "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
-          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 27 Jun 2026 08:56:30 GMT"
+          "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+          "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+          "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 28 Jun 2026 21:58:45 GMT"
         },
         {
-          "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-          "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
-          "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 27 Jun 2026 21:12:51 GMT"
+          "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+          "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+          "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 27 Jun 2026 14:22:37 GMT"
         },
         {
-          "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-          "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 27 Jun 2026 21:35:40 GMT"
+          "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+          "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+          "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 28 Jun 2026 19:37:07 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Centcom: US conducts additional strikes on Iran",
-          "summary": "U.S. Central Command (Centcom) said on Saturday that U.S. forces conducted additional strikes against multiple Iranian targets in response to an attack against a Panama-flagged tanker near the Strait of Hormuz. “CENTCOM forces launched strikes today in direct response to continued Iranian aggression against commercial shipping,” Centcom said in a statement on the social platform&#8230;",
-          "link": "https://thehill.com/policy/defense/5944131-centcom-us-conducts-additional-strikes-on-iran/",
-          "pubDate": "Sat, 27 Jun 2026 22:18:39 +0000"
+          "title": "Trump: Reflecting Pool will be drained after July 4; algae &#8216;criminally made&#8217;",
+          "summary": "President Trump said Sunday that the Lincoln Memorial Reflecting Pool will be drained shortly after the country’s 250th anniversary celebrations wrap up, accusing criminals of both damaging the lining and creating algae. &#8220;The Reflecting Pool is now in full use after suffering great damage from Criminal, Radical Left Vandals, people that truly hate our Country,&#8221;&#8230;",
+          "link": "https://thehill.com/homenews/administration/5944812-trump-reflecting-pool-drained/",
+          "pubDate": "Sun, 28 Jun 2026 22:10:35 +0000"
         },
         {
-          "title": "Chuck Todd believes Trump pushing Murkowski closer to Dems",
-          "summary": "Former NBC News chief political analyst Chuck Todd warned on Friday that President Trump is isolating some of his own party, after the president criticized GOP Sen. Lisa Murkowski (Alaska).&#160; “The more Trump goes after Murkowski, the more likely the real number Dems will need to take control of the Senate is ‘3’ not 4&#8230;",
-          "link": "https://thehill.com/media/5944123-chuck-todd-believes-trump-pushing-murkowski-closer-to-dems/",
-          "pubDate": "Sat, 27 Jun 2026 22:01:59 +0000"
+          "title": "Tillis has &#8216;positive predisposition&#8217; toward Blanche&#8217;s confirmation",
+          "summary": "Republican Sen. Thom Tillis (N.C.) said Sunday he has a “positive predisposition” toward acting Attorney General Todd Blanche, whom President Trump has nominated for the full-time post. “I&#8217;m going to go through the nomination process. I have got a positive predisposition towards Blanche,” Tillis, a member of the Senate Judiciary Committee, told host Jake Tapper&#8230;",
+          "link": "https://thehill.com/homenews/senate/5944816-tillis-blanche-ag-confirmation-process/",
+          "pubDate": "Sun, 28 Jun 2026 22:02:01 +0000"
         },
         {
-          "title": "Iran captain calls World Cup a ‘disaster’ after final group stage match",
-          "summary": "The captain of the Iranian men’s national football ripped FIFA and its president Gianni Infantino on Friday for its experience during the World Cup, as it awaits word on whether its tournament run has come to an end. “It’s a disaster World Cup,” Mehdi Taremi told reporters after Iran’s final group stage match against Egypt&#8230;",
-          "link": "https://thehill.com/policy/sports-gaming/5944108-iran-captain-calls-world-cup-a-disaster-after-final-group-stage-match/",
-          "pubDate": "Sat, 27 Jun 2026 21:34:51 +0000"
+          "title": "Trump warns likely next DC mayor against &#8216;communist&#8217; policies",
+          "summary": "President Trump on Sunday blasted Janeese Lewis George, the Democratic nominee for mayor of Washington, D.C., as a “communist” whose policies will harm the district. “Janeese Lewis George, the Communist who is almost certainly going to be elected Mayor of Washington, D.C., has stated that she wants to empty the prisons, make D.C. a Sanctuary&#8230;",
+          "link": "https://thehill.com/homenews/administration/5944771-dc-mayor-trump-communism-threat/",
+          "pubDate": "Sun, 28 Jun 2026 21:21:14 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "How Many Starlink Satellites Can SpaceX Launch This Year?",
-          "summary": "How Many Starlink Satellites Can SpaceX Launch This Year?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/many-starlink-satellites-spacex-launch-225000937.html",
-          "pubDate": "2026-06-27T22:50:00Z"
+          "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb as a halt to US-Iranian attacks is called",
+          "summary": "Stock market today: S&P 500, Nasdaq, Dow futures climb as a halt to US-Iranian attacks is called",
+          "link": "https://finance.yahoo.com/markets/stocks/live/copy-copy-stock-market-today-dow-sp-500-nasdaq-rise-amid-iran-deal-hopes-earnings-rush-224230573.html",
+          "pubDate": "2026-06-28T22:42:30Z"
         },
         {
-          "title": "Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment",
-          "summary": "Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment",
-          "link": "https://finance.yahoo.com/technology/articles/procore-technologies-pcor-announces-roll-221818886.html",
-          "pubDate": "2026-06-27T22:18:18Z"
+          "title": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
+          "summary": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-06-28T22:41:57Z"
         },
         {
-          "title": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
-          "summary": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-dynatrace-221811886.html",
-          "pubDate": "2026-06-27T22:18:11Z"
+          "title": "The Case For and Against Buying Chevron Right Now",
+          "summary": "The Case For and Against Buying Chevron Right Now",
+          "link": "https://finance.yahoo.com/energy/articles/case-against-buying-chevron-now-223500687.html",
+          "pubDate": "2026-06-28T22:35:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     "site_8": {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "siteName": "Science News",
       "items": [
         {
