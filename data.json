@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-29T23:00:21.165Z",
-  "date": "2026-06-30",
+  "lastUpdate": "2026-06-30T23:00:21.447Z",
+  "date": "2026-07-01",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-          "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-          "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-          "pubDate": "Mon, 29 Jun 2026 21:49:26 +0000"
+          "title": "Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper",
+          "summary": "The California-based startup enters a crowded headphone market with a $399 chiseled-aluminum gamble.",
+          "link": "https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/",
+          "pubDate": "Tue, 30 Jun 2026 21:07:32 +0000"
         },
         {
-          "title": "Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts",
-          "summary": "WIRED has tested 100-plus bed-in-a-box mattresses for a week each. Our top pick, the Helix Midnight Luxe hybrid, is the best bed you can buy online.",
-          "link": "https://www.wired.com/gallery/best-mattresses/",
-          "pubDate": "Mon, 29 Jun 2026 21:05:17 +0000"
+          "title": "New York Is About to Feel Hotter Than Phoenix",
+          "summary": "Extreme heat coupled with humidity will make it feel like 109 degrees Fahrenheit as the holiday weekend approaches.",
+          "link": "https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/",
+          "pubDate": "Tue, 30 Jun 2026 15:18:08 +0000"
         },
         {
-          "title": "Usernames Are Coming to WhatsApp Soon. Here's How to Reserve Yours",
-          "summary": "Even if you only use WhatsApp sometimes, you might want to snag your username now to stop giving out your phone number.",
-          "link": "https://www.wired.com/story/how-to-reserve-your-whatsapp-username-before-it-goes-live/",
-          "pubDate": "Mon, 29 Jun 2026 16:00:00 +0000"
+          "title": "The 2 Best Slushie Machines of 2026: Now With Soft Serve",
+          "summary": "The original Ninja Slushi has been replaced! The new best slushie machines chill faster and make soft serve.",
+          "link": "https://www.wired.com/gallery/best-slushie-machines/",
+          "pubDate": "Tue, 30 Jun 2026 11:33:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-          "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
-          "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-          "pubDate": "Mon, 29 Jun 2026 20:55:50 +0000"
+          "title": "OpenClaw is finally available on Android and iOS",
+          "summary": "The free open source agentic program is finally invading your phone.",
+          "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "pubDate": "Tue, 30 Jun 2026 21:53:28 +0000"
         },
         {
-          "title": "Gemini&#8217;s personalized AI image generation is now free for US users",
-          "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-          "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-          "pubDate": "Mon, 29 Jun 2026 20:12:59 +0000"
+          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+          "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+          "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+          "pubDate": "Tue, 30 Jun 2026 20:33:48 +0000"
         },
         {
-          "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
-          "summary": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
-          "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
-          "pubDate": "Mon, 29 Jun 2026 19:06:21 +0000"
+          "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+          "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
+          "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+          "pubDate": "Tue, 30 Jun 2026 19:12:43 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-          "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
-          "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 29 Jun 2026 20:00:44 GMT"
+          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+          "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+          "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 30 Jun 2026 18:28:41 GMT"
         },
         {
-          "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-          "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
-          "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 29 Jun 2026 21:19:28 GMT"
+          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+          "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 30 Jun 2026 22:29:47 GMT"
         },
         {
-          "title": "Six people shot dead at centre for mothers and children in Germany",
-          "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-          "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 29 Jun 2026 19:53:57 GMT"
+          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+          "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 30 Jun 2026 21:30:52 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "China&apos;s economy picks up in June on rebounding U.S. exports, analysts say",
-          "summary": "China's economy is showing signs of picking up after a sluggish few months — thanks in part to a rebound in shipments to the U.S.",
-          "link": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html",
-          "pubDate": "Mon, 29 Jun 2026 10:00:02 GMT"
+          "title": "Michael Burry says he&apos;s shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
+          "summary": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
+          "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
+          "pubDate": "Tue, 30 Jun 2026 22:03:46 GMT"
         },
         {
-          "title": "Why investors may want to prioritize bond markets outside the U.S.",
-          "summary": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
-          "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
-          "pubDate": "Sat, 27 Jun 2026 15:00:01 GMT"
+          "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
+          "summary": "\"We've got inflation that's too high, and it's been too high for the past five years,\" Beth Hammack told CNBC's Sara Eisen.",
+          "link": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
+          "pubDate": "Tue, 30 Jun 2026 18:27:17 GMT"
         },
         {
-          "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-          "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
-          "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
-          "pubDate": "Mon, 29 Jun 2026 13:50:19 GMT"
+          "title": "Small-cap stocks enjoy their best first half in 35 years. Here&apos;s what&apos;s driving it",
+          "summary": "The advance marks a sharp turnaround after years of underperformance versus large-cap peers.",
+          "link": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
+          "pubDate": "Tue, 30 Jun 2026 16:15:55 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "SCOTUS spares Lisa Cook",
-          "summary": "Welcome to The Hill&#8217;s Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story&#160; Supreme Court halts Trump’s firing of Lisa Cook The Supreme Court blocked President Trump’s firing of the Federal Reserve board member on Monday in a 5-4 vote, ruling she can remain as her legal challenge proceeds.&#8230;",
-          "link": "https://thehill.com/newsletters/business-economy/5946475-scotus-spares-lisa-cook/",
-          "pubDate": "Mon, 29 Jun 2026 22:20:00 +0000"
+          "title": "Lara Trump: Not enough &#8216;reasonable&#8217; Democrats like Fetterman to save party from socialist takeover",
+          "summary": "President Trump’s daughter-in-law, Lara Trump, said not enough “reasonable” Democrats like Sen. John Fetterman (D-Pa.) are there to save the Democratic Party from a takeover by socialists. “Look at what&#8217;s happening. Look at these socialists winning primaries across America. That is very serious. So, I do think that there are a few, at least, reasonable&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5948561-lara-trump-warns-socialist-democrats/",
+          "pubDate": "Tue, 30 Jun 2026 22:18:21 +0000"
         },
         {
-          "title": "New York Times&#8217;s Haberman, Swan: Trump &#8216;answers more questions than Joe Biden&#8217;",
-          "summary": "New York Times reporters Maggie Haberman and Jonathan Swan said Monday that President Trump &#8220;answers more questions&#8221; from reporters than his predecessor, former President Biden. C-SPAN released a clip of an interview featuring the two reporters with &#8220;Q&#38;A&#8221; host Peter Slen, set to air Monday at 9 p.m. EDT, where they discussed being unable to&#8230;",
-          "link": "https://thehill.com/homenews/administration/5946416-trump-book-regime-change-biden/",
-          "pubDate": "Mon, 29 Jun 2026 22:19:14 +0000"
+          "title": "Trump administration cancels millions of dollars in teen pregnancy prevention grants",
+          "summary": "The Trump administration has terminated millions of dollars in teen pregnancy prevention grants that the Department of Health and Human Services (HHS) said were no longer aligned with the agency’s priorities. HHS cut 53 grants worth about $67 million two years before they were set to expire. The cuts hit university, community and public health&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5948545-hhs-terminates-millions-teen-pregnancy-funding/",
+          "pubDate": "Tue, 30 Jun 2026 22:15:59 +0000"
         },
         {
-          "title": "5 takeaways on divided day for Trump at Supreme Court",
-          "summary": "It was a mixed bag for President Trump at the Supreme Court on Monday. The justices tightened the president’s grip on executive power in ruling independent agency leaders may be fired, while rejecting a key pillar of Trump&#8217;s political agenda aimed at restricting mail-in voting. They ruled he must give a Federal Reserve governor due&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5946181-trump-supreme-court-john-roberts-ballots-fed-carroll/",
-          "pubDate": "Mon, 29 Jun 2026 22:01:23 +0000"
+          "title": "Just 7 percent of Ukrainians approve of US leadership: Gallup",
+          "summary": "A mere 7 percent of Ukrainian respondents to a recent survey approve of U.S. leadership, as the Russian invasion of its eastern European neighbor approaches four-and-a-half years. The survey, which Gallup conducted in April and released on Tuesday, found Ukrainians’ approval of American leadership fell 9 percentage points from 2025 to 2026. Nearly 8 in&#8230;",
+          "link": "https://thehill.com/policy/international/5948533-ukrainians-disapprove-us-leadership/",
+          "pubDate": "Tue, 30 Jun 2026 22:05:06 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
-          "summary": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
-          "pubDate": "2026-06-29T01:28:15Z"
+          "title": "PCAOB chief auditor Barbara Vanich to depart next month",
+          "summary": "PCAOB chief auditor Barbara Vanich to depart next month",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/pcaob-chief-auditor-barbara-vanich-144157053.html",
+          "pubDate": "2026-06-29T14:41:57Z"
         },
         {
-          "title": "The $2.4B grocery sushi industry has a dark side — and a new lawsuit exposes what workers were left with",
-          "summary": "The $2.4B grocery sushi industry has a dark side — and a new lawsuit exposes what workers were left with",
-          "link": "https://finance.yahoo.com/small-business/articles/2-4b-grocery-sushi-industry-143000629.html",
-          "pubDate": "2026-06-28T14:30:00Z"
+          "title": "Crown Castle's Quarterly Earnings Preview: What You Need to Know",
+          "summary": "Crown Castle's Quarterly Earnings Preview: What You Need to Know",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castles-quarterly-earnings-preview-144225441.html",
+          "pubDate": "2026-06-29T14:42:25Z"
         },
         {
-          "title": "Australia's Firmus Technologies strikes AI access deal with Nvidia",
-          "summary": "Australia's Firmus Technologies strikes AI access deal with Nvidia",
-          "link": "https://finance.yahoo.com/technology/ai/articles/australias-firmus-technologies-strikes-ai-140253776.html",
-          "pubDate": "2026-06-28T14:02:53Z"
+          "title": "Dollar Moves Lower as Equity Markets Strengthen",
+          "summary": "Dollar Moves Lower as Equity Markets Strengthen",
+          "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-moves-lower-equity-markets-143712540.html",
+          "pubDate": "2026-06-29T14:37:12Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "Scientists may have finally found how Alzheimer&#039;s spreads through the brain",
+          "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease&#039;s relentless progression.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+          "pubDate": "Tue, 30 Jun 2026 03:21:06 EDT"
+        },
+        {
+          "title": "Scientists say creatine may help fight depression",
+          "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain&#039;s energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
+          "pubDate": "Tue, 30 Jun 2026 02:28:57 EDT"
+        },
         {
           "title": "These tiny soil microbes could rescue crops from salty farmland",
           "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and field tests showed healthier plants and higher yields in salty conditions. The findings could lead to bio-based treatments that help farmers grow crops on land once considered too salty for agriculture.",
           "link": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
           "pubDate": "Sun, 28 Jun 2026 21:21:44 EDT"
-        },
-        {
-          "title": "Astronomers found two rare super puff planets lighter than cotton candy",
-          "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
-          "pubDate": "Fri, 26 Jun 2026 21:09:31 EDT"
-        },
-        {
-          "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
-          "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequence of intense X-ray flashes unlike anything seen in a typical gamma-ray burst.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
-          "pubDate": "Thu, 25 Jun 2026 21:05:03 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "This microbe turns into a cannibalistic ‘Hulk’",
+          "summary": "Euplotes gigatrox’s shape-shifting may reveal how early life learned to act in surprisingly complex ways.",
+          "link": "https://www.sciencenews.org/article/microbe-cannibalistic-hulk",
+          "pubDate": "Tue, 30 Jun 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Crabs can’t hide from an octopus with a mirror",
+          "summary": "New experiments show that octopuses can understand where an item is based solely on its reflection.",
+          "link": "https://www.sciencenews.org/article/octopus-hunt-crabs-with-mirror",
+          "pubDate": "Tue, 30 Jun 2026 13:00:00 +0000"
+        },
         {
           "title": "CERN shutters the Large Hadron Collider for a major transformation",
           "summary": "The High-Luminosity LHC, planned to switch on in 2030, could help physicists unravel mysteries about the Higgs boson, dark matter and more.",
           "link": "https://www.sciencenews.org/article/cern-large-hadron-collider-upgrade",
           "pubDate": "Mon, 29 Jun 2026 19:35:23 +0000"
-        },
-        {
-          "title": "A discovery about this bat’s diet was hiding in a Renaissance painting",
-          "summary": "Renaissance painter Jan Brueghel the Elder painted a bat eating a bird — 400 years before scientists would document the behavior.",
-          "link": "https://www.sciencenews.org/article/discover-bat-diet-renaissance-painting",
-          "pubDate": "Mon, 29 Jun 2026 19:00:00 +0000"
-        },
-        {
-          "title": "A whopping 14 million species of insects — or more — may roam Earth",
-          "summary": "New calculations suggest that the insect species inhabiting our planet may be double or triple previous estimates.",
-          "link": "https://www.sciencenews.org/article/insects-species-estimate-earth",
-          "pubDate": "Mon, 29 Jun 2026 19:00:00 +0000"
         }
       ]
     }
