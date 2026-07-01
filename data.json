@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-30T23:00:21.447Z",
-  "date": "2026-07-01",
+  "lastUpdate": "2026-07-01T23:00:21.895Z",
+  "date": "2026-07-02",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper",
-          "summary": "The California-based startup enters a crowded headphone market with a $399 chiseled-aluminum gamble.",
-          "link": "https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/",
-          "pubDate": "Tue, 30 Jun 2026 21:07:32 +0000"
+          "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
+          "summary": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
+          "link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
+          "pubDate": "Wed, 01 Jul 2026 21:34:03 +0000"
         },
         {
-          "title": "New York Is About to Feel Hotter Than Phoenix",
-          "summary": "Extreme heat coupled with humidity will make it feel like 109 degrees Fahrenheit as the holiday weekend approaches.",
-          "link": "https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/",
-          "pubDate": "Tue, 30 Jun 2026 15:18:08 +0000"
+          "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
+          "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
+          "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
+          "pubDate": "Wed, 01 Jul 2026 20:28:57 +0000"
         },
         {
-          "title": "The 2 Best Slushie Machines of 2026: Now With Soft Serve",
-          "summary": "The original Ninja Slushi has been replaced! The new best slushie machines chill faster and make soft serve.",
-          "link": "https://www.wired.com/gallery/best-slushie-machines/",
-          "pubDate": "Tue, 30 Jun 2026 11:33:00 +0000"
+          "title": "An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi",
+          "summary": "The incident could disrupt a key part of the defense company’s rocket motor business, which designs and tests prototype motors for military customers.",
+          "link": "https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/",
+          "pubDate": "Wed, 01 Jul 2026 19:29:21 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenClaw is finally available on Android and iOS",
-          "summary": "The free open source agentic program is finally invading your phone.",
-          "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-          "pubDate": "Tue, 30 Jun 2026 21:53:28 +0000"
+          "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+          "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
+          "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+          "pubDate": "Wed, 01 Jul 2026 22:47:04 +0000"
         },
         {
-          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-          "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-          "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-          "pubDate": "Tue, 30 Jun 2026 20:33:48 +0000"
+          "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+          "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
+          "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+          "pubDate": "Wed, 01 Jul 2026 22:28:35 +0000"
         },
         {
-          "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
-          "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
-          "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-          "pubDate": "Tue, 30 Jun 2026 19:12:43 +0000"
+          "title": "WhatsApp usernames are already raising impersonation red flags",
+          "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
+          "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+          "pubDate": "Wed, 01 Jul 2026 22:02:24 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-          "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-          "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 30 Jun 2026 18:28:41 GMT"
+          "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+          "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+          "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 01 Jul 2026 21:27:04 GMT"
         },
         {
-          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-          "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 30 Jun 2026 22:29:47 GMT"
+          "title": "Ukrainian charged in Germany over Nord Stream blasts",
+          "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+          "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 01 Jul 2026 18:19:32 GMT"
         },
         {
-          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-          "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
-          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 30 Jun 2026 21:30:52 GMT"
+          "title": "US blocks long-term renewal of North American trade deal",
+          "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+          "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 01 Jul 2026 18:56:36 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Michael Burry says he&apos;s shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
-          "summary": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
-          "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
-          "pubDate": "Tue, 30 Jun 2026 22:03:46 GMT"
+          "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
+          "summary": "Ives said the new firm will seek to build what he described as a \"modern merchant bank.\"",
+          "link": "https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html",
+          "pubDate": "Wed, 01 Jul 2026 20:40:10 GMT"
         },
         {
-          "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
-          "summary": "\"We've got inflation that's too high, and it's been too high for the past five years,\" Beth Hammack told CNBC's Sara Eisen.",
-          "link": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
-          "pubDate": "Tue, 30 Jun 2026 18:27:17 GMT"
+          "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
+          "summary": "Warsh has said that inflation is a \"choice.\" The same could also be true of how inflation is measured.",
+          "link": "https://www.cnbc.com/2026/07/01/warsh-faces-multiple-alternative-inflation-signs-as-fed-charts-new-course.html",
+          "pubDate": "Wed, 01 Jul 2026 17:20:22 GMT"
         },
         {
-          "title": "Small-cap stocks enjoy their best first half in 35 years. Here&apos;s what&apos;s driving it",
-          "summary": "The advance marks a sharp turnaround after years of underperformance versus large-cap peers.",
-          "link": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
-          "pubDate": "Tue, 30 Jun 2026 16:15:55 GMT"
+          "title": "Inflation peaked in May as energy prices fell in June, Kalshi traders think",
+          "summary": "Speculators on the prediction market platform give less than 30% odds to inflation peaking above 4.2% in 2026.",
+          "link": "https://www.cnbc.com/2026/07/01/inflation-peaked-in-may-as-energy-prices-fell-in-june-kalshi-traders-think.html",
+          "pubDate": "Wed, 01 Jul 2026 17:32:16 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Lara Trump: Not enough &#8216;reasonable&#8217; Democrats like Fetterman to save party from socialist takeover",
-          "summary": "President Trump’s daughter-in-law, Lara Trump, said not enough “reasonable” Democrats like Sen. John Fetterman (D-Pa.) are there to save the Democratic Party from a takeover by socialists. “Look at what&#8217;s happening. Look at these socialists winning primaries across America. That is very serious. So, I do think that there are a few, at least, reasonable&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5948561-lara-trump-warns-socialist-democrats/",
-          "pubDate": "Tue, 30 Jun 2026 22:18:21 +0000"
+          "title": "The Memo: Left’s winning streak extends in Colorado despite Trump, centrist attacks",
+          "summary": "The leftist tide coursing through Democratic politics reached Colorado on Tuesday, washing away longtime Rep. Diana DeGette (D-Colo.) and putting paid to the gubernatorial hopes of Sen. Michael Bennet (D-Colo.). In the aftermath, Democrats are asking urgent questions about the direction their party ought to take.&#160; Voices on the left say insurgent candidates are meeting&#8230;",
+          "link": "https://thehill.com/homenews/administration/5950660-democratic-party-leftist-insurgency/",
+          "pubDate": "Wed, 01 Jul 2026 22:40:17 +0000"
         },
         {
-          "title": "Trump administration cancels millions of dollars in teen pregnancy prevention grants",
-          "summary": "The Trump administration has terminated millions of dollars in teen pregnancy prevention grants that the Department of Health and Human Services (HHS) said were no longer aligned with the agency’s priorities. HHS cut 53 grants worth about $67 million two years before they were set to expire. The cuts hit university, community and public health&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5948545-hhs-terminates-millions-teen-pregnancy-funding/",
-          "pubDate": "Tue, 30 Jun 2026 22:15:59 +0000"
+          "title": "Trump talks to AI Teddy Roosevelt during presidential library visit",
+          "summary": "President Trump had a little chat with an artificial intelligence version of one of his predecessors Wednesday while touring the new Theodore Roosevelt Presidential Library in North Dakota. “Every day a president faces storms most people never see, but if you keep your nerve and remember the nation comes first, you get through,” the AI&#8230;",
+          "link": "https://thehill.com/homenews/administration/5950575-trump-ai-teddy-roosevelt-chat/",
+          "pubDate": "Wed, 01 Jul 2026 22:02:15 +0000"
         },
         {
-          "title": "Just 7 percent of Ukrainians approve of US leadership: Gallup",
-          "summary": "A mere 7 percent of Ukrainian respondents to a recent survey approve of U.S. leadership, as the Russian invasion of its eastern European neighbor approaches four-and-a-half years. The survey, which Gallup conducted in April and released on Tuesday, found Ukrainians’ approval of American leadership fell 9 percentage points from 2025 to 2026. Nearly 8 in&#8230;",
-          "link": "https://thehill.com/policy/international/5948533-ukrainians-disapprove-us-leadership/",
-          "pubDate": "Tue, 30 Jun 2026 22:05:06 +0000"
+          "title": "Trump vows to give long July 4 address even if it is 107 degrees",
+          "summary": "President Trump on Wednesday vowed that he will deliver a long speech on the National Mall for the U.S.&#8217;s 250th birthday, even as forecasters anticipate temperatures climbing to 107 degrees. &#8220;By the way, on July 4th, it&#8217;s going to be approximately 107 degrees out, and I&#8217;m going to go, and I&#8217;m going to make a&#8230;",
+          "link": "https://thehill.com/homenews/administration/5950451-july-4th-trump-rally-heat/",
+          "pubDate": "Wed, 01 Jul 2026 22:00:53 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "PCAOB chief auditor Barbara Vanich to depart next month",
-          "summary": "PCAOB chief auditor Barbara Vanich to depart next month",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/pcaob-chief-auditor-barbara-vanich-144157053.html",
-          "pubDate": "2026-06-29T14:41:57Z"
+          "title": "Former retail giant closed over 1,000 locations",
+          "summary": "Former retail giant closed over 1,000 locations",
+          "link": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
+          "pubDate": "2026-07-01T15:07:00Z"
         },
         {
-          "title": "Crown Castle's Quarterly Earnings Preview: What You Need to Know",
-          "summary": "Crown Castle's Quarterly Earnings Preview: What You Need to Know",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/crown-castles-quarterly-earnings-preview-144225441.html",
-          "pubDate": "2026-06-29T14:42:25Z"
+          "title": "IPO Edge NYSE Firesides Scheduled for July 28",
+          "summary": "IPO Edge NYSE Firesides Scheduled for July 28",
+          "link": "https://finance.yahoo.com/news/ipo-edge-nyse-firesides-scheduled-211107368.html",
+          "pubDate": "2026-06-30T15:00:07Z"
         },
         {
-          "title": "Dollar Moves Lower as Equity Markets Strengthen",
-          "summary": "Dollar Moves Lower as Equity Markets Strengthen",
-          "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-moves-lower-equity-markets-143712540.html",
-          "pubDate": "2026-06-29T14:37:12Z"
+          "title": "Webull Launches Crypto Trading In Canada",
+          "summary": "Webull Launches Crypto Trading In Canada",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/webull-launches-crypto-trading-canada-150700044.html",
+          "pubDate": "2026-06-30T15:07:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "Scientists discover a completely different way to fight viruses",
+          "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+          "pubDate": "Tue, 30 Jun 2026 16:18:00 EDT"
+        },
         {
           "title": "Scientists may have finally found how Alzheimer&#039;s spreads through the brain",
           "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease&#039;s relentless progression.",
@@ -241,36 +247,30 @@
           "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain&#039;s energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
           "link": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
           "pubDate": "Tue, 30 Jun 2026 02:28:57 EDT"
-        },
-        {
-          "title": "These tiny soil microbes could rescue crops from salty farmland",
-          "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and field tests showed healthier plants and higher yields in salty conditions. The findings could lead to bio-based treatments that help farmers grow crops on land once considered too salty for agriculture.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
-          "pubDate": "Sun, 28 Jun 2026 21:21:44 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "siteName": "Science News",
       "items": [
         {
-          "title": "This microbe turns into a cannibalistic ‘Hulk’",
-          "summary": "Euplotes gigatrox’s shape-shifting may reveal how early life learned to act in surprisingly complex ways.",
-          "link": "https://www.sciencenews.org/article/microbe-cannibalistic-hulk",
-          "pubDate": "Tue, 30 Jun 2026 15:00:00 +0000"
+          "title": "Young gulls’ drab plumage may help them avoid adult attacks",
+          "summary": "Fake, painted decoys suggest immature coloring acts as a social signal, reducing aggression from territorial nesting gulls.",
+          "link": "https://www.sciencenews.org/article/young-gulls-plumage-adult-attacks",
+          "pubDate": "Wed, 01 Jul 2026 17:00:00 +0000"
         },
         {
-          "title": "Crabs can’t hide from an octopus with a mirror",
-          "summary": "New experiments show that octopuses can understand where an item is based solely on its reflection.",
-          "link": "https://www.sciencenews.org/article/octopus-hunt-crabs-with-mirror",
-          "pubDate": "Tue, 30 Jun 2026 13:00:00 +0000"
+          "title": "This space telescope is falling. A robotic spacecraft may save it",
+          "summary": "A private rocket mission aims to boost NASA’s Swift telescope before its orbit decays, extending its hunt for gamma-ray bursts.",
+          "link": "https://www.sciencenews.org/article/space-telescope-rescue-mission-nasa-swift",
+          "pubDate": "Wed, 01 Jul 2026 15:00:00 +0000"
         },
         {
-          "title": "CERN shutters the Large Hadron Collider for a major transformation",
-          "summary": "The High-Luminosity LHC, planned to switch on in 2030, could help physicists unravel mysteries about the Higgs boson, dark matter and more.",
-          "link": "https://www.sciencenews.org/article/cern-large-hadron-collider-upgrade",
-          "pubDate": "Mon, 29 Jun 2026 19:35:23 +0000"
+          "title": "A new species of walking shark has been found in Papua New Guinea",
+          "summary": "Walking sharks crawl on their fins across reefs and even out into tide pools. The newfound Dudgeon walking shark brings the known species count to 10.",
+          "link": "https://www.sciencenews.org/article/new-species-walking-shark-dudgeon",
+          "pubDate": "Wed, 01 Jul 2026 13:00:00 +0000"
         }
       ]
     }
