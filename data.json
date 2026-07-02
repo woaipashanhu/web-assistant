@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-01T23:00:21.895Z",
-  "date": "2026-07-02",
+  "lastUpdate": "2026-07-02T23:01:03.629Z",
+  "date": "2026-07-03",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
-          "summary": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
-          "link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
-          "pubDate": "Wed, 01 Jul 2026 21:34:03 +0000"
+          "title": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
+          "summary": "“We have more people voting on the ‘Love Island USA’ app than we do in many political elections taking place across the country,” says the show's executive producer.",
+          "link": "https://www.wired.com/story/love-island-usa-app/",
+          "pubDate": "Thu, 02 Jul 2026 20:47:27 +0000"
         },
         {
-          "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
-          "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
-          "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
-          "pubDate": "Wed, 01 Jul 2026 20:28:57 +0000"
+          "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
+          "summary": "One of Kalshi’s most prominent traders tells WIRED he’s swearing off Spotify-related markets until the issue is resolved.",
+          "link": "https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/",
+          "pubDate": "Thu, 02 Jul 2026 18:30:59 +0000"
         },
         {
-          "title": "An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi",
-          "summary": "The incident could disrupt a key part of the defense company’s rocket motor business, which designs and tests prototype motors for military customers.",
-          "link": "https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/",
-          "pubDate": "Wed, 01 Jul 2026 19:29:21 +0000"
+          "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+          "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+          "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+          "pubDate": "Thu, 02 Jul 2026 18:01:20 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-          "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
-          "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
-          "pubDate": "Wed, 01 Jul 2026 22:47:04 +0000"
+          "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+          "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
+          "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+          "pubDate": "Thu, 02 Jul 2026 21:57:10 +0000"
         },
         {
-          "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-          "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
-          "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
-          "pubDate": "Wed, 01 Jul 2026 22:28:35 +0000"
+          "title": "IQM, Europe&#8217;s first public quantum company, admits the future of the tech is uncertain",
+          "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
+          "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+          "pubDate": "Thu, 02 Jul 2026 20:42:48 +0000"
         },
         {
-          "title": "WhatsApp usernames are already raising impersonation red flags",
-          "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
-          "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
-          "pubDate": "Wed, 01 Jul 2026 22:02:24 +0000"
+          "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
+          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+          "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-          "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
-          "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 01 Jul 2026 21:27:04 GMT"
+          "title": "Venezuela quake survivor pulled out alive after eight days",
+          "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+          "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 02 Jul 2026 16:11:24 GMT"
         },
         {
-          "title": "Ukrainian charged in Germany over Nord Stream blasts",
-          "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
-          "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 01 Jul 2026 18:19:32 GMT"
+          "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+          "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 02 Jul 2026 20:18:14 GMT"
         },
         {
-          "title": "US blocks long-term renewal of North American trade deal",
-          "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
-          "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 01 Jul 2026 18:56:36 GMT"
+          "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+          "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 02 Jul 2026 17:56:18 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
-          "summary": "Ives said the new firm will seek to build what he described as a \"modern merchant bank.\"",
-          "link": "https://www.cnbc.com/2026/07/01/tech-analyst-dan-ives-is-exiting-wedbush-for-a-new-venture.html",
-          "pubDate": "Wed, 01 Jul 2026 20:40:10 GMT"
+          "title": "Citadel&apos;s hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
+          "summary": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
+          "link": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
+          "pubDate": "Thu, 02 Jul 2026 21:11:03 GMT"
         },
         {
-          "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
-          "summary": "Warsh has said that inflation is a \"choice.\" The same could also be true of how inflation is measured.",
-          "link": "https://www.cnbc.com/2026/07/01/warsh-faces-multiple-alternative-inflation-signs-as-fed-charts-new-course.html",
-          "pubDate": "Wed, 01 Jul 2026 17:20:22 GMT"
+          "title": "SpaceX may emerge as ultimate blueprint for new wave of mega-cap IPOs",
+          "summary": "\"It would not surprise me at all to see a similar dynamic play out with some of these [IPOs] set to come in the months ahead,\" the Kathmere Capital CIO says.",
+          "link": "https://www.cnbc.com/2026/07/02/spacex-as-ultimate-blueprint-for-new-wave-of-mega-cap-ipos.html",
+          "pubDate": "Thu, 02 Jul 2026 11:00:01 GMT"
         },
         {
-          "title": "Inflation peaked in May as energy prices fell in June, Kalshi traders think",
-          "summary": "Speculators on the prediction market platform give less than 30% odds to inflation peaking above 4.2% in 2026.",
-          "link": "https://www.cnbc.com/2026/07/01/inflation-peaked-in-may-as-energy-prices-fell-in-june-kalshi-traders-think.html",
-          "pubDate": "Wed, 01 Jul 2026 17:32:16 GMT"
+          "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
+          "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
+          "link": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+          "pubDate": "Thu, 02 Jul 2026 01:00:01 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "The Memo: Left’s winning streak extends in Colorado despite Trump, centrist attacks",
-          "summary": "The leftist tide coursing through Democratic politics reached Colorado on Tuesday, washing away longtime Rep. Diana DeGette (D-Colo.) and putting paid to the gubernatorial hopes of Sen. Michael Bennet (D-Colo.). In the aftermath, Democrats are asking urgent questions about the direction their party ought to take.&#160; Voices on the left say insurgent candidates are meeting&#8230;",
-          "link": "https://thehill.com/homenews/administration/5950660-democratic-party-leftist-insurgency/",
-          "pubDate": "Wed, 01 Jul 2026 22:40:17 +0000"
+          "title": "Louisiana attorney general indicted over alleged threats; governor pledges swift pardon",
+          "summary": "Louisiana Attorney General Liz Murrill (R) was indicted by a grand jury in connection with an investigation over alleged threats she made against New Orleans officials, former Judge Laurie White confirmed Thursday. “The grand jury has returned an indictment, it is now a criminal matter,” White, who was appointed as a special prosecutor in the&#8230;",
+          "link": "https://thehill.com/homenews/state-watch/5952272-louisiana-attorney-general-indicted/",
+          "pubDate": "Thu, 02 Jul 2026 22:33:37 +0000"
         },
         {
-          "title": "Trump talks to AI Teddy Roosevelt during presidential library visit",
-          "summary": "President Trump had a little chat with an artificial intelligence version of one of his predecessors Wednesday while touring the new Theodore Roosevelt Presidential Library in North Dakota. “Every day a president faces storms most people never see, but if you keep your nerve and remember the nation comes first, you get through,” the AI&#8230;",
-          "link": "https://thehill.com/homenews/administration/5950575-trump-ai-teddy-roosevelt-chat/",
-          "pubDate": "Wed, 01 Jul 2026 22:02:15 +0000"
+          "title": "Trump says &#8216;nothing illegal&#8217; about massive crypto profits",
+          "summary": "President Trump denied on Thursday there was anything illegal in the massive profits from cryptocurrency seen in his financial disclosure forms released this week. “I could know about it. I didn’t. There’s nothing illegal. There’s nothing wrong with it I could know,” Trump said in an interview with CNBC on Thursday.&#160; The president&#8217;s personal financial&#8230;",
+          "link": "https://thehill.com/homenews/administration/5952294-trump-crypto-profits/",
+          "pubDate": "Thu, 02 Jul 2026 22:32:20 +0000"
         },
         {
-          "title": "Trump vows to give long July 4 address even if it is 107 degrees",
-          "summary": "President Trump on Wednesday vowed that he will deliver a long speech on the National Mall for the U.S.&#8217;s 250th birthday, even as forecasters anticipate temperatures climbing to 107 degrees. &#8220;By the way, on July 4th, it&#8217;s going to be approximately 107 degrees out, and I&#8217;m going to go, and I&#8217;m going to make a&#8230;",
-          "link": "https://thehill.com/homenews/administration/5950451-july-4th-trump-rally-heat/",
-          "pubDate": "Wed, 01 Jul 2026 22:00:53 +0000"
+          "title": "Trump EPA departs from Biden-era report detailing cancer risk from ‘forever chemical’ contaminated farms",
+          "summary": "The Trump administration is apparently departing from a landmark Biden-era report that detailed human health risks including cancer from farms contaminated with “forever chemicals.” The Environmental Protection Agency (EPA) this week issued a&#160;draft guidance document&#160;criticizing a&#160;draft Biden administration risk assessment&#160;detailing health risks from applying contaminated sludge to farm land.&#160; The Biden-era assessment detailed the risks&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5952290-biden-trump-sewage-sludge/",
+          "pubDate": "Thu, 02 Jul 2026 22:30:01 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Former retail giant closed over 1,000 locations",
-          "summary": "Former retail giant closed over 1,000 locations",
-          "link": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
-          "pubDate": "2026-07-01T15:07:00Z"
+          "title": "Giant satellite TV company files Chapter 11 bankruptcy",
+          "summary": "Giant satellite TV company files Chapter 11 bankruptcy",
+          "link": "https://finance.yahoo.com/media-advertising/articles/giant-satellite-tv-company-files-231700614.html",
+          "pubDate": "2026-07-01T23:17:00Z"
         },
         {
-          "title": "IPO Edge NYSE Firesides Scheduled for July 28",
-          "summary": "IPO Edge NYSE Firesides Scheduled for July 28",
-          "link": "https://finance.yahoo.com/news/ipo-edge-nyse-firesides-scheduled-211107368.html",
-          "pubDate": "2026-06-30T15:00:07Z"
+          "title": "Analysis-AI hopes and fears dominate global central bank meet",
+          "summary": "Analysis-AI hopes and fears dominate global central bank meet",
+          "link": "https://finance.yahoo.com/economy/policy/articles/analysis-ai-hopes-fears-dominate-152026106.html",
+          "pubDate": "2026-07-01T15:20:26Z"
         },
         {
-          "title": "Webull Launches Crypto Trading In Canada",
-          "summary": "Webull Launches Crypto Trading In Canada",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/webull-launches-crypto-trading-canada-150700044.html",
-          "pubDate": "2026-06-30T15:07:00Z"
+          "title": "Arteris Looks Like a Bubble-Proof Tech Stock Even at New All-Time Highs",
+          "summary": "Arteris Looks Like a Bubble-Proof Tech Stock Even at New All-Time Highs",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/arteris-looks-bubble-proof-tech-151502458.html",
+          "pubDate": "2026-07-01T15:15:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -251,26 +251,26 @@
       ]
     },
     "site_8": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Young gulls’ drab plumage may help them avoid adult attacks",
-          "summary": "Fake, painted decoys suggest immature coloring acts as a social signal, reducing aggression from territorial nesting gulls.",
-          "link": "https://www.sciencenews.org/article/young-gulls-plumage-adult-attacks",
-          "pubDate": "Wed, 01 Jul 2026 17:00:00 +0000"
+          "title": "Giant trees have tricks to work around drought",
+          "summary": "Samples collected at daring heights provide evidence for an untested theory of tree drought adaptation, while countering another.",
+          "link": "https://www.sciencenews.org/article/giant-trees-tricks-drought-water",
+          "pubDate": "Thu, 02 Jul 2026 18:00:00 +0000"
         },
         {
-          "title": "This space telescope is falling. A robotic spacecraft may save it",
-          "summary": "A private rocket mission aims to boost NASA’s Swift telescope before its orbit decays, extending its hunt for gamma-ray bursts.",
-          "link": "https://www.sciencenews.org/article/space-telescope-rescue-mission-nasa-swift",
-          "pubDate": "Wed, 01 Jul 2026 15:00:00 +0000"
+          "title": "The natural history of every U.S. state is on display at a new D.C. exhibit",
+          "summary": "The Smithsonian Natural History Museum’s latest exhibit, “From These Lands,” connects visitors with America’s natural history.",
+          "link": "https://www.sciencenews.org/article/review-smithsonian-from-these-lands-250",
+          "pubDate": "Thu, 02 Jul 2026 14:00:00 +0000"
         },
         {
-          "title": "A new species of walking shark has been found in Papua New Guinea",
-          "summary": "Walking sharks crawl on their fins across reefs and even out into tide pools. The newfound Dudgeon walking shark brings the known species count to 10.",
-          "link": "https://www.sciencenews.org/article/new-species-walking-shark-dudgeon",
-          "pubDate": "Wed, 01 Jul 2026 13:00:00 +0000"
+          "title": "The animal behind most aggressive wildlife encounters may surprise you",
+          "summary": "Analysis of 3,000 incidents in Canada reveals which animal–human activity combos are especially risky. Of note: Elk and campgrounds are a bad mix.",
+          "link": "https://www.sciencenews.org/article/aggressive-wildlife-encounters-elk-bear",
+          "pubDate": "Thu, 02 Jul 2026 13:21:36 +0000"
         }
       ]
     }
