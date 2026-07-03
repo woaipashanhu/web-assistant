@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-02T23:01:03.629Z",
-  "date": "2026-07-03",
+  "lastUpdate": "2026-07-03T23:00:03.209Z",
+  "date": "2026-07-04",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
-          "summary": "“We have more people voting on the ‘Love Island USA’ app than we do in many political elections taking place across the country,” says the show's executive producer.",
-          "link": "https://www.wired.com/story/love-island-usa-app/",
-          "pubDate": "Thu, 02 Jul 2026 20:47:27 +0000"
+          "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
+          "summary": "The companies’ Fourth of July plans include celebrating new reactor designs coming online. But there’s still a long way to go before they deliver energy at a meaningful scale.",
+          "link": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
+          "pubDate": "Fri, 03 Jul 2026 18:13:15 +0000"
         },
         {
-          "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
-          "summary": "One of Kalshi’s most prominent traders tells WIRED he’s swearing off Spotify-related markets until the issue is resolved.",
-          "link": "https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/",
-          "pubDate": "Thu, 02 Jul 2026 18:30:59 +0000"
+          "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+          "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
+          "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+          "pubDate": "Fri, 03 Jul 2026 16:30:00 +0000"
         },
         {
-          "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-          "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-          "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-          "pubDate": "Thu, 02 Jul 2026 18:01:20 +0000"
+          "title": "Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa",
+          "summary": "Everyone needs a safe way to listen to music on outdoor runs. We’ve found the bone conduction headphones to grab on your way out the door.",
+          "link": "https://www.wired.com/gallery/best-bone-conduction-headphones/",
+          "pubDate": "Fri, 03 Jul 2026 11:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-          "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
-          "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-          "pubDate": "Thu, 02 Jul 2026 21:57:10 +0000"
+          "title": "The only AI glossary you&#8217;ll need this year",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "pubDate": "Fri, 03 Jul 2026 21:20:00 +0000"
         },
         {
-          "title": "IQM, Europe&#8217;s first public quantum company, admits the future of the tech is uncertain",
-          "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
-          "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-          "pubDate": "Thu, 02 Jul 2026 20:42:48 +0000"
+          "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
+          "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+          "pubDate": "Fri, 03 Jul 2026 18:43:00 +0000"
         },
         {
-          "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
-          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-          "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-          "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000"
+          "title": "The Dune keypad device can be your meeting controller and more",
+          "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+          "link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+          "pubDate": "Fri, 03 Jul 2026 18:28:30 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Venezuela quake survivor pulled out alive after eight days",
-          "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
-          "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 02 Jul 2026 16:11:24 GMT"
+          "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+          "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT"
         },
         {
-          "title": "'Most massive' Russian attack on Kyiv kills at least 27",
-          "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 02 Jul 2026 20:18:14 GMT"
+          "title": "Polish PM warns critical months ahead in face of Russian threat",
+          "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+          "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 03 Jul 2026 16:41:00 GMT"
         },
         {
-          "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-          "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
-          "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 02 Jul 2026 17:56:18 GMT"
+          "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+          "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Don&apos;t throw away your shot to speak to an AI Alexander Hamilton at Boston&apos;s new finance museum",
+          "summary": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
+          "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
+          "pubDate": "Fri, 03 Jul 2026 13:16:09 GMT"
+        },
         {
           "title": "Citadel&apos;s hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
           "summary": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
@@ -145,17 +151,11 @@
           "summary": "\"It would not surprise me at all to see a similar dynamic play out with some of these [IPOs] set to come in the months ahead,\" the Kathmere Capital CIO says.",
           "link": "https://www.cnbc.com/2026/07/02/spacex-as-ultimate-blueprint-for-new-wave-of-mega-cap-ipos.html",
           "pubDate": "Thu, 02 Jul 2026 11:00:01 GMT"
-        },
-        {
-          "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
-          "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
-          "link": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
-          "pubDate": "Thu, 02 Jul 2026 01:00:01 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Louisiana attorney general indicted over alleged threats; governor pledges swift pardon",
-          "summary": "Louisiana Attorney General Liz Murrill (R) was indicted by a grand jury in connection with an investigation over alleged threats she made against New Orleans officials, former Judge Laurie White confirmed Thursday. “The grand jury has returned an indictment, it is now a criminal matter,” White, who was appointed as a special prosecutor in the&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5952272-louisiana-attorney-general-indicted/",
-          "pubDate": "Thu, 02 Jul 2026 22:33:37 +0000"
+          "title": "Pope Leo XIV celebrates America&#8217;s 250th in Liberty Medal award acceptance speech",
+          "summary": "Pope Leo XIV celebrated America&#8217;s 250th birthday during his acceptance speech for the 2026 Liberty Medal award Friday. The award from the National Constitution Center honors one person who “strive[s] to secure the blessings of liberty for people around the globe,” according to the organization’s website. “In accepting this award, I therefore pray that this, the&#8230;",
+          "link": "https://thehill.com/policy/international/5953091-pope-leo-xiv-america-250th/",
+          "pubDate": "Fri, 03 Jul 2026 21:23:21 +0000"
         },
         {
-          "title": "Trump says &#8216;nothing illegal&#8217; about massive crypto profits",
-          "summary": "President Trump denied on Thursday there was anything illegal in the massive profits from cryptocurrency seen in his financial disclosure forms released this week. “I could know about it. I didn’t. There’s nothing illegal. There’s nothing wrong with it I could know,” Trump said in an interview with CNBC on Thursday.&#160; The president&#8217;s personal financial&#8230;",
-          "link": "https://thehill.com/homenews/administration/5952294-trump-crypto-profits/",
-          "pubDate": "Thu, 02 Jul 2026 22:32:20 +0000"
+          "title": "Venezuela earthquakes deepen rift between GOP hawks and Trump-backed regime",
+          "summary": "Republicans hawkish on leftist Latin America are warning that Venezuela’s interim President Delcy Rodríguez must be cut out from accessing robust U.S. assistance to the country, as the Trump administration helps lead the global humanitarian response to two massive earthquakes last week.&#160; President Trump has placed little emphasis on a democratic transition in the country&#8230;",
+          "link": "https://thehill.com/homenews/administration/5950661-venezuela-earthquakes-aid-trump-republicans/",
+          "pubDate": "Fri, 03 Jul 2026 21:00:00 +0000"
         },
         {
-          "title": "Trump EPA departs from Biden-era report detailing cancer risk from ‘forever chemical’ contaminated farms",
-          "summary": "The Trump administration is apparently departing from a landmark Biden-era report that detailed human health risks including cancer from farms contaminated with “forever chemicals.” The Environmental Protection Agency (EPA) this week issued a&#160;draft guidance document&#160;criticizing a&#160;draft Biden administration risk assessment&#160;detailing health risks from applying contaminated sludge to farm land.&#160; The Biden-era assessment detailed the risks&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5952290-biden-trump-sewage-sludge/",
-          "pubDate": "Thu, 02 Jul 2026 22:30:01 +0000"
+          "title": "Trump joins Usha Vance’s &#8216;Storytime&#8217; podcast, reading on presidents and sports",
+          "summary": "President Trump made a guest appearance on second lady Usha Vance’s children’s podcast, where he read a picture book about U.S. presidents while offering unscripted commentary on his presidential predecessors and life in the White House. In Friday’s prerecorded episode of “Storytime with the Second Lady,” Trump read the children’s book “Presidents Play,” which was&#8230;",
+          "link": "https://thehill.com/homenews/administration/5953051-trump-joins-usha-vances-storytime-podcast-reading-on-presidents-and-sports/",
+          "pubDate": "Fri, 03 Jul 2026 20:26:33 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Giant satellite TV company files Chapter 11 bankruptcy",
-          "summary": "Giant satellite TV company files Chapter 11 bankruptcy",
-          "link": "https://finance.yahoo.com/media-advertising/articles/giant-satellite-tv-company-files-231700614.html",
-          "pubDate": "2026-07-01T23:17:00Z"
+          "title": "SanDisk’s Volatility May Be Telling Bulls What They Want to Hear",
+          "summary": "SanDisk’s Volatility May Be Telling Bulls What They Want to Hear",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-volatility-may-telling-bulls-154000367.html",
+          "pubDate": "2026-07-02T15:40:00Z"
         },
         {
-          "title": "Analysis-AI hopes and fears dominate global central bank meet",
-          "summary": "Analysis-AI hopes and fears dominate global central bank meet",
-          "link": "https://finance.yahoo.com/economy/policy/articles/analysis-ai-hopes-fears-dominate-152026106.html",
-          "pubDate": "2026-07-01T15:20:26Z"
+          "title": "Robinhood stock soars on global expansion, AI agents, and a push for '24/7' trading",
+          "summary": "Robinhood stock soars on global expansion, AI agents, and a push for '24/7' trading",
+          "link": "https://finance.yahoo.com/markets/article/robinhood-stock-soars-on-global-expansion-ai-agents-and-a-push-for-247-trading-153709971.html",
+          "pubDate": "2026-07-02T15:37:09Z"
         },
         {
-          "title": "Arteris Looks Like a Bubble-Proof Tech Stock Even at New All-Time Highs",
-          "summary": "Arteris Looks Like a Bubble-Proof Tech Stock Even at New All-Time Highs",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/arteris-looks-bubble-proof-tech-151502458.html",
-          "pubDate": "2026-07-01T15:15:02Z"
+          "title": "Reddit Says Buy This AI Energy Stock Before It’s Too Late",
+          "summary": "Reddit Says Buy This AI Energy Stock Before It’s Too Late",
+          "link": "https://finance.yahoo.com/energy/articles/reddit-says-buy-ai-energy-154026582.html",
+          "pubDate": "2026-07-02T15:40:26Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "New calculator reveals whether you should really worry about statin side effects",
+          "summary": "Scientists at the University of Oxford have created a calculator that predicts a person&#039;s individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% of people who qualify for statins are at low risk for these rare complications, despite widespread concerns about side effects. The study also revealed that most eligible patients are not taking statins, potentially missing important protection against heart attacks and strokes.",
+          "link": "https://www.sciencedaily.com/releases/2026/06/260630020549.htm",
+          "pubDate": "Tue, 30 Jun 2026 02:05:49 EDT"
+        },
         {
           "title": "Scientists discover a completely different way to fight viruses",
           "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
@@ -241,17 +247,11 @@
           "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease&#039;s relentless progression.",
           "link": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
           "pubDate": "Tue, 30 Jun 2026 03:21:06 EDT"
-        },
-        {
-          "title": "Scientists say creatine may help fight depression",
-          "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain&#039;s energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-          "pubDate": "Tue, 30 Jun 2026 02:28:57 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "siteName": "Science News",
       "items": [
         {
