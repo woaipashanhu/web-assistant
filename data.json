@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-03T23:00:03.209Z",
-  "date": "2026-07-04",
+  "lastUpdate": "2026-07-04T23:00:03.216Z",
+  "date": "2026-07-05",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
-          "summary": "The companies’ Fourth of July plans include celebrating new reactor designs coming online. But there’s still a long way to go before they deliver energy at a meaningful scale.",
-          "link": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
-          "pubDate": "Fri, 03 Jul 2026 18:13:15 +0000"
+          "title": "Submit Your Questions: Inside The World of Online Romance Scams",
+          "summary": "The Yahoo Boys author Carlos Barragán will join Kate Knibbs to answer your questions about Nigeria's romance scammers.",
+          "link": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+          "pubDate": "Sat, 04 Jul 2026 16:00:00 +0000"
         },
         {
-          "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-          "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-          "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-          "pubDate": "Fri, 03 Jul 2026 16:30:00 +0000"
+          "title": "15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers",
+          "summary": "Top up your Qi2 Android phone or MagSafe iPhone with a magnetic wireless charging stand, pad, car charger, or power bank.",
+          "link": "https://www.wired.com/gallery/best-magsafe-wireless-chargers/",
+          "pubDate": "Sat, 04 Jul 2026 11:30:00 +0000"
         },
         {
-          "title": "Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa",
-          "summary": "Everyone needs a safe way to listen to music on outdoor runs. We’ve found the bone conduction headphones to grab on your way out the door.",
-          "link": "https://www.wired.com/gallery/best-bone-conduction-headphones/",
-          "pubDate": "Fri, 03 Jul 2026 11:30:00 +0000"
+          "title": "Where NASA Posts Its Best Space Photos, and How to Find Them",
+          "summary": "Explore decades of incredible images and videos of stars, planets, moons, and galaxies—most of which are free to use and share.",
+          "link": "https://www.wired.com/story/where-nasa-posts-its-best-space-photos/",
+          "pubDate": "Sat, 04 Jul 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "The only AI glossary you&#8217;ll need this year",
-          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-          "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-          "pubDate": "Fri, 03 Jul 2026 21:20:00 +0000"
+          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+          "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000"
         },
         {
-          "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
-          "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-          "pubDate": "Fri, 03 Jul 2026 18:43:00 +0000"
+          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+          "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000"
         },
         {
-          "title": "The Dune keypad device can be your meeting controller and more",
-          "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
-          "link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-          "pubDate": "Fri, 03 Jul 2026 18:28:30 +0000"
+          "title": "Alibaba reportedly bans employees from using Claude Code",
+          "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+          "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-          "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT"
+          "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+          "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+          "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 04 Jul 2026 02:57:48 GMT"
         },
         {
-          "title": "Polish PM warns critical months ahead in face of Russian threat",
-          "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
-          "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 03 Jul 2026 16:41:00 GMT"
+          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+          "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+          "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 04 Jul 2026 18:41:25 GMT"
         },
         {
-          "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-          "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
-          "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT"
+          "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+          "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+          "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 04 Jul 2026 09:45:55 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "The World Cup sends prediction market volumes soaring to record highs",
+          "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
+          "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
+          "pubDate": "Sat, 04 Jul 2026 12:54:04 GMT"
+        },
         {
           "title": "Don&apos;t throw away your shot to speak to an AI Alexander Hamilton at Boston&apos;s new finance museum",
           "summary": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
@@ -145,17 +151,11 @@
           "summary": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
           "link": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
           "pubDate": "Thu, 02 Jul 2026 21:11:03 GMT"
-        },
-        {
-          "title": "SpaceX may emerge as ultimate blueprint for new wave of mega-cap IPOs",
-          "summary": "\"It would not surprise me at all to see a similar dynamic play out with some of these [IPOs] set to come in the months ahead,\" the Kathmere Capital CIO says.",
-          "link": "https://www.cnbc.com/2026/07/02/spacex-as-ultimate-blueprint-for-new-wave-of-mega-cap-ipos.html",
-          "pubDate": "Thu, 02 Jul 2026 11:00:01 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Pope Leo XIV celebrates America&#8217;s 250th in Liberty Medal award acceptance speech",
-          "summary": "Pope Leo XIV celebrated America&#8217;s 250th birthday during his acceptance speech for the 2026 Liberty Medal award Friday. The award from the National Constitution Center honors one person who “strive[s] to secure the blessings of liberty for people around the globe,” according to the organization’s website. “In accepting this award, I therefore pray that this, the&#8230;",
-          "link": "https://thehill.com/policy/international/5953091-pope-leo-xiv-america-250th/",
-          "pubDate": "Fri, 03 Jul 2026 21:23:21 +0000"
+          "title": "The Atlantic republishes JD Vance’s Trump op-ed from 2016",
+          "summary": "The Atlantic on Saturday republished Vice President Vance’s essay, originally published exactly 10 years ago on July 4, reviving some of the more biting comments Vance made about President Trump prior to becoming his&#160;second vice president. The original article ran days after Vance published his bestselling memoir, “Hillbilly Elegy.” In an editor’s note, the magazine&#8230;",
+          "link": "https://thehill.com/homenews/media/5953683-vance-trump-never-trump/",
+          "pubDate": "Sat, 04 Jul 2026 22:01:03 +0000"
         },
         {
-          "title": "Venezuela earthquakes deepen rift between GOP hawks and Trump-backed regime",
-          "summary": "Republicans hawkish on leftist Latin America are warning that Venezuela’s interim President Delcy Rodríguez must be cut out from accessing robust U.S. assistance to the country, as the Trump administration helps lead the global humanitarian response to two massive earthquakes last week.&#160; President Trump has placed little emphasis on a democratic transition in the country&#8230;",
-          "link": "https://thehill.com/homenews/administration/5950661-venezuela-earthquakes-aid-trump-republicans/",
-          "pubDate": "Fri, 03 Jul 2026 21:00:00 +0000"
+          "title": "Watch live: Donald Trump to give major speech as America celebrates 250th anniversary",
+          "summary": "President Trump is expected to hold a &#8220;long&#8221; speech on the National Mall Saturday evening as the U.S. marks its 250th anniversary, even as record heat threatens to upend the festivities. Military flyovers, events at the Great American State Fair and a massive fireworks show are also scheduled throughout the day. First lady Melania Trump&#8230;",
+          "link": "https://thehill.com/video-clips/5951865-watch-live-donald-trump-july-4-speech-national-mall-america-250-celebrations-dc/",
+          "pubDate": "Sat, 04 Jul 2026 22:00:00 +0000"
         },
         {
-          "title": "Trump joins Usha Vance’s &#8216;Storytime&#8217; podcast, reading on presidents and sports",
-          "summary": "President Trump made a guest appearance on second lady Usha Vance’s children’s podcast, where he read a picture book about U.S. presidents while offering unscripted commentary on his presidential predecessors and life in the White House. In Friday’s prerecorded episode of “Storytime with the Second Lady,” Trump read the children’s book “Presidents Play,” which was&#8230;",
-          "link": "https://thehill.com/homenews/administration/5953051-trump-joins-usha-vances-storytime-podcast-reading-on-presidents-and-sports/",
-          "pubDate": "Fri, 03 Jul 2026 20:26:33 +0000"
+          "title": "Sunday shows preview: After America 250, GOP shifts focus back to Trump&#8217;s agenda",
+          "summary": "Millions of Americans turned out to mark the 250th anniversary of U.S. independence this weekend, even as sweltering heat gripped much of the country and forced the nation’s capital to scale back its festivities. A heat dome&#160;engulfed more than two dozen states and Washington, D.C., sending temperatures soaring into the triple digits in several major&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5953676-sunday-shows-preview-after-america-250-gop-shifts-focus-back-to-trumps-agenda/",
+          "pubDate": "Sat, 04 Jul 2026 21:54:08 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "SanDisk’s Volatility May Be Telling Bulls What They Want to Hear",
-          "summary": "SanDisk’s Volatility May Be Telling Bulls What They Want to Hear",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-volatility-may-telling-bulls-154000367.html",
-          "pubDate": "2026-07-02T15:40:00Z"
+          "title": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
+          "summary": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
+          "pubDate": "2026-07-04T22:10:00Z"
         },
         {
-          "title": "Robinhood stock soars on global expansion, AI agents, and a push for '24/7' trading",
-          "summary": "Robinhood stock soars on global expansion, AI agents, and a push for '24/7' trading",
-          "link": "https://finance.yahoo.com/markets/article/robinhood-stock-soars-on-global-expansion-ai-agents-and-a-push-for-247-trading-153709971.html",
-          "pubDate": "2026-07-02T15:37:09Z"
+          "title": "Why Did General Motors (GM) Just Partner With Micron?",
+          "summary": "Why Did General Motors (GM) Just Partner With Micron?",
+          "link": "https://finance.yahoo.com/technology/articles/why-did-general-motors-gm-191731528.html",
+          "pubDate": "2026-07-04T19:17:31Z"
         },
         {
-          "title": "Reddit Says Buy This AI Energy Stock Before It’s Too Late",
-          "summary": "Reddit Says Buy This AI Energy Stock Before It’s Too Late",
-          "link": "https://finance.yahoo.com/energy/articles/reddit-says-buy-ai-energy-154026582.html",
-          "pubDate": "2026-07-02T15:40:26Z"
+          "title": "Comcast (CMCSA) Stock Has Fallen 50%, Why Are Analysts Suddenly Turning Bullish On The Stock?",
+          "summary": "Comcast (CMCSA) Stock Has Fallen 50%, Why Are Analysts Suddenly Turning Bullish On The Stock?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-stock-fallen-50-191550222.html",
+          "pubDate": "2026-07-04T19:15:50Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     "site_8": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "siteName": "Science News",
       "items": [
         {
