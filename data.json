@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-04T23:00:03.216Z",
-  "date": "2026-07-05",
+  "lastUpdate": "2026-07-05T23:00:04.101Z",
+  "date": "2026-07-06",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Submit Your Questions: Inside The World of Online Romance Scams",
-          "summary": "The Yahoo Boys author Carlos Barragán will join Kate Knibbs to answer your questions about Nigeria's romance scammers.",
-          "link": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
-          "pubDate": "Sat, 04 Jul 2026 16:00:00 +0000"
+          "title": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
+          "summary": "Wildfire survivors call fire-prediction markets “morally reprehensible” and worry they could increase the risk of arson.",
+          "link": "https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/",
+          "pubDate": "Sun, 05 Jul 2026 11:00:00 +0000"
         },
         {
-          "title": "15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers",
-          "summary": "Top up your Qi2 Android phone or MagSafe iPhone with a magnetic wireless charging stand, pad, car charger, or power bank.",
-          "link": "https://www.wired.com/gallery/best-magsafe-wireless-chargers/",
-          "pubDate": "Sat, 04 Jul 2026 11:30:00 +0000"
+          "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 40+",
+          "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+          "link": "https://www.wired.com/gallery/best-wifi-routers/",
+          "pubDate": "Sun, 05 Jul 2026 11:00:00 +0000"
         },
         {
-          "title": "Where NASA Posts Its Best Space Photos, and How to Find Them",
-          "summary": "Explore decades of incredible images and videos of stars, planets, moons, and galaxies—most of which are free to use and share.",
-          "link": "https://www.wired.com/story/where-nasa-posts-its-best-space-photos/",
-          "pubDate": "Sat, 04 Jul 2026 11:00:00 +0000"
+          "title": "Review: TCL RM9L RGB-Mini LED (2026)",
+          "summary": "This massive 85-inch model is highly customizable but jaw-droppingly expensive.",
+          "link": "https://www.wired.com/review/tcl-rm9l/",
+          "pubDate": "Sun, 05 Jul 2026 10:34:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-          "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-          "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-          "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000"
+          "title": "Uber’s European expansion plans may have hit a speed bump",
+          "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+          "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+          "pubDate": "Sun, 05 Jul 2026 21:35:17 +0000"
         },
         {
-          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-          "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-          "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-          "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000"
+          "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+          "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+          "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+          "pubDate": "Sun, 05 Jul 2026 20:29:05 +0000"
         },
         {
-          "title": "Alibaba reportedly bans employees from using Claude Code",
-          "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-          "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-          "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000"
+          "title": "Amazon will stop accepting new customers for Mechanical Turk",
+          "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+          "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "pubDate": "Sun, 05 Jul 2026 17:43:36 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-          "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-          "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 04 Jul 2026 02:57:48 GMT"
+          "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+          "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 05 Jul 2026 17:58:01 GMT"
         },
         {
-          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-          "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-          "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 04 Jul 2026 18:41:25 GMT"
+          "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+          "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+          "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 05 Jul 2026 17:54:47 GMT"
         },
         {
-          "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-          "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
-          "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 04 Jul 2026 09:45:55 GMT"
+          "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+          "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
+          "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 05 Jul 2026 15:48:20 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "The Atlantic republishes JD Vance’s Trump op-ed from 2016",
-          "summary": "The Atlantic on Saturday republished Vice President Vance’s essay, originally published exactly 10 years ago on July 4, reviving some of the more biting comments Vance made about President Trump prior to becoming his&#160;second vice president. The original article ran days after Vance published his bestselling memoir, “Hillbilly Elegy.” In an editor’s note, the magazine&#8230;",
-          "link": "https://thehill.com/homenews/media/5953683-vance-trump-never-trump/",
-          "pubDate": "Sat, 04 Jul 2026 22:01:03 +0000"
+          "title": "Former CDC chief medical officer says RFK Jr. caused ‘irreparable harm’",
+          "summary": "Dr. Debra Houry, the former chief medical officer at the Centers for Disease Control and Prevention (CDC), decried the direction of the agency under Department of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr.&#160; “I think the secretary has caused a lot of irreparable harm, and when you look at many of the&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5954352-cdc-robert-f-kennedy-debra-houry-hhs/",
+          "pubDate": "Sun, 05 Jul 2026 22:05:00 +0000"
         },
         {
-          "title": "Watch live: Donald Trump to give major speech as America celebrates 250th anniversary",
-          "summary": "President Trump is expected to hold a &#8220;long&#8221; speech on the National Mall Saturday evening as the U.S. marks its 250th anniversary, even as record heat threatens to upend the festivities. Military flyovers, events at the Great American State Fair and a massive fireworks show are also scheduled throughout the day. First lady Melania Trump&#8230;",
-          "link": "https://thehill.com/video-clips/5951865-watch-live-donald-trump-july-4-speech-national-mall-america-250-celebrations-dc/",
-          "pubDate": "Sat, 04 Jul 2026 22:00:00 +0000"
+          "title": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
+          "summary": "President Trump will meet Wednesday with Ukrainian President Volodymyr Zelensky and Syrian President Ahmed al-Sharaa, during his trip to Turkey for the annual NATO summit.&#160; The president leaves for Ankara on Monday evening for the two-day summit, according to a senior White House official. Trump will participate in bilateral meetings with the two leaders, followed&#8230;",
+          "link": "https://thehill.com/homenews/administration/5954306-trump-zelensky-al-sharaa-nato-summit/",
+          "pubDate": "Sun, 05 Jul 2026 21:39:10 +0000"
         },
         {
-          "title": "Sunday shows preview: After America 250, GOP shifts focus back to Trump&#8217;s agenda",
-          "summary": "Millions of Americans turned out to mark the 250th anniversary of U.S. independence this weekend, even as sweltering heat gripped much of the country and forced the nation’s capital to scale back its festivities. A heat dome&#160;engulfed more than two dozen states and Washington, D.C., sending temperatures soaring into the triple digits in several major&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5953676-sunday-shows-preview-after-america-250-gop-shifts-focus-back-to-trumps-agenda/",
-          "pubDate": "Sat, 04 Jul 2026 21:54:08 +0000"
+          "title": "Florida Republican: Trump should seek to ‘normalize’ longtime US immigrants",
+          "summary": "Florida Rep. Carlos Giménez (R) on Sunday said President Trump should seek to “normalize” longtime U.S. immigrants as his administration grapples with the fallout of mass deportation efforts. “I don&#8217;t think anybody wants criminals to be here. I don&#8217;t think anybody wants gang members to be here. I think that people with active deportation orders,&#8230;",
+          "link": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
+          "pubDate": "Sun, 05 Jul 2026 21:05:22 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
-          "summary": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
-          "pubDate": "2026-07-04T22:10:00Z"
+          "title": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
+          "summary": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-07-05T22:41:29Z"
         },
         {
-          "title": "Why Did General Motors (GM) Just Partner With Micron?",
-          "summary": "Why Did General Motors (GM) Just Partner With Micron?",
-          "link": "https://finance.yahoo.com/technology/articles/why-did-general-motors-gm-191731528.html",
-          "pubDate": "2026-07-04T19:17:31Z"
+          "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
+          "summary": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-intel-crushed-nvidia-223000800.html",
+          "pubDate": "2026-07-05T22:30:00Z"
         },
         {
-          "title": "Comcast (CMCSA) Stock Has Fallen 50%, Why Are Analysts Suddenly Turning Bullish On The Stock?",
-          "summary": "Comcast (CMCSA) Stock Has Fallen 50%, Why Are Analysts Suddenly Turning Bullish On The Stock?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-stock-fallen-50-191550222.html",
-          "pubDate": "2026-07-04T19:15:50Z"
+          "title": "Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target",
+          "summary": "Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-bnp-paribas-views-bentley-221124667.html",
+          "pubDate": "2026-07-05T22:11:24Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "New calculator reveals whether you should really worry about statin side effects",
-          "summary": "Scientists at the University of Oxford have created a calculator that predicts a person&#039;s individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% of people who qualify for statins are at low risk for these rare complications, despite widespread concerns about side effects. The study also revealed that most eligible patients are not taking statins, potentially missing important protection against heart attacks and strokes.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260630020549.htm",
-          "pubDate": "Tue, 30 Jun 2026 02:05:49 EDT"
+          "title": "NASA&#039;s Hubble spots a stellar sparkler for the Fourth of July",
+          "summary": "NASA&#039;s Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way&#039;s oldest star clusters to celebrate the nation&#039;s 250th anniversary. Hidden within the ancient cluster are clues to how exploding stars helped transform the young universe into one capable of forming planets and, eventually, life.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+          "pubDate": "Sun, 05 Jul 2026 00:10:58 EDT"
         },
         {
-          "title": "Scientists discover a completely different way to fight viruses",
-          "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-          "pubDate": "Tue, 30 Jun 2026 16:18:00 EDT"
+          "title": "NASA&#039;s Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+          "summary": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+          "pubDate": "Sun, 05 Jul 2026 00:03:07 EDT"
         },
         {
-          "title": "Scientists may have finally found how Alzheimer&#039;s spreads through the brain",
-          "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease&#039;s relentless progression.",
-          "link": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-          "pubDate": "Tue, 30 Jun 2026 03:21:06 EDT"
+          "title": "NASA&#039;s Hubble captures a star-spangled sea of 500,000 stars",
+          "summary": "Celebrating the United States&#039; 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way&#039;s past thanks to its rare stars and possible origins in a long ago cosmic merger.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
+          "pubDate": "Sat, 04 Jul 2026 23:39:18 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "siteName": "Science News",
       "items": [
         {
