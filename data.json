@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-05T23:00:04.101Z",
-  "date": "2026-07-06",
+  "lastUpdate": "2026-07-06T23:00:41.421Z",
+  "date": "2026-07-07",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
-          "summary": "Wildfire survivors call fire-prediction markets “morally reprehensible” and worry they could increase the risk of arson.",
-          "link": "https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/",
-          "pubDate": "Sun, 05 Jul 2026 11:00:00 +0000"
+          "title": "The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks",
+          "summary": "Holes in socks have become a curious sight at this year’s World Cup. The reasons why are a weird mix of biomechanics, perception, and player habits.",
+          "link": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
+          "pubDate": "Mon, 06 Jul 2026 14:50:52 +0000"
         },
         {
-          "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 40+",
-          "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
-          "link": "https://www.wired.com/gallery/best-wifi-routers/",
-          "pubDate": "Sun, 05 Jul 2026 11:00:00 +0000"
+          "title": "Bentley Torcal EV: Price, Specs, Availability",
+          "summary": "The 300-mile Torcal arrives in September, but considering what’s come before with Ferrari, Porsche, and Mercedes, has the company timed its EV entry right?",
+          "link": "https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/",
+          "pubDate": "Mon, 06 Jul 2026 11:30:00 +0000"
         },
         {
-          "title": "Review: TCL RM9L RGB-Mini LED (2026)",
-          "summary": "This massive 85-inch model is highly customizable but jaw-droppingly expensive.",
-          "link": "https://www.wired.com/review/tcl-rm9l/",
-          "pubDate": "Sun, 05 Jul 2026 10:34:00 +0000"
+          "title": "9 Best Keyboards (2025), Tested and Reviewed",
+          "summary": "Whether you’re looking to boost your productivity or your Fortnite stats, these are the top keyboards for the job.",
+          "link": "https://www.wired.com/gallery/best-keyboards/",
+          "pubDate": "Mon, 06 Jul 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Uber’s European expansion plans may have hit a speed bump",
-          "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
-          "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
-          "pubDate": "Sun, 05 Jul 2026 21:35:17 +0000"
+          "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+          "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+          "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+          "pubDate": "Mon, 06 Jul 2026 19:49:10 +0000"
         },
         {
-          "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
-          "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
-          "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
-          "pubDate": "Sun, 05 Jul 2026 20:29:05 +0000"
+          "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
+          "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+          "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "pubDate": "Mon, 06 Jul 2026 19:01:59 +0000"
         },
         {
-          "title": "Amazon will stop accepting new customers for Mechanical Turk",
-          "summary": "These may be the last days of Amazon’s Mechanical Turk.",
-          "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-          "pubDate": "Sun, 05 Jul 2026 17:43:36 +0000"
+          "title": "Every major tech layoff in 2026 that has name-checked AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "pubDate": "Mon, 06 Jul 2026 18:35:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-          "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
-          "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 05 Jul 2026 17:58:01 GMT"
+          "title": "Trump confirms he asked Fifa to review Balogun ban",
+          "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 06 Jul 2026 19:06:34 GMT"
         },
         {
-          "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-          "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
-          "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 05 Jul 2026 17:54:47 GMT"
+          "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+          "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+          "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 06 Jul 2026 21:02:37 GMT"
         },
         {
-          "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-          "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
-          "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 05 Jul 2026 15:48:20 GMT"
+          "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+          "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+          "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 06 Jul 2026 19:06:26 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Bitcoin rebounds after Trump says he&apos;s become &apos;a big crypto guy&apos;",
+          "summary": "Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.",
+          "link": "https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html",
+          "pubDate": "Mon, 06 Jul 2026 17:24:42 GMT"
+        },
+        {
+          "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
+          "summary": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system.",
+          "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
+          "pubDate": "Mon, 06 Jul 2026 15:36:23 GMT"
+        },
         {
           "title": "The World Cup sends prediction market volumes soaring to record highs",
           "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
           "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
           "pubDate": "Sat, 04 Jul 2026 12:54:04 GMT"
-        },
-        {
-          "title": "Don&apos;t throw away your shot to speak to an AI Alexander Hamilton at Boston&apos;s new finance museum",
-          "summary": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
-          "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
-          "pubDate": "Fri, 03 Jul 2026 13:16:09 GMT"
-        },
-        {
-          "title": "Citadel&apos;s hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
-          "summary": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
-          "link": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
-          "pubDate": "Thu, 02 Jul 2026 21:11:03 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Former CDC chief medical officer says RFK Jr. caused ‘irreparable harm’",
-          "summary": "Dr. Debra Houry, the former chief medical officer at the Centers for Disease Control and Prevention (CDC), decried the direction of the agency under Department of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr.&#160; “I think the secretary has caused a lot of irreparable harm, and when you look at many of the&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5954352-cdc-robert-f-kennedy-debra-houry-hhs/",
-          "pubDate": "Sun, 05 Jul 2026 22:05:00 +0000"
+          "title": "Platner faces calls to step down after new accusations",
+          "summary": "Democrats and progressives on Monday called for Maine candidate Graham Platner (D) to end his Senate campaign amid a new accusation of sexual assault. &#8220;I’ve been very clear that sexual assault or violence against women is a red line,&#8221; Rep. Ro Khanna (D-Calif.) said on the social platform X, a previously vocal defender of the&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5955790-democrats-call-platner-out/",
+          "pubDate": "Mon, 06 Jul 2026 21:58:10 +0000"
         },
         {
-          "title": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
-          "summary": "President Trump will meet Wednesday with Ukrainian President Volodymyr Zelensky and Syrian President Ahmed al-Sharaa, during his trip to Turkey for the annual NATO summit.&#160; The president leaves for Ankara on Monday evening for the two-day summit, according to a senior White House official. Trump will participate in bilateral meetings with the two leaders, followed&#8230;",
-          "link": "https://thehill.com/homenews/administration/5954306-trump-zelensky-al-sharaa-nato-summit/",
-          "pubDate": "Sun, 05 Jul 2026 21:39:10 +0000"
+          "title": "Platner’s unraveling may keep the Senate in play for Democrats",
+          "summary": "It looks like Graham Platner won’t be putting oyster stew on the Senate Dining Room menu any time soon.&#160; In the wake of the most serious allegations yet against the scandal-soaked Democratic Senate nominee — this time that he raped an erstwhile girlfriend in 2021 — the months-long drumbeat from party leaders to get him&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5955831-platner-democrats-senate-race-maine/",
+          "pubDate": "Mon, 06 Jul 2026 21:58:06 +0000"
         },
         {
-          "title": "Florida Republican: Trump should seek to ‘normalize’ longtime US immigrants",
-          "summary": "Florida Rep. Carlos Giménez (R) on Sunday said President Trump should seek to “normalize” longtime U.S. immigrants as his administration grapples with the fallout of mass deportation efforts. “I don&#8217;t think anybody wants criminals to be here. I don&#8217;t think anybody wants gang members to be here. I think that people with active deportation orders,&#8230;",
-          "link": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
-          "pubDate": "Sun, 05 Jul 2026 21:05:22 +0000"
+          "title": "When is deadline for Democrats to replace Platner in Maine Senate race?",
+          "summary": "Despite winning the Democratic primary in Maine last month, Senate candidate Graham Platner could be off the ballot in November after a Politico story published on Monday detailed a woman accusing him of sexual assault. July 13 is the deadline for Platner to withdraw from the race and have a replacement, according to the Maine&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5955769-graham-platner-accused-sexual-assault/",
+          "pubDate": "Mon, 06 Jul 2026 21:37:34 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
-          "summary": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-07-05T22:41:29Z"
+          "title": "Best Buy and Apple flag a price shock for shoppers",
+          "summary": "Best Buy and Apple flag a price shock for shoppers",
+          "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
+          "pubDate": "2026-07-06T20:33:00Z"
         },
         {
-          "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
-          "summary": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-intel-crushed-nvidia-223000800.html",
-          "pubDate": "2026-07-05T22:30:00Z"
+          "title": "Google Just Launched 2 New AI Models. What That Means for GOOGL Stock.",
+          "summary": "Google Just Launched 2 New AI Models. What That Means for GOOGL Stock.",
+          "link": "https://finance.yahoo.com/technology/ai/articles/google-just-launched-2-ai-143002336.html",
+          "pubDate": "2026-07-05T14:30:02Z"
         },
         {
-          "title": "Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target",
-          "summary": "Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-bnp-paribas-views-bentley-221124667.html",
-          "pubDate": "2026-07-05T22:11:24Z"
+          "title": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
+          "summary": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
+          "link": "https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html",
+          "pubDate": "2026-07-05T14:10:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -251,26 +251,26 @@
       ]
     },
     "site_8": {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Pickles glow when you plug them in. Science explains why",
+          "summary": "A scientist, a jar of pickles and a power strip walk into a room. The punchline involves physics, glowing condiments and a scientific party trick.",
+          "link": "https://www.sciencenews.org/article/pickle-glow-electricity-experiment",
+          "pubDate": "Mon, 06 Jul 2026 15:00:00 +0000"
+        },
+        {
+          "title": "‘Hobbits’ likely scavenged dragons’ kills",
+          "summary": "Homo floresiensis may have scavenged Komodo dragon leftovers instead of hunting small elephant relatives.",
+          "link": "https://www.sciencenews.org/article/hobbits-scavenged-dragon-kills-flores",
+          "pubDate": "Mon, 06 Jul 2026 13:00:00 +0000"
+        },
         {
           "title": "Giant trees have tricks to work around drought",
           "summary": "Samples collected at daring heights provide evidence for an untested theory of tree drought adaptation, while countering another.",
           "link": "https://www.sciencenews.org/article/giant-trees-tricks-drought-water",
           "pubDate": "Thu, 02 Jul 2026 18:00:00 +0000"
-        },
-        {
-          "title": "The natural history of every U.S. state is on display at a new D.C. exhibit",
-          "summary": "The Smithsonian Natural History Museum’s latest exhibit, “From These Lands,” connects visitors with America’s natural history.",
-          "link": "https://www.sciencenews.org/article/review-smithsonian-from-these-lands-250",
-          "pubDate": "Thu, 02 Jul 2026 14:00:00 +0000"
-        },
-        {
-          "title": "The animal behind most aggressive wildlife encounters may surprise you",
-          "summary": "Analysis of 3,000 incidents in Canada reveals which animal–human activity combos are especially risky. Of note: Elk and campgrounds are a bad mix.",
-          "link": "https://www.sciencenews.org/article/aggressive-wildlife-encounters-elk-bear",
-          "pubDate": "Thu, 02 Jul 2026 13:21:36 +0000"
         }
       ]
     }
