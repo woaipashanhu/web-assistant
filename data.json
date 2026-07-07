@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-06T23:00:41.421Z",
-  "date": "2026-07-07",
+  "lastUpdate": "2026-07-07T23:00:41.190Z",
+  "date": "2026-07-08",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks",
-          "summary": "Holes in socks have become a curious sight at this year’s World Cup. The reasons why are a weird mix of biomechanics, perception, and player habits.",
-          "link": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
-          "pubDate": "Mon, 06 Jul 2026 14:50:52 +0000"
+          "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+          "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+          "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+          "pubDate": "Tue, 07 Jul 2026 21:59:29 +0000"
         },
         {
-          "title": "Bentley Torcal EV: Price, Specs, Availability",
-          "summary": "The 300-mile Torcal arrives in September, but considering what’s come before with Ferrari, Porsche, and Mercedes, has the company timed its EV entry right?",
-          "link": "https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/",
-          "pubDate": "Mon, 06 Jul 2026 11:30:00 +0000"
+          "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+          "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+          "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+          "pubDate": "Tue, 07 Jul 2026 21:30:00 +0000"
         },
         {
-          "title": "9 Best Keyboards (2025), Tested and Reviewed",
-          "summary": "Whether you’re looking to boost your productivity or your Fortnite stats, these are the top keyboards for the job.",
-          "link": "https://www.wired.com/gallery/best-keyboards/",
-          "pubDate": "Mon, 06 Jul 2026 11:00:00 +0000"
+          "title": "Mysterious Compound Detected on Pluto and Titan",
+          "summary": "Something on Pluto and one of Saturn’s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
+          "link": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/",
+          "pubDate": "Tue, 07 Jul 2026 18:03:40 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-          "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-          "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-          "pubDate": "Mon, 06 Jul 2026 19:49:10 +0000"
+          "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+          "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+          "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+          "pubDate": "Tue, 07 Jul 2026 22:30:00 +0000"
         },
         {
-          "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
-          "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-          "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-          "pubDate": "Mon, 06 Jul 2026 19:01:59 +0000"
+          "title": "Meta rolls out Muse, a new AI image generator",
+          "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+          "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+          "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000"
         },
         {
-          "title": "Every major tech layoff in 2026 that has name-checked AI",
-          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-          "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-          "pubDate": "Mon, 06 Jul 2026 18:35:00 +0000"
+          "title": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
+          "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+          "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump confirms he asked Fifa to review Balogun ban",
-          "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 06 Jul 2026 19:06:34 GMT"
+          "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+          "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+          "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 07 Jul 2026 22:48:45 GMT"
         },
         {
-          "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-          "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-          "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 06 Jul 2026 21:02:37 GMT"
+          "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+          "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+          "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 07 Jul 2026 19:55:59 GMT"
         },
         {
-          "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-          "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
-          "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 06 Jul 2026 19:06:26 GMT"
+          "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
+          "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 07 Jul 2026 18:56:19 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
+          "summary": "Speculators think the massive rally in the Nasdaq-100 since the lows following the U.S.-Iran war will be more subdued in the second half of 2026.",
+          "link": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html",
+          "pubDate": "Tue, 07 Jul 2026 21:15:26 GMT"
+        },
+        {
+          "title": "Buy these quality, low-stress stocks for the summer, says Jefferies",
+          "summary": "This summer, Jefferies recommends focusing on some high-quality stocks that have been left behind by the AI momentum trade.",
+          "link": "https://www.cnbc.com/2026/07/07/buy-these-quality-low-stress-stocks-for-the-summer-says-jefferies.html",
+          "pubDate": "Tue, 07 Jul 2026 15:45:33 GMT"
+        },
         {
           "title": "Bitcoin rebounds after Trump says he&apos;s become &apos;a big crypto guy&apos;",
           "summary": "Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.",
           "link": "https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html",
           "pubDate": "Mon, 06 Jul 2026 17:24:42 GMT"
-        },
-        {
-          "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
-          "summary": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system.",
-          "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
-          "pubDate": "Mon, 06 Jul 2026 15:36:23 GMT"
-        },
-        {
-          "title": "The World Cup sends prediction market volumes soaring to record highs",
-          "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
-          "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
-          "pubDate": "Sat, 04 Jul 2026 12:54:04 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Platner faces calls to step down after new accusations",
-          "summary": "Democrats and progressives on Monday called for Maine candidate Graham Platner (D) to end his Senate campaign amid a new accusation of sexual assault. &#8220;I’ve been very clear that sexual assault or violence against women is a red line,&#8221; Rep. Ro Khanna (D-Calif.) said on the social platform X, a previously vocal defender of the&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5955790-democrats-call-platner-out/",
-          "pubDate": "Mon, 06 Jul 2026 21:58:10 +0000"
+          "title": "&#8216;SVU&#8217; star Mariska Hargitay to be first female Emmys host in 15 years",
+          "summary": "“Law and Order: SVU” star Mariska Hargitay is set to be the first female host of the Emmys in 15 years. The Television Academy announced in a press release on Tuesday that Hargitay is hosting the Emmys, which will happen on Sep. 14. “Bringing important stories into the light has been the heartbeat of my&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5957943-hargitay-first-female-emmys-host/",
+          "pubDate": "Tue, 07 Jul 2026 22:28:12 +0000"
         },
         {
-          "title": "Platner’s unraveling may keep the Senate in play for Democrats",
-          "summary": "It looks like Graham Platner won’t be putting oyster stew on the Senate Dining Room menu any time soon.&#160; In the wake of the most serious allegations yet against the scandal-soaked Democratic Senate nominee — this time that he raped an erstwhile girlfriend in 2021 — the months-long drumbeat from party leaders to get him&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5955831-platner-democrats-senate-race-maine/",
-          "pubDate": "Mon, 06 Jul 2026 21:58:06 +0000"
+          "title": "The Memo: Platner debacle inflames factional turmoil among Democrats",
+          "summary": "A credible allegation of rape against Graham Platner looks near certain to doom his Senate campaign, even though the Maine Democrat calls the charge “categorically untrue.” The consensus in the political world is that Platner could withdraw from the race any moment. Meanwhile, the episode is ratcheting up tensions that are already burning hot within&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5957988-rape-allegation-platner-senate-campaign/",
+          "pubDate": "Tue, 07 Jul 2026 22:24:39 +0000"
         },
         {
-          "title": "When is deadline for Democrats to replace Platner in Maine Senate race?",
-          "summary": "Despite winning the Democratic primary in Maine last month, Senate candidate Graham Platner could be off the ballot in November after a Politico story published on Monday detailed a woman accusing him of sexual assault. July 13 is the deadline for Platner to withdraw from the race and have a replacement, according to the Maine&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5955769-graham-platner-accused-sexual-assault/",
-          "pubDate": "Mon, 06 Jul 2026 21:37:34 +0000"
+          "title": "Collins calls on OMB to rescind parts of controversial proposed grant rule",
+          "summary": "Sen. Susan Collins (R-Maine) called on the Trump administration to withdraw some proposed changes to the federal grantmaking process, joining a growing chorus of opposition to a sweeping new proposal from the Office of Management and Budget (OMB). Collins on Monday sent a letter to OMB Director Russell Vought asking the agency to withdraw portions of&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5957967-susan-collins-opposes-proposed-omb-grant-rule/",
+          "pubDate": "Tue, 07 Jul 2026 22:22:30 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,21 +213,21 @@
           "pubDate": "2026-07-06T20:33:00Z"
         },
         {
-          "title": "Google Just Launched 2 New AI Models. What That Means for GOOGL Stock.",
-          "summary": "Google Just Launched 2 New AI Models. What That Means for GOOGL Stock.",
-          "link": "https://finance.yahoo.com/technology/ai/articles/google-just-launched-2-ai-143002336.html",
-          "pubDate": "2026-07-05T14:30:02Z"
+          "title": "Pinterest (PINS) Fell 40% in Q1",
+          "summary": "Pinterest (PINS) Fell 40% in Q1",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-fell-40-q1-144544149.html",
+          "pubDate": "2026-07-06T14:45:44Z"
         },
         {
-          "title": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
-          "summary": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
-          "link": "https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html",
-          "pubDate": "2026-07-05T14:10:00Z"
+          "title": "Only 3 Under-the-Radar Dividend Stocks Survived This Brutal Screen. One Could Rally 115%.",
+          "summary": "Only 3 Under-the-Radar Dividend Stocks Survived This Brutal Screen. One Could Rally 115%.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/only-3-under-radar-dividend-144248953.html",
+          "pubDate": "2026-07-06T14:42:48Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -251,26 +251,26 @@
       ]
     },
     "site_8": {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Pickles glow when you plug them in. Science explains why",
-          "summary": "A scientist, a jar of pickles and a power strip walk into a room. The punchline involves physics, glowing condiments and a scientific party trick.",
-          "link": "https://www.sciencenews.org/article/pickle-glow-electricity-experiment",
-          "pubDate": "Mon, 06 Jul 2026 15:00:00 +0000"
+          "title": "A robot swarm is on a mission to map Greenland&#8217;s perilous ice sheets",
+          "summary": "The ambitious expedition aims to fill data gaps about the glacier-sea boundary to predict when the world might tip into a catastrophic climate regime.",
+          "link": "https://www.sciencenews.org/article/robot-mission-map-greenland-ice-climate",
+          "pubDate": "Tue, 07 Jul 2026 18:00:00 +0000"
         },
         {
-          "title": "‘Hobbits’ likely scavenged dragons’ kills",
-          "summary": "Homo floresiensis may have scavenged Komodo dragon leftovers instead of hunting small elephant relatives.",
-          "link": "https://www.sciencenews.org/article/hobbits-scavenged-dragon-kills-flores",
-          "pubDate": "Mon, 06 Jul 2026 13:00:00 +0000"
+          "title": "Scientists say Beefalo are all beef, no -alo. Breeders disagree",
+          "summary": "A whole-genome analysis of Beefalo, a hybrid bison-cattle breed, suggests very few individuals have any bison DNA at all, a new study reports.",
+          "link": "https://www.sciencenews.org/article/beefalo-no-buffalo-genes",
+          "pubDate": "Tue, 07 Jul 2026 16:30:00 +0000"
         },
         {
-          "title": "Giant trees have tricks to work around drought",
-          "summary": "Samples collected at daring heights provide evidence for an untested theory of tree drought adaptation, while countering another.",
-          "link": "https://www.sciencenews.org/article/giant-trees-tricks-drought-water",
-          "pubDate": "Thu, 02 Jul 2026 18:00:00 +0000"
+          "title": "Many U.S. teens underestimate fentanyl’s deadly risk",
+          "summary": "A majority of 8th-graders and roughly a third of 10th- and 12th-graders do not see great risk in using fentanyl once or twice, a study reports.",
+          "link": "https://www.sciencenews.org/article/adolescents-fentanyl-risk-understanding",
+          "pubDate": "Tue, 07 Jul 2026 15:00:00 +0000"
         }
       ]
     }
