@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-07T23:00:41.190Z",
-  "date": "2026-07-08",
+  "lastUpdate": "2026-07-08T23:00:41.323Z",
+  "date": "2026-07-09",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
-          "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-          "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-          "pubDate": "Tue, 07 Jul 2026 21:59:29 +0000"
+          "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+          "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
+          "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+          "pubDate": "Wed, 08 Jul 2026 21:08:26 +0000"
         },
         {
-          "title": "OpenAI’s Chief Futurist Is Leaving the Company",
-          "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
-          "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-          "pubDate": "Tue, 07 Jul 2026 21:30:00 +0000"
+          "title": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
+          "summary": "After more than a decade of pushback, farmers and repair advocates have won access to equipment and services John Deere had long kept under its control.",
+          "link": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
+          "pubDate": "Wed, 08 Jul 2026 20:27:18 +0000"
         },
         {
-          "title": "Mysterious Compound Detected on Pluto and Titan",
-          "summary": "Something on Pluto and one of Saturn’s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
-          "link": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/",
-          "pubDate": "Tue, 07 Jul 2026 18:03:40 +0000"
+          "title": "I Built a Self-Improving AI, and So Can You",
+          "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+          "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+          "pubDate": "Wed, 08 Jul 2026 20:09:21 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-          "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
-          "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-          "pubDate": "Tue, 07 Jul 2026 22:30:00 +0000"
+          "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+          "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+          "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+          "pubDate": "Wed, 08 Jul 2026 22:41:33 +0000"
         },
         {
-          "title": "Meta rolls out Muse, a new AI image generator",
-          "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
-          "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-          "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000"
+          "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+          "summary": "The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\"",
+          "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+          "pubDate": "Wed, 08 Jul 2026 21:49:33 +0000"
         },
         {
-          "title": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
-          "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-          "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-          "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000"
+          "title": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
+          "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+          "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+          "pubDate": "Wed, 08 Jul 2026 20:37:03 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-          "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
-          "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 07 Jul 2026 22:48:45 GMT"
+          "title": "US launches more strikes on Iran with blasts reported in south of country",
+          "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+          "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 08 Jul 2026 21:40:40 GMT"
         },
         {
-          "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-          "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-          "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 07 Jul 2026 19:55:59 GMT"
+          "title": "US strikes target Iranian military boats",
+          "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 08 Jul 2026 05:42:37 GMT"
         },
         {
-          "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-          "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-          "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 07 Jul 2026 18:56:19 GMT"
+          "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+          "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 08 Jul 2026 17:18:14 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
-          "summary": "Speculators think the massive rally in the Nasdaq-100 since the lows following the U.S.-Iran war will be more subdued in the second half of 2026.",
-          "link": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html",
-          "pubDate": "Tue, 07 Jul 2026 21:15:26 GMT"
+          "title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
+          "summary": "The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.",
+          "link": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
+          "pubDate": "Wed, 08 Jul 2026 21:59:27 GMT"
         },
         {
-          "title": "Buy these quality, low-stress stocks for the summer, says Jefferies",
-          "summary": "This summer, Jefferies recommends focusing on some high-quality stocks that have been left behind by the AI momentum trade.",
-          "link": "https://www.cnbc.com/2026/07/07/buy-these-quality-low-stress-stocks-for-the-summer-says-jefferies.html",
-          "pubDate": "Tue, 07 Jul 2026 15:45:33 GMT"
+          "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+          "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
+          "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+          "pubDate": "Wed, 08 Jul 2026 19:05:47 GMT"
         },
         {
-          "title": "Bitcoin rebounds after Trump says he&apos;s become &apos;a big crypto guy&apos;",
-          "summary": "Earlier, bitcoin fell toward $60,000 after Strategy disclosed the sale of more of its holdings of the token.",
-          "link": "https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html",
-          "pubDate": "Mon, 06 Jul 2026 17:24:42 GMT"
+          "title": "Strait of Hormuz traffic won&apos;t return to normal until 2027 after latest setback, Kalshi traders predict",
+          "summary": "Speculators now see just a 43% chance that traffic flows return to normal by Dec. 1.",
+          "link": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html",
+          "pubDate": "Wed, 08 Jul 2026 17:45:24 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "&#8216;SVU&#8217; star Mariska Hargitay to be first female Emmys host in 15 years",
-          "summary": "“Law and Order: SVU” star Mariska Hargitay is set to be the first female host of the Emmys in 15 years. The Television Academy announced in a press release on Tuesday that Hargitay is hosting the Emmys, which will happen on Sep. 14. “Bringing important stories into the light has been the heartbeat of my&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5957943-hargitay-first-female-emmys-host/",
-          "pubDate": "Tue, 07 Jul 2026 22:28:12 +0000"
+          "title": "Lawmakers demand answers after fatal ICE shooting in Texas",
+          "summary": "Lawmakers on Capitol Hill are calling for an investigation after an Immigration and Customs Enforcement (ICE) officer fatally shot a Mexican immigrant in Houston on Tuesday. An ICE spokesperson said officers with the agency had tried to conduct a vehicle stop as part of a targeted operation. The driver, Lorenzo Salgado Araujo, did not follow&#8230;",
+          "link": "https://thehill.com/homenews/house/5960024-ice-shooting-texas-lawmakers/",
+          "pubDate": "Wed, 08 Jul 2026 22:31:38 +0000"
         },
         {
-          "title": "The Memo: Platner debacle inflames factional turmoil among Democrats",
-          "summary": "A credible allegation of rape against Graham Platner looks near certain to doom his Senate campaign, even though the Maine Democrat calls the charge “categorically untrue.” The consensus in the political world is that Platner could withdraw from the race any moment. Meanwhile, the episode is ratcheting up tensions that are already burning hot within&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5957988-rape-allegation-platner-senate-campaign/",
-          "pubDate": "Tue, 07 Jul 2026 22:24:39 +0000"
+          "title": "Republicans prepare $8 million ad campaign against possible Platner replacement",
+          "summary": "Republicans are preparing to launch an $8 million ad blitz against the candidate selected to replace Maine Senate Democratic nominee Graham Platner in the wake of sexual assault allegations.&#160; The Super PAC Pine Tree Results spent $2 million in May on YouTube and television ads bashing Platner and still has $8 million left to fight&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5959963-republicans-launch-ad-blitz-maine/",
+          "pubDate": "Wed, 08 Jul 2026 22:13:13 +0000"
         },
         {
-          "title": "Collins calls on OMB to rescind parts of controversial proposed grant rule",
-          "summary": "Sen. Susan Collins (R-Maine) called on the Trump administration to withdraw some proposed changes to the federal grantmaking process, joining a growing chorus of opposition to a sweeping new proposal from the Office of Management and Budget (OMB). Collins on Monday sent a letter to OMB Director Russell Vought asking the agency to withdraw portions of&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5957967-susan-collins-opposes-proposed-omb-grant-rule/",
-          "pubDate": "Tue, 07 Jul 2026 22:22:30 +0000"
+          "title": "Iran ceasefire&#8217;s end drives up oil prices and uncertainty",
+          "summary": "The end of the U.S.-Iran ceasefire is driving oil prices higher and fueling uncertainty over future energy prices. On Tuesday and again Wednesday, the U.S.&#160;said it was striking&#160;Iran in retaliation for attacks on three commercial ships in the Strait of Hormuz. President Trump, speaking at the NATO summit in Turkey,&#160;declared that the ceasefire that ended&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5960020-iran-ceasefire-gas-prices-strait-of-hormuz/",
+          "pubDate": "Wed, 08 Jul 2026 22:05:17 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Best Buy and Apple flag a price shock for shoppers",
-          "summary": "Best Buy and Apple flag a price shock for shoppers",
-          "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
-          "pubDate": "2026-07-06T20:33:00Z"
+          "title": "Bank of America warns America now has 2 economies",
+          "summary": "Bank of America warns America now has 2 economies",
+          "link": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
+          "pubDate": "2026-07-07T20:23:00Z"
         },
         {
-          "title": "Pinterest (PINS) Fell 40% in Q1",
-          "summary": "Pinterest (PINS) Fell 40% in Q1",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-fell-40-q1-144544149.html",
-          "pubDate": "2026-07-06T14:45:44Z"
+          "title": "Volatility Looks Dead. That Means This ETF Could Be Getting Ready to Soar.",
+          "summary": "Volatility Looks Dead. That Means This ETF Could Be Getting Ready to Soar.",
+          "link": "https://finance.yahoo.com/markets/options/articles/volatility-looks-dead-means-etf-150002930.html",
+          "pubDate": "2026-07-07T15:00:02Z"
         },
         {
-          "title": "Only 3 Under-the-Radar Dividend Stocks Survived This Brutal Screen. One Could Rally 115%.",
-          "summary": "Only 3 Under-the-Radar Dividend Stocks Survived This Brutal Screen. One Could Rally 115%.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/only-3-under-radar-dividend-144248953.html",
-          "pubDate": "2026-07-06T14:42:48Z"
+          "title": "Consumers dread rising healthcare, rent costs: New York Fed",
+          "summary": "Consumers dread rising healthcare, rent costs: New York Fed",
+          "link": "https://finance.yahoo.com/economy/article/consumers-dread-rising-healthcare-rent-costs-new-york-fed-150000217.html",
+          "pubDate": "2026-07-07T15:00:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "NASA&#039;s Hubble spots a stellar sparkler for the Fourth of July",
-          "summary": "NASA&#039;s Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way&#039;s oldest star clusters to celebrate the nation&#039;s 250th anniversary. Hidden within the ancient cluster are clues to how exploding stars helped transform the young universe into one capable of forming planets and, eventually, life.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
-          "pubDate": "Sun, 05 Jul 2026 00:10:58 EDT"
+          "title": "New weight loss pill beats oral Ozempic in major trial",
+          "summary": "A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements than the leading oral semaglutide in a major clinical trial. The tablet could offer a more convenient alternative to injectable drugs like Ozempic and Wegovy because it doesn&#039;t require refrigeration or special timing with meals. It&#039;s also cheaper to manufacture, which could expand access globally.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260707054111.htm",
+          "pubDate": "Wed, 08 Jul 2026 01:16:53 EDT"
         },
         {
-          "title": "NASA&#039;s Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-          "summary": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
-          "pubDate": "Sun, 05 Jul 2026 00:03:07 EDT"
+          "title": "Ancient DNA reveals the mysterious collapse of Europe&#039;s megalith builders",
+          "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of the communities that built Europe&#039;s giant stone monuments.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
+          "pubDate": "Wed, 08 Jul 2026 03:50:55 EDT"
         },
         {
-          "title": "NASA&#039;s Hubble captures a star-spangled sea of 500,000 stars",
-          "summary": "Celebrating the United States&#039; 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way&#039;s past thanks to its rare stars and possible origins in a long ago cosmic merger.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
-          "pubDate": "Sat, 04 Jul 2026 23:39:18 EDT"
+          "title": "Incredible new material makes heat programmable",
+          "summary": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smarter infrared sensors, better energy technologies, and memory devices that use light and heat instead of electrical charges.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
+          "pubDate": "Tue, 07 Jul 2026 19:28:50 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A robot swarm is on a mission to map Greenland&#8217;s perilous ice sheets",
-          "summary": "The ambitious expedition aims to fill data gaps about the glacier-sea boundary to predict when the world might tip into a catastrophic climate regime.",
-          "link": "https://www.sciencenews.org/article/robot-mission-map-greenland-ice-climate",
-          "pubDate": "Tue, 07 Jul 2026 18:00:00 +0000"
+          "title": "Can geoengineering blunt El Niño’s fury?",
+          "summary": "Marine cloud brightening could cool part of the Pacific and weaken extreme El Niños, simulations suggest. But the approach could have risks.",
+          "link": "https://www.sciencenews.org/article/geoengineering-el-nino-extremes",
+          "pubDate": "Wed, 08 Jul 2026 18:00:00 +0000"
         },
         {
-          "title": "Scientists say Beefalo are all beef, no -alo. Breeders disagree",
-          "summary": "A whole-genome analysis of Beefalo, a hybrid bison-cattle breed, suggests very few individuals have any bison DNA at all, a new study reports.",
-          "link": "https://www.sciencenews.org/article/beefalo-no-buffalo-genes",
-          "pubDate": "Tue, 07 Jul 2026 16:30:00 +0000"
+          "title": "A shoebox-sized satellite could expose hidden nuclear weapons in space",
+          "summary": "There’s never been a good method to check for violations of the Outer Space Treaty’s prohibition of nuclear weapons in space.",
+          "link": "https://www.sciencenews.org/article/satellite-nuclear-weapons-space",
+          "pubDate": "Wed, 08 Jul 2026 15:11:34 +0000"
         },
         {
-          "title": "Many U.S. teens underestimate fentanyl’s deadly risk",
-          "summary": "A majority of 8th-graders and roughly a third of 10th- and 12th-graders do not see great risk in using fentanyl once or twice, a study reports.",
-          "link": "https://www.sciencenews.org/article/adolescents-fentanyl-risk-understanding",
-          "pubDate": "Tue, 07 Jul 2026 15:00:00 +0000"
+          "title": "AI tools meant to vet science are surprisingly easy to fool",
+          "summary": "The gold standard of scientific review, peer review by researchers’ colleagues, is in crisis. AI might offer a solution but has problems of its own.",
+          "link": "https://www.sciencenews.org/article/ai-tools-science-peer-review-problems",
+          "pubDate": "Wed, 08 Jul 2026 12:00:00 +0000"
         }
       ]
     }
