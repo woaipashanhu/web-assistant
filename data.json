@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-08T23:00:41.323Z",
-  "date": "2026-07-09",
+  "lastUpdate": "2026-07-09T23:00:30.576Z",
+  "date": "2026-07-10",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-          "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
-          "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
-          "pubDate": "Wed, 08 Jul 2026 21:08:26 +0000"
+          "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
+          "summary": "Today on Uncanny Valley, we unpack the political debacle unfolding in Maine surrounding the campaign of Democratic candidate Graham Platner.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
+          "pubDate": "Thu, 09 Jul 2026 21:47:57 +0000"
         },
         {
-          "title": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
-          "summary": "After more than a decade of pushback, farmers and repair advocates have won access to equipment and services John Deere had long kept under its control.",
-          "link": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
-          "pubDate": "Wed, 08 Jul 2026 20:27:18 +0000"
+          "title": "Come to Our WIRED@NIGHT02 Film Screening!",
+          "summary": "See the documentary The Oldest Person in the World before it’s in theaters.",
+          "link": "https://www.wired.com/story/come-to-wirednight02-film-screening/",
+          "pubDate": "Thu, 09 Jul 2026 21:43:26 +0000"
         },
         {
-          "title": "I Built a Self-Improving AI, and So Can You",
-          "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
-          "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-          "pubDate": "Wed, 08 Jul 2026 20:09:21 +0000"
+          "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+          "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+          "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+          "pubDate": "Thu, 09 Jul 2026 18:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-          "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
-          "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-          "pubDate": "Wed, 08 Jul 2026 22:41:33 +0000"
+          "title": "OpenAI launches its new family of models with GPT-5.6",
+          "summary": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
+          "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000"
         },
         {
-          "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
-          "summary": "The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\"",
-          "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
-          "pubDate": "Wed, 08 Jul 2026 21:49:33 +0000"
+          "title": "An AI agent startup just let its agent run its $100 million fundraise",
+          "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+          "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000"
         },
         {
-          "title": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
-          "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-          "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-          "pubDate": "Wed, 08 Jul 2026 20:37:03 +0000"
+          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+          "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US launches more strikes on Iran with blasts reported in south of country",
-          "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+          "title": "Tehran launches more strikes after second round of US attacks in southern Iran",
+          "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
           "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 08 Jul 2026 21:40:40 GMT"
+          "pubDate": "Thu, 09 Jul 2026 21:13:49 GMT"
         },
         {
-          "title": "US strikes target Iranian military boats",
-          "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-          "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 08 Jul 2026 05:42:37 GMT"
+          "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+          "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+          "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 09 Jul 2026 14:41:54 GMT"
         },
         {
-          "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-          "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
-          "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 08 Jul 2026 17:18:14 GMT"
+          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+          "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 09 Jul 2026 14:37:19 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
-          "summary": "The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.",
-          "link": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
-          "pubDate": "Wed, 08 Jul 2026 21:59:27 GMT"
+          "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
+          "summary": "Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.",
+          "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
+          "pubDate": "Thu, 09 Jul 2026 19:53:20 GMT"
         },
         {
-          "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
-          "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
-          "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
-          "pubDate": "Wed, 08 Jul 2026 19:05:47 GMT"
+          "title": "Prediction markets spark insider trading concerns. Here&apos;s how Goldman and other companies are responding",
+          "summary": "CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.",
+          "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+          "pubDate": "Thu, 09 Jul 2026 18:52:22 GMT"
         },
         {
-          "title": "Strait of Hormuz traffic won&apos;t return to normal until 2027 after latest setback, Kalshi traders predict",
-          "summary": "Speculators now see just a 43% chance that traffic flows return to normal by Dec. 1.",
-          "link": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html",
-          "pubDate": "Wed, 08 Jul 2026 17:45:24 GMT"
+          "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+          "summary": "Odds that gas prices are above $3.50 on Election Day have jumped to 75% on the platform.",
+          "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
+          "pubDate": "Thu, 09 Jul 2026 19:44:17 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Lawmakers demand answers after fatal ICE shooting in Texas",
-          "summary": "Lawmakers on Capitol Hill are calling for an investigation after an Immigration and Customs Enforcement (ICE) officer fatally shot a Mexican immigrant in Houston on Tuesday. An ICE spokesperson said officers with the agency had tried to conduct a vehicle stop as part of a targeted operation. The driver, Lorenzo Salgado Araujo, did not follow&#8230;",
-          "link": "https://thehill.com/homenews/house/5960024-ice-shooting-texas-lawmakers/",
-          "pubDate": "Wed, 08 Jul 2026 22:31:38 +0000"
+          "title": "Romney on running in 2028: 80-year-olds &#8216;shouldn&#8217;t be running the world&#8217;",
+          "summary": "Former Sen. Mitt Romney (R-Utah) supported growing calls from voters across the country for a younger generation of political leaders in a new interview released Wednesday.&#160; “I basically think people who are 80 and above really should not be running the world or running the country,” he told the Deseret News. He cited research about&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5961824-mitt-romney-political-leaders-age/",
+          "pubDate": "Thu, 09 Jul 2026 22:24:33 +0000"
         },
         {
-          "title": "Republicans prepare $8 million ad campaign against possible Platner replacement",
-          "summary": "Republicans are preparing to launch an $8 million ad blitz against the candidate selected to replace Maine Senate Democratic nominee Graham Platner in the wake of sexual assault allegations.&#160; The Super PAC Pine Tree Results spent $2 million in May on YouTube and television ads bashing Platner and still has $8 million left to fight&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5959963-republicans-launch-ad-blitz-maine/",
-          "pubDate": "Wed, 08 Jul 2026 22:13:13 +0000"
+          "title": "Note from Charlie Kirk&#8217;s accused killer revealed during hearing",
+          "summary": "A note from the alleged Charlie Kirk assassin was revealed in court on Thursday outlining an alleged confession amid other evidence tied to the accused killer. Tyler Robinson, 23, allegedly wrote a letter to his roommate and romantic partner that read “Luna, If you are reading this per my text, then I am so sorry.&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5961826-tyler-robinson-court-evidence/",
+          "pubDate": "Thu, 09 Jul 2026 22:23:57 +0000"
         },
         {
-          "title": "Iran ceasefire&#8217;s end drives up oil prices and uncertainty",
-          "summary": "The end of the U.S.-Iran ceasefire is driving oil prices higher and fueling uncertainty over future energy prices. On Tuesday and again Wednesday, the U.S.&#160;said it was striking&#160;Iran in retaliation for attacks on three commercial ships in the Strait of Hormuz. President Trump, speaking at the NATO summit in Turkey,&#160;declared that the ceasefire that ended&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5960020-iran-ceasefire-gas-prices-strait-of-hormuz/",
-          "pubDate": "Wed, 08 Jul 2026 22:05:17 +0000"
+          "title": "Cruz: Talarico has ‘real chance’ to beat Paxton in Senate race",
+          "summary": "GOP Sen. Ted Cruz (Texas) sent a warning out to his party that Democratic state Rep. James Talarico actually has a shot at flipping the Texas Senate seat in November. “Unfortunately, I do think he has a real chance,” Cruz told Texas Gov. Greg Abbott (R), who guest-hosted Sean Hannity’s radio show. “I think this&#8230;",
+          "link": "https://thehill.com/homenews/5961813-talarico-paxton-texas-senate-race/",
+          "pubDate": "Thu, 09 Jul 2026 21:42:11 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Bank of America warns America now has 2 economies",
-          "summary": "Bank of America warns America now has 2 economies",
-          "link": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
-          "pubDate": "2026-07-07T20:23:00Z"
+          "title": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
+          "summary": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/t-leaves-rivals-flat-footed-183300288.html",
+          "pubDate": "2026-07-08T18:33:00Z"
         },
         {
-          "title": "Volatility Looks Dead. That Means This ETF Could Be Getting Ready to Soar.",
-          "summary": "Volatility Looks Dead. That Means This ETF Could Be Getting Ready to Soar.",
-          "link": "https://finance.yahoo.com/markets/options/articles/volatility-looks-dead-means-etf-150002930.html",
-          "pubDate": "2026-07-07T15:00:02Z"
+          "title": "Here's What to Expect From Entergy’s Next Earnings Report",
+          "summary": "Here's What to Expect From Entergy’s Next Earnings Report",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-entergy-next-earnings-152045946.html",
+          "pubDate": "2026-07-08T15:20:45Z"
         },
         {
-          "title": "Consumers dread rising healthcare, rent costs: New York Fed",
-          "summary": "Consumers dread rising healthcare, rent costs: New York Fed",
-          "link": "https://finance.yahoo.com/economy/article/consumers-dread-rising-healthcare-rent-costs-new-york-fed-150000217.html",
-          "pubDate": "2026-07-07T15:00:00Z"
+          "title": "Lucid Motors’ Woes Run Much Deeper. Saudi Money Alone Won’t Solve Them.",
+          "summary": "Lucid Motors’ Woes Run Much Deeper. Saudi Money Alone Won’t Solve Them.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-motors-woes-run-much-152131993.html",
+          "pubDate": "2026-07-08T15:21:31Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "New weight loss pill beats oral Ozempic in major trial",
-          "summary": "A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements than the leading oral semaglutide in a major clinical trial. The tablet could offer a more convenient alternative to injectable drugs like Ozempic and Wegovy because it doesn&#039;t require refrigeration or special timing with meals. It&#039;s also cheaper to manufacture, which could expand access globally.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260707054111.htm",
-          "pubDate": "Wed, 08 Jul 2026 01:16:53 EDT"
+          "title": "A vitamin A discovery is changing what scientists know about vision",
+          "summary": "A surprising discovery is reshaping scientists&#039; understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina&#039;s center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The findings could improve lab-grown retinal tissue and lay the groundwork for future cell therapies to restore vision lost to age-related eye diseases.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
+          "pubDate": "Thu, 09 Jul 2026 01:15:15 EDT"
         },
         {
-          "title": "Ancient DNA reveals the mysterious collapse of Europe&#039;s megalith builders",
-          "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of the communities that built Europe&#039;s giant stone monuments.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
-          "pubDate": "Wed, 08 Jul 2026 03:50:55 EDT"
+          "title": "Trees keep absorbing carbon long after they stop growing",
+          "summary": "Oak trees keep absorbing carbon dioxide long after their annual growth has ended, revealing that photosynthesis and wood production are not as closely linked as scientists once believed. The finding could reshape forecasts of how much carbon forests will be able to store in a warmer future.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm",
+          "pubDate": "Thu, 09 Jul 2026 02:28:44 EDT"
         },
         {
-          "title": "Incredible new material makes heat programmable",
-          "summary": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smarter infrared sensors, better energy technologies, and memory devices that use light and heat instead of electrical charges.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
-          "pubDate": "Tue, 07 Jul 2026 19:28:50 EDT"
+          "title": "Rare goblin shark filmed alive for the first time in the deep sea",
+          "summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark&#039;s known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
+          "pubDate": "Wed, 08 Jul 2026 19:00:05 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Can geoengineering blunt El Niño’s fury?",
-          "summary": "Marine cloud brightening could cool part of the Pacific and weaken extreme El Niños, simulations suggest. But the approach could have risks.",
-          "link": "https://www.sciencenews.org/article/geoengineering-el-nino-extremes",
-          "pubDate": "Wed, 08 Jul 2026 18:00:00 +0000"
+          "title": "Summit living isn’t a problem for this tiny mouse",
+          "summary": "A boost to heat production and drawing in more oxygen may help Andean leaf-eared mice thrive at altitude.",
+          "link": "https://www.sciencenews.org/article/summit-living-isnt-a-problem-for-this-tiny-mouse",
+          "pubDate": "Thu, 09 Jul 2026 18:06:19 +0000"
         },
         {
-          "title": "A shoebox-sized satellite could expose hidden nuclear weapons in space",
-          "summary": "There’s never been a good method to check for violations of the Outer Space Treaty’s prohibition of nuclear weapons in space.",
-          "link": "https://www.sciencenews.org/article/satellite-nuclear-weapons-space",
-          "pubDate": "Wed, 08 Jul 2026 15:11:34 +0000"
+          "title": "Support goes a long way to boost birth control effectiveness",
+          "summary": "The HER Salt Lake Contraceptive Initiative’s approach, which centered the user and made refills easy, meant all types of methods worked well.",
+          "link": "https://www.sciencenews.org/article/birth-control-choice-effectiveness",
+          "pubDate": "Thu, 09 Jul 2026 15:00:00 +0000"
         },
         {
-          "title": "AI tools meant to vet science are surprisingly easy to fool",
-          "summary": "The gold standard of scientific review, peer review by researchers’ colleagues, is in crisis. AI might offer a solution but has problems of its own.",
-          "link": "https://www.sciencenews.org/article/ai-tools-science-peer-review-problems",
-          "pubDate": "Wed, 08 Jul 2026 12:00:00 +0000"
+          "title": "Neandertal babies were a lot like ours — but didn&#8217;t stay that way",
+          "summary": "Two studies of Neandertal remains suggest their newborns were about the same size as those of modern humans but developed faster through infancy.",
+          "link": "https://www.sciencenews.org/article/neandertal-human-growth-rate",
+          "pubDate": "Thu, 09 Jul 2026 12:00:00 +0000"
         }
       ]
     }
