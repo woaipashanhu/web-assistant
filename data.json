@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-09T23:00:30.576Z",
-  "date": "2026-07-10",
+  "lastUpdate": "2026-07-10T23:00:55.684Z",
+  "date": "2026-07-11",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
-          "summary": "Today on Uncanny Valley, we unpack the political debacle unfolding in Maine surrounding the campaign of Democratic candidate Graham Platner.",
-          "link": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
-          "pubDate": "Thu, 09 Jul 2026 21:47:57 +0000"
+          "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+          "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+          "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+          "pubDate": "Fri, 10 Jul 2026 20:44:05 +0000"
         },
         {
-          "title": "Come to Our WIRED@NIGHT02 Film Screening!",
-          "summary": "See the documentary The Oldest Person in the World before it’s in theaters.",
-          "link": "https://www.wired.com/story/come-to-wirednight02-film-screening/",
-          "pubDate": "Thu, 09 Jul 2026 21:43:26 +0000"
+          "title": "Meet the Battery Startup Taking on China’s Giants",
+          "summary": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
+          "link": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
+          "pubDate": "Fri, 10 Jul 2026 18:00:00 +0000"
         },
         {
-          "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-          "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-          "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-          "pubDate": "Thu, 09 Jul 2026 18:30:00 +0000"
+          "title": "What Watching a Soccer Final Does to Your Body, According to Science",
+          "summary": "A recent study tracked hundreds of soccer fans until their favorite team reached the final of a tournament. Their stress levels skyrocketed, and their heart rates jumped too.",
+          "link": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
+          "pubDate": "Fri, 10 Jul 2026 15:41:31 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI launches its new family of models with GPT-5.6",
-          "summary": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
-          "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-          "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000"
+          "title": "Bluesky&#8217;s interim CEO, Toni Schneider, drops the &#8216;interim&#8217;",
+          "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+          "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+          "pubDate": "Fri, 10 Jul 2026 21:51:55 +0000"
         },
         {
-          "title": "An AI agent startup just let its agent run its $100 million fundraise",
-          "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-          "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-          "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000"
+          "title": "Apple sues OpenAI over alleged trade secret theft",
+          "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000"
         },
         {
-          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-          "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-          "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-          "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000"
+          "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+          "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+          "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+          "pubDate": "Fri, 10 Jul 2026 17:42:36 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Tehran launches more strikes after second round of US attacks in southern Iran",
-          "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-          "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 09 Jul 2026 21:13:49 GMT"
+          "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+          "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+          "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 10 Jul 2026 14:08:26 GMT"
         },
         {
-          "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-          "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-          "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 09 Jul 2026 14:41:54 GMT"
+          "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+          "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+          "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 10 Jul 2026 13:53:11 GMT"
         },
         {
-          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-          "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
-          "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 09 Jul 2026 14:37:19 GMT"
+          "title": "Zulu king expresses regret after video captures tirade against his wife",
+          "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 10 Jul 2026 16:42:11 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -144,7 +144,7 @@
           "title": "Prediction markets spark insider trading concerns. Here&apos;s how Goldman and other companies are responding",
           "summary": "CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.",
           "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
-          "pubDate": "Thu, 09 Jul 2026 18:52:22 GMT"
+          "pubDate": "Fri, 10 Jul 2026 14:22:40 GMT"
         },
         {
           "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Romney on running in 2028: 80-year-olds &#8216;shouldn&#8217;t be running the world&#8217;",
-          "summary": "Former Sen. Mitt Romney (R-Utah) supported growing calls from voters across the country for a younger generation of political leaders in a new interview released Wednesday.&#160; “I basically think people who are 80 and above really should not be running the world or running the country,” he told the Deseret News. He cited research about&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5961824-mitt-romney-political-leaders-age/",
-          "pubDate": "Thu, 09 Jul 2026 22:24:33 +0000"
+          "title": "Fears erupt over Iran&#8217;s desire to kill Trump",
+          "summary": "A reported new threat by Iran to assassinate President Trump served as a reminder this week of the risk that the hard-line Tehran regime poses to him, especially as a tenuous ceasefire between the U.S. and Iran breaks down and hostilities have resumed. Reports surfaced this week that Israel shared intelligence with the U.S. indicating&#8230;",
+          "link": "https://thehill.com/homenews/administration/5963476-iran-trump-assassination-risk-israel-air-force-one/",
+          "pubDate": "Fri, 10 Jul 2026 22:08:20 +0000"
         },
         {
-          "title": "Note from Charlie Kirk&#8217;s accused killer revealed during hearing",
-          "summary": "A note from the alleged Charlie Kirk assassin was revealed in court on Thursday outlining an alleged confession amid other evidence tied to the accused killer. Tyler Robinson, 23, allegedly wrote a letter to his roommate and romantic partner that read “Luna, If you are reading this per my text, then I am so sorry.&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5961826-tyler-robinson-court-evidence/",
-          "pubDate": "Thu, 09 Jul 2026 22:23:57 +0000"
+          "title": "UK, Norway embassies get cheeky in social media post over Haaland, Kane World Cup rivalry",
+          "summary": "The British and Norwegian embassies in Washington shared some light-hearted banter on social media ahead of the match between England and Norway on Saturday in the quarterfinals of the FIFA World Cup. The post centered on the friendly rivalry between Norwegian star Erling Haaland and English player Harry Kane. Haaland is also a striker for&#8230;",
+          "link": "https://thehill.com/blogs/in-the-know/5963363-uk-norway-embassies-get-cheeky-in-social-media-post-over-haaland-kane-world-cup-rivalry/",
+          "pubDate": "Fri, 10 Jul 2026 21:16:21 +0000"
         },
         {
-          "title": "Cruz: Talarico has ‘real chance’ to beat Paxton in Senate race",
-          "summary": "GOP Sen. Ted Cruz (Texas) sent a warning out to his party that Democratic state Rep. James Talarico actually has a shot at flipping the Texas Senate seat in November. “Unfortunately, I do think he has a real chance,” Cruz told Texas Gov. Greg Abbott (R), who guest-hosted Sean Hannity’s radio show. “I think this&#8230;",
-          "link": "https://thehill.com/homenews/5961813-talarico-paxton-texas-senate-race/",
-          "pubDate": "Thu, 09 Jul 2026 21:42:11 +0000"
+          "title": "Platner officially withdraws from Maine Senate race",
+          "summary": "Democrat Graham Platner has formally withdrawn from the Maine Senate race, allowing members of the party to choose their new nominee this month. &#8220;I write to formally withdraw my candidacy for United States Senate,&#8221; the progressive oyster farmer wrote in a letter posted to social media Friday, later adding that &#8220;my name may have been&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5963366-platner-officially-withdraws-from-maine-senate-race/",
+          "pubDate": "Fri, 10 Jul 2026 20:57:57 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
-          "summary": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/t-leaves-rivals-flat-footed-183300288.html",
-          "pubDate": "2026-07-08T18:33:00Z"
+          "title": "Fed minutes expose deep divide over interest-rate outlook",
+          "summary": "Fed minutes expose deep divide over interest-rate outlook",
+          "link": "https://finance.yahoo.com/economy/policy/articles/fed-minutes-expose-deep-divide-141700465.html",
+          "pubDate": "2026-07-09T14:17:00Z"
         },
         {
-          "title": "Here's What to Expect From Entergy’s Next Earnings Report",
-          "summary": "Here's What to Expect From Entergy’s Next Earnings Report",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-entergy-next-earnings-152045946.html",
-          "pubDate": "2026-07-08T15:20:45Z"
+          "title": "If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today",
+          "summary": "If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html",
+          "pubDate": "2026-07-09T22:22:00Z"
         },
         {
-          "title": "Lucid Motors’ Woes Run Much Deeper. Saudi Money Alone Won’t Solve Them.",
-          "summary": "Lucid Motors’ Woes Run Much Deeper. Saudi Money Alone Won’t Solve Them.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-motors-woes-run-much-152131993.html",
-          "pubDate": "2026-07-08T15:21:31Z"
+          "title": "AI Infrastructure Stock Gets Big Price-Target Hike After Acquisition",
+          "summary": "AI Infrastructure Stock Gets Big Price-Target Hike After Acquisition",
+          "link": "https://www.investors.com/news/master-stock-ai-infrastructure-play-target-hike-superior-acquisition/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-07-09T15:42:12Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A vitamin A discovery is changing what scientists know about vision",
-          "summary": "A surprising discovery is reshaping scientists&#039; understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina&#039;s center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The findings could improve lab-grown retinal tissue and lay the groundwork for future cell therapies to restore vision lost to age-related eye diseases.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
-          "pubDate": "Thu, 09 Jul 2026 01:15:15 EDT"
+          "title": "The biggest problem with solid-state batteries may finally be solved",
+          "summary": "Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-lasting batteries for smartphones, electric vehicles, and other electronics.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+          "pubDate": "Fri, 10 Jul 2026 08:29:27 EDT"
         },
         {
-          "title": "Trees keep absorbing carbon long after they stop growing",
-          "summary": "Oak trees keep absorbing carbon dioxide long after their annual growth has ended, revealing that photosynthesis and wood production are not as closely linked as scientists once believed. The finding could reshape forecasts of how much carbon forests will be able to store in a warmer future.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm",
-          "pubDate": "Thu, 09 Jul 2026 02:28:44 EDT"
+          "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+          "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harvesting swarms around them more easily. These objects would stand out by glowing in infrared light instead of visible light, lacking the dusty signatures of ordinary stars, and possibly flickering in unusual ways.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+          "pubDate": "Fri, 10 Jul 2026 02:04:44 EDT"
         },
         {
-          "title": "Rare goblin shark filmed alive for the first time in the deep sea",
-          "summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark&#039;s known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
-          "pubDate": "Wed, 08 Jul 2026 19:00:05 EDT"
+          "title": "This alien planet never has sunrise or sunset. It may support life",
+          "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
+          "pubDate": "Thu, 09 Jul 2026 17:27:22 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Summit living isn’t a problem for this tiny mouse",
-          "summary": "A boost to heat production and drawing in more oxygen may help Andean leaf-eared mice thrive at altitude.",
-          "link": "https://www.sciencenews.org/article/summit-living-isnt-a-problem-for-this-tiny-mouse",
-          "pubDate": "Thu, 09 Jul 2026 18:06:19 +0000"
+          "title": "Pluto has landslides",
+          "summary": "New Horizons data reveal Pluto’s first six confirmed landslides along steep crater rims.",
+          "link": "https://www.sciencenews.org/article/pluto-landslides-nasa-new-horizons",
+          "pubDate": "Fri, 10 Jul 2026 17:00:00 +0000"
         },
         {
-          "title": "Support goes a long way to boost birth control effectiveness",
-          "summary": "The HER Salt Lake Contraceptive Initiative’s approach, which centered the user and made refills easy, meant all types of methods worked well.",
-          "link": "https://www.sciencenews.org/article/birth-control-choice-effectiveness",
-          "pubDate": "Thu, 09 Jul 2026 15:00:00 +0000"
+          "title": "Here’s what happens when you put politicians in charge of science",
+          "summary": "Proposed federal rules would rely on political appointees to decide how a lot of U.S. science gets done. History shows the consequences of such actions.",
+          "link": "https://www.sciencenews.org/article/omb-politicians-lysenko-science-history",
+          "pubDate": "Fri, 10 Jul 2026 15:30:00 +0000"
         },
         {
-          "title": "Neandertal babies were a lot like ours — but didn&#8217;t stay that way",
-          "summary": "Two studies of Neandertal remains suggest their newborns were about the same size as those of modern humans but developed faster through infancy.",
-          "link": "https://www.sciencenews.org/article/neandertal-human-growth-rate",
-          "pubDate": "Thu, 09 Jul 2026 12:00:00 +0000"
+          "title": "Lost in Curiosity reveals the messy reality of doing science",
+          "summary": "In her new book, science journalist Roberta Kwok takes readers behind the scenes to understand how researchers get nature to give up its secrets.",
+          "link": "https://www.sciencenews.org/article/review-lost-in-curiosity",
+          "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000"
         }
       ]
     }
