@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-10T23:00:55.684Z",
-  "date": "2026-07-11",
+  "lastUpdate": "2026-07-11T23:00:19.077Z",
+  "date": "2026-07-12",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-          "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-          "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-          "pubDate": "Fri, 10 Jul 2026 20:44:05 +0000"
+          "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
+          "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
+          "link": "https://www.wired.com/review/beatbot-aquasense-x/",
+          "pubDate": "Sat, 11 Jul 2026 11:02:00 +0000"
         },
         {
-          "title": "Meet the Battery Startup Taking on China’s Giants",
-          "summary": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
-          "link": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
-          "pubDate": "Fri, 10 Jul 2026 18:00:00 +0000"
+          "title": "Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page",
+          "summary": "The Skylight has become the informational and organizational hub of my household. My touchscreen-native kids have also gained more agency over our family activities.",
+          "link": "https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/",
+          "pubDate": "Sat, 11 Jul 2026 11:00:00 +0000"
         },
         {
-          "title": "What Watching a Soccer Final Does to Your Body, According to Science",
-          "summary": "A recent study tracked hundreds of soccer fans until their favorite team reached the final of a tournament. Their stress levels skyrocketed, and their heart rates jumped too.",
-          "link": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
-          "pubDate": "Fri, 10 Jul 2026 15:41:31 +0000"
+          "title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
+          "summary": "There’s a new fleet of TVs using new mini and micro RBG display tech, and Samsung’s R95H model isn’t as impressive as it should be.",
+          "link": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
+          "pubDate": "Sat, 11 Jul 2026 10:31:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Bluesky&#8217;s interim CEO, Toni Schneider, drops the &#8216;interim&#8217;",
-          "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
-          "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-          "pubDate": "Fri, 10 Jul 2026 21:51:55 +0000"
+          "title": "This slushie machine was a lifesaver during NYC&#8217;s heat wave",
+          "summary": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on the popularity of the original [&#8230;]",
+          "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+          "pubDate": "Sat, 11 Jul 2026 22:00:00 +0000"
         },
         {
-          "title": "Apple sues OpenAI over alleged trade secret theft",
-          "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
-          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-          "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000"
+          "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+          "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+          "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+          "pubDate": "Sat, 11 Jul 2026 17:30:00 +0000"
         },
         {
-          "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-          "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
-          "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-          "pubDate": "Fri, 10 Jul 2026 17:42:36 +0000"
+          "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+          "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+          "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+          "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-          "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
-          "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 10 Jul 2026 14:08:26 GMT"
+          "title": "China's second typhoon in a week makes landfall",
+          "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+          "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 11 Jul 2026 17:41:56 GMT"
         },
         {
-          "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-          "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-          "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 10 Jul 2026 13:53:11 GMT"
+          "title": "Iran supreme leader calls for revenge for father's killing",
+          "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 11 Jul 2026 19:30:36 GMT"
         },
         {
-          "title": "Zulu king expresses regret after video captures tirade against his wife",
-          "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
-          "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 10 Jul 2026 16:42:11 GMT"
+          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+          "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+          "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 11 Jul 2026 15:03:45 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "These underperforming trades could yield big returns over next six months",
+          "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+          "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+          "pubDate": "Sat, 11 Jul 2026 15:00:01 GMT"
+        },
         {
           "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
           "summary": "Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.",
@@ -145,17 +151,11 @@
           "summary": "CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.",
           "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
           "pubDate": "Fri, 10 Jul 2026 14:22:40 GMT"
-        },
-        {
-          "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
-          "summary": "Odds that gas prices are above $3.50 on Election Day have jumped to 75% on the platform.",
-          "link": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
-          "pubDate": "Thu, 09 Jul 2026 19:44:17 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Fears erupt over Iran&#8217;s desire to kill Trump",
-          "summary": "A reported new threat by Iran to assassinate President Trump served as a reminder this week of the risk that the hard-line Tehran regime poses to him, especially as a tenuous ceasefire between the U.S. and Iran breaks down and hostilities have resumed. Reports surfaced this week that Israel shared intelligence with the U.S. indicating&#8230;",
-          "link": "https://thehill.com/homenews/administration/5963476-iran-trump-assassination-risk-israel-air-force-one/",
-          "pubDate": "Fri, 10 Jul 2026 22:08:20 +0000"
+          "title": "5 things to know as preliminary hearings wrap up in Charlie Kirk shooting case",
+          "summary": "A preliminary hearing&#160;for the man accused of assassinating conservative activist Charlie Kirk unfolded in Utah this week, offering the first comprehensive look at the evidence prosecutors say ties Tyler Robinson to the shooting at Utah Valley University&#160;last fall. Judge Tony Graf is weighing whether there is enough evidence to send Robinson to trial, as the&#8230;",
+          "link": "https://thehill.com/homenews/state-watch/5964204-hearing-evidence-tyler-robinson-charlie-kirk/",
+          "pubDate": "Sat, 11 Jul 2026 22:20:32 +0000"
         },
         {
-          "title": "UK, Norway embassies get cheeky in social media post over Haaland, Kane World Cup rivalry",
-          "summary": "The British and Norwegian embassies in Washington shared some light-hearted banter on social media ahead of the match between England and Norway on Saturday in the quarterfinals of the FIFA World Cup. The post centered on the friendly rivalry between Norwegian star Erling Haaland and English player Harry Kane. Haaland is also a striker for&#8230;",
-          "link": "https://thehill.com/blogs/in-the-know/5963363-uk-norway-embassies-get-cheeky-in-social-media-post-over-haaland-kane-world-cup-rivalry/",
-          "pubDate": "Fri, 10 Jul 2026 21:16:21 +0000"
+          "title": "Crypto bill faces make-or-break moment ahead of August recess",
+          "summary": "A cryptocurrency regulation bill is facing a make-or-break moment as senators seek to resolve remaining policy disputes in the next four-week stretch, which experts warn is likely the last window to pass the legislation before the midterm elections. Bipartisan negotiations over the Clarity Act, which aims to provide a regulatory framework for the digital assets&#8230;",
+          "link": "https://thehill.com/policy/technology/5963428-crypto-bill-clarity-act-make-or-break-congress/",
+          "pubDate": "Sat, 11 Jul 2026 21:00:00 +0000"
         },
         {
-          "title": "Platner officially withdraws from Maine Senate race",
-          "summary": "Democrat Graham Platner has formally withdrawn from the Maine Senate race, allowing members of the party to choose their new nominee this month. &#8220;I write to formally withdraw my candidacy for United States Senate,&#8221; the progressive oyster farmer wrote in a letter posted to social media Friday, later adding that &#8220;my name may have been&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5963366-platner-officially-withdraws-from-maine-senate-race/",
-          "pubDate": "Fri, 10 Jul 2026 20:57:57 +0000"
+          "title": "Sunday shows preview: US-Iran tensions flare; Democrats grapple with Platner fallout",
+          "summary": "President Trump’s trip to Turkey this week for the NATO alliance’s summit made big headlines over his comments about the state of U.S.-Iranian negotiations and security risks posed by the Iran war. The president told reporters on his way back from the summit on Wednesday that he was Iran’s “No. 1” target. Trump made the&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/5964166-trump-air-force-one-iran/",
+          "pubDate": "Sat, 11 Jul 2026 20:40:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Fed minutes expose deep divide over interest-rate outlook",
-          "summary": "Fed minutes expose deep divide over interest-rate outlook",
-          "link": "https://finance.yahoo.com/economy/policy/articles/fed-minutes-expose-deep-divide-141700465.html",
-          "pubDate": "2026-07-09T14:17:00Z"
+          "title": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
+          "summary": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
+          "link": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
+          "pubDate": "2026-07-11T16:47:00Z"
         },
         {
-          "title": "If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today",
-          "summary": "If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html",
-          "pubDate": "2026-07-09T22:22:00Z"
+          "title": "Florida man paid off his house 2 months before Hurricane Milton tore off his roof — and he had no home insurance",
+          "summary": "Florida man paid off his house 2 months before Hurricane Milton tore off his roof — and he had no home insurance",
+          "link": "https://finance.yahoo.com/real-estate/articles/florida-man-paid-off-house-214000740.html",
+          "pubDate": "2026-07-11T21:40:00Z"
         },
         {
-          "title": "AI Infrastructure Stock Gets Big Price-Target Hike After Acquisition",
-          "summary": "AI Infrastructure Stock Gets Big Price-Target Hike After Acquisition",
-          "link": "https://www.investors.com/news/master-stock-ai-infrastructure-play-target-hike-superior-acquisition/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-07-09T15:42:12Z"
+          "title": "TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts",
+          "summary": "TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-best-large-142324571.html",
+          "pubDate": "2026-07-11T21:23:24Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "The biggest problem with solid-state batteries may finally be solved",
-          "summary": "Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-lasting batteries for smartphones, electric vehicles, and other electronics.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
-          "pubDate": "Fri, 10 Jul 2026 08:29:27 EDT"
+          "title": "Second pregnancy changes the brain in surprising new ways",
+          "summary": "Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to recognize and treat maternal mental health challenges, including peripartum depression.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260711010125.htm",
+          "pubDate": "Sat, 11 Jul 2026 07:37:04 EDT"
         },
         {
-          "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
-          "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harvesting swarms around them more easily. These objects would stand out by glowing in infrared light instead of visible light, lacking the dusty signatures of ordinary stars, and possibly flickering in unusual ways.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
-          "pubDate": "Fri, 10 Jul 2026 02:04:44 EDT"
+          "title": "Physicists finally build a quantum material predicted more than a decade ago",
+          "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through strain could make the material a promising platform for future room-temperature quantum electronics.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
+          "pubDate": "Sat, 11 Jul 2026 03:03:53 EDT"
         },
         {
-          "title": "This alien planet never has sunrise or sunset. It may support life",
-          "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
-          "pubDate": "Thu, 09 Jul 2026 17:27:22 EDT"
+          "title": "Experimental drug reverses severe fatty liver disease by repairing the gut",
+          "summary": "An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door to a new class of treatments for MASH and potentially other diseases tied to gut health.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260711010116.htm",
+          "pubDate": "Sat, 11 Jul 2026 09:22:55 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "siteName": "Science News",
       "items": [
         {
