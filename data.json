@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-11T23:00:19.077Z",
-  "date": "2026-07-12",
+  "lastUpdate": "2026-07-12T23:00:18.905Z",
+  "date": "2026-07-13",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
-          "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
-          "link": "https://www.wired.com/review/beatbot-aquasense-x/",
-          "pubDate": "Sat, 11 Jul 2026 11:02:00 +0000"
+          "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
+          "summary": "In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars. The company says it’s fighting monopolies.",
+          "link": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+          "pubDate": "Sun, 12 Jul 2026 19:55:37 +0000"
         },
         {
-          "title": "Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page",
-          "summary": "The Skylight has become the informational and organizational hub of my household. My touchscreen-native kids have also gained more agency over our family activities.",
-          "link": "https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/",
-          "pubDate": "Sat, 11 Jul 2026 11:00:00 +0000"
+          "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+          "summary": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.",
+          "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+          "pubDate": "Sun, 12 Jul 2026 11:09:00 +0000"
         },
         {
-          "title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
-          "summary": "There’s a new fleet of TVs using new mini and micro RBG display tech, and Samsung’s R95H model isn’t as impressive as it should be.",
-          "link": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
-          "pubDate": "Sat, 11 Jul 2026 10:31:00 +0000"
+          "title": "Here’s How Apple Is Updating Its Child Safety Features in iOS 27",
+          "summary": "Apple has announced several new Child Safety features coming soon to iPhones and other devices. Here’s what’s changing.",
+          "link": "https://www.wired.com/story/apple-child-safety-ios-27/",
+          "pubDate": "Sun, 12 Jul 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "TechCrunch",
       "items": [
+        {
+          "title": "TechCrunch Mobility: A robotaxi ultimatum",
+          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+          "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+          "pubDate": "Sun, 12 Jul 2026 16:07:00 +0000"
+        },
+        {
+          "title": "Reed Jobs would rather talk about curing cancer than his last name",
+          "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs's words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said.",
+          "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+          "pubDate": "Sun, 12 Jul 2026 00:16:06 +0000"
+        },
         {
           "title": "This slushie machine was a lifesaver during NYC&#8217;s heat wave",
           "summary": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on the popularity of the original [&#8230;]",
           "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
           "pubDate": "Sat, 11 Jul 2026 22:00:00 +0000"
-        },
-        {
-          "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-          "summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
-          "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-          "pubDate": "Sat, 11 Jul 2026 17:30:00 +0000"
-        },
-        {
-          "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-          "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-          "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-          "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "China's second typhoon in a week makes landfall",
-          "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-          "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 11 Jul 2026 17:41:56 GMT"
+          "title": "At least 27 killed in Bangkok bar fire",
+          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+          "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 12 Jul 2026 22:57:20 GMT"
         },
         {
-          "title": "Iran supreme leader calls for revenge for father's killing",
-          "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+          "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+          "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
           "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 11 Jul 2026 19:30:36 GMT"
+          "pubDate": "Sun, 12 Jul 2026 22:17:40 GMT"
         },
         {
-          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-          "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-          "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 11 Jul 2026 15:03:45 GMT"
+          "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 12 Jul 2026 22:08:07 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "5 things to know as preliminary hearings wrap up in Charlie Kirk shooting case",
-          "summary": "A preliminary hearing&#160;for the man accused of assassinating conservative activist Charlie Kirk unfolded in Utah this week, offering the first comprehensive look at the evidence prosecutors say ties Tyler Robinson to the shooting at Utah Valley University&#160;last fall. Judge Tony Graf is weighing whether there is enough evidence to send Robinson to trial, as the&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5964204-hearing-evidence-tyler-robinson-charlie-kirk/",
-          "pubDate": "Sat, 11 Jul 2026 22:20:32 +0000"
+          "title": "Preliminary findings reveal Graham died of &#8220;aortic dissection&#8221;: Medical examiner",
+          "summary": "Sen. Lindsey Graham (R-S.C.) died on Saturday of an aortic dissection due to arteriosclerotic cardiovascular disease, the office of the Washington, D.C., chief medical examiner said Sunday. “The death certificate will be PENDING until all the toxicological and microscopic testing are finalized and at that point the death certificate will be updated to reflect the&#8230;",
+          "link": "https://thehill.com/homenews/senate/5964972-sen-lindsey-graham-death-cause/",
+          "pubDate": "Sun, 12 Jul 2026 22:00:06 +0000"
         },
         {
-          "title": "Crypto bill faces make-or-break moment ahead of August recess",
-          "summary": "A cryptocurrency regulation bill is facing a make-or-break moment as senators seek to resolve remaining policy disputes in the next four-week stretch, which experts warn is likely the last window to pass the legislation before the midterm elections. Bipartisan negotiations over the Clarity Act, which aims to provide a regulatory framework for the digital assets&#8230;",
-          "link": "https://thehill.com/policy/technology/5963428-crypto-bill-clarity-act-make-or-break-congress/",
-          "pubDate": "Sat, 11 Jul 2026 21:00:00 +0000"
+          "title": "Ukraine&#8217;s prime minister steps down as country &#8216;is changing its political strategy&#8217;",
+          "summary": "Ukrainian Prime Minister Yulia Svyrydenko stepped down on Sunday, as Ukrainian President Volodymyr Zelensky reshapes his Cabinet amid Russia’s ongoing invasion of the eastern European country. In a lengthy statement on social media, Zelensky said he and Svyrydenko determined they need to implement “personnel changes” to “ensure the implementation of the updated political strategy.” Zelensky&#8230;",
+          "link": "https://thehill.com/policy/international/5964901-yulia-svyrydenko-resigns-ukraine/",
+          "pubDate": "Sun, 12 Jul 2026 21:08:24 +0000"
         },
         {
-          "title": "Sunday shows preview: US-Iran tensions flare; Democrats grapple with Platner fallout",
-          "summary": "President Trump’s trip to Turkey this week for the NATO alliance’s summit made big headlines over his comments about the state of U.S.-Iranian negotiations and security risks posed by the Iran war. The president told reporters on his way back from the summit on Wednesday that he was Iran’s “No. 1” target. Trump made the&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5964166-trump-air-force-one-iran/",
-          "pubDate": "Sat, 11 Jul 2026 20:40:00 +0000"
+          "title": "McConnell’s absence imperils Trump’s record defense budget",
+          "summary": "The ongoing absence of Sen. Mitch McConnell (R-Ky.) from Capitol Hill is throwing another wrench in President Trump’s uphill push for a massive $1.5 trillion defense spending package next year. McConnell, who has been in the hospital for more than three weeks, chairs the Senate Appropriations defense subcommittee, the panel that controls Pentagon spending. His&#8230;",
+          "link": "https://thehill.com/policy/defense/5961915-mcconnell-absence-trump-defense-spending/",
+          "pubDate": "Sun, 12 Jul 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,45 +213,45 @@
           "pubDate": "2026-07-11T16:47:00Z"
         },
         {
-          "title": "Florida man paid off his house 2 months before Hurricane Milton tore off his roof — and he had no home insurance",
-          "summary": "Florida man paid off his house 2 months before Hurricane Milton tore off his roof — and he had no home insurance",
-          "link": "https://finance.yahoo.com/real-estate/articles/florida-man-paid-off-house-214000740.html",
-          "pubDate": "2026-07-11T21:40:00Z"
+          "title": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+          "summary": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-07-12T22:34:53Z"
         },
         {
-          "title": "TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts",
-          "summary": "TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-best-large-142324571.html",
-          "pubDate": "2026-07-11T21:23:24Z"
+          "title": "Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters'",
+          "summary": "Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters'",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-roasts-openais-apple-191500316.html",
+          "pubDate": "2026-07-12T19:15:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Second pregnancy changes the brain in surprising new ways",
-          "summary": "Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to recognize and treat maternal mental health challenges, including peripartum depression.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260711010125.htm",
-          "pubDate": "Sat, 11 Jul 2026 07:37:04 EDT"
+          "title": "Scientists discover how the brain rewires itself to truly multitask",
+          "summary": "Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized circuits instead. By freeing the brain&#039;s \"thinking\" center, people became better at performing another task at the same time, challenging the long-held idea that humans only switch rapidly between tasks rather than truly multitask.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
+          "pubDate": "Sun, 12 Jul 2026 03:42:58 EDT"
         },
         {
-          "title": "Physicists finally build a quantum material predicted more than a decade ago",
-          "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through strain could make the material a promising platform for future room-temperature quantum electronics.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
-          "pubDate": "Sat, 11 Jul 2026 03:03:53 EDT"
+          "title": "Columbia scientists discover surprising link between serotonin and heart valve disease",
+          "summary": "Scientists have uncovered evidence that serotonin, the chemical best known for regulating mood, may also speed the progression of a common heart valve disease in some people. The research suggests that patients with degenerative mitral regurgitation who take SSRI antidepressants and carry a specific genetic variant may develop severe valve damage sooner, potentially requiring surgery at a younger age.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260711010131.htm",
+          "pubDate": "Sat, 11 Jul 2026 23:11:19 EDT"
         },
         {
-          "title": "Experimental drug reverses severe fatty liver disease by repairing the gut",
-          "summary": "An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door to a new class of treatments for MASH and potentially other diseases tied to gut health.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260711010116.htm",
-          "pubDate": "Sat, 11 Jul 2026 09:22:55 EDT"
+          "title": "Deep-sea life has a secret food source scientists never expected",
+          "summary": "Scientists discovered that extreme deep-sea pressure squeezes valuable nutrients out of sinking organic particles, providing an unexpected food source for ocean microbes. The finding could rewrite our understanding of both deep-ocean ecosystems and how carbon is stored on Earth.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm",
+          "pubDate": "Sun, 12 Jul 2026 08:14:55 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "siteName": "Science News",
       "items": [
         {
