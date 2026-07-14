@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-13T23:00:46.990Z",
-  "date": "2026-07-14",
+  "lastUpdate": "2026-07-14T23:01:00.808Z",
+  "date": "2026-07-15",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Sam Neill Inspired a Generation of Scientists",
-          "summary": "The actor, who died at age 78 on Monday, embodied a passionate approach to research and positive masculinity in his role as paleontologist Alan Grant in the 1993 blockbuster Jurassic Park.",
-          "link": "https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/",
-          "pubDate": "Mon, 13 Jul 2026 22:26:22 +0000"
+          "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+          "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
+          "link": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+          "pubDate": "Tue, 14 Jul 2026 22:08:30 +0000"
         },
         {
-          "title": "Siri AI Is Becoming Apple’s Everything Tool",
-          "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-          "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-          "pubDate": "Mon, 13 Jul 2026 21:39:09 +0000"
+          "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+          "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+          "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+          "pubDate": "Tue, 14 Jul 2026 16:05:18 +0000"
         },
         {
-          "title": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
-          "summary": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here’s why.",
-          "link": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
-          "pubDate": "Mon, 13 Jul 2026 19:55:12 +0000"
+          "title": "New York Governor Signs First Statewide Data Center Moratorium",
+          "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
+          "link": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
+          "pubDate": "Tue, 14 Jul 2026 14:54:41 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Satya Nadella has issued a shocking warning to companies using AI",
-          "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-          "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-          "pubDate": "Mon, 13 Jul 2026 20:59:00 +0000"
+          "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
+          "summary": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+          "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000"
         },
         {
-          "title": "Apple says former employee exploited &#8216;rare&#8217; bug to download confidential files after leaving for OpenAI",
-          "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
-          "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-          "pubDate": "Mon, 13 Jul 2026 20:00:17 +0000"
+          "title": "OpenAI pushes back on Apple trade secret lawsuit",
+          "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+          "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+          "pubDate": "Tue, 14 Jul 2026 22:07:42 +0000"
         },
         {
-          "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-          "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-          "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-          "pubDate": "Mon, 13 Jul 2026 18:22:10 +0000"
+          "title": "OpenAI&#8217;s new flagship model deletes files on its own, people keep warning",
+          "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+          "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+          "pubDate": "Tue, 14 Jul 2026 21:50:11 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-          "summary": "The US military later said it had started the third consecutive night of strikes on Iran.",
-          "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 13 Jul 2026 22:47:52 GMT"
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+          "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 14 Jul 2026 20:10:37 GMT"
         },
         {
-          "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-          "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-          "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 13 Jul 2026 17:31:54 GMT"
+          "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+          "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 14 Jul 2026 19:13:49 GMT"
         },
         {
-          "title": "Hungary parliament votes to remove president from office",
-          "summary": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
-          "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 13 Jul 2026 20:39:14 GMT"
+          "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+          "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+          "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 14 Jul 2026 17:13:27 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "A July rate hike from the Fed? The odds are rising",
-          "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
-          "link": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-          "pubDate": "Mon, 13 Jul 2026 17:07:51 GMT"
+          "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+          "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
+          "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+          "pubDate": "Tue, 14 Jul 2026 19:50:48 GMT"
         },
         {
-          "title": "Waller says Fed shouldn&apos;t &apos;fight the last war&apos; on inflation but warns hikes still possible",
-          "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
-          "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-          "pubDate": "Mon, 13 Jul 2026 19:15:25 GMT"
+          "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
+          "summary": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
+          "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
+          "pubDate": "Tue, 14 Jul 2026 17:26:37 GMT"
         },
         {
-          "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
-          "summary": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
-          "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-          "pubDate": "Mon, 13 Jul 2026 13:19:24 GMT"
+          "title": "Warsh pledges Fed policy &apos;regime change&apos; to rid inflation &apos;tax&apos; on American people",
+          "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+          "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+          "pubDate": "Tue, 14 Jul 2026 17:29:07 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "The Memo: Trump escalates on Iran, but critics don’t see a strategy",
-          "summary": "President Trump is ramping up hostilities with Iran again, but critics question whether renewed U.S. military action can change the fundamental shape of the conflict. If it fails to do so, Trump could end up even more deeply entangled in an issue that is unpopular with the American people as the clock ticks down to&#8230;",
-          "link": "https://thehill.com/homenews/administration/5966549-trump-iran-strait-hormuz-military-action-scrutiny/",
-          "pubDate": "Mon, 13 Jul 2026 22:24:10 +0000"
+          "title": "Kagan, Barrett push Supreme Court budget with boosted security in rare testimony",
+          "summary": "Two Supreme Court justices testified side-by-side before Congress on Tuesday, telling lawmakers that they need more money to defend against the persistent rise in threats targeting themselves and their families. &#160; It was a rare showing from Justices Elena Kagan and Amy Coney Barrett, two female justices appointed by presidents of different parties who often&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/5968568-supreme-court-justices-kagan-barrett-testify-budget/",
+          "pubDate": "Tue, 14 Jul 2026 22:21:48 +0000"
         },
         {
-          "title": "Graham GOP challenger announces bid for special Senate primary",
-          "summary": "Mark Lynch, who lost to late Sen. Lindsey Graham (R-S.C.) in the GOP Senate primary last month, said Monday he will seek the nomination to replace the longtime South Carolina lawmaker on the ballot after the latter died on Saturday.&#160; “A lot of you have asked. Yes, it’s official,” Lynch wrote on social platform X.&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5966540-mark-lynch-gop-senate-primary/",
-          "pubDate": "Mon, 13 Jul 2026 22:08:44 +0000"
+          "title": "5 takeaways as Supreme Court Justices Barrett and Kagan testify on Capitol Hill",
+          "summary": "Capitol Hill saw an unusual moment on Tuesday as Supreme Court Justices Amy Coney Barrett and Elena Kagan testified before lawmakers. The main reason for their appearance was to make the case for the court’s budget request for the coming year, which includes an increase of roughly $14 million focused on security measures. The hearings&#8230;",
+          "link": "https://thehill.com/homenews/house/5968507-supreme-court-justices-security-budget-takeaways/",
+          "pubDate": "Tue, 14 Jul 2026 22:18:38 +0000"
         },
         {
-          "title": "Trump says US will &#8216;take out&#8217; Iran&#8217;s Pickaxe Mountain nuclear facility",
-          "summary": "President Trump on Monday said the U.S. could soon attack Pickaxe Mountain in Iran as American forces launched a new round of strikes against the country. “Pickaxe is a possible target for a nice big fat shot right near the front door,” Trump said in an interview on &#8220;The Hugh ​Hewitt Show&#8221; Monday afternoon. “We&#8217;re&#8230;",
-          "link": "https://thehill.com/policy/defense/5966603-trump-threatens-pickaxe-mountain-iran/",
-          "pubDate": "Mon, 13 Jul 2026 22:06:40 +0000"
+          "title": "Key GOP senator concerned over Blanche involvement in Trump IRS deal",
+          "summary": "Sen. John Cornyn (R-Texas), a key member of the Senate Judiciary Committee, says he is “concerned” about acting Attorney General Todd Blanche’s role in crafting a settlement between President Trump, the Internal Revenue Service (IRS) and Justice Department to shield Trump and his family from IRS audits for years to come. Cornyn said he was&#8230;",
+          "link": "https://thehill.com/homenews/senate/5968577-cornyn-blanche-irs-audit-settlement/",
+          "pubDate": "Tue, 14 Jul 2026 22:16:54 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "This is how rich SpaceX workers are after the IPO",
-          "summary": "This is how rich SpaceX workers are after the IPO",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/rich-spacex-workers-ipo-143700468.html",
-          "pubDate": "2026-07-12T14:37:00Z"
+          "title": "Target's problems aren't what you think they are",
+          "summary": "Target's problems aren't what you think they are",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/targets-problems-arent-think-201058966.html",
+          "pubDate": "2026-07-13T20:10:58Z"
         },
         {
-          "title": "Earnings season kicks off and a wave of inflation data: What to watch this week",
-          "summary": "Earnings season kicks off and a wave of inflation data: What to watch this week",
-          "link": "https://finance.yahoo.com/news/earnings-season-kicks-off-and-a-wave-of-inflation-data-what-to-watch-this-week-141628682.html",
-          "pubDate": "2026-07-12T14:16:28Z"
+          "title": "Cattle Prices Are Trapped in Downtrends as Energy Prices Spike on U.S.-Iran Volatility",
+          "summary": "Cattle Prices Are Trapped in Downtrends as Energy Prices Spike on U.S.-Iran Volatility",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/cattle-prices-trapped-downtrends-energy-144431167.html",
+          "pubDate": "2026-07-13T14:44:31Z"
         },
         {
-          "title": "Should You Buy Bloomin’ Brands, Inc. (BLMN)’s Shares?",
-          "summary": "Should You Buy Bloomin’ Brands, Inc. (BLMN)’s Shares?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-bloomin-brands-inc-blmn-142248040.html",
-          "pubDate": "2026-07-12T14:22:48Z"
+          "title": "Here's What to Expect From Extra Space Storage's Next Earnings Report",
+          "summary": "Here's What to Expect From Extra Space Storage's Next Earnings Report",
+          "link": "https://finance.yahoo.com/real-estate/articles/heres-expect-extra-space-storages-144413896.html",
+          "pubDate": "2026-07-13T14:44:13Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
-          "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers – real numbers can in fact also be used. The American Physical Society has also dedicated a “Highlight” to these findings in its Physics Magazine.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm",
-          "pubDate": "Mon, 13 Jul 2026 03:22:08 EDT"
+          "title": "Eating chili peppers may raise the risk of one deadly cancer",
+          "summary": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show an association, not proof of cause and effect, and that more research is needed to determine whether moderate consumption carries similar risks.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
+          "pubDate": "Tue, 14 Jul 2026 09:27:21 EDT"
         },
         {
-          "title": "Losing just 80 minutes of sleep a night could make you gain weight",
-          "summary": "Sleeping about an hour and 20 minutes less each night for six weeks caused participants to gain weight and spend more time inactive. Researchers found that even mild, realistic sleep loss, similar to what many adults experience, had measurable effects. They warn that if this pattern continues over months or years, the health consequences could become much more significant, including a higher risk of diabetes and heart disease.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260713000800.htm",
-          "pubDate": "Mon, 13 Jul 2026 09:24:13 EDT"
+          "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+          "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before concluding that the medication can help people age more slowly.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
+          "pubDate": "Tue, 14 Jul 2026 05:47:41 EDT"
         },
         {
-          "title": "Stephen Hawking&#039;s black hole laws just got a major upgrade",
-          "summary": "Scientists have developed a new framework that could finally apply the laws of thermodynamics to real, ever-changing black holes instead of only perfectly stable ones. The advance may improve our understanding of black hole mergers, evaporation, and the powerful gravitational wave events detected by observatories like LIGO.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm",
-          "pubDate": "Mon, 13 Jul 2026 06:41:43 EDT"
+          "title": "NASA&#039;s Perseverance just completed a marathon on Mars",
+          "summary": "NASA&#039;s Perseverance rover has reached an impressive new milestone on Mars, completing the equivalent of a full marathon by driving 26.2 miles (42.195 kilometers) across the Red Planet. It accomplished the feat in just five years and four months, reaching the distance on its 1,890th Martian day, less than half the time it took the previous record holder, NASA&#039;s Opportunity rover.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+          "pubDate": "Tue, 14 Jul 2026 01:32:12 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Whether lefty or righty, practice makes the difference",
-          "summary": "Researchers looking for the origins of left-right dominance in the brain found no innately better motor skills on either side.",
-          "link": "https://www.sciencenews.org/article/left-right-dominance-practice-writing",
-          "pubDate": "Mon, 13 Jul 2026 15:00:00 +0000"
+          "title": "A new sort of Alzheimer&#8217;s drug shows glimmers of promise",
+          "summary": "Clinical trial results show an experimental drug lowered tau levels in the brain and slowed some memory loss, but the data came with a surprise twist.",
+          "link": "https://www.sciencenews.org/article/new-alzheimers-drug-tau-promise",
+          "pubDate": "Tue, 14 Jul 2026 21:48:25 +0000"
         },
         {
-          "title": "Meet the Milky Way’s puffiest planets",
-          "summary": "Two “superpuff” planets orbiting a sunlike star over 1,000 light-years from Earth are as big as Jupiter and as dense as cotton candy.",
-          "link": "https://www.sciencenews.org/article/puffiest-planets-milky-way-galaxy",
-          "pubDate": "Mon, 13 Jul 2026 12:30:00 +0000"
+          "title": "A new map traces the sky&#8217;s water highways",
+          "summary": "Atmospheric rivers bring heavy rain and floods, but if they don’t come around, it could mean drought. A new global map reveals little-known pathways.",
+          "link": "https://www.sciencenews.org/article/mapping-water-vapor-atmospheric-river",
+          "pubDate": "Tue, 14 Jul 2026 15:00:00 +0000"
         },
         {
-          "title": "Pluto has landslides",
-          "summary": "New Horizons data reveal Pluto’s first six confirmed landslides along steep crater rims.",
-          "link": "https://www.sciencenews.org/article/pluto-landslides-nasa-new-horizons",
-          "pubDate": "Fri, 10 Jul 2026 17:00:00 +0000"
+          "title": "A quasar breaks the record for most distant supermassive black hole",
+          "summary": "The Euclid space telescope discovery could help researchers understand how black holes grew so massive so quickly in the early universe.",
+          "link": "https://www.sciencenews.org/article/record-black-hole-euclj1729-quasar",
+          "pubDate": "Tue, 14 Jul 2026 13:00:00 +0000"
         }
       ]
     }
