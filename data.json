@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-14T23:01:00.808Z",
-  "date": "2026-07-15",
+  "lastUpdate": "2026-07-15T23:01:01.054Z",
+  "date": "2026-07-16",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
-          "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
-          "link": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
-          "pubDate": "Tue, 14 Jul 2026 22:08:30 +0000"
+          "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+          "summary": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
+          "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
+          "pubDate": "Wed, 15 Jul 2026 21:49:01 +0000"
         },
         {
-          "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
-          "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-          "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-          "pubDate": "Tue, 14 Jul 2026 16:05:18 +0000"
+          "title": "Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion",
+          "summary": "The Trump administration has not disclosed its cost estimates for the Iran war.",
+          "link": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
+          "pubDate": "Wed, 15 Jul 2026 21:00:00 +0000"
         },
         {
-          "title": "New York Governor Signs First Statewide Data Center Moratorium",
-          "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
-          "link": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
-          "pubDate": "Tue, 14 Jul 2026 14:54:41 +0000"
+          "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
+          "summary": "Since WIRED reported on Meta’s NameTag face recognition system, company executives have made confusing and conflicting remarks about its very existence.",
+          "link": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
+          "pubDate": "Wed, 15 Jul 2026 20:58:16 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
-          "summary": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
-          "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-          "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000"
+          "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+          "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+          "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+          "pubDate": "Wed, 15 Jul 2026 20:22:52 +0000"
         },
         {
-          "title": "OpenAI pushes back on Apple trade secret lawsuit",
-          "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-          "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-          "pubDate": "Tue, 14 Jul 2026 22:07:42 +0000"
+          "title": "Daniel Ek&#8217;s body-scanning startup Neko Health raises another $700M",
+          "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+          "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+          "pubDate": "Wed, 15 Jul 2026 19:46:54 +0000"
         },
         {
-          "title": "OpenAI&#8217;s new flagship model deletes files on its own, people keep warning",
-          "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-          "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-          "pubDate": "Tue, 14 Jul 2026 21:50:11 +0000"
+          "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+          "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+          "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+          "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-          "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
-          "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 14 Jul 2026 20:10:37 GMT"
+          "title": "French MPs approve assisted dying law with strict rules after years of argument",
+          "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 15 Jul 2026 17:29:26 GMT"
         },
         {
-          "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-          "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
-          "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 14 Jul 2026 19:13:49 GMT"
+          "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+          "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 15 Jul 2026 21:55:04 GMT"
         },
         {
-          "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-          "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-          "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 14 Jul 2026 17:13:27 GMT"
+          "title": "Argentina face fine for Falklands banner in semi-final win",
+          "summary": "Argentina face the prospect of a Fifa fine after their players celebrated the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 15 Jul 2026 22:49:47 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-          "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-          "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-          "pubDate": "Tue, 14 Jul 2026 19:50:48 GMT"
+          "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+          "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+          "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+          "pubDate": "Wed, 15 Jul 2026 17:22:51 GMT"
         },
         {
-          "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
-          "summary": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
-          "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
-          "pubDate": "Tue, 14 Jul 2026 17:26:37 GMT"
+          "title": "Fed Chairman Kevin Warsh&apos;s testimony to Senate banking committee hits on economy, interest rates",
+          "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
+          "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+          "pubDate": "Wed, 15 Jul 2026 22:05:14 GMT"
         },
         {
-          "title": "Warsh pledges Fed policy &apos;regime change&apos; to rid inflation &apos;tax&apos; on American people",
-          "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
-          "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-          "pubDate": "Tue, 14 Jul 2026 17:29:07 GMT"
+          "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+          "summary": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.",
+          "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
+          "pubDate": "Wed, 15 Jul 2026 13:45:27 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Kagan, Barrett push Supreme Court budget with boosted security in rare testimony",
-          "summary": "Two Supreme Court justices testified side-by-side before Congress on Tuesday, telling lawmakers that they need more money to defend against the persistent rise in threats targeting themselves and their families. &#160; It was a rare showing from Justices Elena Kagan and Amy Coney Barrett, two female justices appointed by presidents of different parties who often&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/5968568-supreme-court-justices-kagan-barrett-testify-budget/",
-          "pubDate": "Tue, 14 Jul 2026 22:21:48 +0000"
+          "title": "Cassidy, Senate Democrats grill Trump health nominees over vaccine pressures",
+          "summary": "Two of&#160;President Trump’s most recent&#160;health&#160;nominees, including his&#160;newest&#160;pick&#160;to be head of the Centers for Disease Control and Prevention (CDC),&#160;appeared before the Senate&#160;on Wednesday where a reluctance to break with the administration put Democrats and some Republicans on edge.&#160; Erica Schwartz, nominee to be the next director of the CDC, and Sean Kaufman, nominee to head the&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5970727-schwartz-kaufman-cdc-aspr-testimony/",
+          "pubDate": "Wed, 15 Jul 2026 22:44:37 +0000"
         },
         {
-          "title": "5 takeaways as Supreme Court Justices Barrett and Kagan testify on Capitol Hill",
-          "summary": "Capitol Hill saw an unusual moment on Tuesday as Supreme Court Justices Amy Coney Barrett and Elena Kagan testified before lawmakers. The main reason for their appearance was to make the case for the court’s budget request for the coming year, which includes an increase of roughly $14 million focused on security measures. The hearings&#8230;",
-          "link": "https://thehill.com/homenews/house/5968507-supreme-court-justices-security-budget-takeaways/",
-          "pubDate": "Tue, 14 Jul 2026 22:18:38 +0000"
+          "title": "Trump restarts &#8216;vicious cycle&#8217; on Iran",
+          "summary": "{beacon} View Online Energy &#038; Environment Energy &#038; Environment &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.&#160; The Big Story&#160; Experts say latest attacks may not get better result President Trump is returning to war in an attempt to break Iran’s grip&#8230;",
+          "link": "https://thehill.com/homenews/5970741-trump-iran-hormuz-conflict-cycle/",
+          "pubDate": "Wed, 15 Jul 2026 22:28:34 +0000"
         },
         {
-          "title": "Key GOP senator concerned over Blanche involvement in Trump IRS deal",
-          "summary": "Sen. John Cornyn (R-Texas), a key member of the Senate Judiciary Committee, says he is “concerned” about acting Attorney General Todd Blanche’s role in crafting a settlement between President Trump, the Internal Revenue Service (IRS) and Justice Department to shield Trump and his family from IRS audits for years to come. Cornyn said he was&#8230;",
-          "link": "https://thehill.com/homenews/senate/5968577-cornyn-blanche-irs-audit-settlement/",
-          "pubDate": "Tue, 14 Jul 2026 22:16:54 +0000"
+          "title": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
+          "summary": "Maverick Sen. John Fetterman (D-Pa.) has said he has “no plans” to leave the Democratic Party, but he warned on Wednesday that if Democrats completely turn their backs on U.S. support for Israel, that would cross a red line that could push him out of the party. “If our party ever becomes — and just&#8230;",
+          "link": "https://thehill.com/homenews/senate/5970730-john-fetterman-democratic-party-israel/",
+          "pubDate": "Wed, 15 Jul 2026 22:26:31 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Target's problems aren't what you think they are",
-          "summary": "Target's problems aren't what you think they are",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/targets-problems-arent-think-201058966.html",
-          "pubDate": "2026-07-13T20:10:58Z"
+          "title": "Microsoft CEO adds fuel to Palantir CEO’s AI warning",
+          "summary": "Microsoft CEO adds fuel to Palantir CEO’s AI warning",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html",
+          "pubDate": "2026-07-15T03:07:00Z"
         },
         {
-          "title": "Cattle Prices Are Trapped in Downtrends as Energy Prices Spike on U.S.-Iran Volatility",
-          "summary": "Cattle Prices Are Trapped in Downtrends as Energy Prices Spike on U.S.-Iran Volatility",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/cattle-prices-trapped-downtrends-energy-144431167.html",
-          "pubDate": "2026-07-13T14:44:31Z"
+          "title": "Here’s Laughing Water Capital’s Updates on Liquidia Corp. (LQDA)",
+          "summary": "Here’s Laughing Water Capital’s Updates on Liquidia Corp. (LQDA)",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/laughing-water-capital-updates-liquidia-150014391.html",
+          "pubDate": "2026-07-14T15:00:14Z"
         },
         {
-          "title": "Here's What to Expect From Extra Space Storage's Next Earnings Report",
-          "summary": "Here's What to Expect From Extra Space Storage's Next Earnings Report",
-          "link": "https://finance.yahoo.com/real-estate/articles/heres-expect-extra-space-storages-144413896.html",
-          "pubDate": "2026-07-13T14:44:13Z"
+          "title": "BP Gets a Hormuz Windfall With a Low-Carbon Bruise",
+          "summary": "BP Gets a Hormuz Windfall With a Low-Carbon Bruise",
+          "link": "https://finance.yahoo.com/energy/articles/bp-gets-hormuz-windfall-low-145637439.html",
+          "pubDate": "2026-07-14T14:56:37Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Eating chili peppers may raise the risk of one deadly cancer",
-          "summary": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show an association, not proof of cause and effect, and that more research is needed to determine whether moderate consumption carries similar risks.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
-          "pubDate": "Tue, 14 Jul 2026 09:27:21 EDT"
+          "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer&#039;s",
+          "summary": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer&#039;s disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm",
+          "pubDate": "Wed, 15 Jul 2026 10:37:59 EDT"
         },
         {
-          "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
-          "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before concluding that the medication can help people age more slowly.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
-          "pubDate": "Tue, 14 Jul 2026 05:47:41 EDT"
+          "title": "Are humans really the ultimate super-predator?",
+          "summary": "Humans are often described as the planet&#039;s ultimate \"super-predator,\" but wild animals do not fear every human the same way. After analyzing three decades of research, scientists found that animals become much more alert and spend less time feeding when people pose a real threat, such as hunters or fishers. In contrast, tourists, researchers, and other non-lethal humans trigger far weaker and less predictable reactions.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260714225540.htm",
+          "pubDate": "Wed, 15 Jul 2026 07:04:02 EDT"
         },
         {
-          "title": "NASA&#039;s Perseverance just completed a marathon on Mars",
-          "summary": "NASA&#039;s Perseverance rover has reached an impressive new milestone on Mars, completing the equivalent of a full marathon by driving 26.2 miles (42.195 kilometers) across the Red Planet. It accomplished the feat in just five years and four months, reaching the distance on its 1,890th Martian day, less than half the time it took the previous record holder, NASA&#039;s Opportunity rover.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
-          "pubDate": "Tue, 14 Jul 2026 01:32:12 EDT"
+          "title": "Astronomers just found four hidden white dwarf stars near Earth",
+          "summary": "Four nearby white dwarf stars have been discovered hiding in plain sight beside brighter red dwarf companions. Hubble&#039;s ultraviolet observations finally revealed the long-hidden stellar remnants, including one just 25 light-years away that took nearly three decades to confirm. The findings match long-standing predictions and suggest our corner of the galaxy may contain many more undiscovered white dwarf binaries.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260714225528.htm",
+          "pubDate": "Wed, 15 Jul 2026 02:30:25 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "The 2024 New York City meteorite contains amino acids",
+          "summary": "The brine-formed meteorite that crashed into a New Jersey roof in 2024 could teach us about how life first arrived on Earth.",
+          "link": "https://www.sciencenews.org/article/new-york-city-2024-meteorite-amino-acid",
+          "pubDate": "Wed, 15 Jul 2026 18:00:00 +0000"
+        },
+        {
+          "title": "AI is not ready to fly solo in space",
+          "summary": "In sci-fi, AI can navigate the unknowns and — ideally — keep human travelers safe. But it’s not intelligent enough to do that yet.",
+          "link": "https://www.sciencenews.org/article/ai-task-completion-ability-space-scifi",
+          "pubDate": "Wed, 15 Jul 2026 14:00:00 +0000"
+        },
         {
           "title": "A new sort of Alzheimer&#8217;s drug shows glimmers of promise",
           "summary": "Clinical trial results show an experimental drug lowered tau levels in the brain and slowed some memory loss, but the data came with a surprise twist.",
           "link": "https://www.sciencenews.org/article/new-alzheimers-drug-tau-promise",
           "pubDate": "Tue, 14 Jul 2026 21:48:25 +0000"
-        },
-        {
-          "title": "A new map traces the sky&#8217;s water highways",
-          "summary": "Atmospheric rivers bring heavy rain and floods, but if they don’t come around, it could mean drought. A new global map reveals little-known pathways.",
-          "link": "https://www.sciencenews.org/article/mapping-water-vapor-atmospheric-river",
-          "pubDate": "Tue, 14 Jul 2026 15:00:00 +0000"
-        },
-        {
-          "title": "A quasar breaks the record for most distant supermassive black hole",
-          "summary": "The Euclid space telescope discovery could help researchers understand how black holes grew so massive so quickly in the early universe.",
-          "link": "https://www.sciencenews.org/article/record-black-hole-euclj1729-quasar",
-          "pubDate": "Tue, 14 Jul 2026 13:00:00 +0000"
         }
       ]
     }
