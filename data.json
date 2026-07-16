@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-15T23:01:01.054Z",
-  "date": "2026-07-16",
+  "lastUpdate": "2026-07-16T23:00:50.823Z",
+  "date": "2026-07-17",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
-          "summary": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
-          "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
-          "pubDate": "Wed, 15 Jul 2026 21:49:01 +0000"
+          "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+          "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+          "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+          "pubDate": "Thu, 16 Jul 2026 22:17:27 +0000"
         },
         {
-          "title": "Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion",
-          "summary": "The Trump administration has not disclosed its cost estimates for the Iran war.",
-          "link": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
-          "pubDate": "Wed, 15 Jul 2026 21:00:00 +0000"
+          "title": "Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears",
+          "summary": "Foot traffic to leafy green chains is falling, data shows. Still, a few brave souls who spoke to WIRED were determined to get their fix. “I honestly didn’t even think about” the risk of explosive diarrhea, one says.",
+          "link": "https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/",
+          "pubDate": "Thu, 16 Jul 2026 21:06:59 +0000"
         },
         {
-          "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
-          "summary": "Since WIRED reported on Meta’s NameTag face recognition system, company executives have made confusing and conflicting remarks about its very existence.",
-          "link": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
-          "pubDate": "Wed, 15 Jul 2026 20:58:16 +0000"
+          "title": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
+          "summary": "As wildfire smoke threatens air quality and safety for millions, here’s your playbook to keep your family safe from the damaging effects of smoke.",
+          "link": "https://www.wired.com/story/wildfire-smoke-safety-guide/",
+          "pubDate": "Thu, 16 Jul 2026 20:41:10 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-          "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-          "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-          "pubDate": "Wed, 15 Jul 2026 20:22:52 +0000"
+          "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+          "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+          "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+          "pubDate": "Thu, 16 Jul 2026 21:22:31 +0000"
         },
         {
-          "title": "Daniel Ek&#8217;s body-scanning startup Neko Health raises another $700M",
-          "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-          "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-          "pubDate": "Wed, 15 Jul 2026 19:46:54 +0000"
+          "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her &#8216;Mafia&#8217; skills)",
+          "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+          "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+          "pubDate": "Thu, 16 Jul 2026 20:07:14 +0000"
         },
         {
-          "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-          "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-          "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-          "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000"
+          "title": "Google Vids now lets you star in your own AI videos",
+          "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+          "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+          "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "French MPs approve assisted dying law with strict rules after years of argument",
-          "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-          "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 15 Jul 2026 17:29:26 GMT"
+          "title": "Blasts reported in Iran as US launches new wave of strikes",
+          "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 16 Jul 2026 21:44:37 GMT"
         },
         {
-          "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-          "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-          "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 15 Jul 2026 21:55:04 GMT"
+          "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+          "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 16 Jul 2026 16:36:21 GMT"
         },
         {
-          "title": "Argentina face fine for Falklands banner in semi-final win",
-          "summary": "Argentina face the prospect of a Fifa fine after their players celebrated the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 15 Jul 2026 22:49:47 GMT"
+          "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+          "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 16 Jul 2026 13:08:28 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-          "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
-          "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-          "pubDate": "Wed, 15 Jul 2026 17:22:51 GMT"
+          "title": "Dallas Fed President Logan calls for &apos;modestly&apos; higher interest rates",
+          "summary": "The policymaker said this week's good inflation news wasn't good enough.",
+          "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+          "pubDate": "Thu, 16 Jul 2026 18:50:42 GMT"
         },
         {
-          "title": "Fed Chairman Kevin Warsh&apos;s testimony to Senate banking committee hits on economy, interest rates",
-          "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
-          "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-          "pubDate": "Wed, 15 Jul 2026 22:05:14 GMT"
+          "title": "Short sellers load up against SpaceX as stock drops below IPO price",
+          "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
+          "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+          "pubDate": "Thu, 16 Jul 2026 18:12:21 GMT"
         },
         {
-          "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
-          "summary": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.",
-          "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
-          "pubDate": "Wed, 15 Jul 2026 13:45:27 GMT"
+          "title": "Sen. Warren says Trump&apos;s CFPB overhaul has cost Americans $26.5 billion",
+          "summary": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.",
+          "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
+          "pubDate": "Thu, 16 Jul 2026 16:36:23 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Cassidy, Senate Democrats grill Trump health nominees over vaccine pressures",
-          "summary": "Two of&#160;President Trump’s most recent&#160;health&#160;nominees, including his&#160;newest&#160;pick&#160;to be head of the Centers for Disease Control and Prevention (CDC),&#160;appeared before the Senate&#160;on Wednesday where a reluctance to break with the administration put Democrats and some Republicans on edge.&#160; Erica Schwartz, nominee to be the next director of the CDC, and Sean Kaufman, nominee to head the&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5970727-schwartz-kaufman-cdc-aspr-testimony/",
-          "pubDate": "Wed, 15 Jul 2026 22:44:37 +0000"
+          "title": "US military boards oil tanker in Gulf of Oman",
+          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.&#160; The Big Story&#160; US military boards oil tanker in Gulf of Oman&#160; The U.S. military boarded a sanctioned oil&#8230;",
+          "link": "https://thehill.com/newsletters/defense-national-security/5973065-us-military-boards-oil-tanker-in-gulf-of-oman/",
+          "pubDate": "Thu, 16 Jul 2026 22:29:20 +0000"
         },
         {
-          "title": "Trump restarts &#8216;vicious cycle&#8217; on Iran",
-          "summary": "{beacon} View Online Energy &#038; Environment Energy &#038; Environment &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.&#160; The Big Story&#160; Experts say latest attacks may not get better result President Trump is returning to war in an attempt to break Iran’s grip&#8230;",
-          "link": "https://thehill.com/homenews/5970741-trump-iran-hormuz-conflict-cycle/",
-          "pubDate": "Wed, 15 Jul 2026 22:28:34 +0000"
+          "title": "White House revives rule to deny green cards to migrants who use safety net programs",
+          "summary": "The Trump administration is reviving a policy that would allow immigration officers to deny green cards to applicants who use public benefits like Medicaid, housing assistance or food stamps. &#160; The policy governs how officials can apply the “public charge” test, which is used to determine whether applicants are likely to rely on government support.&#160;&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
+          "pubDate": "Thu, 16 Jul 2026 22:28:49 +0000"
         },
         {
-          "title": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
-          "summary": "Maverick Sen. John Fetterman (D-Pa.) has said he has “no plans” to leave the Democratic Party, but he warned on Wednesday that if Democrats completely turn their backs on U.S. support for Israel, that would cross a red line that could push him out of the party. “If our party ever becomes — and just&#8230;",
-          "link": "https://thehill.com/homenews/senate/5970730-john-fetterman-democratic-party-israel/",
-          "pubDate": "Wed, 15 Jul 2026 22:26:31 +0000"
+          "title": "Wall Street traders can soon pay for early looks at Truth Social posts",
+          "summary": "President Trump’s social media platform announced plans Thursday to sell Wall Street firms early access to its “most market-moving” posts. Trump Media &#38; Technology Group (TMTG), the parent company of Truth Social, said it would launch &#8220;Truth API&#8221; — a direct data feed that would give investment firms “real-time access to posts from the highest-ranking&#8230;",
+          "link": "https://thehill.com/policy/technology/5972998-trump-media-technology-group-launch-truth-api/",
+          "pubDate": "Thu, 16 Jul 2026 22:25:26 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Microsoft CEO adds fuel to Palantir CEO’s AI warning",
-          "summary": "Microsoft CEO adds fuel to Palantir CEO’s AI warning",
-          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html",
-          "pubDate": "2026-07-15T03:07:00Z"
+          "title": "Why PayPal Stock Just Went to the Moon",
+          "summary": "Why PayPal Stock Just Went to the Moon",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-paypal-stock-just-went-152056820.html",
+          "pubDate": "2026-07-15T15:20:56Z"
         },
         {
-          "title": "Here’s Laughing Water Capital’s Updates on Liquidia Corp. (LQDA)",
-          "summary": "Here’s Laughing Water Capital’s Updates on Liquidia Corp. (LQDA)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/laughing-water-capital-updates-liquidia-150014391.html",
-          "pubDate": "2026-07-14T15:00:14Z"
+          "title": "Leveraging Memory: Direxion Premiers Daily SK Hynix Bull 2X ETF",
+          "summary": "Leveraging Memory: Direxion Premiers Daily SK Hynix Bull 2X ETF",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/leveraging-memory-direxion-premiers-daily-152130262.html",
+          "pubDate": "2026-07-15T15:21:30Z"
         },
         {
-          "title": "BP Gets a Hormuz Windfall With a Low-Carbon Bruise",
-          "summary": "BP Gets a Hormuz Windfall With a Low-Carbon Bruise",
-          "link": "https://finance.yahoo.com/energy/articles/bp-gets-hormuz-windfall-low-145637439.html",
-          "pubDate": "2026-07-14T14:56:37Z"
+          "title": "Stocks Mixed on Favorable Inflation News and Chipmaker Weakness",
+          "summary": "Stocks Mixed on Favorable Inflation News and Chipmaker Weakness",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-favorable-inflation-news-151216218.html",
+          "pubDate": "2026-07-15T15:12:16Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "More than 400 sick as CDC searches for the source of a mystery outbreak",
+          "summary": "A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is likely much higher and urges anyone with symptoms to seek medical care.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260715083530.htm",
+          "pubDate": "Thu, 16 Jul 2026 00:25:05 EDT"
+        },
+        {
+          "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+          "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists believe this could pave the way for advanced optical memory, quantum devices, and ultra-efficient photonic technologies.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+          "pubDate": "Thu, 16 Jul 2026 00:16:48 EDT"
+        },
         {
           "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer&#039;s",
           "summary": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer&#039;s disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
           "link": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm",
           "pubDate": "Wed, 15 Jul 2026 10:37:59 EDT"
-        },
-        {
-          "title": "Are humans really the ultimate super-predator?",
-          "summary": "Humans are often described as the planet&#039;s ultimate \"super-predator,\" but wild animals do not fear every human the same way. After analyzing three decades of research, scientists found that animals become much more alert and spend less time feeding when people pose a real threat, such as hunters or fishers. In contrast, tourists, researchers, and other non-lethal humans trigger far weaker and less predictable reactions.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260714225540.htm",
-          "pubDate": "Wed, 15 Jul 2026 07:04:02 EDT"
-        },
-        {
-          "title": "Astronomers just found four hidden white dwarf stars near Earth",
-          "summary": "Four nearby white dwarf stars have been discovered hiding in plain sight beside brighter red dwarf companions. Hubble&#039;s ultraviolet observations finally revealed the long-hidden stellar remnants, including one just 25 light-years away that took nearly three decades to confirm. The findings match long-standing predictions and suggest our corner of the galaxy may contain many more undiscovered white dwarf binaries.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260714225528.htm",
-          "pubDate": "Wed, 15 Jul 2026 02:30:25 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "siteName": "Science News",
       "items": [
         {
-          "title": "The 2024 New York City meteorite contains amino acids",
-          "summary": "The brine-formed meteorite that crashed into a New Jersey roof in 2024 could teach us about how life first arrived on Earth.",
-          "link": "https://www.sciencenews.org/article/new-york-city-2024-meteorite-amino-acid",
-          "pubDate": "Wed, 15 Jul 2026 18:00:00 +0000"
+          "title": "This “exotic weirdo” exoplanet has a rocky surface and an atmosphere",
+          "summary": "Astronomers found a helium atmosphere around a rocky exoplanet — a good sign for the search for life outside the solar system.",
+          "link": "https://www.sciencenews.org/article/rocky-exoplanet-helium-atmosphere",
+          "pubDate": "Thu, 16 Jul 2026 18:00:00 +0000"
         },
         {
-          "title": "AI is not ready to fly solo in space",
-          "summary": "In sci-fi, AI can navigate the unknowns and — ideally — keep human travelers safe. But it’s not intelligent enough to do that yet.",
-          "link": "https://www.sciencenews.org/article/ai-task-completion-ability-space-scifi",
-          "pubDate": "Wed, 15 Jul 2026 14:00:00 +0000"
+          "title": "Genes offer new clues to stopping Huntington’s disease in its tracks",
+          "summary": "A new generation of therapies aims to intervene at a recently discovered gap between the disease’s molecular march and its neurological consequences.",
+          "link": "https://www.sciencenews.org/article/genes-huntingtons-therapy-expansion",
+          "pubDate": "Thu, 16 Jul 2026 14:00:00 +0000"
         },
         {
-          "title": "A new sort of Alzheimer&#8217;s drug shows glimmers of promise",
-          "summary": "Clinical trial results show an experimental drug lowered tau levels in the brain and slowed some memory loss, but the data came with a surprise twist.",
-          "link": "https://www.sciencenews.org/article/new-alzheimers-drug-tau-promise",
-          "pubDate": "Tue, 14 Jul 2026 21:48:25 +0000"
+          "title": "An ancient Maya astronomer finally has a name",
+          "summary": "A Maya calendar formula bears the name Sak Tahn Waax, the first known Classic Maya mathematician-astronomer directly credited for such work.",
+          "link": "https://www.sciencenews.org/article/ancient-maya-astronomer-name-sak-tahn-waax",
+          "pubDate": "Thu, 16 Jul 2026 12:00:00 +0000"
         }
       ]
     }
