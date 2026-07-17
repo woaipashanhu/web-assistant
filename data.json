@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-16T23:00:50.823Z",
-  "date": "2026-07-17",
+  "lastUpdate": "2026-07-17T23:00:50.595Z",
+  "date": "2026-07-18",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-          "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-          "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-          "pubDate": "Thu, 16 Jul 2026 22:17:27 +0000"
+          "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+          "summary": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
+          "link": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
+          "pubDate": "Fri, 17 Jul 2026 19:50:38 +0000"
         },
         {
-          "title": "Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears",
-          "summary": "Foot traffic to leafy green chains is falling, data shows. Still, a few brave souls who spoke to WIRED were determined to get their fix. “I honestly didn’t even think about” the risk of explosive diarrhea, one says.",
-          "link": "https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/",
-          "pubDate": "Thu, 16 Jul 2026 21:06:59 +0000"
+          "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
+          "summary": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
+          "link": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
+          "pubDate": "Fri, 17 Jul 2026 19:17:46 +0000"
         },
         {
-          "title": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
-          "summary": "As wildfire smoke threatens air quality and safety for millions, here’s your playbook to keep your family safe from the damaging effects of smoke.",
-          "link": "https://www.wired.com/story/wildfire-smoke-safety-guide/",
-          "pubDate": "Thu, 16 Jul 2026 20:41:10 +0000"
+          "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
+          "summary": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
+          "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
+          "pubDate": "Fri, 17 Jul 2026 18:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-          "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
-          "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-          "pubDate": "Thu, 16 Jul 2026 21:22:31 +0000"
+          "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
+          "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+          "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000"
         },
         {
-          "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her &#8216;Mafia&#8217; skills)",
-          "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
-          "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-          "pubDate": "Thu, 16 Jul 2026 20:07:14 +0000"
+          "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
+          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+          "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000"
         },
         {
-          "title": "Google Vids now lets you star in your own AI videos",
-          "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-          "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-          "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000"
+          "title": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
+          "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+          "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+          "pubDate": "Fri, 17 Jul 2026 21:20:47 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Blasts reported in Iran as US launches new wave of strikes",
-          "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+          "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+          "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
           "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 16 Jul 2026 21:44:37 GMT"
+          "pubDate": "Fri, 17 Jul 2026 18:33:12 GMT"
         },
         {
-          "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-          "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
-          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 16 Jul 2026 16:36:21 GMT"
+          "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+          "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 17 Jul 2026 19:04:09 GMT"
         },
         {
-          "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-          "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
-          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 16 Jul 2026 13:08:28 GMT"
+          "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
+          "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 17 Jul 2026 21:14:02 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "India&apos;s biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
+          "summary": "The IPO of India's largest asset manager closed on Thursday, drawing keen interest from institutional investors.",
+          "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
+          "pubDate": "Fri, 17 Jul 2026 03:54:47 GMT"
+        },
         {
           "title": "Dallas Fed President Logan calls for &apos;modestly&apos; higher interest rates",
           "summary": "The policymaker said this week's good inflation news wasn't good enough.",
@@ -145,17 +151,11 @@
           "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
           "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
           "pubDate": "Thu, 16 Jul 2026 18:12:21 GMT"
-        },
-        {
-          "title": "Sen. Warren says Trump&apos;s CFPB overhaul has cost Americans $26.5 billion",
-          "summary": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.",
-          "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
-          "pubDate": "Thu, 16 Jul 2026 16:36:23 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "US military boards oil tanker in Gulf of Oman",
-          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.&#160; The Big Story&#160; US military boards oil tanker in Gulf of Oman&#160; The U.S. military boarded a sanctioned oil&#8230;",
-          "link": "https://thehill.com/newsletters/defense-national-security/5973065-us-military-boards-oil-tanker-in-gulf-of-oman/",
-          "pubDate": "Thu, 16 Jul 2026 22:29:20 +0000"
+          "title": "Sacks warns US risks losing AI edge after new Chinese model launch",
+          "summary": "{beacon} Technology Technology &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.&#160; The Big Story&#160; Sacks warns US risks losing AI edge after new Chinese model launch Former White House AI and cryptocurrency czar David Sacks argued Friday that the U.S. is “tying&#8230;",
+          "link": "https://thehill.com/newsletters/technology/5975555-sacks-warns-us-risks-losing-ai-edge-after-new-chinese-model-launch/",
+          "pubDate": "Fri, 17 Jul 2026 21:50:43 +0000"
         },
         {
-          "title": "White House revives rule to deny green cards to migrants who use safety net programs",
-          "summary": "The Trump administration is reviving a policy that would allow immigration officers to deny green cards to applicants who use public benefits like Medicaid, housing assistance or food stamps. &#160; The policy governs how officials can apply the “public charge” test, which is used to determine whether applicants are likely to rely on government support.&#160;&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
-          "pubDate": "Thu, 16 Jul 2026 22:28:49 +0000"
+          "title": "United denies offering free flight changes over Trump airport name",
+          "summary": "United Airlines is pushing back on reports that it will allow passengers to change their flight destinations for free if they do not want to land at the newly renamed Donald J. Trump International Airport in Palm Beach. A travel blog called Live and Let’s Fly shared an internal memo on Thursday that was reportedly&#8230;",
+          "link": "https://thehill.com/policy/transportation/5975522-united-airlines-trump-international-airport-florida/",
+          "pubDate": "Fri, 17 Jul 2026 21:45:10 +0000"
         },
         {
-          "title": "Wall Street traders can soon pay for early looks at Truth Social posts",
-          "summary": "President Trump’s social media platform announced plans Thursday to sell Wall Street firms early access to its “most market-moving” posts. Trump Media &#38; Technology Group (TMTG), the parent company of Truth Social, said it would launch &#8220;Truth API&#8221; — a direct data feed that would give investment firms “real-time access to posts from the highest-ranking&#8230;",
-          "link": "https://thehill.com/policy/technology/5972998-trump-media-technology-group-launch-truth-api/",
-          "pubDate": "Thu, 16 Jul 2026 22:25:26 +0000"
+          "title": "Waves of US strikes on Iran hit week mark",
+          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.&#160; The Big Story&#160; Waves of US strikes on Iran hits week mark The U.S. military for the seventh consecutive&#8230;",
+          "link": "https://thehill.com/newsletters/defense-national-security/5975523-us-strikes-iran-military-capabilities/",
+          "pubDate": "Fri, 17 Jul 2026 21:34:47 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Why PayPal Stock Just Went to the Moon",
-          "summary": "Why PayPal Stock Just Went to the Moon",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-paypal-stock-just-went-152056820.html",
-          "pubDate": "2026-07-15T15:20:56Z"
+          "title": "Why Is NVDA Stock The Discount Option Among Its Peers?",
+          "summary": "Why Is NVDA Stock The Discount Option Among Its Peers?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvda-stock-discount-option-154006899.html",
+          "pubDate": "2026-07-16T15:40:06Z"
         },
         {
-          "title": "Leveraging Memory: Direxion Premiers Daily SK Hynix Bull 2X ETF",
-          "summary": "Leveraging Memory: Direxion Premiers Daily SK Hynix Bull 2X ETF",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/leveraging-memory-direxion-premiers-daily-152130262.html",
-          "pubDate": "2026-07-15T15:21:30Z"
+          "title": "Michael Burry's $39 a month Substack hits 300,000 subscribers, fueling speculation of a $113M-a-year newsletter empire",
+          "summary": "Michael Burry's $39 a month Substack hits 300,000 subscribers, fueling speculation of a $113M-a-year newsletter empire",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burrys-39-month-substack-154000219.html",
+          "pubDate": "2026-07-16T15:40:00Z"
         },
         {
-          "title": "Stocks Mixed on Favorable Inflation News and Chipmaker Weakness",
-          "summary": "Stocks Mixed on Favorable Inflation News and Chipmaker Weakness",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-favorable-inflation-news-151216218.html",
-          "pubDate": "2026-07-15T15:12:16Z"
+          "title": "Micron Stock Is Off 31% From Its High. Why This Could Be the Best Time to Buy.",
+          "summary": "Micron Stock Is Off 31% From Its High. Why This Could Be the Best Time to Buy.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-off-31-high-154111477.html",
+          "pubDate": "2026-07-16T15:41:11Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "More than 400 sick as CDC searches for the source of a mystery outbreak",
-          "summary": "A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is likely much higher and urges anyone with symptoms to seek medical care.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260715083530.htm",
-          "pubDate": "Thu, 16 Jul 2026 00:25:05 EDT"
+          "title": "Scientists built a camera that can track invisible particles in 3D",
+          "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+          "pubDate": "Fri, 17 Jul 2026 02:04:57 EDT"
         },
         {
-          "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
-          "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists believe this could pave the way for advanced optical memory, quantum devices, and ultra-efficient photonic technologies.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
-          "pubDate": "Thu, 16 Jul 2026 00:16:48 EDT"
+          "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
+          "summary": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently when combined with medications, caffeine, or flavorings. The combination of isosteviol and the antidepressant duloxetine was especially disruptive, reducing beneficial bacteria and overall microbial diversity.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
+          "pubDate": "Fri, 17 Jul 2026 04:59:35 EDT"
         },
         {
-          "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer&#039;s",
-          "summary": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer&#039;s disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm",
-          "pubDate": "Wed, 15 Jul 2026 10:37:59 EDT"
+          "title": "New “living plastic” self-destructs in just 6 days without leaving microplastics",
+          "summary": "Researchers have created self-destructing living plastic that uses engineered bacteria to completely break itself down when activated. The material degrades in just six days without creating microplastics, offering a potential new solution for single-use plastic waste.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
+          "pubDate": "Thu, 16 Jul 2026 23:09:42 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "siteName": "Science News",
       "items": [
         {
-          "title": "This “exotic weirdo” exoplanet has a rocky surface and an atmosphere",
-          "summary": "Astronomers found a helium atmosphere around a rocky exoplanet — a good sign for the search for life outside the solar system.",
-          "link": "https://www.sciencenews.org/article/rocky-exoplanet-helium-atmosphere",
-          "pubDate": "Thu, 16 Jul 2026 18:00:00 +0000"
+          "title": "Inside the fight against the parasite Cyclospora",
+          "summary": "Parasite-induced cases of explosive diarrhea are sweeping the United States. Containing the outbreak won’t be easy.",
+          "link": "https://www.sciencenews.org/article/cyclospora-outbreak-lettuce-diarrhea",
+          "pubDate": "Fri, 17 Jul 2026 21:26:09 +0000"
         },
         {
-          "title": "Genes offer new clues to stopping Huntington’s disease in its tracks",
-          "summary": "A new generation of therapies aims to intervene at a recently discovered gap between the disease’s molecular march and its neurological consequences.",
-          "link": "https://www.sciencenews.org/article/genes-huntingtons-therapy-expansion",
-          "pubDate": "Thu, 16 Jul 2026 14:00:00 +0000"
+          "title": "No, SpudCells aren’t alive. But they’re a step toward the first synthetic life",
+          "summary": "The lab-made cells open a window into what’s possible for synthetic life, researchers say.",
+          "link": "https://www.sciencenews.org/article/spudcells-synthetic-life-lab-made-cell",
+          "pubDate": "Fri, 17 Jul 2026 16:00:00 +0000"
         },
         {
-          "title": "An ancient Maya astronomer finally has a name",
-          "summary": "A Maya calendar formula bears the name Sak Tahn Waax, the first known Classic Maya mathematician-astronomer directly credited for such work.",
-          "link": "https://www.sciencenews.org/article/ancient-maya-astronomer-name-sak-tahn-waax",
-          "pubDate": "Thu, 16 Jul 2026 12:00:00 +0000"
+          "title": "Many universities hold seized human remains. What should they do with them?",
+          "summary": "Biological anthropologist Fatimah Jackson is leading an effort to prevent history from repeating.",
+          "link": "https://www.sciencenews.org/article/human-remains-ethics-fatimah-jackson",
+          "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000"
         }
       ]
     }
