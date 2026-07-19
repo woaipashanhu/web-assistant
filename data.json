@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-18T23:00:08.050Z",
-  "date": "2026-07-19",
+  "lastUpdate": "2026-07-19T23:00:05.628Z",
+  "date": "2026-07-20",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "4 Best Walking Pads for Small Spaces and Standing Desks (2026)",
-          "summary": "Our remote team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
-          "link": "https://www.wired.com/story/best-walking-pads/",
-          "pubDate": "Sat, 18 Jul 2026 11:03:00 +0000"
+          "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+          "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+          "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+          "pubDate": "Sun, 19 Jul 2026 11:00:00 +0000"
         },
         {
-          "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
-          "summary": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
-          "link": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
-          "pubDate": "Sat, 18 Jul 2026 10:30:00 +0000"
+          "title": "How to Disable Music Videos in Spotify",
+          "summary": "A recent update made video playback the default for songs and podcasts with a visual component. If you just want to listen to music—and save your data and battery—follow these tips.",
+          "link": "https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/",
+          "pubDate": "Sun, 19 Jul 2026 11:00:00 +0000"
         },
         {
-          "title": "Your Period Tracker Is (Probably) Spying on You",
-          "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-          "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-          "pubDate": "Sat, 18 Jul 2026 10:30:00 +0000"
+          "title": "The 10 Best Electrolyte Powders (We Tested Over 20)",
+          "summary": "Get those lost minerals back with the help of our top electrolyte powders, tablets, drops, and chews for athletes, partiers, and everyone in between.",
+          "link": "https://www.wired.com/story/best-electrolyte-powders/",
+          "pubDate": "Sun, 19 Jul 2026 10:32:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Waymo says San Francisco service has resumed after one-hour pause",
-          "summary": "This isn’t the first time power outages have caused issues for Waymo.",
-          "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-          "pubDate": "Sat, 18 Jul 2026 19:30:23 +0000"
+          "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+          "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+          "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+          "pubDate": "Sun, 19 Jul 2026 21:45:00 +0000"
         },
         {
-          "title": "Kimi: Threat or menace?",
-          "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-          "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-          "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000"
+          "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
+          "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+          "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+          "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000"
         },
         {
-          "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-          "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
-          "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-          "pubDate": "Sat, 18 Jul 2026 16:30:00 +0000"
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-          "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
-          "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 18 Jul 2026 21:12:28 GMT"
+          "title": "US soldier killed and one injured after Iranian attack in Iraq",
+          "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 19 Jul 2026 19:45:12 GMT"
         },
         {
-          "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-          "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-          "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 18 Jul 2026 13:06:25 GMT"
+          "title": "Tate brothers arrested in US as further UK charges take total to 59",
+          "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 19 Jul 2026 12:53:20 GMT"
         },
         {
-          "title": "Hungary's president agrees to stand down after parliament backs removal",
-          "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-          "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 18 Jul 2026 19:34:16 GMT"
+          "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+          "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+          "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 19 Jul 2026 18:25:40 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+          "summary": "The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the tournament.",
+          "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
+          "pubDate": "Sun, 19 Jul 2026 12:42:30 GMT"
+        },
         {
           "title": "&apos;WarshGPT&apos;: How Wall Street is adapting to the Fed&apos;s new era of communication",
           "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
@@ -145,17 +151,11 @@
           "summary": "The IPO of India's largest asset manager closed on Thursday, drawing keen interest from institutional investors.",
           "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
           "pubDate": "Fri, 17 Jul 2026 03:54:47 GMT"
-        },
-        {
-          "title": "Dallas Fed President Logan calls for &apos;modestly&apos; higher interest rates",
-          "summary": "The policymaker said this week's good inflation news wasn't good enough.",
-          "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-          "pubDate": "Thu, 16 Jul 2026 18:50:42 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Ontario premier slams Trump wildfires criticism: ‘Absolutely unacceptable’",
-          "summary": "Ontario premier Doug Ford on Saturday blasted the criticism leveled at the Canadian government by the Trump administration and congressional Republicans over its handling of raging wildfires as “totally unacceptable.” &#160; “We’re trying to get through this,” Ford told reporters during a press conference in Thunder Bay, Ontario, calling the rhetoric coming from some in&#8230;",
-          "link": "https://thehill.com/homenews/5976412-ford-blasts-trump-wildfire-criticism/",
-          "pubDate": "Sat, 18 Jul 2026 22:03:13 +0000"
+          "title": "Maine secretary of State drops out of Senate race",
+          "summary": "Maine Secretary of State Shenna Bellows (D) on Sunday said she was dropping out of the Democratic primary for the Senate in the Pine Tree State a little more than a week after announcing her campaign. “Today I am withdrawing from the U.S. Senate race. Donald Trump&#8217;s attacks on our democracy are only accelerating, and&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5977222-shenna-bellows-drops-senate-race/",
+          "pubDate": "Sun, 19 Jul 2026 22:21:37 +0000"
         },
         {
-          "title": "Sunday shows preview: Trump election claims raise alarm; Iran war shows no end in sight",
-          "summary": "President Trump used his primetime address on Thursday night to revive his claims of foreign interference in U.S. elections, making headlines as lawmakers weigh the fallout from his push to overhaul the nation’s voting system. During the address, Trump claimed that China allegedly obtained hundreds of millions of U.S. voter records while seeking to interfere&#8230;",
-          "link": "https://thehill.com/video-clips/sunday-shows/5976393-sunday-preview-trump-revives-china-election-claims/",
-          "pubDate": "Sat, 18 Jul 2026 21:58:20 +0000"
+          "title": "State Department issues warning to Americans living and traveling abroad",
+          "summary": "On Saturday, the State Department issued a warning to Americans living and traveling abroad, urging them to remain cautious in the face of increased threats on U.S. diplomatic facilities. “Due to heightened tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation,” the State Department wrote in a statement&#8230;",
+          "link": "https://thehill.com/policy/international/5977134-state-department-travel-warning/",
+          "pubDate": "Sun, 19 Jul 2026 21:29:21 +0000"
         },
         {
-          "title": "Canadian wildfire smoke triggers air quality alerts for millions: What to know",
-          "summary": "More than 100 million Americans are under air quality alerts as smoke from wildfires in Canada and northern Minnesota blankets parts of the U.S. and releases microscopic particles into the atmosphere that can raise serious health risks. Shifting winds have pushed thick haze into major metro areas across the Great Lakes, Northeast and Mid-Atlantic, reducing&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5976386-wildfire-smoke-air-quality-alerts/",
-          "pubDate": "Sat, 18 Jul 2026 21:26:38 +0000"
+          "title": "Epstein survivor on Blanche meeting: &#8216;We were gaslit&#8217;",
+          "summary": "A survivor of convicted sex offender Jeffrey Epstein on Saturday said she was &#8220;gaslit&#8221; during her meeting last week with acting Attorney General Todd Blanche. Jess Michaels told MS NOW&#8217;s Alex Witt about this recent meeting, along with other survivors, with Blanche. She said that Blanche repeatedly denied that anything in the Department of Justice&#8217;s&#8230;",
+          "link": "https://thehill.com/homenews/administration/5977111-epstein-survivor-blanche-meeting/",
+          "pubDate": "Sun, 19 Jul 2026 21:15:47 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
-          "summary": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-investor-jeremy-grantham-calls-222000004.html",
-          "pubDate": "2026-07-18T22:20:00Z"
+          "title": "Major car dealer cuts 40% of its locations, issues serious warning",
+          "summary": "Major car dealer cuts 40% of its locations, issues serious warning",
+          "link": "https://finance.yahoo.com/small-business/articles/major-car-dealer-cuts-40-014700349.html",
+          "pubDate": "2026-07-19T16:54:17Z"
         },
         {
-          "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
-          "summary": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-america-reduce-workforce-215814306.html",
-          "pubDate": "2026-07-18T21:58:14Z"
-        },
-        {
-          "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
-          "summary": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+          "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
+          "summary": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-07-18T19:41:18Z"
+          "pubDate": "2026-07-19T22:47:54Z"
+        },
+        {
+          "title": "Trump Media (DJT) Climbs on Paid Early-Access to Market-Moving Posts",
+          "summary": "Trump Media (DJT) Climbs on Paid Early-Access to Market-Moving Posts",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/trump-media-djt-climbs-paid-224604918.html",
+          "pubDate": "2026-07-19T22:46:04Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Intermittent fasting helped people keep weight off for a year",
-          "summary": "A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who followed their usual longer eating schedule. Both early and late eating windows worked, while early fasting appeared especially helpful for preserving fat loss.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
-          "pubDate": "Sat, 18 Jul 2026 07:59:33 EDT"
+          "title": "The mysterious hum heard around the world may finally have an explanation",
+          "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+          "pubDate": "Sun, 19 Jul 2026 08:07:13 EDT"
         },
         {
-          "title": "Your fingers may hold a secret of human brain evolution",
-          "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
-          "pubDate": "Fri, 17 Jul 2026 08:02:39 EDT"
+          "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
+          "summary": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
+          "pubDate": "Sun, 19 Jul 2026 05:19:13 EDT"
         },
         {
-          "title": "Popular sugar substitutes linked to faster brain aging",
-          "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
-          "pubDate": "Sat, 18 Jul 2026 09:55:57 EDT"
+          "title": "Common antidepressant may ease long COVID’s crushing fatigue",
+          "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
+          "pubDate": "Sat, 18 Jul 2026 21:55:33 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "siteName": "Science News",
       "items": [
         {
