@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-19T23:00:05.628Z",
-  "date": "2026-07-20",
+  "lastUpdate": "2026-07-20T23:00:05.481Z",
+  "date": "2026-07-21",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-          "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-          "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-          "pubDate": "Sun, 19 Jul 2026 11:00:00 +0000"
+          "title": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+          "summary": "Directly added to your Samsung Wallet account, it’s yet another cash-back credit card, this time tailored for Samsung stans.",
+          "link": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/",
+          "pubDate": "Mon, 20 Jul 2026 21:00:00 +0000"
         },
         {
-          "title": "How to Disable Music Videos in Spotify",
-          "summary": "A recent update made video playback the default for songs and podcasts with a visual component. If you just want to listen to music—and save your data and battery—follow these tips.",
-          "link": "https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/",
-          "pubDate": "Sun, 19 Jul 2026 11:00:00 +0000"
+          "title": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
+          "summary": "The agency stressed that the July 17 voluntary recall from Taylor Farms still stands. The supplier has been linked to the ongoing cyclospora outbreak.",
+          "link": "https://www.wired.com/story/taylor-farms-fda-explosive-diarrhea-tweets/",
+          "pubDate": "Mon, 20 Jul 2026 20:57:39 +0000"
         },
         {
-          "title": "The 10 Best Electrolyte Powders (We Tested Over 20)",
-          "summary": "Get those lost minerals back with the help of our top electrolyte powders, tablets, drops, and chews for athletes, partiers, and everyone in between.",
-          "link": "https://www.wired.com/story/best-electrolyte-powders/",
-          "pubDate": "Sun, 19 Jul 2026 10:32:00 +0000"
+          "title": "Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions",
+          "summary": "The latest estimates reveal that the majority of greenhouse gas emissions from large-scale events such as the FIFA World Cup stem from spectators traveling to host cities.",
+          "link": "https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/",
+          "pubDate": "Mon, 20 Jul 2026 19:43:44 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-          "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
-          "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-          "pubDate": "Sun, 19 Jul 2026 21:45:00 +0000"
+          "title": "Trump&#8217;s latest AI czar has already resigned",
+          "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+          "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+          "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000"
         },
         {
-          "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
-          "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-          "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-          "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000"
+          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+          "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000"
         },
         {
-          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-          "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-          "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000"
+          "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
+          "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+          "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US soldier killed and one injured after Iranian attack in Iraq",
-          "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 19 Jul 2026 19:45:12 GMT"
+          "title": "Trump imposes 50% tariff on Canadian imports",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 20 Jul 2026 22:26:34 GMT"
         },
         {
-          "title": "Tate brothers arrested in US as further UK charges take total to 59",
-          "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 19 Jul 2026 12:53:20 GMT"
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 20 Jul 2026 21:09:31 GMT"
         },
         {
-          "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-          "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-          "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 19 Jul 2026 18:25:40 GMT"
+          "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 20 Jul 2026 21:30:19 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
-          "summary": "The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the tournament.",
-          "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
-          "pubDate": "Sun, 19 Jul 2026 12:42:30 GMT"
+          "title": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
+          "summary": "Tuesday evening's second-quarter earnings report is the perfect stage to do just that.",
+          "link": "https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html",
+          "pubDate": "Mon, 20 Jul 2026 18:14:23 GMT"
         },
         {
-          "title": "&apos;WarshGPT&apos;: How Wall Street is adapting to the Fed&apos;s new era of communication",
-          "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
-          "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-          "pubDate": "Sat, 18 Jul 2026 18:16:42 GMT"
+          "title": "Coinbase trading results may fall short of expectations, according to prediction markets",
+          "summary": "Speculators think in the company's second quarter earnings report, it will show trading volume fell for a third consecutive quarter.",
+          "link": "https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html",
+          "pubDate": "Mon, 20 Jul 2026 12:41:50 GMT"
         },
         {
-          "title": "India&apos;s biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
-          "summary": "The IPO of India's largest asset manager closed on Thursday, drawing keen interest from institutional investors.",
-          "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
-          "pubDate": "Fri, 17 Jul 2026 03:54:47 GMT"
+          "title": "China&apos;s car market heads for worst year since 2021 as sales plunge 20%",
+          "summary": "Consumer demand for cars in China tumbles following record-high sales of 23.7 million units in 2025.",
+          "link": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
+          "pubDate": "Mon, 20 Jul 2026 08:43:40 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Maine secretary of State drops out of Senate race",
-          "summary": "Maine Secretary of State Shenna Bellows (D) on Sunday said she was dropping out of the Democratic primary for the Senate in the Pine Tree State a little more than a week after announcing her campaign. “Today I am withdrawing from the U.S. Senate race. Donald Trump&#8217;s attacks on our democracy are only accelerating, and&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5977222-shenna-bellows-drops-senate-race/",
-          "pubDate": "Sun, 19 Jul 2026 22:21:37 +0000"
+          "title": "Mullin: Feds &#8216;actively pursuing&#8217; threat to World Cup fan fest",
+          "summary": "Department of Homeland Security (DHS) Secretary Markwayne Mullin on Monday said federal authorities are “actively pursuing” an investigation into a threat at a World Cup fan fest event. “It was an intimate threat that because of our federal partnership and our local partnership, being able to work together, we were able to stop it before&#8230;",
+          "link": "https://thehill.com/homenews/administration/5979337-dhs-investigates-world-cup-threat/",
+          "pubDate": "Mon, 20 Jul 2026 21:59:31 +0000"
         },
         {
-          "title": "State Department issues warning to Americans living and traveling abroad",
-          "summary": "On Saturday, the State Department issued a warning to Americans living and traveling abroad, urging them to remain cautious in the face of increased threats on U.S. diplomatic facilities. “Due to heightened tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation,” the State Department wrote in a statement&#8230;",
-          "link": "https://thehill.com/policy/international/5977134-state-department-travel-warning/",
-          "pubDate": "Sun, 19 Jul 2026 21:29:21 +0000"
+          "title": "Rising US death count in Iran war drives Trump toward escalation",
+          "summary": "Fears are growing that the deaths of three U.S. servicemembers over a 24-hour period this weekend could push President Trump toward further escalation, even as both sides leave diplomatic doors open.&#160; The servicemembers’ deaths bring the U.S. death toll in the Iran war to 17 since the conflict broke out in March. Since the U.S.&#8230;",
+          "link": "https://thehill.com/homenews/administration/5979309-us-servicemembers-killed-iran/",
+          "pubDate": "Mon, 20 Jul 2026 21:34:05 +0000"
         },
         {
-          "title": "Epstein survivor on Blanche meeting: &#8216;We were gaslit&#8217;",
-          "summary": "A survivor of convicted sex offender Jeffrey Epstein on Saturday said she was &#8220;gaslit&#8221; during her meeting last week with acting Attorney General Todd Blanche. Jess Michaels told MS NOW&#8217;s Alex Witt about this recent meeting, along with other survivors, with Blanche. She said that Blanche repeatedly denied that anything in the Department of Justice&#8217;s&#8230;",
-          "link": "https://thehill.com/homenews/administration/5977111-epstein-survivor-blanche-meeting/",
-          "pubDate": "Sun, 19 Jul 2026 21:15:47 +0000"
+          "title": "Ossoff slams RFK Jr. for terminating FoodNet, drawing link to cyclospora outbreak",
+          "summary": "Sen. Jon Ossoff (D-Ga.) slammed Health and Human Services Secretary Robert F. Kennedy Jr. for ending the Center for Disease Control and Prevention’s (CDC) tracking of parasitic infections including cyclospora.&#160; The decision was made last year and suspended tracking managed by the CDC, U.S. Department of Agriculture and the Food and Drug Administration, in addition to&#8230;",
+          "link": "https://thehill.com/homenews/administration/5979225-ossoff-slams-rfk-jr-for-terminating-foodnet-drawing-link-to-cyclospora-outbreak/",
+          "pubDate": "Mon, 20 Jul 2026 21:30:54 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,23 +213,29 @@
           "pubDate": "2026-07-19T16:54:17Z"
         },
         {
-          "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
-          "summary": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-07-19T22:47:54Z"
+          "title": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock.",
+          "summary": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock.",
+          "link": "https://finance.yahoo.com/technology/ai/articles/apple-intelligence-just-got-green-140002408.html",
+          "pubDate": "2026-07-19T14:00:02Z"
         },
         {
-          "title": "Trump Media (DJT) Climbs on Paid Early-Access to Market-Moving Posts",
-          "summary": "Trump Media (DJT) Climbs on Paid Early-Access to Market-Moving Posts",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/trump-media-djt-climbs-paid-224604918.html",
-          "pubDate": "2026-07-19T22:46:04Z"
+          "title": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
+          "summary": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
+          "link": "https://finance.yahoo.com/real-estate/articles/financial-planner-explains-why-splitting-143000499.html",
+          "pubDate": "2026-07-19T14:30:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "Some dinosaurs could rise like giants until they grew too big",
+          "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+          "pubDate": "Mon, 20 Jul 2026 09:23:44 EDT"
+        },
         {
           "title": "The mysterious hum heard around the world may finally have an explanation",
           "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
@@ -237,40 +243,34 @@
           "pubDate": "Sun, 19 Jul 2026 08:07:13 EDT"
         },
         {
-          "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
-          "summary": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
-          "pubDate": "Sun, 19 Jul 2026 05:19:13 EDT"
-        },
-        {
-          "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-          "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
-          "pubDate": "Sat, 18 Jul 2026 21:55:33 EDT"
+          "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+          "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+          "pubDate": "Mon, 20 Jul 2026 03:40:09 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Who owns your bones?",
-          "summary": "Editor in Chief Nancy Shute discusses the history of unethical practices in research on human remains and the progress toward more ethical standards.",
-          "link": "https://www.sciencenews.org/article/who-owns-your-bones-ed-note-august-2026",
-          "pubDate": "Sat, 18 Jul 2026 11:00:00 +0000"
+          "title": "Pompeii’s survivors shine in a new documentary series",
+          "summary": "Hosted by actor Tom Hiddleston, Pompeii: Out of Time mixes facts and fiction to bring three real ancient Romans to life.",
+          "link": "https://www.sciencenews.org/article/pompeii-documentary-tom-hiddleston",
+          "pubDate": "Mon, 20 Jul 2026 17:00:00 +0000"
         },
         {
-          "title": "Inside the fight against the parasite Cyclospora",
-          "summary": "Parasite-induced cases of explosive diarrhea are sweeping the United States. Containing the outbreak won’t be easy.",
-          "link": "https://www.sciencenews.org/article/cyclospora-outbreak-lettuce-diarrhea",
-          "pubDate": "Fri, 17 Jul 2026 21:26:09 +0000"
+          "title": "AI ‘ghosts’ can comfort mourners — even when the bots get the facts wrong",
+          "summary": "A small study suggests emotional fit, not perfect accuracy, may make chatbot versions of dead loved ones feel real.",
+          "link": "https://www.sciencenews.org/article/ai-ghosts-grief-facts-wrong-chatbot",
+          "pubDate": "Mon, 20 Jul 2026 15:00:00 +0000"
         },
         {
-          "title": "No, SpudCells aren’t alive. But they’re a step toward the first synthetic life",
-          "summary": "The lab-made cells open a window into what’s possible for synthetic life, researchers say.",
-          "link": "https://www.sciencenews.org/article/spudcells-synthetic-life-lab-made-cell",
-          "pubDate": "Fri, 17 Jul 2026 16:00:00 +0000"
+          "title": "In painted caves, ancient human DNA clings to the walls",
+          "summary": "Scientists recovered ancient human DNA from cave walls for the first time. Refined, the method could help link prehistoric paintings to their makers.",
+          "link": "https://www.sciencenews.org/article/ancient-human-dna-cave-walls",
+          "pubDate": "Mon, 20 Jul 2026 13:00:00 +0000"
         }
       ]
     }
