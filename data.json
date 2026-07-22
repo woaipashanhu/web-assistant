@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-21T23:00:25.765Z",
-  "date": "2026-07-22",
+  "lastUpdate": "2026-07-22T23:00:25.488Z",
+  "date": "2026-07-23",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
-          "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-          "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-          "pubDate": "Tue, 21 Jul 2026 22:50:01 +0000"
+          "title": "Why Lettuce Is Always Making People Sick",
+          "summary": "The cyclospora diarrhea outbreak isn’t an isolated incident. It’s part of a pattern of leafy greens wreaking digestive havoc.",
+          "link": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
+          "pubDate": "Wed, 22 Jul 2026 21:41:29 +0000"
         },
         {
-          "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
-          "summary": "The discounts may not beat Prime Day, but I found worthwhile prices on WIRED-approved TVs, laptops, tablets, speakers, and other home gear.",
-          "link": "https://www.wired.com/story/best-buy-black-friday-in-july-2026/",
-          "pubDate": "Tue, 21 Jul 2026 20:39:06 +0000"
+          "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+          "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+          "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+          "pubDate": "Wed, 22 Jul 2026 21:00:00 +0000"
         },
         {
-          "title": "Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak",
-          "summary": "The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC.",
-          "link": "https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying/",
-          "pubDate": "Tue, 21 Jul 2026 19:10:35 +0000"
+          "title": "Top Red-Light Therapy Deals at Nordstrom’s Anniversary Sale (2026)",
+          "summary": "Save on WIRED-tested LED therapy devices from TheraFace, HigherDose, and more.",
+          "link": "https://www.wired.com/story/red-light-device-deals-from-nordstroms-anniversary-sale-2026/",
+          "pubDate": "Wed, 22 Jul 2026 20:40:12 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "These are the countries moving to ban social media for children",
-          "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-          "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-          "pubDate": "Tue, 21 Jul 2026 20:57:35 +0000"
+          "title": "Google justifies its massive AI spending with a booming cloud business",
+          "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+          "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000"
         },
         {
-          "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-          "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-          "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-          "pubDate": "Tue, 21 Jul 2026 20:56:55 +0000"
+          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
+          "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+          "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "pubDate": "Wed, 22 Jul 2026 20:49:03 +0000"
         },
         {
-          "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-          "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-          "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-          "pubDate": "Tue, 21 Jul 2026 19:43:41 +0000"
+          "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+          "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
+          "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+          "pubDate": "Wed, 22 Jul 2026 20:43:38 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-          "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 21 Jul 2026 19:57:38 GMT"
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 22 Jul 2026 21:31:25 GMT"
         },
         {
-          "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-          "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 21 Jul 2026 18:07:34 GMT"
+          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+          "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 22 Jul 2026 22:17:54 GMT"
         },
         {
-          "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 21 Jul 2026 17:33:22 GMT"
+          "title": "Tankers make sharp U-turns after Houthi shipping threat",
+          "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 22 Jul 2026 14:42:49 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+          "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+          "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+          "pubDate": "Wed, 22 Jul 2026 22:06:49 GMT"
+        },
+        {
+          "title": "Kalshi launches election hub for prediction markets ahead of midterms",
+          "summary": "The company said the page gives viewers of its event contracts a central place to see speculators' outlook for the midterm elections.",
+          "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
+          "pubDate": "Wed, 22 Jul 2026 15:23:02 GMT"
+        },
         {
           "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
           "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
           "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
           "pubDate": "Tue, 21 Jul 2026 20:51:34 GMT"
-        },
-        {
-          "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won&apos;t survive",
-          "summary": "About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.",
-          "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
-          "pubDate": "Tue, 21 Jul 2026 20:01:39 GMT"
-        },
-        {
-          "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-          "summary": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
-          "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-          "pubDate": "Tue, 21 Jul 2026 14:37:08 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "5 takeaways from Hegseth, Caine hearing on emergency Iran funding",
-          "summary": "America’s top uniformed and civilian military leaders made their case in the Senate on Tuesday for an emergency funding package of nearly $80 billion to help replenish stockpiles spent during the Iran war and fund other Trump administration priorities. Democrats were highly skeptical of the request, asking why U.S. taxpayers should continue footing the bill&#8230;",
-          "link": "https://thehill.com/policy/defense/5982033-emergency-funding-military-leaders-iran-war-senate-hearing/",
-          "pubDate": "Tue, 21 Jul 2026 22:20:45 +0000"
+          "title": "Massachusetts voters to decide marijuana repeal question after challenge rejected",
+          "summary": "Massachusetts voters will decide in November if legal marijuana will be repealed after a challenge to the proposal was rejected Tuesday. The State Ballot Law Commission overruled an objection to the petition seeking to end the Bay State&#8217;s recreational cannabis law, allowing the proposal to be printed as a question on the ballot. The commission&#8217;s&#8230;",
+          "link": "https://thehill.com/homenews/state-watch/5984422-ma-marijuana-repeal-ballot/",
+          "pubDate": "Wed, 22 Jul 2026 22:35:40 +0000"
         },
         {
-          "title": "Wisconsin residents could lose voting rights over prediction market bets",
-          "summary": "Wisconsin’s Election Commission (WEC) warned in a statement on Tuesday that betting on elections that you cast ballots in is illegal in the state and there will be consequences. “We want voters to understand that they cannot legally make a bet on an election and cast a ballot in that same election,” WEC Administrator Meagan Wolfe said,&#8230;",
-          "link": "https://thehill.com/business/5982003-wisconsin-election-betting-illegal/",
-          "pubDate": "Tue, 21 Jul 2026 22:02:40 +0000"
+          "title": "Measles cases reach 35-year high",
+          "summary": "Presented by PhRMA {beacon}",
+          "link": "https://thehill.com/newsletters/healthcare/5984616-measles-cases-reach-35-year-high/",
+          "pubDate": "Wed, 22 Jul 2026 22:34:00 +0000"
         },
         {
-          "title": "Watch live: DDHQ Data Nerds track Arizona primaries",
-          "summary": "&#8220;The Hill&#8221; presents one hour of live, real-time primary night coverage, diving deep into the 2026 primary in Arizona on Tuesday evening from 9:30 p.m. to 10:30 p.m. EDT. The event will be anchored by NewsNation&#8217;s Cory Smith, joined by The Hill campaign and congressional reporters, Decision Desk HQ, plus political analysts. The live, primary&#8230;",
-          "link": "https://thehill.com/video-clips/5981527-hill-live-arizona-primary-coverage/",
-          "pubDate": "Tue, 21 Jul 2026 22:00:00 +0000"
+          "title": "Lindell, Tafoya widening leads in Minnesota GOP primaries: Poll",
+          "summary": "A new poll shows both businessman Mike Lindell and political and cultural commentator Michele Tafoya gaining momentum in the Minnesota Republican gubernatorial and Senate primaries, respectively. The poll, conducted by KSTP/SurveyUSA, shows that while the GOP frontrunners are gaining bigger leads, the Democratic Senate primary between Rep. Angie Craig (Minn.) and Lt. Gov. Peggy Flanagan&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5984540-lindell-tafoya-gains-gop-lead/",
+          "pubDate": "Wed, 22 Jul 2026 22:29:55 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Spain just opened a door America slammed shut",
-          "summary": "Spain just opened a door America slammed shut",
-          "link": "https://finance.yahoo.com/economy/policy/articles/spain-just-opened-door-america-021700849.html",
-          "pubDate": "2026-07-21T02:17:00Z"
+          "title": "Popular crypto firm files for Chapter 11 after token collapse",
+          "summary": "Popular crypto firm files for Chapter 11 after token collapse",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/popular-crypto-firm-files-chapter-213833642.html",
+          "pubDate": "2026-07-21T21:38:33Z"
         },
         {
-          "title": "Meta Just Poached a Top AWS Executive. Here’s What It Means for META Stock.",
-          "summary": "Meta Just Poached a Top AWS Executive. Here’s What It Means for META Stock.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/meta-just-poached-top-aws-144547337.html",
-          "pubDate": "2026-07-20T14:45:47Z"
+          "title": "AT&T Earnings Due Amid Rampant Starlink Wireless Speculation",
+          "summary": "AT&T Earnings Due Amid Rampant Starlink Wireless Speculation",
+          "link": "https://www.investors.com/news/technology/att-stock-att-earnings-elon-musk-starlink-wireless-speculation/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-07-21T15:03:59Z"
         },
         {
-          "title": "Chip stocks have been routed — but investors are forgetting one thing",
-          "summary": "Chip stocks have been routed — but investors are forgetting one thing",
-          "link": "https://finance.yahoo.com/markets/article/chip-stocks-have-been-routed--but-investors-are-forgetting-one-thing-144234764.html",
-          "pubDate": "2026-07-20T14:42:34Z"
+          "title": "This Analyst Just Upgraded Nebius Stock. Here's Why.",
+          "summary": "This Analyst Just Upgraded Nebius Stock. Here's Why.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upgraded-nebius-stock-150314720.html",
+          "pubDate": "2026-07-21T15:03:14Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
-          "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
-          "pubDate": "Tue, 21 Jul 2026 01:10:08 EDT"
+          "title": "A strange quantum effect dramatically boosts energy transfer",
+          "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+          "pubDate": "Wed, 22 Jul 2026 08:17:00 EDT"
         },
         {
-          "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
-          "summary": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe populations, pointing to extensive prehistoric contact.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
-          "pubDate": "Tue, 21 Jul 2026 04:59:24 EDT"
+          "title": "MIT’s new lidar chip could give self-driving cars a wider view",
+          "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+          "pubDate": "Wed, 22 Jul 2026 06:00:54 EDT"
         },
         {
-          "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
-          "summary": "Astronomers have found the first confirmed atmosphere around a rocky planet in another star’s habitable zone. The planet, LHS 1140 b, revealed its atmosphere through helium slowly leaking into space. Located 48 light-years away, the world may have preserved its atmosphere for billions of years, making it a promising target in the search for potentially habitable planets.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
-          "pubDate": "Tue, 21 Jul 2026 06:57:41 EDT"
+          "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+          "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E. faecium, raising hopes that similar chemical helpers could rescue other failing medicines.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+          "pubDate": "Wed, 22 Jul 2026 03:21:08 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Deep-sea snails ride surface currents to reach distant hydrothermal vents",
-          "summary": "The finding shows how life spreads between isolated deep-sea vents — and how closely those ecosystems are tied to the sunlit ocean.",
-          "link": "https://www.sciencenews.org/article/sea-snail-journey-hydrothermal-vents",
-          "pubDate": "Tue, 21 Jul 2026 17:30:00 +0000"
+          "title": "A newly found world blurs the boundary between planet and moon",
+          "summary": "The object orbits a brown dwarf that orbits a star, and astronomers aren’t sure if it’s a planet, a moon — or something else entirely.",
+          "link": "https://www.sciencenews.org/article/exoplanet-object-moon-planet-unknown",
+          "pubDate": "Wed, 22 Jul 2026 15:00:00 +0000"
         },
         {
-          "title": "An experimental oral vaccine may prevent invasive bacterial diarrhea",
-          "summary": "Shigella causes about 450,000 U.S. infections each year. An experimental oral vaccine protected adults in a small human trial.",
-          "link": "https://www.sciencenews.org/article/oral-vaccine-bacterial-diarrhea",
-          "pubDate": "Tue, 21 Jul 2026 14:30:00 +0000"
+          "title": "A rare 3-D snake fossil is spilling secrets of its unusual lifestyle",
+          "summary": "A new snake’s unique head anatomy suggests early snakes were even more diverse than thought. This one was a rare burrower.",
+          "link": "https://www.sciencenews.org/article/3d-rare-snake-fossil-underground-home",
+          "pubDate": "Wed, 22 Jul 2026 15:00:00 +0000"
         },
         {
-          "title": "Pompeii’s survivors shine in a new documentary series",
-          "summary": "Hosted by actor Tom Hiddleston, Pompeii: Out of Time mixes facts and fiction to bring three real ancient Romans to life.",
-          "link": "https://www.sciencenews.org/article/pompeii-documentary-tom-hiddleston",
-          "pubDate": "Mon, 20 Jul 2026 17:00:00 +0000"
+          "title": "Measles cases in the U.S. hit a new 34-year high",
+          "summary": "The U.S. hasn't seen measles numbers like this since 1992. An epidemiologist explains what's driving the surge.",
+          "link": "https://www.sciencenews.org/article/measles-us-34-high-elimination-vaccine",
+          "pubDate": "Wed, 22 Jul 2026 14:19:58 +0000"
         }
       ]
     }
