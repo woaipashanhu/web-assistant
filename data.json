@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-22T23:00:25.488Z",
-  "date": "2026-07-23",
+  "lastUpdate": "2026-07-23T23:00:25.380Z",
+  "date": "2026-07-24",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Why Lettuce Is Always Making People Sick",
-          "summary": "The cyclospora diarrhea outbreak isn’t an isolated incident. It’s part of a pattern of leafy greens wreaking digestive havoc.",
-          "link": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
-          "pubDate": "Wed, 22 Jul 2026 21:41:29 +0000"
+          "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+          "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+          "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+          "pubDate": "Thu, 23 Jul 2026 18:45:52 +0000"
         },
         {
-          "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-          "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
-          "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-          "pubDate": "Wed, 22 Jul 2026 21:00:00 +0000"
+          "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
+          "summary": "MSG’s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star’s rehearsal dinner.",
+          "link": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
+          "pubDate": "Thu, 23 Jul 2026 18:18:46 +0000"
         },
         {
-          "title": "Top Red-Light Therapy Deals at Nordstrom’s Anniversary Sale (2026)",
-          "summary": "Save on WIRED-tested LED therapy devices from TheraFace, HigherDose, and more.",
-          "link": "https://www.wired.com/story/red-light-device-deals-from-nordstroms-anniversary-sale-2026/",
-          "pubDate": "Wed, 22 Jul 2026 20:40:12 +0000"
+          "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+          "summary": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors.",
+          "link": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/",
+          "pubDate": "Thu, 23 Jul 2026 16:51:52 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Google justifies its massive AI spending with a booming cloud business",
-          "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-          "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-          "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000"
+          "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+          "summary": "Shashua has been invited to take the chairman of the board seat.",
+          "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+          "pubDate": "Thu, 23 Jul 2026 22:40:08 +0000"
         },
         {
-          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
-          "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-          "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-          "pubDate": "Wed, 22 Jul 2026 20:49:03 +0000"
+          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+          "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+          "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000"
         },
         {
-          "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
-          "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
-          "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
-          "pubDate": "Wed, 22 Jul 2026 20:43:38 +0000"
+          "title": "Patreon lays off 20% of its workforce",
+          "summary": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+          "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+          "pubDate": "Thu, 23 Jul 2026 20:30:07 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 22 Jul 2026 21:31:25 GMT"
+          "title": "Oil prices hit $100 for the first time since May",
+          "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 23 Jul 2026 15:31:00 GMT"
         },
         {
-          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-          "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 22 Jul 2026 22:17:54 GMT"
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+          "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 23 Jul 2026 17:58:02 GMT"
         },
         {
-          "title": "Tankers make sharp U-turns after Houthi shipping threat",
-          "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
-          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 22 Jul 2026 14:42:49 GMT"
+          "title": "France evacuates 20,000 as wildfires spread in south-west",
+          "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 23 Jul 2026 19:17:42 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
-          "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
-          "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-          "pubDate": "Wed, 22 Jul 2026 22:06:49 GMT"
+          "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+          "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+          "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+          "pubDate": "Thu, 23 Jul 2026 20:25:28 GMT"
         },
         {
-          "title": "Kalshi launches election hub for prediction markets ahead of midterms",
-          "summary": "The company said the page gives viewers of its event contracts a central place to see speculators' outlook for the midterm elections.",
-          "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-          "pubDate": "Wed, 22 Jul 2026 15:23:02 GMT"
+          "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+          "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+          "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+          "pubDate": "Thu, 23 Jul 2026 17:10:06 GMT"
         },
         {
-          "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-          "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-          "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
-          "pubDate": "Tue, 21 Jul 2026 20:51:34 GMT"
+          "title": "Shortsighted stock market can no longer brush off war: &apos;It&apos;s too hard to ignore $100 oil&apos;",
+          "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
+          "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+          "pubDate": "Thu, 23 Jul 2026 19:19:01 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Massachusetts voters to decide marijuana repeal question after challenge rejected",
-          "summary": "Massachusetts voters will decide in November if legal marijuana will be repealed after a challenge to the proposal was rejected Tuesday. The State Ballot Law Commission overruled an objection to the petition seeking to end the Bay State&#8217;s recreational cannabis law, allowing the proposal to be printed as a question on the ballot. The commission&#8217;s&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5984422-ma-marijuana-repeal-ballot/",
-          "pubDate": "Wed, 22 Jul 2026 22:35:40 +0000"
+          "title": "Patel returns looted artifacts to Indonesian president",
+          "summary": "A collection of cultural artifacts from Indonesia’s Papua region that were looted and illegally taken to the U.S. have been returned to Indonesian President Prabowo Subianto, Indonesian officials confirmed to reporters. The handover of the artifacts took place Wednesday at Prabowo’s residence in the Indonesian capital Jakarta during a meeting with FBI Director Kash Patel.&#8230;",
+          "link": "https://thehill.com/policy/international/5987370-us-returns-papua-cultural-artifacts/",
+          "pubDate": "Thu, 23 Jul 2026 22:29:06 +0000"
         },
         {
-          "title": "Measles cases reach 35-year high",
-          "summary": "Presented by PhRMA {beacon}",
-          "link": "https://thehill.com/newsletters/healthcare/5984616-measles-cases-reach-35-year-high/",
-          "pubDate": "Wed, 22 Jul 2026 22:34:00 +0000"
+          "title": "Fauci to face Rand Paul in Senate hearing next week",
+          "summary": "Dr. Anthony Fauci will testify next Wednesday in front of the Senate Homeland Security and Governmental Affairs Committee after being subpoenaed, chairman Rand Paul (R-Ky.) said Thursday. &#160; Paul has been laser-focused on Fauci, the nation’s former top infectious diseases doctor, for allegedly covering up the U.S.’s involvement in risky viral research in a Chinese&#8230;",
+          "link": "https://thehill.com/policy/healthcare/5987329-fauci-to-face-rand-paul-in-senate-hearing-next-week/",
+          "pubDate": "Thu, 23 Jul 2026 22:20:55 +0000"
         },
         {
-          "title": "Lindell, Tafoya widening leads in Minnesota GOP primaries: Poll",
-          "summary": "A new poll shows both businessman Mike Lindell and political and cultural commentator Michele Tafoya gaining momentum in the Minnesota Republican gubernatorial and Senate primaries, respectively. The poll, conducted by KSTP/SurveyUSA, shows that while the GOP frontrunners are gaining bigger leads, the Democratic Senate primary between Rep. Angie Craig (Minn.) and Lt. Gov. Peggy Flanagan&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5984540-lindell-tafoya-gains-gop-lead/",
-          "pubDate": "Wed, 22 Jul 2026 22:29:55 +0000"
+          "title": "Massachusetts House passes bill loosening late-term abortion restrictions",
+          "summary": "Massachusetts state House lawmakers on Wednesday passed a bill loosening restrictions on late-term abortion access. The bill, H.5595, passed 119-33 and will go to the state Senate, state House Speaker Ronald Mariano (D) said in a statement. If it passes the Senate, it will allow an abortion after 24 weeks, if approved by a doctor.&#8230;",
+          "link": "https://thehill.com/homenews/state-watch/5987187-massachusetts-house-passes-abortion-bill/",
+          "pubDate": "Thu, 23 Jul 2026 22:16:43 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Popular crypto firm files for Chapter 11 after token collapse",
-          "summary": "Popular crypto firm files for Chapter 11 after token collapse",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/popular-crypto-firm-files-chapter-213833642.html",
-          "pubDate": "2026-07-21T21:38:33Z"
+          "title": "The oil spike everyone feared never showed up",
+          "summary": "The oil spike everyone feared never showed up",
+          "link": "https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html",
+          "pubDate": "2026-07-23T02:03:00Z"
         },
         {
-          "title": "AT&T Earnings Due Amid Rampant Starlink Wireless Speculation",
-          "summary": "AT&T Earnings Due Amid Rampant Starlink Wireless Speculation",
-          "link": "https://www.investors.com/news/technology/att-stock-att-earnings-elon-musk-starlink-wireless-speculation/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-07-21T15:03:59Z"
+          "title": "Stock Indexes Mixed Ahead of Alphabet’s Earnings",
+          "summary": "Stock Indexes Mixed Ahead of Alphabet’s Earnings",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-mixed-ahead-alphabet-151522060.html",
+          "pubDate": "2026-07-22T15:15:22Z"
         },
         {
-          "title": "This Analyst Just Upgraded Nebius Stock. Here's Why.",
-          "summary": "This Analyst Just Upgraded Nebius Stock. Here's Why.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upgraded-nebius-stock-150314720.html",
-          "pubDate": "2026-07-21T15:03:14Z"
+          "title": "European Leveraged Finance Survey: Macro anxiety outweighs credit risk",
+          "summary": "European Leveraged Finance Survey: Macro anxiety outweighs credit risk",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/european-leveraged-finance-survey-macro-151235344.html",
+          "pubDate": "2026-07-22T15:12:35Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+          "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
+          "pubDate": "Thu, 23 Jul 2026 09:55:59 EDT"
+        },
         {
           "title": "A strange quantum effect dramatically boosts energy transfer",
           "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
@@ -241,36 +247,30 @@
           "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
           "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
           "pubDate": "Wed, 22 Jul 2026 06:00:54 EDT"
-        },
-        {
-          "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
-          "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E. faecium, raising hopes that similar chemical helpers could rescue other failing medicines.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
-          "pubDate": "Wed, 22 Jul 2026 03:21:08 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A newly found world blurs the boundary between planet and moon",
-          "summary": "The object orbits a brown dwarf that orbits a star, and astronomers aren’t sure if it’s a planet, a moon — or something else entirely.",
-          "link": "https://www.sciencenews.org/article/exoplanet-object-moon-planet-unknown",
-          "pubDate": "Wed, 22 Jul 2026 15:00:00 +0000"
+          "title": "Different moon rocks tell different tales about a long-ago bombardment",
+          "summary": "Prior moon rock samples, including from Apollo, seem heavily influenced by one impact. The farside samples tweak the story.",
+          "link": "https://www.sciencenews.org/article/farside-moon-rocks-late-heavy-battering",
+          "pubDate": "Thu, 23 Jul 2026 18:12:58 +0000"
         },
         {
-          "title": "A rare 3-D snake fossil is spilling secrets of its unusual lifestyle",
-          "summary": "A new snake’s unique head anatomy suggests early snakes were even more diverse than thought. This one was a rare burrower.",
-          "link": "https://www.sciencenews.org/article/3d-rare-snake-fossil-underground-home",
-          "pubDate": "Wed, 22 Jul 2026 15:00:00 +0000"
+          "title": "The golden age of language was a few thousand years ago",
+          "summary": "A few millennia ago, people worldwide may have spoken or signed up to 10 times as many languages as they do today.",
+          "link": "https://www.sciencenews.org/article/golden-age-language-history-diversity",
+          "pubDate": "Thu, 23 Jul 2026 18:01:34 +0000"
         },
         {
-          "title": "Measles cases in the U.S. hit a new 34-year high",
-          "summary": "The U.S. hasn't seen measles numbers like this since 1992. An epidemiologist explains what's driving the surge.",
-          "link": "https://www.sciencenews.org/article/measles-us-34-high-elimination-vaccine",
-          "pubDate": "Wed, 22 Jul 2026 14:19:58 +0000"
+          "title": "Watch an orca ram into a sunfish so hard it explodes",
+          "summary": "This strategy expands orcas’ already broad repertoire for dispatching different types of prey.",
+          "link": "https://www.sciencenews.org/article/orca-ram-into-sunfish-explodes",
+          "pubDate": "Thu, 23 Jul 2026 04:00:00 +0000"
         }
       ]
     }
