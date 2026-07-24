@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-23T23:00:25.380Z",
-  "date": "2026-07-24",
+  "lastUpdate": "2026-07-24T23:00:25.409Z",
+  "date": "2026-07-25",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-          "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
-          "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-          "pubDate": "Thu, 23 Jul 2026 18:45:52 +0000"
+          "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
+          "summary": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
+          "link": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+          "pubDate": "Fri, 24 Jul 2026 22:30:26 +0000"
         },
         {
-          "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
-          "summary": "MSG’s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star’s rehearsal dinner.",
-          "link": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
-          "pubDate": "Thu, 23 Jul 2026 18:18:46 +0000"
+          "title": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
+          "summary": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
+          "link": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
+          "pubDate": "Fri, 24 Jul 2026 20:42:11 +0000"
         },
         {
-          "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
-          "summary": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors.",
-          "link": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/",
-          "pubDate": "Thu, 23 Jul 2026 16:51:52 +0000"
+          "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
+          "summary": "This climate phenomenon could cause a massive global temperature spike and cause economic losses of $10 trillion by 2032.",
+          "link": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
+          "pubDate": "Fri, 24 Jul 2026 18:50:02 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-          "summary": "Shashua has been invited to take the chairman of the board seat.",
-          "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-          "pubDate": "Thu, 23 Jul 2026 22:40:08 +0000"
+          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+          "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+          "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000"
         },
         {
-          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-          "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-          "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-          "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000"
+          "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+          "summary": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+          "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+          "pubDate": "Fri, 24 Jul 2026 22:10:00 +0000"
         },
         {
-          "title": "Patreon lays off 20% of its workforce",
-          "summary": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
-          "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-          "pubDate": "Thu, 23 Jul 2026 20:30:07 +0000"
+          "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+          "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+          "link": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+          "pubDate": "Fri, 24 Jul 2026 21:15:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Oil prices hit $100 for the first time since May",
-          "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 23 Jul 2026 15:31:00 GMT"
+          "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+          "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 24 Jul 2026 21:47:16 GMT"
         },
         {
-          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-          "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-          "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 23 Jul 2026 17:58:02 GMT"
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 24 Jul 2026 18:51:17 GMT"
         },
         {
-          "title": "France evacuates 20,000 as wildfires spread in south-west",
-          "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-          "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 23 Jul 2026 19:17:42 GMT"
+          "title": "Trump vows to investigate EU over fining of US tech companies",
+          "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 24 Jul 2026 20:23:58 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Moody&apos;s says &apos;unprecedented&apos; AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+          "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+          "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+          "pubDate": "Fri, 24 Jul 2026 22:43:56 GMT"
+        },
+        {
+          "title": "U.S., other nations back open-source AI with &apos;strong security&apos; at China summit",
+          "summary": "The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.",
+          "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
+          "pubDate": "Fri, 24 Jul 2026 02:42:21 GMT"
+        },
         {
           "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
           "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
           "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
           "pubDate": "Thu, 23 Jul 2026 20:25:28 GMT"
-        },
-        {
-          "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
-          "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
-          "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-          "pubDate": "Thu, 23 Jul 2026 17:10:06 GMT"
-        },
-        {
-          "title": "Shortsighted stock market can no longer brush off war: &apos;It&apos;s too hard to ignore $100 oil&apos;",
-          "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
-          "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
-          "pubDate": "Thu, 23 Jul 2026 19:19:01 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Patel returns looted artifacts to Indonesian president",
-          "summary": "A collection of cultural artifacts from Indonesia’s Papua region that were looted and illegally taken to the U.S. have been returned to Indonesian President Prabowo Subianto, Indonesian officials confirmed to reporters. The handover of the artifacts took place Wednesday at Prabowo’s residence in the Indonesian capital Jakarta during a meeting with FBI Director Kash Patel.&#8230;",
-          "link": "https://thehill.com/policy/international/5987370-us-returns-papua-cultural-artifacts/",
-          "pubDate": "Thu, 23 Jul 2026 22:29:06 +0000"
+          "title": "Green grant cancellations were &#8216;based solely&#8217; on states&#8217; political affiliation, Trump administration says in court",
+          "summary": "Federal green grants canceled last year were selected “solely” based on a state’s political affiliation, the Trump administration said in a recent court filing.&#160; In the filing, Department of Energy (DOE) lawyer Jeff Novak said the department came up with a list of 624 grants slated for potential termination. Novak said the White House Office of&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5989622-trump-administration-federal-grant-cancellations-blue-states/",
+          "pubDate": "Fri, 24 Jul 2026 22:05:39 +0000"
         },
         {
-          "title": "Fauci to face Rand Paul in Senate hearing next week",
-          "summary": "Dr. Anthony Fauci will testify next Wednesday in front of the Senate Homeland Security and Governmental Affairs Committee after being subpoenaed, chairman Rand Paul (R-Ky.) said Thursday. &#160; Paul has been laser-focused on Fauci, the nation’s former top infectious diseases doctor, for allegedly covering up the U.S.’s involvement in risky viral research in a Chinese&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5987329-fauci-to-face-rand-paul-in-senate-hearing-next-week/",
-          "pubDate": "Thu, 23 Jul 2026 22:20:55 +0000"
+          "title": "Panetta on Iran war: US &#8216;in deep trouble&#8217;",
+          "summary": "Former Defense Secretary Leon Panetta said the United States is in “deep trouble” with the Iran war, comparing it to the U.S.’s drawn-out conflict in Vietnam. Panetta, who also led the CIA during the Obama administration, told CNN in an interview that &#8220;history tells us that forever wars do not end well,&#8221; when asked which&#8230;",
+          "link": "https://thehill.com/homenews/5989591-panetta-on-iran-war-us-in-deep-trouble/",
+          "pubDate": "Fri, 24 Jul 2026 21:59:02 +0000"
         },
         {
-          "title": "Massachusetts House passes bill loosening late-term abortion restrictions",
-          "summary": "Massachusetts state House lawmakers on Wednesday passed a bill loosening restrictions on late-term abortion access. The bill, H.5595, passed 119-33 and will go to the state Senate, state House Speaker Ronald Mariano (D) said in a statement. If it passes the Senate, it will allow an abortion after 24 weeks, if approved by a doctor.&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/5987187-massachusetts-house-passes-abortion-bill/",
-          "pubDate": "Thu, 23 Jul 2026 22:16:43 +0000"
+          "title": "Live updates: Trump set to return to White House correspondents&#8217; dinner",
+          "summary": "President Trump will speak Friday evening at the rescheduled White House Correspondents&#8217; Association dinner. The association said earlier this week it will honor a Secret Service agent who was pivotal in stopping a gunman who tried to assassinate Trump during the annual dinner this spring. U.S. forces have launched strikes against Iran for nearly two&#8230;",
+          "link": "https://thehill.com/homenews/administration/5986971-live-updates-trump-iran-tariffs-white-house-correspondents-dinner/",
+          "pubDate": "Fri, 24 Jul 2026 21:36:06 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "The oil spike everyone feared never showed up",
-          "summary": "The oil spike everyone feared never showed up",
-          "link": "https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html",
-          "pubDate": "2026-07-23T02:03:00Z"
+          "title": "World’s quietest metal just dropped a huge bullish signal",
+          "summary": "World’s quietest metal just dropped a huge bullish signal",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/world-quietest-metal-just-dropped-221118249.html",
+          "pubDate": "2026-07-23T22:11:18Z"
         },
         {
-          "title": "Stock Indexes Mixed Ahead of Alphabet’s Earnings",
-          "summary": "Stock Indexes Mixed Ahead of Alphabet’s Earnings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-mixed-ahead-alphabet-151522060.html",
-          "pubDate": "2026-07-22T15:15:22Z"
+          "title": "This Surging AI Server Stock Jumps 20% as Gross Margin Doubles",
+          "summary": "This Surging AI Server Stock Jumps 20% as Gross Margin Doubles",
+          "link": "https://finance.yahoo.com/technology/ai/articles/surging-ai-server-stock-jumps-154504114.html",
+          "pubDate": "2026-07-23T15:45:04Z"
         },
         {
-          "title": "European Leveraged Finance Survey: Macro anxiety outweighs credit risk",
-          "summary": "European Leveraged Finance Survey: Macro anxiety outweighs credit risk",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/european-leveraged-finance-survey-macro-151235344.html",
-          "pubDate": "2026-07-22T15:12:35Z"
+          "title": "“It Ain’t That Bad That I Got to Pay Somebody to Come Here.” Why a Man Who Runs 65 Owner-Operators Says Sign-On Bonuses Repel the Drivers You Actually Want.",
+          "summary": "“It Ain’t That Bad That I Got to Pay Somebody to Come Here.” Why a Man Who Runs 65 Owner-Operators Says Sign-On Bonuses Repel the Drivers You Actually Want.",
+          "link": "https://finance.yahoo.com/small-business/articles/ain-t-bad-got-pay-154202571.html",
+          "pubDate": "2026-07-23T15:42:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
-          "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
-          "pubDate": "Thu, 23 Jul 2026 09:55:59 EDT"
+          "title": "Scientists discover a compound that could supercharge aging muscle repair",
+          "summary": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
+          "pubDate": "Fri, 24 Jul 2026 09:37:50 EDT"
         },
         {
-          "title": "A strange quantum effect dramatically boosts energy transfer",
-          "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
-          "pubDate": "Wed, 22 Jul 2026 08:17:00 EDT"
+          "title": "A new antiviral could stop measles before an outbreak takes off",
+          "summary": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
+          "pubDate": "Fri, 24 Jul 2026 09:27:10 EDT"
         },
         {
-          "title": "MIT’s new lidar chip could give self-driving cars a wider view",
-          "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
-          "pubDate": "Wed, 22 Jul 2026 06:00:54 EDT"
+          "title": "APOE2 may protect the brain from Alzheimer’s and aging",
+          "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
+          "pubDate": "Fri, 24 Jul 2026 02:00:15 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Different moon rocks tell different tales about a long-ago bombardment",
-          "summary": "Prior moon rock samples, including from Apollo, seem heavily influenced by one impact. The farside samples tweak the story.",
-          "link": "https://www.sciencenews.org/article/farside-moon-rocks-late-heavy-battering",
-          "pubDate": "Thu, 23 Jul 2026 18:12:58 +0000"
+          "title": "What&#8217;s to blame for Canada&#8217;s wildfires?",
+          "summary": "The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.",
+          "link": "https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke",
+          "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
         },
         {
-          "title": "The golden age of language was a few thousand years ago",
-          "summary": "A few millennia ago, people worldwide may have spoken or signed up to 10 times as many languages as they do today.",
-          "link": "https://www.sciencenews.org/article/golden-age-language-history-diversity",
-          "pubDate": "Thu, 23 Jul 2026 18:01:34 +0000"
+          "title": "Struggling with a hard life choice? AI future selves have tips",
+          "summary": "A chat with aged avatars of future selves can guide people paralyzed by tough decisions. The question is what information to feed the bots.",
+          "link": "https://www.sciencenews.org/article/life-choice-ai-future-selves-decisions",
+          "pubDate": "Fri, 24 Jul 2026 15:00:00 +0000"
         },
         {
-          "title": "Watch an orca ram into a sunfish so hard it explodes",
-          "summary": "This strategy expands orcas’ already broad repertoire for dispatching different types of prey.",
-          "link": "https://www.sciencenews.org/article/orca-ram-into-sunfish-explodes",
-          "pubDate": "Thu, 23 Jul 2026 04:00:00 +0000"
+          "title": "What kinds of black holes exist — and how are they different?",
+          "summary": "Scientists have identified four types of black holes, classified mostly by their masses. But these mysterious objects continue to challenge our understanding of the universe.",
+          "link": "https://www.sciencenews.org/article/video-black-hole-types",
+          "pubDate": "Fri, 24 Jul 2026 13:00:00 +0000"
         }
       ]
     }
