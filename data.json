@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-25T23:00:25.851Z",
-  "date": "2026-07-26",
+  "lastUpdate": "2026-07-26T23:00:14.317Z",
+  "date": "2026-07-27",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
-          "summary": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
-          "link": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
-          "pubDate": "Sat, 25 Jul 2026 11:06:00 +0000"
+          "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+          "summary": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+          "link": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+          "pubDate": "Sun, 26 Jul 2026 11:09:00 +0000"
         },
         {
-          "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
-          "summary": "These e-readers are more useful in their old age than you might think.",
-          "link": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
-          "pubDate": "Sat, 25 Jul 2026 11:00:00 +0000"
+          "title": "All the Ways You Can Make Reading on Your Phone Easier",
+          "summary": "Tired of eye strain? These tips will help optimize your smartphone for marathon reading sessions.",
+          "link": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
+          "pubDate": "Sun, 26 Jul 2026 11:00:00 +0000"
         },
         {
-          "title": "Why Leatherology Makes Some of the Best Totes for Work (2026)",
-          "summary": "I packed these Leatherology totes with laptops, chargers, and everything else my workday demands. Months later, they’re still the bags I keep reaching for.",
-          "link": "https://www.wired.com/story/leatherology-totes-for-carrying-tech/",
-          "pubDate": "Sat, 25 Jul 2026 10:38:00 +0000"
+          "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
+          "summary": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
+          "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
+          "pubDate": "Sun, 26 Jul 2026 10:45:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-          "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-          "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-          "pubDate": "Sat, 25 Jul 2026 20:55:11 +0000"
+          "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+          "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+          "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+          "pubDate": "Sun, 26 Jul 2026 21:06:44 +0000"
         },
         {
-          "title": "The hacker who humiliated spyware makers and was never caught",
-          "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
-          "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-          "pubDate": "Sat, 25 Jul 2026 20:24:14 +0000"
+          "title": "Making sense of the panic over Chinese AI",
+          "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+          "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000"
         },
         {
-          "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-          "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-          "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-          "pubDate": "Sat, 25 Jul 2026 19:23:32 +0000"
+          "title": "Inside one London founder house rewriting the founder-house rules",
+          "summary": "How one founder house is betting work-life balance can beat burnout .",
+          "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+          "pubDate": "Sun, 26 Jul 2026 17:03:19 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "More than 250,000 flee wildfires in France and Spain",
-          "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-          "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 25 Jul 2026 17:13:40 GMT"
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 26 Jul 2026 19:21:26 GMT"
         },
         {
-          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-          "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 25 Jul 2026 13:51:07 GMT"
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 26 Jul 2026 20:34:23 GMT"
         },
         {
-          "title": "India's 'cockroach' protest called off after education minister quits",
-          "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-          "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 25 Jul 2026 17:44:46 GMT"
+          "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+          "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+          "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 26 Jul 2026 21:23:53 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Appeals court upholds injunction on President Trump&#8217;s mail-in voting order",
-          "summary": "A federal appeals court on Saturday ruled against the Trump administration&#8217;s efforts to implement stricter mail-in voting rules before midterm elections in the coming months, with control of both the House and Senate up for grabs. The 1st U.S. Circuit of Appeals declined to lift a lower-court injunction from June that ruled parts of President&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5990609-appeals-court-upholds-injunction-on-president-trumps-mail-in-voting-order/",
-          "pubDate": "Sat, 25 Jul 2026 22:17:28 +0000"
+          "title": "DSA co-chair: &#8216;Establishment Democrats should be worried about the voters&#8217;",
+          "summary": "Democratic Socialist of America (DSA) national co-chair Megan Romer on Sunday said more mainstream Democrats &#8220;should be worried about the voters.&#8221; Romer appeared on &#8220;Fox News Sunday,&#8221; where host Shannon Bream asked if the Democratic Party should worry about DSA &#8220;plans&#8221; for the party. &#8220;The establishment Democrats should be worried about the voters and about&#8230;",
+          "link": "https://thehill.com/homenews/campaign/5991320-dsa-warns-democrats-voter-discontent/",
+          "pubDate": "Sun, 26 Jul 2026 21:40:01 +0000"
         },
         {
-          "title": "Sunday shows preview: Trump faces pressure on Iran endgame as war widens",
-          "summary": "The Trump administration reached two weeks of renewed strikes on Iranian military targets this week, with tensions in the region remaining high heading into Sunday. Iran-backed Houthi rebels launched missiles and drone attacks at Saudi Arabia on Saturday, in an apparent retaliation for Saudi attacks on a coastal city in Yemen. It was the latest&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/5990587-sunday-shows-preview-july-26/",
-          "pubDate": "Sat, 25 Jul 2026 21:53:17 +0000"
+          "title": "Nearly 8 in 10 Americans say Iran war has been harder than Trump administration expected: Poll",
+          "summary": "As the U.S. war with Iran approaches the five-month mark, a new survey indicates that more than three-fourths of 2,193 respondents believe the Trump administration has had more difficulty navigating the conflict than it expected. Two in 10 respondents of the CBS News/YouGov poll said the conflict has gone about as smoothly as the administration&#8230;",
+          "link": "https://thehill.com/homenews/administration/5991332-trump-iran-war-poll/",
+          "pubDate": "Sun, 26 Jul 2026 21:39:48 +0000"
         },
         {
-          "title": "5 standout moments from Trump&#8217;s fiery WHCA dinner speech",
-          "summary": "President Trump was given a second chance Friday evening to deliver a speech before the White House Correspondents&#8217; Association (WHCA) dinner — his first time addressing the crowd as president. Three months after the first event was derailed by an assassination attempt, Trump took to the podium at the Waldorf Astoria hotel in Washington, acknowledging&#8230;",
-          "link": "https://thehill.com/homenews/administration/5990184-donald-trump-white-house-correspondents-dinner-speech-fiery-moments/",
-          "pubDate": "Sat, 25 Jul 2026 21:42:14 +0000"
+          "title": "House Republicans look to silver linings for midterm playbook as they embark on recess",
+          "summary": "House Republicans are fanning out across the country for August recess hoping to capitalize on silver linings in an otherwise tough midterm environment as they kick off a 100-day sprint to Election Day. They are looking for bright spots in mostly daunting public polling. They are taking every opportunity to&#160;tie all Democrats&#160;to the far-left candidates&#8230;",
+          "link": "https://thehill.com/homenews/house/5989533-house-gop-midterms-recess/",
+          "pubDate": "Sun, 26 Jul 2026 21:00:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Outdoor giant now closing 91 stores in Chapter 11 bankruptcy",
-          "summary": "Outdoor giant now closing 91 stores in Chapter 11 bankruptcy",
-          "link": "https://finance.yahoo.com/small-business/articles/outdoor-giant-now-closing-91-161700671.html",
-          "pubDate": "2026-07-24T16:17:00Z"
+          "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
+          "summary": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
+          "pubDate": "2026-07-26T15:07:00Z"
         },
         {
-          "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
-          "summary": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+          "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
+          "summary": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-07-25T22:02:53Z"
+          "pubDate": "2026-07-26T22:42:36Z"
         },
         {
-          "title": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
-          "summary": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-good-stock-190442460.html",
-          "pubDate": "2026-07-25T19:04:42Z"
+          "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+          "summary": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+          "link": "https://finance.yahoo.com/energy/articles/u-jet-fuel-costs-soar-210000933.html",
+          "pubDate": "2026-07-26T21:00:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A daily fiber supplement reduced knee arthritis pain and improved strength",
-          "summary": "A prebiotic fiber supplement reduced knee osteoarthritis pain while also improving grip strength and pain sensitivity in a six-week trial. The results hint at a fascinating gut-muscle-pain connection and suggest that a simple daily supplement may be easier to maintain than digital physiotherapy.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm",
-          "pubDate": "Sat, 25 Jul 2026 06:01:05 EDT"
+          "title": "Why losing the wrong fat can trigger diabetes",
+          "summary": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also from losing the healthy fat tissue the body needs.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
+          "pubDate": "Sun, 26 Jul 2026 07:43:14 EDT"
         },
         {
-          "title": "The Universe can outrun light without breaking Einstein’s rules",
-          "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-          "pubDate": "Sat, 25 Jul 2026 09:17:03 EDT"
+          "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
+          "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a promising new target for treatments designed to extend cognitive resilience.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+          "pubDate": "Sun, 26 Jul 2026 06:14:57 EDT"
         },
         {
-          "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-          "summary": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating substance use disorder.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
-          "pubDate": "Sat, 25 Jul 2026 07:34:04 EDT"
+          "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+          "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary places filled with mystery, nostalgia and unease.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+          "pubDate": "Sun, 26 Jul 2026 04:16:35 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "siteName": "Science News",
       "items": [
         {
