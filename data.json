@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-26T23:00:14.317Z",
-  "date": "2026-07-27",
+  "lastUpdate": "2026-07-27T23:00:14.116Z",
+  "date": "2026-07-28",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-          "summary": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-          "link": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-          "pubDate": "Sun, 26 Jul 2026 11:09:00 +0000"
+          "title": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
+          "summary": "Extreme fire conditions on the ground have created unprecedented conditions in the atmosphere.",
+          "link": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/",
+          "pubDate": "Mon, 27 Jul 2026 22:57:20 +0000"
         },
         {
-          "title": "All the Ways You Can Make Reading on Your Phone Easier",
-          "summary": "Tired of eye strain? These tips will help optimize your smartphone for marathon reading sessions.",
-          "link": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
-          "pubDate": "Sun, 26 Jul 2026 11:00:00 +0000"
+          "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
+          "summary": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them.",
+          "link": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
+          "pubDate": "Mon, 27 Jul 2026 21:06:54 +0000"
         },
         {
-          "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
-          "summary": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
-          "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
-          "pubDate": "Sun, 26 Jul 2026 10:45:00 +0000"
+          "title": "DHS Official Resigns, Citing ‘War on Immigrants’",
+          "summary": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration crackdown.",
+          "link": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
+          "pubDate": "Mon, 27 Jul 2026 20:34:04 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
-          "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
-          "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-          "pubDate": "Sun, 26 Jul 2026 21:06:44 +0000"
+          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+          "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+          "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000"
         },
         {
-          "title": "Making sense of the panic over Chinese AI",
-          "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-          "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-          "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000"
+          "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+          "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+          "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+          "pubDate": "Mon, 27 Jul 2026 20:40:12 +0000"
         },
         {
-          "title": "Inside one London founder house rewriting the founder-house rules",
-          "summary": "How one founder house is betting work-life balance can beat burnout .",
-          "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-          "pubDate": "Sun, 26 Jul 2026 17:03:19 +0000"
+          "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+          "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+          "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+          "pubDate": "Mon, 27 Jul 2026 20:40:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Berlin Pride attack suspect shot and killed during police operation",
-          "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 26 Jul 2026 19:21:26 GMT"
+          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+          "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+          "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 27 Jul 2026 20:34:55 GMT"
         },
         {
-          "title": "What we know so far about the Berlin Pride ramming attack",
-          "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
-          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 26 Jul 2026 20:34:23 GMT"
+          "title": "Trump says Iran war talks taking place during lull in strikes",
+          "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+          "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 27 Jul 2026 21:10:56 GMT"
         },
         {
-          "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-          "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
-          "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sun, 26 Jul 2026 21:23:53 GMT"
+          "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+          "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Mon, 27 Jul 2026 16:33:05 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+          "summary": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.",
+          "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+          "pubDate": "Mon, 27 Jul 2026 18:06:35 GMT"
+        },
         {
           "title": "Moody&apos;s says &apos;unprecedented&apos; AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
           "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
@@ -145,17 +151,11 @@
           "summary": "The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.",
           "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
           "pubDate": "Fri, 24 Jul 2026 02:42:21 GMT"
-        },
-        {
-          "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-          "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-          "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-          "pubDate": "Thu, 23 Jul 2026 20:25:28 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,33 +179,39 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "DSA co-chair: &#8216;Establishment Democrats should be worried about the voters&#8217;",
-          "summary": "Democratic Socialist of America (DSA) national co-chair Megan Romer on Sunday said more mainstream Democrats &#8220;should be worried about the voters.&#8221; Romer appeared on &#8220;Fox News Sunday,&#8221; where host Shannon Bream asked if the Democratic Party should worry about DSA &#8220;plans&#8221; for the party. &#8220;The establishment Democrats should be worried about the voters and about&#8230;",
-          "link": "https://thehill.com/homenews/campaign/5991320-dsa-warns-democrats-voter-discontent/",
-          "pubDate": "Sun, 26 Jul 2026 21:40:01 +0000"
+          "title": "Senate tees up final vote on Jay Clayton intel chief nomination",
+          "summary": "The Senate cleared a final procedural hurdle Monday night on President Trump’s nominee to lead the Office of the Director of National Intelligence (ODNI), teeing up Jay Clayton for a final vote this week. The 51-43 vote to advance the nomination means the Senate could confirm Clayton as early as Tuesday night to be the&#8230;",
+          "link": "https://thehill.com/homenews/senate/5992931-clayton-dni-confirmation-senate/",
+          "pubDate": "Mon, 27 Jul 2026 22:28:18 +0000"
         },
         {
-          "title": "Nearly 8 in 10 Americans say Iran war has been harder than Trump administration expected: Poll",
-          "summary": "As the U.S. war with Iran approaches the five-month mark, a new survey indicates that more than three-fourths of 2,193 respondents believe the Trump administration has had more difficulty navigating the conflict than it expected. Two in 10 respondents of the CBS News/YouGov poll said the conflict has gone about as smoothly as the administration&#8230;",
-          "link": "https://thehill.com/homenews/administration/5991332-trump-iran-war-poll/",
-          "pubDate": "Sun, 26 Jul 2026 21:39:48 +0000"
+          "title": "40 percent report buying less produce amid cyclospora outbreak: Poll",
+          "summary": "A poll released Sunday shows that 40 percent of U.S. adults are buying or eating less produce after the cyclospora outbreak. Comparatively, according to survey results from CBS/YouGov, 4 percent of people said they are eating more produce.&#160; Among respondents, 56 percent said there has been no change in their diet. Earlier this month, the&#8230;",
+          "link": "https://thehill.com/business/5992862-cyclospora-outbreak-produce-fda-survey/",
+          "pubDate": "Mon, 27 Jul 2026 21:44:01 +0000"
         },
         {
-          "title": "House Republicans look to silver linings for midterm playbook as they embark on recess",
-          "summary": "House Republicans are fanning out across the country for August recess hoping to capitalize on silver linings in an otherwise tough midterm environment as they kick off a 100-day sprint to Election Day. They are looking for bright spots in mostly daunting public polling. They are taking every opportunity to&#160;tie all Democrats&#160;to the far-left candidates&#8230;",
-          "link": "https://thehill.com/homenews/house/5989533-house-gop-midterms-recess/",
-          "pubDate": "Sun, 26 Jul 2026 21:00:00 +0000"
+          "title": "Federal panel votes to propose changes to historic preservation rules that Trump administration says holds up projects",
+          "summary": "A federal panel on Friday voted to advance a revamp of the nation’s historic preservation rules that Trump administration officials say slow down projects. The Advisory Council on Historic Preservation, which is made up primarily of Trump appointees, voted to propose to rewrite requirements to consult with the public if a project may impact historic&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5992963-donald-trump-dc-arch-historic-preservation/",
+          "pubDate": "Mon, 27 Jul 2026 21:44:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "雅虎财经",
       "items": [
+        {
+          "title": "52-year-old international restaurant chain closing all locations",
+          "summary": "52-year-old international restaurant chain closing all locations",
+          "link": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
+          "pubDate": "2026-07-27T14:57:07Z"
+        },
         {
           "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
           "summary": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
@@ -213,64 +219,58 @@
           "pubDate": "2026-07-26T15:07:00Z"
         },
         {
-          "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
-          "summary": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-07-26T22:42:36Z"
-        },
-        {
-          "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
-          "summary": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
-          "link": "https://finance.yahoo.com/energy/articles/u-jet-fuel-costs-soar-210000933.html",
-          "pubDate": "2026-07-26T21:00:00Z"
+          "title": "Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks",
+          "summary": "Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/elizabeth-warren-says-house-stock-143000935.html",
+          "pubDate": "2026-07-26T14:30:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Why losing the wrong fat can trigger diabetes",
-          "summary": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also from losing the healthy fat tissue the body needs.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
-          "pubDate": "Sun, 26 Jul 2026 07:43:14 EDT"
+          "title": "Why Jupiter has several giant moons but Saturn has only Titan",
+          "summary": "Young Jupiter’s powerful magnetic field may have created a safe zone where several large moons could survive. Saturn lacked this protection, possibly explaining why Titan stands almost alone among its largest moons.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260727012143.htm",
+          "pubDate": "Mon, 27 Jul 2026 06:24:05 EDT"
         },
         {
-          "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
-          "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a promising new target for treatments designed to extend cognitive resilience.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
-          "pubDate": "Sun, 26 Jul 2026 06:14:57 EDT"
+          "title": "After 241 days in orbit this NASA astronaut is finally home",
+          "summary": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips around the planet.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
+          "pubDate": "Mon, 27 Jul 2026 04:06:53 EDT"
         },
         {
-          "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
-          "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary places filled with mystery, nostalgia and unease.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
-          "pubDate": "Sun, 26 Jul 2026 04:16:35 EDT"
+          "title": "Scientists reveal what sparkling water really does to your teeth",
+          "summary": "Unsweetened sparkling water may offer a tooth-friendlier alternative to sugary soda, according to a small preliminary study tracking how different drinks change mouth acidity. Soda caused the strongest and longest drop in salivary pH, while sparkling water produced only a temporary decline before saliva restored normal conditions. Importantly, acidity remained above the level associated with enamel damage.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260727012126.htm",
+          "pubDate": "Mon, 27 Jul 2026 08:52:47 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Seals&#8217; amphibious hearing developed a long, long time ago",
+          "summary": "Researchers scanned the ears of hundreds of marine mammals to deduce when pinnipeds evolved to hear well in both air and water.",
+          "link": "https://www.sciencenews.org/article/seals-amphibious-hearing-long-ago",
+          "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Spines of saber-toothed cats tell a tale of the doomed species",
+          "summary": "Remains pulled from the La Brea Tar Pits revealed deformed vertebrae and rare tumors, possible signs of inbreeding among now-extinct saber-toothed cats.",
+          "link": "https://www.sciencenews.org/article/spine-saber-toothed-cat-tumor-extinct",
+          "pubDate": "Mon, 27 Jul 2026 04:00:00 +0000"
+        },
         {
           "title": "What&#8217;s to blame for Canada&#8217;s wildfires?",
           "summary": "The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.",
           "link": "https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke",
           "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
-        },
-        {
-          "title": "Struggling with a hard life choice? AI future selves have tips",
-          "summary": "A chat with aged avatars of future selves can guide people paralyzed by tough decisions. The question is what information to feed the bots.",
-          "link": "https://www.sciencenews.org/article/life-choice-ai-future-selves-decisions",
-          "pubDate": "Fri, 24 Jul 2026 15:00:00 +0000"
-        },
-        {
-          "title": "What kinds of black holes exist — and how are they different?",
-          "summary": "Scientists have identified four types of black holes, classified mostly by their masses. But these mysterious objects continue to challenge our understanding of the universe.",
-          "link": "https://www.sciencenews.org/article/video-black-hole-types",
-          "pubDate": "Fri, 24 Jul 2026 13:00:00 +0000"
         }
       ]
     }
