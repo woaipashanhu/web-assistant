@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-28T23:00:57.871Z",
-  "date": "2026-07-29",
+  "lastUpdate": "2026-07-29T23:00:53.821Z",
+  "date": "2026-07-30",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
-          "summary": "For months on end, eBay employees and contractors made life hell for a couple that had criticized the company. Six years later, the company is finally paying up.",
-          "link": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
-          "pubDate": "Tue, 28 Jul 2026 20:15:19 +0000"
+          "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
+          "summary": "Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what.",
+          "link": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
+          "pubDate": "Wed, 29 Jul 2026 21:00:00 +0000"
         },
         {
-          "title": "Laura Loomer’s Reversal on Ukraine Stirs Up the MAGA Civil War",
-          "summary": "Donald Trump’s base has been increasingly spilt. Laura Loomer’s sudden embrace of Ukraine has only widened that divide.",
-          "link": "https://www.wired.com/story/laura-loomer-ukraine/",
-          "pubDate": "Tue, 28 Jul 2026 19:30:33 +0000"
+          "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
+          "summary": "Save up to $100 on Apple’s latest AirPods models before prices go back up.",
+          "link": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
+          "pubDate": "Wed, 29 Jul 2026 20:44:10 +0000"
         },
         {
-          "title": "Is the Electric Trike the Next Big Thing in Shared Micromobility?",
-          "summary": "Veo is launching accessibility-focused electric tricycles in Denver, with plans to put its e-trikes on the streets nationwide.",
-          "link": "https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/",
-          "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000"
+          "title": "Which of Dyson’s 2026 Vacuum Models Is the Best?",
+          "summary": "Curious if you should get Dyson’s new 2026 stick vacuums or stick to the older ones? I tested five models, old and new, to find out for you.",
+          "link": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
+          "pubDate": "Wed, 29 Jul 2026 19:08:24 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Bot-detection startup Spur nabs $200M from Insight",
-          "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-          "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-          "pubDate": "Tue, 28 Jul 2026 21:29:34 +0000"
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+          "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000"
         },
         {
-          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-          "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-          "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-          "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000"
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000"
         },
         {
-          "title": "Sam Altman is ready to decelerate",
-          "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-          "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-          "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000"
+          "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
+          "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+          "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+          "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-          "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-          "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 28 Jul 2026 16:14:03 GMT"
+          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+          "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+          "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 18:41:31 GMT"
         },
         {
-          "title": "Uefa and PM criticise Infantino World Cup plan",
-          "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 28 Jul 2026 15:36:29 GMT"
+          "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+          "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 16:23:41 GMT"
         },
         {
-          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-          "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-          "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 28 Jul 2026 18:19:57 GMT"
+          "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+          "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+          "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 20:21:46 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "44 states are aligned on one thing in their fight against prediction markets. It&apos;s about sports wagering",
-          "summary": "The letter is part of the commission’s public comment period for the first draft of its proposed rule on regulating prediction markets.",
-          "link": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
-          "pubDate": "Tue, 28 Jul 2026 18:27:43 GMT"
+          "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+          "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
+          "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+          "pubDate": "Wed, 29 Jul 2026 21:43:50 GMT"
         },
         {
-          "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
-          "summary": "The Facebook and Instagram owner is set to report earnings after the market close on Wednesday.",
-          "link": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-          "pubDate": "Tue, 28 Jul 2026 17:40:03 GMT"
+          "title": "Here are the five big takeaways from this week&apos;s Fed meeting",
+          "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+          "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+          "pubDate": "Wed, 29 Jul 2026 22:54:09 GMT"
         },
         {
-          "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-          "summary": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
-          "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-          "pubDate": "Tue, 28 Jul 2026 16:16:25 GMT"
+          "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+          "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+          "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+          "pubDate": "Wed, 29 Jul 2026 22:20:18 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Fauci set for high-profile hearing after Paul released diaries",
-          "summary": "Former chief White House medical adviser Anthony Fauci is set to be under the microscope for a tough Senate hearing on Wednesday, just days after Sen. Rand Paul (R-Ky.) released more than 1,000 pages of Fauci&#8217;s diary entries from the early days of the COVID-19 pandemic. In the weekend leading up to the hearing before the Senate&#8230;",
-          "link": "https://thehill.com/policy/healthcare/5995285-fauci-diary-senate-hearing-rand-paul/",
-          "pubDate": "Tue, 28 Jul 2026 22:22:20 +0000"
+          "title": "Trump says he &#8216;respects&#8217; Biden&#8217;s pardon of Fauci",
+          "summary": "President Trump said Wednesday he respects former President Biden’s pardon of Dr. Anthony Fauci, after the retired health official invoked the Fifth Amendment more than 100 times during a Senate hearing on the COVID-19 pandemic. “The most powerful thing a president has, they say, is the power of pardon,” Trump told reporters in the Oval&#8230;",
+          "link": "https://thehill.com/homenews/administration/5998179-trump-respects-biden-fauci-pardon/",
+          "pubDate": "Wed, 29 Jul 2026 22:27:31 +0000"
         },
         {
-          "title": "DOE identifies five states to hold nuclear waste",
-          "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story&#160; Energy eyes nuclear waste deal with five states The Trump administration is eyeing five states that could accept nuclear waste, disposal of which has been a longtime issue with nuclear power.&#160; AP Photo/Mark Schiefelbein The Energy Department said Tuesday that it signed memorandums of&#8230;",
-          "link": "https://thehill.com/newsletters/energy-environment/5995392-doe-identifies-five-states-to-hold-nuclear-waste/",
-          "pubDate": "Tue, 28 Jul 2026 22:19:08 +0000"
+          "title": "Iran’s surprise attack in Jordan blows up pause in fighting",
+          "summary": "Iran’s surprise attack on U.S. forces in Jordan is threatening to blow up the temporary pause in fighting between the two sides.&#160; The Iranian Revolutionary Guard Corps (IRGC) fired ballistic missiles at U.S. forces in Jordan on Tuesday evening, before the U.S. and Saudi Arabia hours later launched strikes on Tehran-backed militias in Iraq, raising&#8230;",
+          "link": "https://thehill.com/policy/defense/5998256-trump-threatens-iran-retaliation/",
+          "pubDate": "Wed, 29 Jul 2026 22:11:00 +0000"
         },
         {
-          "title": "Boeing takes $280 million hit on troubled Air Force One program",
-          "summary": "Boeing’s contract to replace two aging Air Force One planes, a program that is now four years behind schedule, lost the defense contractor $280 million in the second quarter of 2026, according to its latest earnings report released on Tuesday. The company inked a contract with the U.S. government in President Trump’s first term to&#8230;",
-          "link": "https://thehill.com/business/5995418-boeing-airforce-one-program-losses/",
-          "pubDate": "Tue, 28 Jul 2026 22:12:17 +0000"
+          "title": "Oil prices jump up as US-Iran tensions escalate",
+          "summary": "Oil prices were back higher on Wednesday as U.S.-Iran tensions escalate again. As of late Wednesday afternoon, international benchmark Brent crude was trading at about $91 per barrel, up from as low as about $83 earlier this week. That price is still well below the pre-ceasefire highs and prices last week, which reached as high as $101 per&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/5998190-us-iran-relations-oil-prices/",
+          "pubDate": "Wed, 29 Jul 2026 21:38:44 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "52-year-old international restaurant chain closing all locations",
-          "summary": "52-year-old international restaurant chain closing all locations",
-          "link": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
-          "pubDate": "2026-07-27T14:57:07Z"
+          "title": "National beer and wine distributor files Chapter 11 bankruptcy",
+          "summary": "National beer and wine distributor files Chapter 11 bankruptcy",
+          "link": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
+          "pubDate": "2026-07-29T00:09:53Z"
         },
         {
-          "title": "Influencer sells 2 Ferraris to buy Bitcoin dip",
-          "summary": "Influencer sells 2 Ferraris to buy Bitcoin dip",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/influencer-sells-2-ferraris-buy-183000659.html",
-          "pubDate": "2026-07-27T18:30:00Z"
+          "title": "Big Tech will fund more than a third of its AI investments with debt in 2027, Goldman Sachs predicts",
+          "summary": "Big Tech will fund more than a third of its AI investments with debt in 2027, Goldman Sachs predicts",
+          "link": "https://finance.yahoo.com/markets/article/big-tech-will-fund-more-than-a-third-of-its-ai-investments-with-debt-in-2027-goldman-sachs-predicts-145136150.html",
+          "pubDate": "2026-07-28T14:51:36Z"
         },
         {
-          "title": "Compelling Reasons to Add ATS Corporation (ATS)",
-          "summary": "Compelling Reasons to Add ATS Corporation (ATS)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/compelling-reasons-add-ats-corporation-143931005.html",
-          "pubDate": "2026-07-27T14:39:31Z"
+          "title": "Evaluating How Callaway Golf (CALY) is Unlocking Value",
+          "summary": "Evaluating How Callaway Golf (CALY) is Unlocking Value",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/evaluating-callaway-golf-caly-unlocking-145644272.html",
+          "pubDate": "2026-07-28T14:56:44Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A slowing Atlantic current could unleash stronger California storms",
-          "summary": "A weakening Atlantic current could supercharge California’s atmospheric rivers while leaving Greenland with fewer snow-producing storms. The changes could raise flood risks, strain infrastructure, and reshape water supplies far beyond the Atlantic.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260727214626.htm",
-          "pubDate": "Tue, 28 Jul 2026 08:31:45 EDT"
+          "title": "New microwave frying method could make french fries much healthier",
+          "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+          "pubDate": "Wed, 29 Jul 2026 06:15:04 EDT"
         },
         {
-          "title": "Hidden charcoal reveals the true age of ancient cave paintings",
-          "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon dating. The results show that a bison was painted about 13,000 years ago, while sections of a mask-like figure were added during several widely separated periods.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
-          "pubDate": "Tue, 28 Jul 2026 07:16:44 EDT"
+          "title": "Can’t sleep in the heat? These 8 tricks could save your night",
+          "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the hottest hours. Moving to a cooler room, choosing light bedding and using fans or ice packs safely can also make hot nights more manageable.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
+          "pubDate": "Wed, 29 Jul 2026 01:35:45 EDT"
         },
         {
-          "title": "Misfolded insulin may be quietly driving diabetes",
-          "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengthening this system could offer a new way to protect the pancreas as diabetes progresses.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
-          "pubDate": "Tue, 28 Jul 2026 07:48:04 EDT"
+          "title": "Scientists find a simple way to stop cavities without drilling",
+          "summary": "A liquid brushed onto cavities in seconds may spare many young children from pain, infection, and surgery. A major U.S. trial found that silver diamine fluoride stopped decay in more than half of treated baby teeth. The treatment requires no drilling, shots, or sedation, although it does permanently darken the decayed area.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
+          "pubDate": "Wed, 29 Jul 2026 08:35:36 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Healthy pregnancies and newborns are possible after CAR T cell therapy",
+          "summary": "Women who received treatment for autoimmune diseases with CAR T cell therapy went on to have regular pregnancies and healthy babies.",
+          "link": "https://www.sciencenews.org/article/healthy-pregnancy-birth-car-t-therapy",
+          "pubDate": "Wed, 29 Jul 2026 21:00:00 +0000"
+        },
+        {
+          "title": "Elephants can relearn how to live wild after years in captivity",
+          "summary": "Researchers documented behavioral similarities between 11 rehabilitated elephants and their wild counterparts.",
+          "link": "https://www.sciencenews.org/article/captive-elephants-relearn-live-wild",
+          "pubDate": "Wed, 29 Jul 2026 18:22:47 +0000"
+        },
         {
           "title": "‘Forever chemicals’ could be aging dolphins beyond their years",
           "summary": "Common dolphins in New Zealand are biologically older than their calendar ages. Trace metals and “forever chemicals” may be to blame.",
           "link": "https://www.sciencenews.org/article/forever-chemicals-aging-dolphins",
           "pubDate": "Tue, 28 Jul 2026 13:00:00 +0000"
-        },
-        {
-          "title": "New images reveal Betelgeuse’s buddy star",
-          "summary": "A century of hints has suggested the famed red supergiant had a star pal but seeing it amid Betelgeuse’s brightness has been hard — until now.",
-          "link": "https://www.sciencenews.org/article/new-images-betelgeuse-star",
-          "pubDate": "Tue, 28 Jul 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Seals&#8217; amphibious hearing developed a long, long time ago",
-          "summary": "Researchers scanned the ears of hundreds of marine mammals to deduce when pinnipeds evolved to hear well in both air and water.",
-          "link": "https://www.sciencenews.org/article/seals-amphibious-hearing-long-ago",
-          "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000"
         }
       ]
     }
