@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-29T23:00:53.821Z",
-  "date": "2026-07-30",
+  "lastUpdate": "2026-07-30T23:00:57.767Z",
+  "date": "2026-07-31",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
-          "summary": "Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what.",
-          "link": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
-          "pubDate": "Wed, 29 Jul 2026 21:00:00 +0000"
+          "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
+          "summary": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
+          "link": "https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/",
+          "pubDate": "Thu, 30 Jul 2026 21:20:00 +0000"
         },
         {
-          "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
-          "summary": "Save up to $100 on Apple’s latest AirPods models before prices go back up.",
-          "link": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
-          "pubDate": "Wed, 29 Jul 2026 20:44:10 +0000"
+          "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+          "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+          "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+          "pubDate": "Thu, 30 Jul 2026 20:12:57 +0000"
         },
         {
-          "title": "Which of Dyson’s 2026 Vacuum Models Is the Best?",
-          "summary": "Curious if you should get Dyson’s new 2026 stick vacuums or stick to the older ones? I tested five models, old and new, to find out for you.",
-          "link": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
-          "pubDate": "Wed, 29 Jul 2026 19:08:24 +0000"
+          "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+          "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
+          "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+          "pubDate": "Thu, 30 Jul 2026 17:51:10 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-          "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-          "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000"
+          "title": "Investors love AI, as long as you’re a cloud host",
+          "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+          "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+          "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000"
         },
         {
-          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-          "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-          "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000"
+          "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+          "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+          "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+          "pubDate": "Thu, 30 Jul 2026 22:37:06 +0000"
         },
         {
-          "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
-          "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-          "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-          "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000"
+          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+          "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+          "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-          "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-          "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 29 Jul 2026 18:41:31 GMT"
+          "title": "Uefa to boycott World Cups if Fifa plans approved",
+          "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 16:47:40 GMT"
         },
         {
-          "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-          "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 29 Jul 2026 16:23:41 GMT"
+          "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+          "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 10:49:14 GMT"
         },
         {
-          "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-          "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-          "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 29 Jul 2026 20:21:46 GMT"
+          "title": "Why limited war with the US may suit Iran better than peace",
+          "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+          "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-          "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
-          "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
-          "pubDate": "Wed, 29 Jul 2026 21:43:50 GMT"
+          "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
+          "summary": "The latest China Beige Book study found factory activity decelerated in July.",
+          "link": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+          "pubDate": "Thu, 30 Jul 2026 22:01:01 GMT"
         },
         {
-          "title": "Here are the five big takeaways from this week&apos;s Fed meeting",
-          "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
-          "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-          "pubDate": "Wed, 29 Jul 2026 22:54:09 GMT"
+          "title": "China threatens retaliation against U.S. humanoid robot ban, says it &apos;severely damages&apos; relations",
+          "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+          "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+          "pubDate": "Thu, 30 Jul 2026 02:52:30 GMT"
         },
         {
-          "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-          "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
-          "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
-          "pubDate": "Wed, 29 Jul 2026 22:20:18 GMT"
+          "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+          "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
+          "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+          "pubDate": "Wed, 29 Jul 2026 23:10:46 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,57 +179,63 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump says he &#8216;respects&#8217; Biden&#8217;s pardon of Fauci",
-          "summary": "President Trump said Wednesday he respects former President Biden’s pardon of Dr. Anthony Fauci, after the retired health official invoked the Fifth Amendment more than 100 times during a Senate hearing on the COVID-19 pandemic. “The most powerful thing a president has, they say, is the power of pardon,” Trump told reporters in the Oval&#8230;",
-          "link": "https://thehill.com/homenews/administration/5998179-trump-respects-biden-fauci-pardon/",
-          "pubDate": "Wed, 29 Jul 2026 22:27:31 +0000"
+          "title": "Senate &#8216;YOLO Caucus&#8217; bucks Trump on Blanche: What to know",
+          "summary": "President Trump’s pick for the next U.S. attorney general is on shaky ground as two GOP lawmakers on the Senate Judiciary Committee demand a written guarantee that a proposed Justice Department &#8220;anti-weaponization&#8221; fund is dead. A &#8220;no&#8221; vote in committee from either Sen. John Cornyn (R-Texas) or Sen. Thom Tillis (R-N.C.) could block acting Attorney&#8230;",
+          "link": "https://thehill.com/homenews/senate/6000726-gop-blanche-nomination-cornyn-tillis/",
+          "pubDate": "Thu, 30 Jul 2026 22:23:28 +0000"
         },
         {
-          "title": "Iran’s surprise attack in Jordan blows up pause in fighting",
-          "summary": "Iran’s surprise attack on U.S. forces in Jordan is threatening to blow up the temporary pause in fighting between the two sides.&#160; The Iranian Revolutionary Guard Corps (IRGC) fired ballistic missiles at U.S. forces in Jordan on Tuesday evening, before the U.S. and Saudi Arabia hours later launched strikes on Tehran-backed militias in Iraq, raising&#8230;",
-          "link": "https://thehill.com/policy/defense/5998256-trump-threatens-iran-retaliation/",
-          "pubDate": "Wed, 29 Jul 2026 22:11:00 +0000"
+          "title": "Turek declines to say he&#8217;d back Schumer",
+          "summary": "Iowa state Rep. Josh Turek (D) declined to answer whether he would support Senate Minority Leader Chuck Schumer (D-N.Y.) to lead Democrats in the next Congress as midterms come closer. In a Wednesday interview with former White House press secretary Jen Psaki on MS NOW, Turek did not answer whether he would support Schumer’s leadership&#8230;",
+          "link": "https://thehill.com/homenews/6000956-iowa-senate-candidate-turek-schumer/",
+          "pubDate": "Thu, 30 Jul 2026 22:17:58 +0000"
         },
         {
-          "title": "Oil prices jump up as US-Iran tensions escalate",
-          "summary": "Oil prices were back higher on Wednesday as U.S.-Iran tensions escalate again. As of late Wednesday afternoon, international benchmark Brent crude was trading at about $91 per barrel, up from as low as about $83 earlier this week. That price is still well below the pre-ceasefire highs and prices last week, which reached as high as $101 per&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/5998190-us-iran-relations-oil-prices/",
-          "pubDate": "Wed, 29 Jul 2026 21:38:44 +0000"
+          "title": "NFL coach jabs at Fauci while taking questions from reporters",
+          "summary": "Philadelphia Eagles defensive coordinator Vic Fangio took a couple of shots at Dr. Anthony Fauci over his repeated use of the Fifth Amendment during a Senate hearing on Wednesday. “I’m gonna be like Fauci and just take the Fifth Amendment on all questions,” Fangio said, when a reporter asked whether Marcus Epps had the inside&#8230;",
+          "link": "https://thehill.com/policy/sports-gaming/6000909-vic-fangio-mocks-anthony-fauci-fifth-amendment/",
+          "pubDate": "Thu, 30 Jul 2026 21:45:17 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "National beer and wine distributor files Chapter 11 bankruptcy",
-          "summary": "National beer and wine distributor files Chapter 11 bankruptcy",
-          "link": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
-          "pubDate": "2026-07-29T00:09:53Z"
+          "title": "Markets react to Fed's July interest rate decision",
+          "summary": "Markets react to Fed's July interest rate decision",
+          "link": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
+          "pubDate": "2026-07-29T21:05:58Z"
         },
         {
-          "title": "Big Tech will fund more than a third of its AI investments with debt in 2027, Goldman Sachs predicts",
-          "summary": "Big Tech will fund more than a third of its AI investments with debt in 2027, Goldman Sachs predicts",
-          "link": "https://finance.yahoo.com/markets/article/big-tech-will-fund-more-than-a-third-of-its-ai-investments-with-debt-in-2027-goldman-sachs-predicts-145136150.html",
-          "pubDate": "2026-07-28T14:51:36Z"
+          "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+          "summary": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
+          "pubDate": "2026-07-29T22:17:00Z"
         },
         {
-          "title": "Evaluating How Callaway Golf (CALY) is Unlocking Value",
-          "summary": "Evaluating How Callaway Golf (CALY) is Unlocking Value",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/evaluating-callaway-golf-caly-unlocking-145644272.html",
-          "pubDate": "2026-07-28T14:56:44Z"
+          "title": "Reddit (RDDT): A Buy Ahead Of Earnings, Or Is The Selloff Justified?",
+          "summary": "Reddit (RDDT): A Buy Ahead Of Earnings, Or Is The Selloff Justified?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-buy-ahead-earnings-152057364.html",
+          "pubDate": "2026-07-29T15:20:57Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+          "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+          "pubDate": "Thu, 30 Jul 2026 08:13:37 EDT"
+        },
         {
           "title": "New microwave frying method could make french fries much healthier",
           "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
@@ -237,40 +243,34 @@
           "pubDate": "Wed, 29 Jul 2026 06:15:04 EDT"
         },
         {
-          "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-          "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the hottest hours. Moving to a cooler room, choosing light bedding and using fans or ice packs safely can also make hot nights more manageable.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
-          "pubDate": "Wed, 29 Jul 2026 01:35:45 EDT"
-        },
-        {
-          "title": "Scientists find a simple way to stop cavities without drilling",
-          "summary": "A liquid brushed onto cavities in seconds may spare many young children from pain, infection, and surgery. A major U.S. trial found that silver diamine fluoride stopped decay in more than half of treated baby teeth. The treatment requires no drilling, shots, or sedation, although it does permanently darken the decayed area.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
-          "pubDate": "Wed, 29 Jul 2026 08:35:36 EDT"
+          "title": "What if the brain does not create consciousness?",
+          "summary": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+          "pubDate": "Thu, 30 Jul 2026 09:23:33 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Healthy pregnancies and newborns are possible after CAR T cell therapy",
-          "summary": "Women who received treatment for autoimmune diseases with CAR T cell therapy went on to have regular pregnancies and healthy babies.",
-          "link": "https://www.sciencenews.org/article/healthy-pregnancy-birth-car-t-therapy",
-          "pubDate": "Wed, 29 Jul 2026 21:00:00 +0000"
+          "title": "Mammals moving between the Americas stopped over in Mexico",
+          "summary": "Ancient mammals may have had an easier time moving across the Isthmus of Panama from north to south thanks to Mexico’s climate.",
+          "link": "https://www.sciencenews.org/article/mammals-moving-americas-stopped-mexico",
+          "pubDate": "Thu, 30 Jul 2026 19:09:15 +0000"
         },
         {
-          "title": "Elephants can relearn how to live wild after years in captivity",
-          "summary": "Researchers documented behavioral similarities between 11 rehabilitated elephants and their wild counterparts.",
-          "link": "https://www.sciencenews.org/article/captive-elephants-relearn-live-wild",
-          "pubDate": "Wed, 29 Jul 2026 18:22:47 +0000"
+          "title": "How one amino acid might help fight colon cancer and infections",
+          "summary": "Dietary arginine reduces tumor formation and viral load in mice by boosting key immune proteins.",
+          "link": "https://www.sciencenews.org/article/amino-acid-argininine-colon-cancer-diet",
+          "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000"
         },
         {
-          "title": "‘Forever chemicals’ could be aging dolphins beyond their years",
-          "summary": "Common dolphins in New Zealand are biologically older than their calendar ages. Trace metals and “forever chemicals” may be to blame.",
-          "link": "https://www.sciencenews.org/article/forever-chemicals-aging-dolphins",
-          "pubDate": "Tue, 28 Jul 2026 13:00:00 +0000"
+          "title": "A new monkey species has been found deep in Congo’s forests",
+          "summary": "A canopy call, a partial photo and DNA revealed a new primate species — one that may already be at risk of extinction.",
+          "link": "https://www.sciencenews.org/article/new-monkey-species-endangered",
+          "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000"
         }
       ]
     }
