@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-30T23:00:57.767Z",
-  "date": "2026-07-31",
+  "lastUpdate": "2026-07-31T23:00:58.382Z",
+  "date": "2026-08-01",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
-          "summary": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
-          "link": "https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/",
-          "pubDate": "Thu, 30 Jul 2026 21:20:00 +0000"
+          "title": "Chinese AI Researchers Are Finding Their Voice on X",
+          "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+          "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+          "pubDate": "Fri, 31 Jul 2026 18:14:43 +0000"
         },
         {
-          "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-          "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
-          "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-          "pubDate": "Thu, 30 Jul 2026 20:12:57 +0000"
+          "title": "Can Republicans Actually Send Anthony Fauci to Jail?",
+          "summary": "MAGA is loudly calling for the former White House chief medical adviser to end up in prison. WIRED asked legal experts to weigh in on whether that’s even possible.",
+          "link": "https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/",
+          "pubDate": "Fri, 31 Jul 2026 16:09:37 +0000"
         },
         {
-          "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-          "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-          "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-          "pubDate": "Thu, 30 Jul 2026 17:51:10 +0000"
+          "title": "Best Robot Vacuum of 2026: Shark, Eufy",
+          "summary": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+          "link": "https://www.wired.com/story/best-robot-vacuum/",
+          "pubDate": "Fri, 31 Jul 2026 15:53:21 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Investors love AI, as long as you’re a cloud host",
-          "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-          "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-          "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000"
+          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+          "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000"
         },
         {
-          "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-          "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
-          "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-          "pubDate": "Thu, 30 Jul 2026 22:37:06 +0000"
+          "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+          "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+          "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+          "pubDate": "Fri, 31 Jul 2026 22:00:08 +0000"
         },
         {
-          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-          "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-          "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-          "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000"
+          "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
+          "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+          "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+          "pubDate": "Fri, 31 Jul 2026 22:00:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Uefa to boycott World Cups if Fifa plans approved",
-          "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 16:47:40 GMT"
+          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+          "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 17:03:47 GMT"
         },
         {
-          "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-          "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-          "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 10:49:14 GMT"
+          "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+          "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+          "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 15:18:31 GMT"
         },
         {
-          "title": "Why limited war with the US may suit Iran better than peace",
-          "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-          "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT"
+          "title": "Body of US climber the latest recovered after Pakistan avalanche",
+          "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+          "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 20:22:46 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
-          "summary": "The latest China Beige Book study found factory activity decelerated in July.",
-          "link": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
-          "pubDate": "Thu, 30 Jul 2026 22:01:01 GMT"
+          "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+          "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
+          "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+          "pubDate": "Fri, 31 Jul 2026 18:46:45 GMT"
         },
         {
-          "title": "China threatens retaliation against U.S. humanoid robot ban, says it &apos;severely damages&apos; relations",
-          "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
-          "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-          "pubDate": "Thu, 30 Jul 2026 02:52:30 GMT"
+          "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+          "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+          "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+          "pubDate": "Fri, 31 Jul 2026 21:49:40 GMT"
         },
         {
-          "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-          "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
-          "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-          "pubDate": "Wed, 29 Jul 2026 23:10:46 GMT"
+          "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
+          "summary": "Leopold Aschenbrenner's $45 billion hedge fund was forced to slash public stock positions after a historic momentum reversal triggered margin calls.",
+          "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
+          "pubDate": "Fri, 31 Jul 2026 16:14:54 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Senate &#8216;YOLO Caucus&#8217; bucks Trump on Blanche: What to know",
-          "summary": "President Trump’s pick for the next U.S. attorney general is on shaky ground as two GOP lawmakers on the Senate Judiciary Committee demand a written guarantee that a proposed Justice Department &#8220;anti-weaponization&#8221; fund is dead. A &#8220;no&#8221; vote in committee from either Sen. John Cornyn (R-Texas) or Sen. Thom Tillis (R-N.C.) could block acting Attorney&#8230;",
-          "link": "https://thehill.com/homenews/senate/6000726-gop-blanche-nomination-cornyn-tillis/",
-          "pubDate": "Thu, 30 Jul 2026 22:23:28 +0000"
+          "title": "Fetterman: Trump has &#8216;zero leverage&#8217; over lame-duck GOP senators",
+          "summary": "Sen. John Fetterman (D-Pa.) pointed to weaknesses in President Trump’s influence in Congress amid opposition from three outgoing Republican senators to the president’s nomination of acting Attorney General Todd Blanche to a permanent role overseeing the Department of Justice (DOJ). Sens. Thom Tillis (N.C.), Bill Cassidy (La.) and John Cornyn (Texas) have all expressed skepticism&#8230;",
+          "link": "https://thehill.com/homenews/senate/6003155-fetterman-trump-blanche-confirmation-gop-senators/",
+          "pubDate": "Fri, 31 Jul 2026 22:26:46 +0000"
         },
         {
-          "title": "Turek declines to say he&#8217;d back Schumer",
-          "summary": "Iowa state Rep. Josh Turek (D) declined to answer whether he would support Senate Minority Leader Chuck Schumer (D-N.Y.) to lead Democrats in the next Congress as midterms come closer. In a Wednesday interview with former White House press secretary Jen Psaki on MS NOW, Turek did not answer whether he would support Schumer’s leadership&#8230;",
-          "link": "https://thehill.com/homenews/6000956-iowa-senate-candidate-turek-schumer/",
-          "pubDate": "Thu, 30 Jul 2026 22:17:58 +0000"
+          "title": "Italy closes air and sea borders, suspends Schengen with Spain over Ceuta migrant crisis",
+          "summary": "The Italian government on Friday imposed border checks with Spain in response to an influx of tens of thousands of migrants in the Spanish North African enclave of Ceuta. The move will impact flights and maritime transport and temporarily suspends Spain’s Schengen border-free rights, an agreement that allows citizens of European member states to move&#8230;",
+          "link": "https://thehill.com/policy/international/6003064-ceuta-migration-spain-morocco-italy/",
+          "pubDate": "Fri, 31 Jul 2026 21:16:44 +0000"
         },
         {
-          "title": "NFL coach jabs at Fauci while taking questions from reporters",
-          "summary": "Philadelphia Eagles defensive coordinator Vic Fangio took a couple of shots at Dr. Anthony Fauci over his repeated use of the Fifth Amendment during a Senate hearing on Wednesday. “I’m gonna be like Fauci and just take the Fifth Amendment on all questions,” Fangio said, when a reporter asked whether Marcus Epps had the inside&#8230;",
-          "link": "https://thehill.com/policy/sports-gaming/6000909-vic-fangio-mocks-anthony-fauci-fifth-amendment/",
-          "pubDate": "Thu, 30 Jul 2026 21:45:17 +0000"
+          "title": "George Santos settles with CFTC over Kalshi bets",
+          "summary": "Former Rep. George Santos (R-N.Y.) has agreed to pay $35,000 to settle with the Commodity Futures Trading Commission (CFTC) over wagers he placed on the State of the Union earlier this year on Kalshi, the agency announced Friday. Santos placed bets on whether he would attend President Trump&#8217;s address in February, while also posting on&#8230;",
+          "link": "https://thehill.com/policy/technology/6003009-george-santos-cftc-settlement/",
+          "pubDate": "Fri, 31 Jul 2026 20:43:45 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Markets react to Fed's July interest rate decision",
-          "summary": "Markets react to Fed's July interest rate decision",
-          "link": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
-          "pubDate": "2026-07-29T21:05:58Z"
+          "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
+          "summary": "Fed interest-rate decision rocks Wall Street's inflation fears",
+          "link": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
+          "pubDate": "2026-07-30T16:33:00Z"
         },
         {
-          "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
-          "summary": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
-          "pubDate": "2026-07-29T22:17:00Z"
+          "title": "Employees Reveal That Blue Origin Stock Is Worthless Just Weeks After SpaceX IPO Turned Employees Into Millionaires",
+          "summary": "Employees Reveal That Blue Origin Stock Is Worthless Just Weeks After SpaceX IPO Turned Employees Into Millionaires",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/employees-reveal-blue-origin-stock-153744758.html",
+          "pubDate": "2026-07-30T15:37:44Z"
         },
         {
-          "title": "Reddit (RDDT): A Buy Ahead Of Earnings, Or Is The Selloff Justified?",
-          "summary": "Reddit (RDDT): A Buy Ahead Of Earnings, Or Is The Selloff Justified?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-buy-ahead-earnings-152057364.html",
-          "pubDate": "2026-07-29T15:20:57Z"
+          "title": "Shell Turns Volatility Into a Cash Machine",
+          "summary": "Shell Turns Volatility Into a Cash Machine",
+          "link": "https://finance.yahoo.com/energy/articles/shell-turns-volatility-cash-machine-153721224.html",
+          "pubDate": "2026-07-30T15:37:21Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -251,26 +251,26 @@
       ]
     },
     "site_8": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Mammals moving between the Americas stopped over in Mexico",
-          "summary": "Ancient mammals may have had an easier time moving across the Isthmus of Panama from north to south thanks to Mexico’s climate.",
-          "link": "https://www.sciencenews.org/article/mammals-moving-americas-stopped-mexico",
-          "pubDate": "Thu, 30 Jul 2026 19:09:15 +0000"
+          "title": "To detect CTE while alive, a test for another brain disease may help",
+          "summary": "A protein that is a hallmark of Alzheimer’s disease may also ID a brain condition associated with head trauma in contact sports, early findings suggest.",
+          "link": "https://www.sciencenews.org/article/alzheimers-protein-test-brain-cte",
+          "pubDate": "Fri, 31 Jul 2026 17:00:00 +0000"
         },
         {
-          "title": "How one amino acid might help fight colon cancer and infections",
-          "summary": "Dietary arginine reduces tumor formation and viral load in mice by boosting key immune proteins.",
-          "link": "https://www.sciencenews.org/article/amino-acid-argininine-colon-cancer-diet",
-          "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000"
+          "title": "The protein craze may not be for everyone",
+          "summary": "Getting more protein has been all the rage. In sedentary people, that advice could accelerate aging.",
+          "link": "https://www.sciencenews.org/article/protein-diet-craze-everyone-aging",
+          "pubDate": "Fri, 31 Jul 2026 15:52:04 +0000"
         },
         {
-          "title": "A new monkey species has been found deep in Congo’s forests",
-          "summary": "A canopy call, a partial photo and DNA revealed a new primate species — one that may already be at risk of extinction.",
-          "link": "https://www.sciencenews.org/article/new-monkey-species-endangered",
-          "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000"
+          "title": "A fire&#8217;s rumble reveals where it&#8217;s burning",
+          "summary": "Researchers tracked a prescribed grassland fire using infrasound, sound waves pitched too low for people to hear.",
+          "link": "https://www.sciencenews.org/article/fire-sound-monitoring-tracking",
+          "pubDate": "Fri, 31 Jul 2026 13:00:00 +0000"
         }
       ]
     }
