@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-07-31T23:00:58.382Z",
-  "date": "2026-08-01",
+  "lastUpdate": "2026-08-01T23:00:57.447Z",
+  "date": "2026-08-02",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Chinese AI Researchers Are Finding Their Voice on X",
-          "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-          "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-          "pubDate": "Fri, 31 Jul 2026 18:14:43 +0000"
+          "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+          "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+          "link": "https://www.wired.com/gallery/best-office-chairs/",
+          "pubDate": "Sat, 01 Aug 2026 11:59:00 +0000"
         },
         {
-          "title": "Can Republicans Actually Send Anthony Fauci to Jail?",
-          "summary": "MAGA is loudly calling for the former White House chief medical adviser to end up in prison. WIRED asked legal experts to weigh in on whether that’s even possible.",
-          "link": "https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/",
-          "pubDate": "Fri, 31 Jul 2026 16:09:37 +0000"
+          "title": "Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep",
+          "summary": "These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable.",
+          "link": "https://www.wired.com/story/best-organic-mattress/",
+          "pubDate": "Sat, 01 Aug 2026 11:34:00 +0000"
         },
         {
-          "title": "Best Robot Vacuum of 2026: Shark, Eufy",
-          "summary": "Tired of vacuuming? Hand the reins to a robot vacuum.",
-          "link": "https://www.wired.com/story/best-robot-vacuum/",
-          "pubDate": "Fri, 31 Jul 2026 15:53:21 +0000"
+          "title": "China’s EV Market Is Booming. There’s Just One Problem",
+          "summary": "More EVs reaching the end of their life means more batteries to recycle. But waste management companies have yet to catch up to the new reality.",
+          "link": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/",
+          "pubDate": "Sat, 01 Aug 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-          "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-          "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000"
+          "title": "Inside the London hacker house taking a stand against founder burnout",
+          "summary": "How one founder house is betting work-life balance can beat burnout .",
+          "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+          "pubDate": "Sat, 01 Aug 2026 21:14:48 +0000"
         },
         {
-          "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-          "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-          "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-          "pubDate": "Fri, 31 Jul 2026 22:00:08 +0000"
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000"
         },
         {
-          "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
-          "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-          "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-          "pubDate": "Fri, 31 Jul 2026 22:00:00 +0000"
+          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+          "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+          "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+          "pubDate": "Sat, 01 Aug 2026 19:45:45 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-          "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 17:03:47 GMT"
+          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+          "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 20:09:27 GMT"
         },
         {
-          "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-          "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-          "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 15:18:31 GMT"
+          "title": "Call for 'full review' as pressure grows on Infantino",
+          "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 17:07:46 GMT"
         },
         {
-          "title": "Body of US climber the latest recovered after Pakistan avalanche",
-          "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
-          "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 20:22:46 GMT"
+          "title": "Tourist plane crashes in Peru, killing 13",
+          "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 22:34:20 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Goldman traders are on pace for a record year. A close-up look at how they&apos;re doing it",
+          "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
+          "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+          "pubDate": "Sat, 01 Aug 2026 20:22:15 GMT"
+        },
         {
           "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
           "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
@@ -145,17 +151,11 @@
           "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
           "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
           "pubDate": "Fri, 31 Jul 2026 21:49:40 GMT"
-        },
-        {
-          "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
-          "summary": "Leopold Aschenbrenner's $45 billion hedge fund was forced to slash public stock positions after a historic momentum reversal triggered margin calls.",
-          "link": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
-          "pubDate": "Fri, 31 Jul 2026 16:14:54 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Fetterman: Trump has &#8216;zero leverage&#8217; over lame-duck GOP senators",
-          "summary": "Sen. John Fetterman (D-Pa.) pointed to weaknesses in President Trump’s influence in Congress amid opposition from three outgoing Republican senators to the president’s nomination of acting Attorney General Todd Blanche to a permanent role overseeing the Department of Justice (DOJ). Sens. Thom Tillis (N.C.), Bill Cassidy (La.) and John Cornyn (Texas) have all expressed skepticism&#8230;",
-          "link": "https://thehill.com/homenews/senate/6003155-fetterman-trump-blanche-confirmation-gop-senators/",
-          "pubDate": "Fri, 31 Jul 2026 22:26:46 +0000"
+          "title": "Sunday shows preview: Hamas deal, Iran tensions test Trump administration",
+          "summary": "President Trump’s announcement of a “historic” deal reached with negotiators this week that includes disarming Hamas still faces hurdles, as skeptics wonder if it can move from paper to reality. The agreement is part of Trump’s 20-point plan to reach a ceasefire in the Gaza Strip and bring an end to the war between Israel&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6003978-blanche-attorney-general-nomination-hurdles-sunday-preview/",
+          "pubDate": "Sat, 01 Aug 2026 22:01:22 +0000"
         },
         {
-          "title": "Italy closes air and sea borders, suspends Schengen with Spain over Ceuta migrant crisis",
-          "summary": "The Italian government on Friday imposed border checks with Spain in response to an influx of tens of thousands of migrants in the Spanish North African enclave of Ceuta. The move will impact flights and maritime transport and temporarily suspends Spain’s Schengen border-free rights, an agreement that allows citizens of European member states to move&#8230;",
-          "link": "https://thehill.com/policy/international/6003064-ceuta-migration-spain-morocco-italy/",
-          "pubDate": "Fri, 31 Jul 2026 21:16:44 +0000"
+          "title": "Democrats fret in Michigan as progressives project confidence ahead of key primaries",
+          "summary": "Mainstream Democrats are fretting that progressive victories in two&#160;critical primary races in Michigan&#160;on Tuesday could&#160;jeopardize the party’s chances of clinching must-win congressional&#160;seats in November. Abdul El-Sayed&#160;and Will Lawrence, who are both backed by Sen. Bernie Sanders (I-Vt.) for their respective Senate and House primaries, are giving some center-left Democrats heartburn amid worries that their progressive&#8230;",
+          "link": "https://thehill.com/homenews/campaign/6002980-michigan-democrats-senate-house-el-sayed-lawrence/",
+          "pubDate": "Sat, 01 Aug 2026 21:00:00 +0000"
         },
         {
-          "title": "George Santos settles with CFTC over Kalshi bets",
-          "summary": "Former Rep. George Santos (R-N.Y.) has agreed to pay $35,000 to settle with the Commodity Futures Trading Commission (CFTC) over wagers he placed on the State of the Union earlier this year on Kalshi, the agency announced Friday. Santos placed bets on whether he would attend President Trump&#8217;s address in February, while also posting on&#8230;",
-          "link": "https://thehill.com/policy/technology/6003009-george-santos-cftc-settlement/",
-          "pubDate": "Fri, 31 Jul 2026 20:43:45 +0000"
+          "title": "These are the happiest cities in America in 2026",
+          "summary": "A new ranking reveals where Americans are happiest, and the top city may surprise you.",
+          "link": "https://thehill.com/blogs/in-the-know/6003784-happiest-cities-in-america-ranked-2026/",
+          "pubDate": "Sat, 01 Aug 2026 20:27:46 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
-          "summary": "Fed interest-rate decision rocks Wall Street's inflation fears",
-          "link": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
-          "pubDate": "2026-07-30T16:33:00Z"
+          "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+          "summary": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
+          "pubDate": "2026-08-01T22:05:00Z"
         },
         {
-          "title": "Employees Reveal That Blue Origin Stock Is Worthless Just Weeks After SpaceX IPO Turned Employees Into Millionaires",
-          "summary": "Employees Reveal That Blue Origin Stock Is Worthless Just Weeks After SpaceX IPO Turned Employees Into Millionaires",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/employees-reveal-blue-origin-stock-153744758.html",
-          "pubDate": "2026-07-30T15:37:44Z"
+          "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "summary": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-08-01T21:58:20Z"
         },
         {
-          "title": "Shell Turns Volatility Into a Cash Machine",
-          "summary": "Shell Turns Volatility Into a Cash Machine",
-          "link": "https://finance.yahoo.com/energy/articles/shell-turns-volatility-cash-machine-153721224.html",
-          "pubDate": "2026-07-30T15:37:21Z"
+          "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+          "summary": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+          "link": "https://finance.yahoo.com/energy/articles/surinames-26-billion-oil-bet-210000202.html",
+          "pubDate": "2026-08-01T21:00:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists found evolution repeating itself in the Galápagos Islands",
-          "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
-          "pubDate": "Thu, 30 Jul 2026 08:13:37 EDT"
+          "title": "Superheated magma may power towering lava fountains",
+          "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as it rises.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+          "pubDate": "Sat, 01 Aug 2026 02:38:28 EDT"
         },
         {
-          "title": "New microwave frying method could make french fries much healthier",
-          "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
-          "pubDate": "Wed, 29 Jul 2026 06:15:04 EDT"
+          "title": "Eating one avocado a day may lower heart disease risk",
+          "summary": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline associated with an estimated 4% reduction in cardiovascular risk.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+          "pubDate": "Sat, 01 Aug 2026 08:35:57 EDT"
         },
         {
-          "title": "What if the brain does not create consciousness?",
-          "summary": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
-          "pubDate": "Thu, 30 Jul 2026 09:23:33 EDT"
+          "title": "Scientists may have found a way to prevent statin muscle pain",
+          "summary": "Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people. The finding could eventually lead to treatments that protect muscles while preserving the drugs’ lifesaving cardiovascular benefits.",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
+          "pubDate": "Sat, 01 Aug 2026 08:09:55 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "siteName": "Science News",
       "items": [
         {
