@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-01T23:00:57.447Z",
-  "date": "2026-08-02",
+  "lastUpdate": "2026-08-02T23:01:02.258Z",
+  "date": "2026-08-03",
   "sites": [
     {
       "id": "site_0",
@@ -59,86 +59,86 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
-          "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
-          "link": "https://www.wired.com/gallery/best-office-chairs/",
-          "pubDate": "Sat, 01 Aug 2026 11:59:00 +0000"
+          "title": "8 Best Password Managers (2026), Tested and Reviewed",
+          "summary": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
+          "link": "https://www.wired.com/story/best-password-managers/",
+          "pubDate": "Sun, 02 Aug 2026 11:30:00 +0000"
         },
         {
-          "title": "Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep",
-          "summary": "These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable.",
-          "link": "https://www.wired.com/story/best-organic-mattress/",
-          "pubDate": "Sat, 01 Aug 2026 11:34:00 +0000"
+          "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
+          "summary": "From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists new data to explore—and theories to build out.",
+          "link": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
+          "pubDate": "Sun, 02 Aug 2026 11:00:00 +0000"
         },
         {
-          "title": "China’s EV Market Is Booming. There’s Just One Problem",
-          "summary": "More EVs reaching the end of their life means more batteries to recycle. But waste management companies have yet to catch up to the new reality.",
-          "link": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/",
-          "pubDate": "Sat, 01 Aug 2026 11:00:00 +0000"
+          "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
+          "summary": "These portable vacuums make quick work of snack crumbs, tracked-in dirt, pet hair, and the mysterious debris beneath your seats.",
+          "link": "https://www.wired.com/story/best-car-vacuums/",
+          "pubDate": "Sun, 02 Aug 2026 10:35:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Inside the London hacker house taking a stand against founder burnout",
-          "summary": "How one founder house is betting work-life balance can beat burnout .",
-          "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-          "pubDate": "Sat, 01 Aug 2026 21:14:48 +0000"
+          "title": "The global memory shortage hits the MacBook Air",
+          "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+          "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+          "pubDate": "Sun, 02 Aug 2026 21:33:59 +0000"
         },
         {
-          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-          "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-          "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000"
+          "title": "Sam Altman and AI’s decel debate",
+          "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000"
         },
         {
-          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-          "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-          "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-          "pubDate": "Sat, 01 Aug 2026 19:45:45 +0000"
+          "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+          "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+          "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+          "pubDate": "Sun, 02 Aug 2026 17:05:07 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-          "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-          "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 20:09:27 GMT"
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+          "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 20:36:37 GMT"
         },
         {
-          "title": "Call for 'full review' as pressure grows on Infantino",
-          "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 17:07:46 GMT"
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 11:12:00 GMT"
         },
         {
-          "title": "Tourist plane crashes in Peru, killing 13",
-          "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 22:34:20 GMT"
+          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 15:50:59 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "CNBC市场",
       "items": [
         {
           "title": "Goldman traders are on pace for a record year. A close-up look at how they&apos;re doing it",
           "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
           "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-          "pubDate": "Sat, 01 Aug 2026 20:22:15 GMT"
+          "pubDate": "Sun, 02 Aug 2026 13:52:33 GMT"
         },
         {
           "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Sunday shows preview: Hamas deal, Iran tensions test Trump administration",
-          "summary": "President Trump’s announcement of a “historic” deal reached with negotiators this week that includes disarming Hamas still faces hurdles, as skeptics wonder if it can move from paper to reality. The agreement is part of Trump’s 20-point plan to reach a ceasefire in the Gaza Strip and bring an end to the war between Israel&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6003978-blanche-attorney-general-nomination-hurdles-sunday-preview/",
-          "pubDate": "Sat, 01 Aug 2026 22:01:22 +0000"
+          "title": "Chevron chief on Iran war impacting energy markets: &#8216;The situation remains somewhat fragile and uncertain&#8217;",
+          "summary": "Mike Wirth, Chevron chair and CEO, said the impact that the Iran war has had on energy markets has left things &#8220;somewhat fragile and uncertain.&#8221; Wirth told Fox News&#8217;s Maria Bartiromo on &#8220;Sunday Morning Futures&#8221; on Friday in an interview aired Sunday about risks to all the paths of transit for oil exports, specifically the&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/6004653-chevron-ceo-oil-market-risks/",
+          "pubDate": "Sun, 02 Aug 2026 22:06:48 +0000"
         },
         {
-          "title": "Democrats fret in Michigan as progressives project confidence ahead of key primaries",
-          "summary": "Mainstream Democrats are fretting that progressive victories in two&#160;critical primary races in Michigan&#160;on Tuesday could&#160;jeopardize the party’s chances of clinching must-win congressional&#160;seats in November. Abdul El-Sayed&#160;and Will Lawrence, who are both backed by Sen. Bernie Sanders (I-Vt.) for their respective Senate and House primaries, are giving some center-left Democrats heartburn amid worries that their progressive&#8230;",
-          "link": "https://thehill.com/homenews/campaign/6002980-michigan-democrats-senate-house-el-sayed-lawrence/",
-          "pubDate": "Sat, 01 Aug 2026 21:00:00 +0000"
+          "title": "Lankford says Senate GOP &#8216;will keep going&#8217; if it can&#8217;t pass three legislative priorities before recess",
+          "summary": "GOP Sen. James Lankford (Okla.) is among the chorus of Republican senators arguing for the upper chamber to delay its planned recess starting at the end of this week if lawmakers cannot pass the party’s top priorities, including voter ID legislation. While appearing on “Fox News Sunday,” Lankford outlined the Senate Republican Conference’s three priorities&#8230;",
+          "link": "https://thehill.com/homenews/senate/6004692-gop-senators-delay-recess/",
+          "pubDate": "Sun, 02 Aug 2026 21:59:32 +0000"
         },
         {
-          "title": "These are the happiest cities in America in 2026",
-          "summary": "A new ranking reveals where Americans are happiest, and the top city may surprise you.",
-          "link": "https://thehill.com/blogs/in-the-know/6003784-happiest-cities-in-america-ranked-2026/",
-          "pubDate": "Sat, 01 Aug 2026 20:27:46 +0000"
+          "title": "Sanders backs Troy Jackson in Maine Senate race: &#8216;Strong platform&#8217;",
+          "summary": "Sen. Bernie Sanders (I-Vt.) on Sunday backed new Maine Senate Democratic nominee Troy Jackson, and said he will officially endorse the former state Senate president if Jackson “asks” him. “You want a working-class voice in Washington, D.C., Troy is certainly that voice. I have seen his platform. It is a strong platform, standing up for&#8230;",
+          "link": "https://thehill.com/homenews/campaign/6004642-sanders-backs-maine-jackson/",
+          "pubDate": "Sun, 02 Aug 2026 21:19:30 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
-          "summary": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
-          "pubDate": "2026-08-01T22:05:00Z"
+          "title": "Warren Buffett keeps pointing at the same ETF for a reason",
+          "summary": "Warren Buffett keeps pointing at the same ETF for a reason",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
+          "pubDate": "2026-08-02T16:03:00Z"
         },
         {
-          "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-          "summary": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "summary": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
           "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&amp;yptr=yahoo",
-          "pubDate": "2026-08-01T21:58:20Z"
+          "pubDate": "2026-08-02T22:17:33Z"
         },
         {
-          "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
-          "summary": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
-          "link": "https://finance.yahoo.com/energy/articles/surinames-26-billion-oil-bet-210000202.html",
-          "pubDate": "2026-08-01T21:00:00Z"
+          "title": "Shoppers made 158 million chargeback disputes in 2025 as 'friendly fraud' surged 29% — and businesses pay the price",
+          "summary": "Shoppers made 158 million chargeback disputes in 2025 as 'friendly fraud' surged 29% — and businesses pay the price",
+          "link": "https://finance.yahoo.com/small-business/articles/shoppers-made-158-million-chargeback-153000950.html",
+          "pubDate": "2026-08-02T15:30:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Superheated magma may power towering lava fountains",
-          "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as it rises.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
-          "pubDate": "Sat, 01 Aug 2026 02:38:28 EDT"
+          "title": "Scientists detect a sharp acceleration in global warming",
+          "summary": "Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C per decade over the past ten years, compared with just under 0.2°C per decade from 1970 to 2015. The acceleration, which becomes visible around 2013 to 2015, appeared across five major global temperature datasets with more than 98% statistical certainty.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+          "pubDate": "Sat, 01 Aug 2026 09:32:39 EDT"
         },
         {
-          "title": "Eating one avocado a day may lower heart disease risk",
-          "summary": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline associated with an estimated 4% reduction in cardiovascular risk.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
-          "pubDate": "Sat, 01 Aug 2026 08:35:57 EDT"
+          "title": "This once-a-week workout may help cut belly fat, study shows",
+          "summary": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing 75 minutes of brisk interval walking in a single weekly session reduced body fat, trimmed waistlines, and improved cardiovascular fitness about as effectively as splitting the same exercise across three days.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+          "pubDate": "Sun, 02 Aug 2026 03:33:41 EDT"
         },
         {
-          "title": "Scientists may have found a way to prevent statin muscle pain",
-          "summary": "Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people. The finding could eventually lead to treatments that protect muscles while preserving the drugs’ lifesaving cardiovascular benefits.",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
-          "pubDate": "Sat, 01 Aug 2026 08:09:55 EDT"
+          "title": "Dark matter’s secret force does the opposite of what scientists expected",
+          "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the Universe expands. That weakens its gravitational impact and usually slows the growth of cosmic structure rather than accelerating it.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+          "pubDate": "Sun, 02 Aug 2026 09:26:11 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "siteName": "Science News",
       "items": [
         {
