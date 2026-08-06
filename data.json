@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-04T23:00:21.555Z",
-  "date": "2026-08-05",
+  "lastUpdate": "2026-08-06T23:00:43.300Z",
+  "date": "2026-08-07",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-          "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-          "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-          "pubDate": "Tue, 04 Aug 2026 22:06:07 +0000"
+          "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+          "summary": "Security researchers tracked and eavesdropped on a WIRED reporter using vulnerabilities in a pink plastic smartwatch. It’s just one piece of a deeply insecure supply chain of GPS-enabled gadgets.",
+          "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+          "pubDate": "Thu, 06 Aug 2026 21:35:00 +0000"
         },
         {
-          "title": "Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal",
-          "summary": "Facing a growing drone threat, the Pentagon is poised to sign a first-of-its-kind contract for “Enduring High Energy Lasers”—and make directed energy weapons an official part of the Army’s kit.",
-          "link": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/",
-          "pubDate": "Tue, 04 Aug 2026 15:29:45 +0000"
+          "title": "Why Normal People Aren’t Using AI Agents",
+          "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
+          "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+          "pubDate": "Thu, 06 Aug 2026 19:55:45 +0000"
         },
         {
-          "title": "The Best Gaming Mouse You Can Buy After Testing Dozens of Models",
-          "summary": "From wired to wireless to ultralight, we've tested dozens of gaming mice to find the best for work, your next MMO, and everything in between.",
-          "link": "https://www.wired.com/gallery/best-gaming-mouse/",
-          "pubDate": "Tue, 04 Aug 2026 12:00:00 +0000"
+          "title": "Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse",
+          "summary": "Flock posted videos on its YouTube channel highlighting at least four police departments whose officers have faced allegations of misusing the company’s tech.",
+          "link": "https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/",
+          "pubDate": "Thu, 06 Aug 2026 19:31:07 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Elon Musk repeatedly one-upped his execs on SpaceX&#8217;s first earnings call",
-          "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
-          "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
-          "pubDate": "Tue, 04 Aug 2026 22:30:58 +0000"
+          "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300-$400",
+          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+          "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400/",
+          "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000"
         },
         {
-          "title": "Lucid&#8217;s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-          "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
-          "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
-          "pubDate": "Tue, 04 Aug 2026 22:24:00 +0000"
+          "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+          "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here&#8217;s&#160;what $12,500&#160;buys&#160;you:&#160; Joining fellow exhibitors is the fastest, lowest-lift way for a [&#8230;]",
+          "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+          "pubDate": "Thu, 06 Aug 2026 22:00:00 +0000"
         },
         {
-          "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-          "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-          "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-          "pubDate": "Tue, 04 Aug 2026 22:18:30 +0000"
+          "title": "Vogue just gave another nod of approval to the tech world",
+          "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
+          "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+          "pubDate": "Thu, 06 Aug 2026 21:24:47 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-          "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-          "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 17:26:06 GMT"
+          "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+          "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT"
         },
         {
-          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-          "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 19:00:43 GMT"
+          "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+          "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 16:11:30 GMT"
         },
         {
-          "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-          "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-          "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 21:45:20 GMT"
+          "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+          "summary": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 17:38:51 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Michael Burry bets against rally: &apos;We are near a major top, and possible a 1987-type fall&apos;",
-          "summary": "\"I continue to believe it is possible we are near a major top, and possible a 1987-type fall,\" Burry said in a Tuesday Substack post.",
-          "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
-          "pubDate": "Tue, 04 Aug 2026 21:39:30 GMT"
+          "title": "Copper jumps to its highest level ever. What the metal is telling us",
+          "summary": "Once a reliable gauge if economic health, \"Dr. Copper\" may be giving complicated signals this year.",
+          "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+          "pubDate": "Thu, 06 Aug 2026 20:07:51 GMT"
         },
         {
-          "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-          "summary": "The reports come after the company told CNBC in June that its annualized revenue was well above $1 billion.",
-          "link": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
-          "pubDate": "Tue, 04 Aug 2026 13:31:19 GMT"
+          "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
+          "summary": "\"We're taking decisive action to make UWM stronger, more liquid and better positioned to win for years to come,\" CEO Mat Ishbia said in a statement.",
+          "link": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
+          "pubDate": "Thu, 06 Aug 2026 20:37:51 GMT"
         },
         {
-          "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-          "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
-          "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-          "pubDate": "Tue, 04 Aug 2026 17:49:24 GMT"
+          "title": "Traders on Kalshi now think it&apos;s likely that the S&P 500 will hit 8,000 in 2026",
+          "summary": "The rise in odds come after the broad index hit record highs in a more than 5% four-day rally that ended Wednesday.",
+          "link": "https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html",
+          "pubDate": "Thu, 06 Aug 2026 14:48:42 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "US supply of long-range missiles, THAAD interceptors nearly exhausted: Reports",
-          "summary": "The U.S. military’s supply of its premier long-range missiles and interceptors for a key missile defense system are nearly exhausted after over five months of airstrikes against Iran, underscoring worries about U.S. preparedness to fight other conflicts that may emerge around the world, news outlets reported on Tuesday. The Army has expended &#8220;virtually all&#8221; of&#8230;",
-          "link": "https://thehill.com/policy/defense/6009275-us-missile-interceptor-stocks-dwindling-dangerous/",
-          "pubDate": "Tue, 04 Aug 2026 22:19:27 +0000"
+          "title": "Senate Democrats introduce bill to roll back press restrictions at Pentagon",
+          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Senate Democrats introduce bill to roll back press restrictions at Pentagon&#160; Senate Democrats introduced a new bill on Thursday to roll back Defense Secretary Pete Hegseth’s news media restrictions at the Pentagon, stating that those are&#8230;",
+          "link": "https://thehill.com/newsletters/defense-national-security/6015455-senate-democrats-introduce-bill-to-roll-back-press-restrictions-at-pentagon/",
+          "pubDate": "Thu, 06 Aug 2026 22:15:24 +0000"
         },
         {
-          "title": "Collins will oppose Blanche, narrowing nominee’s path to confirmation",
-          "summary": "Sen. Susan Collins (R-Maine), who is facing a tough reelection in a state carried by Democrat Kamala Harris in 2024, announced on Tuesday that she will vote “no” on Todd Blanche’s nomination to serve as attorney general. Collins’s plan to oppose Blanche means he can afford only one more Senate Republican defection and still get&#8230;",
-          "link": "https://thehill.com/homenews/senate/6009239-collins-opposes-blanche-ag-confirmation/",
-          "pubDate": "Tue, 04 Aug 2026 22:11:55 +0000"
+          "title": "Judge formally dismisses Reflecting Pool charge against Olympian",
+          "summary": "A local judge in Washington, D.C., on Thursday formally dismissed the felony charge accusing Olympic canoeist David Hearn of vandalizing the Lincoln Memorial Reflecting Pool after U.S. Attorney Jeanine Pirro backed away from the case. D.C. Superior Court Judge Todd Edelman will decide later whether prosecutors can try to charge him again down the road. “Given&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/6015420-hearn-reflecting-pool-charges-dismissed/",
+          "pubDate": "Thu, 06 Aug 2026 22:09:12 +0000"
         },
         {
-          "title": "Military retires &#8216;Southern Spear&#8217; anti-drug operation for Western Hemisphere task force",
-          "summary": "The U.S. military has officially retired the joint task force aimed at targeting suspected drug-carrying vessels coming from Central and South America, replacing it with a new command structure meant to handle the issue across the Western Hemisphere. Joint Task Force-Southern Spear was retired at midnight on Monday, putting in its place Joint Task Force-Western&#8230;",
-          "link": "https://thehill.com/policy/defense/6009243-us-military-retires-replaces-southern-spear/",
-          "pubDate": "Tue, 04 Aug 2026 22:11:25 +0000"
+          "title": "Teamsters suing over California self-driving truck rules",
+          "summary": "Teamsters California sued the Golden State’s Department of Motor Vehicles (DMV) and several other agencies Wednesday, citing issues with the approval of self-driving trucks across the state. The lawsuit, filed in Alameda County, alleges that officials in California did not complete the extensive economic study and practical impact required by law.&#160; Attorneys for Teamsters also&#8230;",
+          "link": "https://thehill.com/business/6015329-teamsters-dmv-self-driving-trucks-lawsuit/",
+          "pubDate": "Thu, 06 Aug 2026 21:45:14 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
-          "summary": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
-          "pubDate": "2026-08-04T15:00:00Z"
+          "title": "Career growth is actually a higher priority for Gen Z than work-life balance, survey says—with 93% of interns wanting to become executives",
+          "summary": "Career growth is actually a higher priority for Gen Z than work-life balance, survey says—with 93% of interns wanting to become executives",
+          "link": "https://finance.yahoo.com/small-business/articles/forget-life-balance-gen-z-150942602.html",
+          "pubDate": "2026-08-05T15:09:42Z"
         },
         {
-          "title": "A $1.6 Billion Reason to Buy SpaceX Stock Now",
-          "summary": "A $1.6 Billion Reason to Buy SpaceX Stock Now",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/1-6-billion-reason-buy-143941033.html",
-          "pubDate": "2026-08-03T14:39:41Z"
+          "title": "Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business",
+          "summary": "Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business",
+          "link": "https://finance.yahoo.com/markets/stocks/article/uber-stock-drops-as-bookings-guidance-disappoints-ceo-bets-on-robotaxi-push-to-grow-overall-business-150729446.html",
+          "pubDate": "2026-08-05T15:07:29Z"
         },
         {
-          "title": "ConocoPhillips (COP) Decline on US-Iran Accord",
-          "summary": "ConocoPhillips (COP) Decline on US-Iran Accord",
-          "link": "https://finance.yahoo.com/energy/articles/conocophillips-cop-decline-us-iran-143850728.html",
-          "pubDate": "2026-08-03T14:38:50Z"
+          "title": "Colorado woman was denied medical coverage because her name is too long — now bills are piling up. How to fight a denial",
+          "summary": "Colorado woman was denied medical coverage because her name is too long — now bills are piling up. How to fight a denial",
+          "link": "https://finance.yahoo.com/healthcare/articles/colorado-woman-denied-medical-coverage-150500423.html",
+          "pubDate": "2026-08-05T15:05:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "This hydrogen turbine turns controlled explosions into electricity",
-          "summary": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock dramatically more efficient power systems for clean energy and future aviation.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
-          "pubDate": "Tue, 04 Aug 2026 09:02:27 EDT"
+          "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+          "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug and by targeting fat metabolism. The discovery points to several exciting possibilities for future back pain treatments.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "pubDate": "Thu, 06 Aug 2026 05:50:21 EDT"
         },
         {
-          "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
-          "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more affordable therapy.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-          "pubDate": "Tue, 04 Aug 2026 09:33:37 EDT"
+          "title": "Major study challenges long-held fears about acetaminophen and ibuprofen use in babies",
+          "summary": "A landmark study of nearly 4,000 babies found that acetaminophen and ibuprofen were equally safe during infancy. Neither medicine was linked to eczema or bronchiolitis, and no serious side effects were caused by the drugs. Researchers will continue following the children through age six to study possible long-term effects.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260805082510.htm",
+          "pubDate": "Thu, 06 Aug 2026 08:43:09 EDT"
         },
         {
-          "title": "518-million-year-old creature reveals the origins of spider fangs",
-          "summary": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that help explain how the ancestors of spiders and scorpions evolved into formidable hunters.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
-          "pubDate": "Tue, 04 Aug 2026 09:18:10 EDT"
+          "title": "A star’s violent death exposed a hidden supermassive black hole",
+          "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a passing star and producing a brief, brilliant flare. Astronomers think it may be the remnant of a devoured galaxy or a black hole flung outward during a chaotic cosmic encounter.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
+          "pubDate": "Thu, 06 Aug 2026 08:16:32 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-05",
+      "date": "2026-08-07",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Is AI making us dumber? Maybe not. But our skills are at risk",
-          "summary": "Studies suggest AI can weaken learning when it replaces effort, but tools that guide rather than answer may help people keep their skills.",
-          "link": "https://www.sciencenews.org/article/ai-making-us-dumber-learning-skills-risk",
-          "pubDate": "Tue, 04 Aug 2026 15:00:00 +0000"
+          "title": "Here’s what the first mRNA flu vaccine could mean for flu season",
+          "summary": "Compared with standard flu shots, Moderna’s mFlusiva generates stronger, longer-lasting immunity and is more effective at preventing infection, data show.",
+          "link": "https://www.sciencenews.org/article/first-mrna-flu-vaccine-fall-season",
+          "pubDate": "Thu, 06 Aug 2026 21:25:40 +0000"
         },
         {
-          "title": "Emperor penguin chicks like these starved. An iceberg may be the cause",
-          "summary": "An emperor penguin colony in Antarctica saw a massive decline in chicks in 2025. The contours of a nearby grounded iceberg may have been the cause.",
-          "link": "https://www.sciencenews.org/article/penguin-chicks-starved-iceberg-cause",
-          "pubDate": "Tue, 04 Aug 2026 13:00:00 +0000"
+          "title": "Sugar may have been a key ingredient in human evolution",
+          "summary": "A sweet tooth for sugars from fruits and honey may have helped fuel brain growth in our primate cousins and early human ancestors, a new study suggests.",
+          "link": "https://www.sciencenews.org/article/sugar-ingredient-human-evolution-fruit",
+          "pubDate": "Thu, 06 Aug 2026 18:00:00 +0000"
         },
         {
-          "title": "Naked mole-rat queens rule their colonies with a potent odor",
-          "summary": "A compound made only by breeding queens keeps naked mole-rat colonies infertile and free of conflict.",
-          "link": "https://www.sciencenews.org/article/naked-mole-rat-queens-potent-odor",
-          "pubDate": "Mon, 03 Aug 2026 15:00:00 +0000"
+          "title": "Heat-trapping asteroid dust may have incinerated the dinosaurs within hours",
+          "summary": "Within minutes of impact, debris began heating Earth’s atmosphere. Fine dust trapped that heat, potentially killing the dinosaurs quickly.",
+          "link": "https://www.sciencenews.org/article/asteroid-dust-incinerated-dinosaurs",
+          "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000"
         }
       ]
     }
