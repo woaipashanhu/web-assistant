@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-06T23:00:43.300Z",
-  "date": "2026-08-07",
+  "lastUpdate": "2026-08-07T23:00:42.984Z",
+  "date": "2026-08-08",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-          "summary": "Security researchers tracked and eavesdropped on a WIRED reporter using vulnerabilities in a pink plastic smartwatch. It’s just one piece of a deeply insecure supply chain of GPS-enabled gadgets.",
-          "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-          "pubDate": "Thu, 06 Aug 2026 21:35:00 +0000"
+          "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
+          "summary": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.",
+          "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
+          "pubDate": "Fri, 07 Aug 2026 18:54:04 +0000"
         },
         {
-          "title": "Why Normal People Aren’t Using AI Agents",
-          "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-          "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-          "pubDate": "Thu, 06 Aug 2026 19:55:45 +0000"
+          "title": "The 7 Best TV Shows to Stream This Month",
+          "summary": "Lanterns, Dark Matter, and the original Star Trek are just a few of the TV shows you should be watching right now.",
+          "link": "https://www.wired.com/story/the-7-best-shows-to-stream-right-now/",
+          "pubDate": "Fri, 07 Aug 2026 16:48:21 +0000"
         },
         {
-          "title": "Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse",
-          "summary": "Flock posted videos on its YouTube channel highlighting at least four police departments whose officers have faced allegations of misusing the company’s tech.",
-          "link": "https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/",
-          "pubDate": "Thu, 06 Aug 2026 19:31:07 +0000"
+          "title": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
+          "summary": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
+          "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+          "pubDate": "Fri, 07 Aug 2026 15:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300-$400",
-          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-          "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400/",
-          "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000"
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000"
         },
         {
-          "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-          "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here&#8217;s&#160;what $12,500&#160;buys&#160;you:&#160; Joining fellow exhibitors is the fastest, lowest-lift way for a [&#8230;]",
-          "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-          "pubDate": "Thu, 06 Aug 2026 22:00:00 +0000"
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000"
         },
         {
-          "title": "Vogue just gave another nod of approval to the tech world",
-          "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-          "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-          "pubDate": "Thu, 06 Aug 2026 21:24:47 +0000"
+          "title": "Wacom&#8217;s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+          "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+          "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+          "pubDate": "Fri, 07 Aug 2026 21:20:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-          "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT"
+          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+          "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 22:13:55 GMT"
         },
         {
-          "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-          "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 16:11:30 GMT"
+          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+          "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 21:19:27 GMT"
         },
         {
-          "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-          "summary": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-          "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 17:38:51 GMT"
+          "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+          "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+          "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 14:20:27 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+          "summary": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
+          "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+          "pubDate": "Fri, 07 Aug 2026 13:34:44 GMT"
+        },
         {
           "title": "Copper jumps to its highest level ever. What the metal is telling us",
           "summary": "Once a reliable gauge if economic health, \"Dr. Copper\" may be giving complicated signals this year.",
@@ -145,17 +151,11 @@
           "summary": "\"We're taking decisive action to make UWM stronger, more liquid and better positioned to win for years to come,\" CEO Mat Ishbia said in a statement.",
           "link": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
           "pubDate": "Thu, 06 Aug 2026 20:37:51 GMT"
-        },
-        {
-          "title": "Traders on Kalshi now think it&apos;s likely that the S&P 500 will hit 8,000 in 2026",
-          "summary": "The rise in odds come after the broad index hit record highs in a more than 5% four-day rally that ended Wednesday.",
-          "link": "https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html",
-          "pubDate": "Thu, 06 Aug 2026 14:48:42 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Senate Democrats introduce bill to roll back press restrictions at Pentagon",
-          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Senate Democrats introduce bill to roll back press restrictions at Pentagon&#160; Senate Democrats introduced a new bill on Thursday to roll back Defense Secretary Pete Hegseth’s news media restrictions at the Pentagon, stating that those are&#8230;",
-          "link": "https://thehill.com/newsletters/defense-national-security/6015455-senate-democrats-introduce-bill-to-roll-back-press-restrictions-at-pentagon/",
-          "pubDate": "Thu, 06 Aug 2026 22:15:24 +0000"
+          "title": "Trump restarts effort to fire Fed&#8217;s Lisa Cook",
+          "summary": "President Trump is reportedly renewing his effort to boot Federal Reserve Governor Lisa Cook from her position, despite the Supreme Court thwarting his earlier attempt in June. A letter from White House presidential aide Dan Scavino, dated Wednesday, said the president was “considering” removing her, according to a copy of the letter obtained by The&#8230;",
+          "link": "https://thehill.com/homenews/administration/6017965-trump-attempts-remove-fed-cook/",
+          "pubDate": "Fri, 07 Aug 2026 22:17:46 +0000"
         },
         {
-          "title": "Judge formally dismisses Reflecting Pool charge against Olympian",
-          "summary": "A local judge in Washington, D.C., on Thursday formally dismissed the felony charge accusing Olympic canoeist David Hearn of vandalizing the Lincoln Memorial Reflecting Pool after U.S. Attorney Jeanine Pirro backed away from the case. D.C. Superior Court Judge Todd Edelman will decide later whether prosecutors can try to charge him again down the road. “Given&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/6015420-hearn-reflecting-pool-charges-dismissed/",
-          "pubDate": "Thu, 06 Aug 2026 22:09:12 +0000"
+          "title": "Alito to WSJ: ‘Obviously I’m here for another term’",
+          "summary": "Justice Samuel Alito shut down any notion he’s planning to imminently retire from the Supreme Court in an interview with The Wall Street Journal published Friday. It marks the justice’s first known comments on his future plans since NPR erroneously reported that the conservative jurist had announced his retirement on the final opinion day of&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/6017904-supreme-court-samuel-alito-retirement-response/",
+          "pubDate": "Fri, 07 Aug 2026 22:08:29 +0000"
         },
         {
-          "title": "Teamsters suing over California self-driving truck rules",
-          "summary": "Teamsters California sued the Golden State’s Department of Motor Vehicles (DMV) and several other agencies Wednesday, citing issues with the approval of self-driving trucks across the state. The lawsuit, filed in Alameda County, alleges that officials in California did not complete the extensive economic study and practical impact required by law.&#160; Attorneys for Teamsters also&#8230;",
-          "link": "https://thehill.com/business/6015329-teamsters-dmv-self-driving-trucks-lawsuit/",
-          "pubDate": "Thu, 06 Aug 2026 21:45:14 +0000"
+          "title": "Trump urges GOP to keep Senate in session until college sports bill passes",
+          "summary": "President Trump on Friday ramped up the pressure on Senate Republicans to cancel part of their August recess, this time urging embattled GOP senators to stay in Washington until they pass a bill to reform rules for compensating and recruiting college athletes. The measure has been bogged down in the Senate, and the disagreement over&#8230;",
+          "link": "https://thehill.com/homenews/senate/6017932-trump-gop-college-sports-bill/",
+          "pubDate": "Fri, 07 Aug 2026 22:04:33 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Career growth is actually a higher priority for Gen Z than work-life balance, survey says—with 93% of interns wanting to become executives",
-          "summary": "Career growth is actually a higher priority for Gen Z than work-life balance, survey says—with 93% of interns wanting to become executives",
-          "link": "https://finance.yahoo.com/small-business/articles/forget-life-balance-gen-z-150942602.html",
-          "pubDate": "2026-08-05T15:09:42Z"
+          "title": "Veteran manager buys 2 ETFs as market shifts",
+          "summary": "Veteran manager buys 2 ETFs as market shifts",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
+          "pubDate": "2026-08-07T02:03:00Z"
         },
         {
-          "title": "Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business",
-          "summary": "Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business",
-          "link": "https://finance.yahoo.com/markets/stocks/article/uber-stock-drops-as-bookings-guidance-disappoints-ceo-bets-on-robotaxi-push-to-grow-overall-business-150729446.html",
-          "pubDate": "2026-08-05T15:07:29Z"
+          "title": "Factbox-Tech companies tap debt, equity to fund AI and cloud expansion",
+          "summary": "Factbox-Tech companies tap debt, equity to fund AI and cloud expansion",
+          "link": "https://finance.yahoo.com/news/factbox-tech-companies-tap-debt-225411778.html",
+          "pubDate": "2026-08-06T15:37:18Z"
         },
         {
-          "title": "Colorado woman was denied medical coverage because her name is too long — now bills are piling up. How to fight a denial",
-          "summary": "Colorado woman was denied medical coverage because her name is too long — now bills are piling up. How to fight a denial",
-          "link": "https://finance.yahoo.com/healthcare/articles/colorado-woman-denied-medical-coverage-150500423.html",
-          "pubDate": "2026-08-05T15:05:00Z"
+          "title": "The world’s wealth on paper is increasingly out of balance with the actual economy, and it could end in disaster",
+          "summary": "The world’s wealth on paper is increasingly out of balance with the actual economy, and it could end in disaster",
+          "link": "https://finance.yahoo.com/economy/articles/world-wealth-paper-increasingly-balance-153500602.html",
+          "pubDate": "2026-08-06T15:35:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -237,40 +237,40 @@
           "pubDate": "Thu, 06 Aug 2026 05:50:21 EDT"
         },
         {
-          "title": "Major study challenges long-held fears about acetaminophen and ibuprofen use in babies",
-          "summary": "A landmark study of nearly 4,000 babies found that acetaminophen and ibuprofen were equally safe during infancy. Neither medicine was linked to eczema or bronchiolitis, and no serious side effects were caused by the drugs. Researchers will continue following the children through age six to study possible long-term effects.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260805082510.htm",
-          "pubDate": "Thu, 06 Aug 2026 08:43:09 EDT"
+          "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+          "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+          "pubDate": "Fri, 07 Aug 2026 07:18:01 EDT"
         },
         {
-          "title": "A star’s violent death exposed a hidden supermassive black hole",
-          "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a passing star and producing a brief, brilliant flare. Astronomers think it may be the remnant of a devoured galaxy or a black hole flung outward during a chaotic cosmic encounter.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
-          "pubDate": "Thu, 06 Aug 2026 08:16:32 EDT"
+          "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
+          "summary": "More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime from those that arrived after his death, uncovering traces of his original gut bacteria and cold-loving yeasts that may have survived alongside him in the glacier for millennia.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm",
+          "pubDate": "Fri, 07 Aug 2026 00:24:49 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Ancient Greek rings may have been forged with iron from meteorites",
+          "summary": "Chemical analysis of Bronze Age iron objects indicate that Greek nobles may have indulged in signet rings made with precious metal from the sky.",
+          "link": "https://www.sciencenews.org/article/bronze-age-greek-rings-iron-meteorites",
+          "pubDate": "Fri, 07 Aug 2026 16:00:00 +0000"
+        },
+        {
+          "title": "AI may respond differently to bosses and subordinates",
+          "summary": "In simulated conversations, social hierarchy can sway AI agents, making lower-status systems more likely to follow harmful requests.",
+          "link": "https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety",
+          "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000"
+        },
         {
           "title": "Here’s what the first mRNA flu vaccine could mean for flu season",
           "summary": "Compared with standard flu shots, Moderna’s mFlusiva generates stronger, longer-lasting immunity and is more effective at preventing infection, data show.",
           "link": "https://www.sciencenews.org/article/first-mrna-flu-vaccine-fall-season",
           "pubDate": "Thu, 06 Aug 2026 21:25:40 +0000"
-        },
-        {
-          "title": "Sugar may have been a key ingredient in human evolution",
-          "summary": "A sweet tooth for sugars from fruits and honey may have helped fuel brain growth in our primate cousins and early human ancestors, a new study suggests.",
-          "link": "https://www.sciencenews.org/article/sugar-ingredient-human-evolution-fruit",
-          "pubDate": "Thu, 06 Aug 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Heat-trapping asteroid dust may have incinerated the dinosaurs within hours",
-          "summary": "Within minutes of impact, debris began heating Earth’s atmosphere. Fine dust trapped that heat, potentially killing the dinosaurs quickly.",
-          "link": "https://www.sciencenews.org/article/asteroid-dust-incinerated-dinosaurs",
-          "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000"
         }
       ]
     }
