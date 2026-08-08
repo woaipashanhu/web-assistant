@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-07T23:00:42.984Z",
-  "date": "2026-08-08",
+  "lastUpdate": "2026-08-08T23:00:42.700Z",
+  "date": "2026-08-09",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
-          "summary": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.",
-          "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
-          "pubDate": "Fri, 07 Aug 2026 18:54:04 +0000"
+          "title": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+          "summary": "A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “distortions,” it would also bar questions about race and sexual orientation.",
+          "link": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+          "pubDate": "Sat, 08 Aug 2026 14:03:58 +0000"
         },
         {
-          "title": "The 7 Best TV Shows to Stream This Month",
-          "summary": "Lanterns, Dark Matter, and the original Star Trek are just a few of the TV shows you should be watching right now.",
-          "link": "https://www.wired.com/story/the-7-best-shows-to-stream-right-now/",
-          "pubDate": "Fri, 07 Aug 2026 16:48:21 +0000"
+          "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+          "summary": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
+          "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+          "pubDate": "Sat, 08 Aug 2026 13:00:00 +0000"
         },
         {
-          "title": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
-          "summary": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
-          "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
-          "pubDate": "Fri, 07 Aug 2026 15:00:00 +0000"
+          "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+          "summary": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It’s pretty small.",
+          "link": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+          "pubDate": "Sat, 08 Aug 2026 12:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
-          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-          "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000"
+          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+          "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000"
         },
         {
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-          "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000"
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "summary": "NextSlide says its team members are now working on ChatGPT.",
+          "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000"
         },
         {
-          "title": "Wacom&#8217;s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
-          "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-          "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-          "pubDate": "Fri, 07 Aug 2026 21:20:00 +0000"
+          "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+          "summary": "X is winding down its existing Revenue Sharing program.",
+          "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+          "pubDate": "Sat, 08 Aug 2026 16:34:22 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-          "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
-          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 22:13:55 GMT"
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 19:18:57 GMT"
         },
         {
-          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-          "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-          "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 21:19:27 GMT"
+          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 15:56:39 GMT"
         },
         {
-          "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-          "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-          "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 14:20:27 GMT"
+          "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+          "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 17:58:42 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+          "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
+          "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+          "pubDate": "Sat, 08 Aug 2026 15:00:01 GMT"
+        },
+        {
+          "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
+          "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+          "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+          "pubDate": "Sat, 08 Aug 2026 13:28:00 GMT"
+        },
         {
           "title": "Odds the Fed will hike in September tumble following big July jobs miss",
           "summary": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
           "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
           "pubDate": "Fri, 07 Aug 2026 13:34:44 GMT"
-        },
-        {
-          "title": "Copper jumps to its highest level ever. What the metal is telling us",
-          "summary": "Once a reliable gauge if economic health, \"Dr. Copper\" may be giving complicated signals this year.",
-          "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
-          "pubDate": "Thu, 06 Aug 2026 20:07:51 GMT"
-        },
-        {
-          "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
-          "summary": "\"We're taking decisive action to make UWM stronger, more liquid and better positioned to win for years to come,\" CEO Mat Ishbia said in a statement.",
-          "link": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
-          "pubDate": "Thu, 06 Aug 2026 20:37:51 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump restarts effort to fire Fed&#8217;s Lisa Cook",
-          "summary": "President Trump is reportedly renewing his effort to boot Federal Reserve Governor Lisa Cook from her position, despite the Supreme Court thwarting his earlier attempt in June. A letter from White House presidential aide Dan Scavino, dated Wednesday, said the president was “considering” removing her, according to a copy of the letter obtained by The&#8230;",
-          "link": "https://thehill.com/homenews/administration/6017965-trump-attempts-remove-fed-cook/",
-          "pubDate": "Fri, 07 Aug 2026 22:17:46 +0000"
+          "title": "Amid Strait of Hormuz talks, Iran publishes list of demands for US",
+          "summary": "The secretary of Iran’s Supreme National Security Council, Mohammad Bagher Zolghadr, laid out the country’s key demands for the U.S. amid negotiations to reopen the Strait of Hormuz on Saturday.&#160; Iran and Oman are engaged in ongoing discussions around this key waterway, which carries a significant portion of the world’s oil supply and has been&#8230;",
+          "link": "https://thehill.com/policy/international/6018858-iran-demands-us-hormuz-negotiations/",
+          "pubDate": "Sat, 08 Aug 2026 22:31:48 +0000"
         },
         {
-          "title": "Alito to WSJ: ‘Obviously I’m here for another term’",
-          "summary": "Justice Samuel Alito shut down any notion he’s planning to imminently retire from the Supreme Court in an interview with The Wall Street Journal published Friday. It marks the justice’s first known comments on his future plans since NPR erroneously reported that the conservative jurist had announced his retirement on the final opinion day of&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/6017904-supreme-court-samuel-alito-retirement-response/",
-          "pubDate": "Fri, 07 Aug 2026 22:08:29 +0000"
+          "title": "Turkey says Iran not target of pact with Saudi Arabia, Pakistan",
+          "summary": "Turkish Foreign Minister Hakan Fidan clarified Saturday that the NATO-like agreement between Turkey, Saudi Arabia and Pakistan is not targeted at any particular country amid speculation that the pact was formed in response to the ongoing war in Iran. Fidan, in an interview with Turkey’s state-run Anadolu Agency conducted a day after the three countries&#8230;",
+          "link": "https://thehill.com/policy/international/6018834-turkey-says-iran-not-target-of-pact-with-saudi-arabia-pakistan/",
+          "pubDate": "Sat, 08 Aug 2026 22:25:45 +0000"
         },
         {
-          "title": "Trump urges GOP to keep Senate in session until college sports bill passes",
-          "summary": "President Trump on Friday ramped up the pressure on Senate Republicans to cancel part of their August recess, this time urging embattled GOP senators to stay in Washington until they pass a bill to reform rules for compensating and recruiting college athletes. The measure has been bogged down in the Senate, and the disagreement over&#8230;",
-          "link": "https://thehill.com/homenews/senate/6017932-trump-gop-college-sports-bill/",
-          "pubDate": "Fri, 07 Aug 2026 22:04:33 +0000"
+          "title": "Sunday shows preview: Iran-Hormuz deal hangs in balance; Trump, Dems look to midterms",
+          "summary": "Vice President JD Vance said on Saturday that there has been “some progress over the last few days” in negotiations between Iran and Oman over reopening the Strait of Hormuz.&#160; This critical trading passage has been a key sticking point in the negotiations to end this months-long conflict.&#160; However, Vance stressed to Fox News’s Kayleigh&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6018823-sunday-preview-vance-iran-negotiations-progress/",
+          "pubDate": "Sat, 08 Aug 2026 21:47:48 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Veteran manager buys 2 ETFs as market shifts",
-          "summary": "Veteran manager buys 2 ETFs as market shifts",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
-          "pubDate": "2026-08-07T02:03:00Z"
+          "title": "Palantir CEO drops 11-word bombshell for stock market investors",
+          "summary": "Palantir CEO drops 11-word bombshell for stock market investors",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
+          "pubDate": "2026-08-07T16:03:00Z"
         },
         {
-          "title": "Factbox-Tech companies tap debt, equity to fund AI and cloud expansion",
-          "summary": "Factbox-Tech companies tap debt, equity to fund AI and cloud expansion",
-          "link": "https://finance.yahoo.com/news/factbox-tech-companies-tap-debt-225411778.html",
-          "pubDate": "2026-08-06T15:37:18Z"
+          "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+          "summary": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+          "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html",
+          "pubDate": "2026-08-08T20:42:34Z"
         },
         {
-          "title": "The world’s wealth on paper is increasingly out of balance with the actual economy, and it could end in disaster",
-          "summary": "The world’s wealth on paper is increasingly out of balance with the actual economy, and it could end in disaster",
-          "link": "https://finance.yahoo.com/economy/articles/world-wealth-paper-increasingly-balance-153500602.html",
-          "pubDate": "2026-08-06T15:35:00Z"
+          "title": "SentinelOne (S) Deepens AWS Ties As Growth Accelerates",
+          "summary": "SentinelOne (S) Deepens AWS Ties As Growth Accelerates",
+          "link": "https://finance.yahoo.com/technology/ai/articles/sentinelone-deepens-aws-ties-growth-200954951.html",
+          "pubDate": "2026-08-08T20:09:54Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
-          "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug and by targeting fat metabolism. The discovery points to several exciting possibilities for future back pain treatments.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
-          "pubDate": "Thu, 06 Aug 2026 05:50:21 EDT"
+          "title": "Cutting sweet foods doesn’t curb cravings or improve health",
+          "summary": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful differences in their preference for sweet foods, body weight, or markers linked to diabetes and heart disease. Many participants also drifted back toward their previous eating habits once the trial ended.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+          "pubDate": "Sat, 08 Aug 2026 08:55:19 EDT"
         },
         {
-          "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-          "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
-          "pubDate": "Fri, 07 Aug 2026 07:18:01 EDT"
+          "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+          "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+          "pubDate": "Sat, 08 Aug 2026 10:58:54 EDT"
         },
         {
-          "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
-          "summary": "More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime from those that arrived after his death, uncovering traces of his original gut bacteria and cold-loving yeasts that may have survived alongside him in the glacier for millennia.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm",
-          "pubDate": "Fri, 07 Aug 2026 00:24:49 EDT"
+          "title": "The sun is covered in tiny whirlpools we’ve never seen before",
+          "summary": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy released in small solar eruptions called nanoflares. They may also help magnetic fields spread through the Sun’s atmosphere far faster than current models can explain.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
+          "pubDate": "Sat, 08 Aug 2026 09:03:51 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "siteName": "Science News",
       "items": [
         {
