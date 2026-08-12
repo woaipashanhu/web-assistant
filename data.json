@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-11T23:00:10.444Z",
-  "date": "2026-08-12",
+  "lastUpdate": "2026-08-12T23:00:12.474Z",
+  "date": "2026-08-13",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Is It Safe to Eat Lettuce Yet?",
-          "summary": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
-          "link": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
-          "pubDate": "Tue, 11 Aug 2026 20:26:01 +0000"
+          "title": "The Best Photos of the Big August Solar Eclipse",
+          "summary": "It’s been a century since the Iberian peninsula has been in the full shadow of the moon. Here’s what it looked like in the path of totality.",
+          "link": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
+          "pubDate": "Wed, 12 Aug 2026 22:47:30 +0000"
         },
         {
-          "title": "How and When to View the Perseid Meteor Shower (August 2026)",
-          "summary": "The Perseids will peak between August 12 and 13. Here’s what time—and where—you can get the best view, and why 2026 will be an exceptional year.",
-          "link": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/",
-          "pubDate": "Tue, 11 Aug 2026 19:15:40 +0000"
+          "title": "The White House Is Going to Expand Its AI Policy",
+          "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+          "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+          "pubDate": "Wed, 12 Aug 2026 21:00:00 +0000"
         },
         {
-          "title": "Razer Naga V3 Pro Review: Buttons Galore",
-          "summary": "The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.",
-          "link": "https://www.wired.com/review/razer-naga-v3-pro/",
-          "pubDate": "Tue, 11 Aug 2026 15:00:00 +0000"
+          "title": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
+          "summary": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
+          "link": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/",
+          "pubDate": "Wed, 12 Aug 2026 20:14:30 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was &#8216;cookie stuffing&#8217; for months",
-          "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-          "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-          "pubDate": "Tue, 11 Aug 2026 21:39:58 +0000"
+          "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+          "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000"
         },
         {
-          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-          "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-          "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-          "pubDate": "Tue, 11 Aug 2026 21:39:11 +0000"
+          "title": "AI nuclear power firm Fermi finally has a new CEO",
+          "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+          "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+          "pubDate": "Wed, 12 Aug 2026 22:24:00 +0000"
         },
         {
-          "title": "Uber surprised robotics company Serve by selling its entire stake",
-          "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
-          "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-          "pubDate": "Tue, 11 Aug 2026 20:02:02 +0000"
+          "title": "Northrop&#8217;s robot space mechanic is a new way to keep satellites at work longer",
+          "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+          "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+          "pubDate": "Wed, 12 Aug 2026 20:53:41 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-          "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-          "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 19:09:52 GMT"
+          "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+          "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 17:47:01 GMT"
         },
         {
-          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-          "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-          "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 21:14:56 GMT"
+          "title": "Israeli settlers besieging Palestinian families in West Bank village",
+          "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 16:14:08 GMT"
         },
         {
-          "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-          "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
-          "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 20:39:42 GMT"
+          "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 21:53:26 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-          "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
-          "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-          "pubDate": "Tue, 11 Aug 2026 21:01:13 GMT"
+          "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+          "summary": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
+          "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
+          "pubDate": "Wed, 12 Aug 2026 19:15:54 GMT"
         },
         {
-          "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
-          "summary": "Twenty-three states have laws banning betting on elections, according to Pew Research. Not every state is sure these rules apply to prediction market trades.",
-          "link": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
-          "pubDate": "Tue, 11 Aug 2026 18:44:16 GMT"
+          "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
+          "summary": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
+          "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
+          "pubDate": "Wed, 12 Aug 2026 12:08:39 GMT"
         },
         {
-          "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-          "summary": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
-          "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-          "pubDate": "Tue, 11 Aug 2026 18:09:08 GMT"
+          "title": "EVs dominate China’s car market: 5 takeaways from the country&apos;s latest auto sales data",
+          "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+          "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+          "pubDate": "Wed, 12 Aug 2026 01:20:13 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump administration finalizes rule restricting trans healthcare for minors on Medicaid",
-          "summary": "The Trump administration on Tuesday released a final rule blocking the use of federal Medicaid dollars for transgender healthcare for minors, as well as barring Children’s Health Insurance Program (CHIP) plans from paying for gender-affirming procedures for minors. The final rule released by The Centers for Medicare and Medicaid Services (CMS) bars Medicaid dollars from&#8230;",
-          "link": "https://thehill.com/policy/healthcare/6023489-cms-blocks-minor-gender-care/",
-          "pubDate": "Tue, 11 Aug 2026 22:07:09 +0000"
+          "title": "Trump snaps back to economic warfare in struggle to make Iran tap out",
+          "summary": "President Trump’s efforts to bring the Iran war to an end have faltered several times. The U.S. military’s limited airstrike campaign did not move the needle. Trump’s threats to wipe Iran off the face of the earth didn’t either. Every time there appears to be a breakthrough in diplomatic talks, a wrench gets thrown in&#8230;",
+          "link": "https://thehill.com/policy/defense/6026324-trump-iran-economic-warfare-blockade-sanctions/",
+          "pubDate": "Wed, 12 Aug 2026 22:31:04 +0000"
         },
         {
-          "title": "Hims &#038; Hers planning to sell compounded peptides",
-          "summary": "Hims &#38; Hers Health is planning to sell compounded peptides, the company said in a Monday earnings call. The company’s CEO, Andrew Dudum, said in the earnings call that it was “currently developing a best-in-class peptides experience, including U.S. manufactured products, clinical-led guidance, and ongoing blood testing.” Dudum said in the call that the company&#8230;",
-          "link": "https://thehill.com/policy/healthcare/6023657-hims-hers-plans-compounded-peptides/",
-          "pubDate": "Tue, 11 Aug 2026 22:06:55 +0000"
+          "title": "Sweltering heat dome to hit US: Here&#8217;s when, where it could break records",
+          "summary": "Major heat is heading to the Southeast and Florida, starting this weekend and lasting most of next week, as a near-record heat dome grows across the region.",
+          "link": "https://thehill.com/homenews/state-watch/6026375-sweltering-heat-dome-to-hit-us-heres-when-where-it-could-break-records/",
+          "pubDate": "Wed, 12 Aug 2026 22:20:30 +0000"
         },
         {
-          "title": "AI reshapes traditional campaign strategies",
-          "summary": "{beacon} Technology Technology &#8202; The Big Story&#160; AI reshapes traditional campaign strategies Artificial intelligence is reshaping the campaign trail, as candidates up and down the ballot turn to the technology for deepfake attack ads, viral social media posts and self-promotion.&#160; © Illustration / Courtney Jones; and Adobe Stock The embrace of AI as a political&#8230;",
-          "link": "https://thehill.com/newsletters/technology/6023643-ai-reshapes-traditional-campaign-strategies/",
-          "pubDate": "Tue, 11 Aug 2026 21:51:03 +0000"
+          "title": "Mamdani weighs in on &#8216;Woke 1 was crazy:&#8217; &#8216;Sometimes, what you believe can change&#8217;",
+          "summary": "New York City Mayor Zohran Mamdani (D) on Wednesday weighed in on the &#8220;Woke 1 was crazy&#8221; remark said by New York City councilor Chi Ossé and Rep. Alexandria Ocasio-Cortez (D-N.Y.) and echoed that &#8220;sometimes, what you believe can change.&#8221; Mamdani, while at an event breaking ground on the long-stalled&#160;Tremont Avenue busway in the Bronx,&#8230;",
+          "link": "https://thehill.com/homenews/campaign/6026253-mamdani-addressing-woke-1/",
+          "pubDate": "Wed, 12 Aug 2026 22:12:53 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Billionaire sues ex-employee over alleged theft",
-          "summary": "Billionaire sues ex-employee over alleged theft",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-sues-ex-employee-over-005000617.html",
-          "pubDate": "2026-08-11T00:50:00Z"
+          "title": "Bank of America sends blunt message to Nvidia stock investors",
+          "summary": "Bank of America sends blunt message to Nvidia stock investors",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
+          "pubDate": "2026-08-12T17:47:00Z"
         },
         {
-          "title": "UDR, Inc. Stock: Is Wall Street Bullish or Bearish?",
-          "summary": "UDR, Inc. Stock: Is Wall Street Bullish or Bearish?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/udr-inc-stock-wall-street-142749610.html",
-          "pubDate": "2026-08-10T14:27:49Z"
+          "title": "Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges",
+          "summary": "Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/russia-allow-bitcoin-ether-tether-145700776.html",
+          "pubDate": "2026-08-11T14:57:00Z"
         },
         {
-          "title": "Are Wall Street Analysts Predicting D.R. Horton Stock Will Climb or Sink?",
-          "summary": "Are Wall Street Analysts Predicting D.R. Horton Stock Will Climb or Sink?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-d-143154903.html",
-          "pubDate": "2026-08-10T14:31:54Z"
+          "title": "US fuel exports to Cuba spur chaotic black market",
+          "summary": "US fuel exports to Cuba spur chaotic black market",
+          "link": "https://finance.yahoo.com/news/us-fuel-sales-cuban-business-100512481.html",
+          "pubDate": "2026-08-11T14:58:58Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
-          "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once daily with or without food and could potentially be produced more easily at scale.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
-          "pubDate": "Mon, 10 Aug 2026 10:50:43 EDT"
+          "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+          "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satellite tracking and help reduce the growing risk of collisions in increasingly crowded orbits.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+          "pubDate": "Wed, 12 Aug 2026 09:38:05 EDT"
         },
         {
-          "title": "Scientists discover a hidden switch inside silver nanocatalysts",
-          "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst designs that boost clean power generation while making green hydrogen more energy-efficient.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
-          "pubDate": "Mon, 10 Aug 2026 08:27:30 EDT"
+          "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+          "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+          "pubDate": "Wed, 12 Aug 2026 07:17:51 EDT"
         },
         {
-          "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
-          "summary": "A total solar eclipse will plunge parts of Europe into darkness on August 12, 2026, with Spain offering some of the best views. ESA will livestream the spectacle from the Javalambre Observatory, combining telescope feeds, drone footage, and expert commentary. At 20:31 CEST, the observatory will experience 1 minute and 21 seconds of totality, revealing the Sun’s normally hidden outer atmosphere.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm",
-          "pubDate": "Mon, 10 Aug 2026 06:55:53 EDT"
+          "title": "James Webb captures a cosmic lion sculpted by a dying star",
+          "summary": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its center, a scorching white dwarf is blasting radiation into surrounding gas and dust, carving out the nebula’s lion-like face while illuminating a sprawling “mane” of surviving dusty clumps.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
+          "pubDate": "Wed, 12 Aug 2026 06:15:19 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Bamboo toilet paper intrigued me. Reality turned out to be messy",
-          "summary": "What makes a greener wipe? Researchers have more to say about bamboo's ecological risks, given limited carbon footprint data.",
-          "link": "https://www.sciencenews.org/article/bamboo-toilet-paper-carbon-footprint",
-          "pubDate": "Tue, 11 Aug 2026 16:00:00 +0000"
+          "title": "Estrogen therapy is linked to fewer signs of Alzheimer’s in the brain",
+          "summary": "Estrogen-only menopause therapy in older women was linked to less Alzheimer’s brain pathology at autopsy but may not prevent the disease.",
+          "link": "https://www.sciencenews.org/article/estrogen-therapy-alzheimers-brain",
+          "pubDate": "Wed, 12 Aug 2026 20:00:00 +0000"
         },
         {
-          "title": "The largest known galaxy is wider than 17 Milky Ways",
-          "summary": "Scientists have identified the edge of galaxy IC 1101 and crowned it with the title of largest known galaxy.",
-          "link": "https://www.sciencenews.org/article/largest-known-galaxy-wider-milky-way",
-          "pubDate": "Tue, 11 Aug 2026 14:00:00 +0000"
+          "title": "A vest tested on the Artemis I mission blocked some radiation exposure",
+          "summary": "A 26-kilogram plastic garment, flown on a model human torso on the uncrewed Artemis I mission, may one day protect astronauts from solar storms.",
+          "link": "https://www.sciencenews.org/article/vest-artemis-mission-blocked-radiation",
+          "pubDate": "Wed, 12 Aug 2026 18:00:00 +0000"
         },
         {
-          "title": "Sad or afraid? Dogs may be able to read your face",
-          "summary": "A new brain-imaging study suggests that dogs may be able to distinguish between certain negative human emotions just by looking at people’s faces.",
-          "link": "https://www.sciencenews.org/article/dogs-understand-emotions-humans-face",
-          "pubDate": "Mon, 10 Aug 2026 15:00:00 +0000"
+          "title": "Too many choices complicate female frogs’ sex lives",
+          "summary": "In the lab, female frogs were less likely to choose preferred males as mating calls increased, potentially giving other males a better shot.",
+          "link": "https://www.sciencenews.org/article/choices-female-frogs-sex-mating-calls",
+          "pubDate": "Wed, 12 Aug 2026 15:00:00 +0000"
         }
       ]
     }
