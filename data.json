@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-13T23:00:11.903Z",
-  "date": "2026-08-14",
+  "lastUpdate": "2026-08-14T23:00:56.325Z",
+  "date": "2026-08-15",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Safety Reckoning Inside OpenAI",
-          "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-          "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-          "pubDate": "Thu, 13 Aug 2026 22:37:19 +0000"
+          "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
+          "summary": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
+          "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+          "pubDate": "Fri, 14 Aug 2026 21:43:17 +0000"
         },
         {
-          "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-          "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
-          "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-          "pubDate": "Thu, 13 Aug 2026 21:14:43 +0000"
+          "title": "The Best Movies to Stream This Month (August 2026)",
+          "summary": "Avatar Aang, Heartstopper Forever, and Exit 8 are among the films deserving of your eyeballs this month.",
+          "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+          "pubDate": "Fri, 14 Aug 2026 21:18:21 +0000"
         },
         {
-          "title": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
-          "summary": "ICE is spending millions on shock gloves designed to overpower subjects through intense, localized pain.",
-          "link": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/",
-          "pubDate": "Thu, 13 Aug 2026 15:57:12 +0000"
+          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+          "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+          "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+          "pubDate": "Fri, 14 Aug 2026 20:59:03 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-          "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-          "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-          "pubDate": "Thu, 13 Aug 2026 22:12:40 +0000"
+          "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+          "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+          "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+          "pubDate": "Fri, 14 Aug 2026 22:43:24 +0000"
         },
         {
-          "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-          "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
-          "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-          "pubDate": "Thu, 13 Aug 2026 22:02:04 +0000"
+          "title": "Self-driving trucks are officially testing on California highways",
+          "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+          "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+          "pubDate": "Fri, 14 Aug 2026 20:37:49 +0000"
         },
         {
-          "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-          "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-          "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-          "pubDate": "Thu, 13 Aug 2026 21:50:11 +0000"
+          "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+          "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+          "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+          "pubDate": "Fri, 14 Aug 2026 19:33:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-          "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 20:12:17 GMT"
+          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+          "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 14 Aug 2026 18:25:38 GMT"
         },
         {
-          "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-          "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-          "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 19:46:27 GMT"
+          "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+          "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+          "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT"
         },
         {
-          "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-          "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-          "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT"
+          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-          "summary": "Recent FactSet data show that the rise in earnings is not coming from sales growth alone.",
-          "link": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-          "pubDate": "Thu, 13 Aug 2026 20:21:51 GMT"
+          "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+          "summary": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+          "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+          "pubDate": "Fri, 14 Aug 2026 21:06:48 GMT"
         },
         {
-          "title": "&apos;Big Short&apos; investor Steve Eisman sees an Achilles&apos; heel in the AI boom",
-          "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
-          "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-          "pubDate": "Thu, 13 Aug 2026 15:16:00 GMT"
+          "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+          "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
+          "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+          "pubDate": "Fri, 14 Aug 2026 20:05:57 GMT"
         },
         {
-          "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-          "summary": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
-          "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-          "pubDate": "Thu, 13 Aug 2026 16:38:06 GMT"
+          "title": "Regulators and banks step up scrutiny of prediction markets",
+          "summary": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.",
+          "link": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+          "pubDate": "Fri, 14 Aug 2026 19:21:49 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Top Commerce Committee Democrat presses airlines over AI ‘surveillance pricing’",
-          "summary": "A top Democrat on the House Energy and Commerce Committee is pressing major U.S. airlines over whether they use artificial intelligence to set ticket prices based on travelers’ personal information, raising concerns that it determines what fares consumers see. Rep. Frank Pallone Jr. (D-N.J.), the ranking member of the House Energy and Commerce Committee, sent&#8230;",
-          "link": "https://thehill.com/homenews/house/6028921-house-commerce-committee-democrat-investigates-airlines/",
-          "pubDate": "Thu, 13 Aug 2026 22:24:59 +0000"
+          "title": "USS Abraham Lincoln returning home",
+          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Amid reports of low morale, USS Abraham Lincoln returning home, Navy says Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier’s long deployment&#8230;",
+          "link": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
+          "pubDate": "Fri, 14 Aug 2026 21:39:25 +0000"
         },
         {
-          "title": "Who will replace Leavitt? Top contenders emerge",
-          "summary": "News of White House press secretary Karoline Leavitt stepping down is still fresh, but political observers are already guessing and taking bets on who could take her place. The press secretary is one of the most front-facing administration officials, and President Trump went through four press secretaries during his first term, with their timelines spanning&#8230;",
-          "link": "https://thehill.com/homenews/administration/6028830-karoline-leavitt-press-secretary-successor/",
-          "pubDate": "Thu, 13 Aug 2026 22:09:11 +0000"
+          "title": "USS Abraham Lincoln controversy likely to loom over Pentagon",
+          "summary": "Reports of low morale and poor conditions on the USS Abraham Lincoln have prompted new scrutiny from Congress and the families of those serving during the Iran war, scrutiny unlikely to end even as the administration said Friday the aircraft carrier was returning home. The return caps a grueling, more than 265-day deployment aboard the&#8230;",
+          "link": "https://thehill.com/homenews/6030865-congress-scrutinizes-navy-deployment/",
+          "pubDate": "Fri, 14 Aug 2026 21:29:39 +0000"
         },
         {
-          "title": "Warren presses RFK Jr. on Trump ties to lettuce distributor",
-          "summary": "Sen. Elizabeth Warren (D-Mass.) is pressing Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on whether the administration’s response to the cyclosporiasis outbreak was influenced by the donations of a major produce supplier to groups linked to President Trump.&#160; In a letter sent to Kennedy on Thursday, Warren questioned whether the “botched response”&#8230;",
-          "link": "https://thehill.com/policy/healthcare/6028916-trump-administration-cyclosporiasis-outbreak/",
-          "pubDate": "Thu, 13 Aug 2026 22:08:17 +0000"
+          "title": "Judge lifts order on Somalia TPS, clearing way for deportations",
+          "summary": "A Massachusetts-based federal judge on Friday lifted her stay in a case brought by Somali holders of temporary protected status (TPS), clearing the way for the Trump administration to begin deporting them. The ruling from U.S. District Judge Allison Burroughs lifts an administrative stay she issued after the Supreme Court decided in a related case&#8230;",
+          "link": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/",
+          "pubDate": "Fri, 14 Aug 2026 21:10:15 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Bank of America sends blunt message to Nvidia stock investors",
-          "summary": "Bank of America sends blunt message to Nvidia stock investors",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
-          "pubDate": "2026-08-12T17:47:00Z"
+          "title": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
+          "summary": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
+          "link": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
+          "pubDate": "2026-08-14T01:53:39Z"
         },
         {
-          "title": "AARP issues urgent call on Medicare drug costs",
-          "summary": "AARP issues urgent call on Medicare drug costs",
-          "link": "https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html",
-          "pubDate": "2026-08-12T22:17:00Z"
+          "title": "The Strategy Holds Firm on L3Harris Technologies (LHX)",
+          "summary": "The Strategy Holds Firm on L3Harris Technologies (LHX)",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-holds-firm-l3harris-technologies-154059875.html",
+          "pubDate": "2026-08-13T15:40:59Z"
         },
         {
-          "title": "Vestas Finally Catches a Tailwind",
-          "summary": "Vestas Finally Catches a Tailwind",
-          "link": "https://finance.yahoo.com/energy/articles/vestas-finally-catches-tailwind-151000533.html",
-          "pubDate": "2026-08-12T15:10:00Z"
+          "title": "Bitcoin Price Forecast: BTC Could Resume Its Rally as Rate Hike Odds Drop to 30%",
+          "summary": "Bitcoin Price Forecast: BTC Could Resume Its Rally as Rate Hike Odds Drop to 30%",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-forecast-btc-could-153349928.html",
+          "pubDate": "2026-08-13T15:33:49Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-          "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satellite tracking and help reduce the growing risk of collisions in increasingly crowded orbits.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
-          "pubDate": "Wed, 12 Aug 2026 09:38:05 EDT"
+          "title": "A stress hormone may help the brain repair itself",
+          "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+          "pubDate": "Fri, 14 Aug 2026 07:35:11 EDT"
         },
         {
-          "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-          "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
-          "pubDate": "Wed, 12 Aug 2026 07:17:51 EDT"
+          "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+          "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+          "pubDate": "Fri, 14 Aug 2026 08:56:01 EDT"
         },
         {
-          "title": "James Webb captures a cosmic lion sculpted by a dying star",
-          "summary": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its center, a scorching white dwarf is blasting radiation into surrounding gas and dust, carving out the nebula’s lion-like face while illuminating a sprawling “mane” of surviving dusty clumps.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
-          "pubDate": "Wed, 12 Aug 2026 06:15:19 EDT"
+          "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+          "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The breakthrough suggests antineutrino detectors could eventually monitor reactors even when they are offline.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+          "pubDate": "Fri, 14 Aug 2026 09:16:36 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "siteName": "Science News",
       "items": [
         {
-          "title": "The glue that binds a proton may be key to its identity",
-          "summary": "Gluons do more than hold protons together. They may also help define the proton’s identity through a quantum property called baryon number.",
-          "link": "https://www.sciencenews.org/article/gluons-proton-identity-baryon",
-          "pubDate": "Thu, 13 Aug 2026 18:00:00 +0000"
+          "title": "How a brutal drought may have helped unleash yellow fever in Brazil",
+          "summary": "Animals searching for water brought the forest to the city, perhaps sparking Brazil’s first yellow fever outbreak in decades.",
+          "link": "https://www.sciencenews.org/article/drought-yellow-fever-outbreak-brazil",
+          "pubDate": "Fri, 14 Aug 2026 18:00:00 +0000"
         },
         {
-          "title": "Stars’ plasma spurts may be blocked by magnetic fields",
-          "summary": "The sun frequently flings plasma into space, but sightings of such eruptions on other stars are rare. Magnetic fields could explain why.",
-          "link": "https://www.sciencenews.org/article/stars-eruptions-plasma-magnetic-fields",
-          "pubDate": "Thu, 13 Aug 2026 15:00:00 +0000"
+          "title": "A light-based scan could detect deadly bowel disease in preterm babies",
+          "summary": "Necrotizing enterocolitis strikes premature babies with almost no warning. A new approach aims to detect it early with a quick, low-risk scan.",
+          "link": "https://www.sciencenews.org/article/light-scan-deadly-bowel-disease-babies",
+          "pubDate": "Fri, 14 Aug 2026 16:00:00 +0000"
         },
         {
-          "title": "These mammal ancestors birthed live young far earlier than thought",
-          "summary": "Growth rings on a fossil bone suggest at least one mammal ancestor gave birth to live young rather than laying eggs 236 million years ago.",
-          "link": "https://www.sciencenews.org/article/mammal-ancestors-birthed-live-earlier",
-          "pubDate": "Thu, 13 Aug 2026 04:00:00 +0000"
+          "title": "A photographic memory is wishful thinking",
+          "summary": "In fiction, photographic memories crack the case or save the day. But our brains can’t hold on to everything — and that’s a good thing.",
+          "link": "https://www.sciencenews.org/article/photographic-memory-nonexistent-brain",
+          "pubDate": "Fri, 14 Aug 2026 13:00:00 +0000"
         }
       ]
     }
