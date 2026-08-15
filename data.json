@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-14T23:00:56.325Z",
-  "date": "2026-08-15",
+  "lastUpdate": "2026-08-15T23:00:55.778Z",
+  "date": "2026-08-16",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
-          "summary": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
-          "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
-          "pubDate": "Fri, 14 Aug 2026 21:43:17 +0000"
+          "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
+          "summary": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
+          "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
+          "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000"
         },
         {
-          "title": "The Best Movies to Stream This Month (August 2026)",
-          "summary": "Avatar Aang, Heartstopper Forever, and Exit 8 are among the films deserving of your eyeballs this month.",
-          "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-          "pubDate": "Fri, 14 Aug 2026 21:18:21 +0000"
+          "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+          "summary": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
+          "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+          "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000"
         },
         {
-          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-          "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
-          "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-          "pubDate": "Fri, 14 Aug 2026 20:59:03 +0000"
+          "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+          "summary": "These are the Apple Watch accessories I recommend adding to your setup.",
+          "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+          "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-          "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-          "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-          "pubDate": "Fri, 14 Aug 2026 22:43:24 +0000"
+          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000"
         },
         {
-          "title": "Self-driving trucks are officially testing on California highways",
-          "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-          "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-          "pubDate": "Fri, 14 Aug 2026 20:37:49 +0000"
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000"
         },
         {
-          "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-          "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-          "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-          "pubDate": "Fri, 14 Aug 2026 19:33:00 +0000"
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+          "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-          "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 18:25:38 GMT"
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 21:49:12 GMT"
         },
         {
-          "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-          "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-          "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT"
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT"
         },
         {
-          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-          "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT"
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "USS Abraham Lincoln returning home",
-          "summary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Amid reports of low morale, USS Abraham Lincoln returning home, Navy says Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier’s long deployment&#8230;",
-          "link": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
-          "pubDate": "Fri, 14 Aug 2026 21:39:25 +0000"
+          "title": "House Democrats question acting Navy Secretary on conditions aboard USS Abraham Lincoln",
+          "summary": "A group of House Democrats sent a letter Friday to the Acting Secretary of the Navy Hung Cao probing into conditions on the USS Abraham Lincoln, a ship that has been docked in the Middle East for over 260 days. The letter – sent by Reps. Joe Courtney (D-Conn.), Maggie Goodlander (D-N.H.), Wesley Bell (D-Mo.),&#8230;",
+          "link": "https://thehill.com/homenews/house/6031642-house-democrats-probe-uss-lincoln/",
+          "pubDate": "Sat, 15 Aug 2026 22:16:12 +0000"
         },
         {
-          "title": "USS Abraham Lincoln controversy likely to loom over Pentagon",
-          "summary": "Reports of low morale and poor conditions on the USS Abraham Lincoln have prompted new scrutiny from Congress and the families of those serving during the Iran war, scrutiny unlikely to end even as the administration said Friday the aircraft carrier was returning home. The return caps a grueling, more than 265-day deployment aboard the&#8230;",
-          "link": "https://thehill.com/homenews/6030865-congress-scrutinizes-navy-deployment/",
-          "pubDate": "Fri, 14 Aug 2026 21:29:39 +0000"
+          "title": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
+          "summary": "Key primary races in Minnesota and Wisconsin this month set the stage for tight battles in November as both parties seek to expand their hold in Congress. Progressive candidate Abdul El-Sayed narrowly defeated moderate Rep. Haley Stevens (D-Mich.) in Michigan’s tightly-contested Democratic Senate primary two weeks ago. Stevens was quick to endorse El-Sayed in the&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6031629-sunday-shows-preview-key-primary-races-set-stage-for-tight-november-battles-democrats-raise-concerns-over-uss-lincoln-conditions/",
+          "pubDate": "Sat, 15 Aug 2026 21:39:06 +0000"
         },
         {
-          "title": "Judge lifts order on Somalia TPS, clearing way for deportations",
-          "summary": "A Massachusetts-based federal judge on Friday lifted her stay in a case brought by Somali holders of temporary protected status (TPS), clearing the way for the Trump administration to begin deporting them. The ruling from U.S. District Judge Allison Burroughs lifts an administrative stay she issued after the Supreme Court decided in a related case&#8230;",
-          "link": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/",
-          "pubDate": "Fri, 14 Aug 2026 21:10:15 +0000"
+          "title": "Tuberville says he likes to talk to ChatGPT on long drives",
+          "summary": "Sen. Tommy Tuberville (R-Ala.) said Friday that he likes talk to ChatGPT to pass time on long car drives across his home state.&#160; The Alabama Republican, who&#8217;s running for governor, revealed to the Washington Post Friday that he talks with the popular chatbot about questions regarding Medicare and Medicaid. He will also listen as the&#8230;",
+          "link": "https://thehill.com/homenews/senate/6031617-tuberville-use-chatgpt/",
+          "pubDate": "Sat, 15 Aug 2026 21:14:18 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
-          "summary": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
-          "link": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
-          "pubDate": "2026-08-14T01:53:39Z"
+          "title": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
+          "summary": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
+          "pubDate": "2026-08-15T01:37:00Z"
         },
         {
-          "title": "The Strategy Holds Firm on L3Harris Technologies (LHX)",
-          "summary": "The Strategy Holds Firm on L3Harris Technologies (LHX)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-holds-firm-l3harris-technologies-154059875.html",
-          "pubDate": "2026-08-13T15:40:59Z"
+          "title": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
+          "summary": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-just-posted-86-224242758.html",
+          "pubDate": "2026-08-15T22:42:42Z"
         },
         {
-          "title": "Bitcoin Price Forecast: BTC Could Resume Its Rally as Rate Hike Odds Drop to 30%",
-          "summary": "Bitcoin Price Forecast: BTC Could Resume Its Rally as Rate Hike Odds Drop to 30%",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-forecast-btc-could-153349928.html",
-          "pubDate": "2026-08-13T15:33:49Z"
+          "title": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
+          "summary": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html",
+          "pubDate": "2026-08-15T22:31:04Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "ScienceDaily",
       "items": [
+        {
+          "title": "Scientists detect a surprising shift in human blood as CO2 rises",
+          "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while calcium and phosphorus have declined—changes that closely track increasing atmospheric CO2.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
+          "pubDate": "Sat, 15 Aug 2026 10:39:32 EDT"
+        },
+        {
+          "title": "When gut microbes run low on fiber, they may start eating you",
+          "summary": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
+          "pubDate": "Sat, 15 Aug 2026 10:30:28 EDT"
+        },
         {
           "title": "A stress hormone may help the brain repair itself",
           "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
           "link": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
           "pubDate": "Fri, 14 Aug 2026 07:35:11 EDT"
-        },
-        {
-          "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
-          "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
-          "pubDate": "Fri, 14 Aug 2026 08:56:01 EDT"
-        },
-        {
-          "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-          "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The breakthrough suggests antineutrino detectors could eventually monitor reactors even when they are offline.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
-          "pubDate": "Fri, 14 Aug 2026 09:16:36 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "siteName": "Science News",
       "items": [
         {
