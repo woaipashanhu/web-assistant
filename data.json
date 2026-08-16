@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-15T23:00:55.778Z",
-  "date": "2026-08-16",
+  "lastUpdate": "2026-08-16T23:00:55.919Z",
+  "date": "2026-08-17",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
-          "summary": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
-          "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
-          "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000"
+          "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
+          "summary": "Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.",
+          "link": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
+          "pubDate": "Sun, 16 Aug 2026 11:00:00 +0000"
         },
         {
-          "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
-          "summary": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
-          "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
-          "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000"
+          "title": "Astronomers Discover the Existence of a Black Hole Star",
+          "summary": "An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spots in the early universe.",
+          "link": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
+          "pubDate": "Sun, 16 Aug 2026 11:00:00 +0000"
         },
         {
-          "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-          "summary": "These are the Apple Watch accessories I recommend adding to your setup.",
-          "link": "https://www.wired.com/story/best-apple-watch-accessories/",
-          "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000"
+          "title": "It’s Never Too Early to Start Planning for the Next Two Solar Eclipses",
+          "summary": "In 2027 and 2028, there will be two spectacular, long-duration solar eclipses. Here’s what you need to know about them.",
+          "link": "https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/",
+          "pubDate": "Sun, 16 Aug 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-          "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-          "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000"
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000"
         },
         {
-          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-          "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000"
+          "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
+          "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000"
         },
         {
-          "title": "SpaceX officially closes its Cursor acquisition",
-          "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-          "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-          "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000"
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-          "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 21:49:12 GMT"
+          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+          "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 22:41:34 GMT"
         },
         {
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-          "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT"
+          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT"
         },
         {
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT"
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 19:03:04 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "House Democrats question acting Navy Secretary on conditions aboard USS Abraham Lincoln",
-          "summary": "A group of House Democrats sent a letter Friday to the Acting Secretary of the Navy Hung Cao probing into conditions on the USS Abraham Lincoln, a ship that has been docked in the Middle East for over 260 days. The letter – sent by Reps. Joe Courtney (D-Conn.), Maggie Goodlander (D-N.H.), Wesley Bell (D-Mo.),&#8230;",
-          "link": "https://thehill.com/homenews/house/6031642-house-democrats-probe-uss-lincoln/",
-          "pubDate": "Sat, 15 Aug 2026 22:16:12 +0000"
+          "title": "Fetterman warns of socialism&#8217;s rise in the Democratic Party: &#8216;This is lunacy&#8217;",
+          "summary": "Sen. John Fetterman (D-Pa.), who has bucked his party in recent years, warned against socialism’s rise in the Democratic Party in the wake of democratic socialists and insurgent progressives winning Democratic primaries. Fetterman, in a post on the social platform X, responded to a report on a poll from CBS News in which 58 percent&#8230;",
+          "link": "https://thehill.com/homenews/campaign/6032418-fetterman-warns-socialism-rise/",
+          "pubDate": "Sun, 16 Aug 2026 22:46:56 +0000"
         },
         {
-          "title": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
-          "summary": "Key primary races in Minnesota and Wisconsin this month set the stage for tight battles in November as both parties seek to expand their hold in Congress. Progressive candidate Abdul El-Sayed narrowly defeated moderate Rep. Haley Stevens (D-Mich.) in Michigan’s tightly-contested Democratic Senate primary two weeks ago. Stevens was quick to endorse El-Sayed in the&#8230;",
-          "link": "https://thehill.com/homenews/sunday-talk-shows/6031629-sunday-shows-preview-key-primary-races-set-stage-for-tight-november-battles-democrats-raise-concerns-over-uss-lincoln-conditions/",
-          "pubDate": "Sat, 15 Aug 2026 21:39:06 +0000"
+          "title": "Trump directs Hegseth to reduce U.S. joint exercises in South Korea",
+          "summary": "President Trump said Sunday he told Defense Secretary Pete Hegseth to “substantially reduce” the joint military exercises with South Korea. Trump wrote in a Truth Social post that he’s “not happy with the fact that the United States has, long ago, agreed to participate” in these joint military exercises. He also noted that South Korea&#8230;",
+          "link": "https://thehill.com/policy/defense/6032392-trump-scales-back-us-south-korea-drills/",
+          "pubDate": "Sun, 16 Aug 2026 21:55:27 +0000"
         },
         {
-          "title": "Tuberville says he likes to talk to ChatGPT on long drives",
-          "summary": "Sen. Tommy Tuberville (R-Ala.) said Friday that he likes talk to ChatGPT to pass time on long car drives across his home state.&#160; The Alabama Republican, who&#8217;s running for governor, revealed to the Washington Post Friday that he talks with the popular chatbot about questions regarding Medicare and Medicaid. He will also listen as the&#8230;",
-          "link": "https://thehill.com/homenews/senate/6031617-tuberville-use-chatgpt/",
-          "pubDate": "Sat, 15 Aug 2026 21:14:18 +0000"
+          "title": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln",
+          "summary": "U.S. Central Command (Centcom) commander Adm. Brad Cooper on Sunday addressed concerns about the mental health of service members aboard the USS Abraham Lincoln as the aircraft carrier returns home after being docked in the Middle East for more than 260 days. Cooper called his visit to the ship on Saturday &#8220;awe-inspiring&#8221; in a statement,&#8230;",
+          "link": "https://thehill.com/policy/defense/6032334-lincoln-crew-mental-health-concerns/",
+          "pubDate": "Sun, 16 Aug 2026 21:54:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
-          "summary": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
-          "pubDate": "2026-08-15T01:37:00Z"
+          "title": "Billionaire Bill Ackman doubles down on these stocks in Q2",
+          "summary": "Billionaire Bill Ackman doubles down on these stocks in Q2",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html",
+          "pubDate": "2026-08-16T02:03:00Z"
         },
         {
-          "title": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
-          "summary": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-just-posted-86-224242758.html",
-          "pubDate": "2026-08-15T22:42:42Z"
+          "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
+          "summary": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&amp;yptr=yahoo",
+          "pubDate": "2026-08-16T22:14:56Z"
         },
         {
-          "title": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
-          "summary": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html",
-          "pubDate": "2026-08-15T22:31:04Z"
+          "title": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
+          "summary": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
+          "pubDate": "2026-08-16T20:23:14Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists detect a surprising shift in human blood as CO2 rises",
-          "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while calcium and phosphorus have declined—changes that closely track increasing atmospheric CO2.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
-          "pubDate": "Sat, 15 Aug 2026 10:39:32 EDT"
+          "title": "Scientists reveal why walking gets so much harder with age",
+          "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while producing less forward motion. This leads to shorter strides, slower walking, and faster fatigue. Exercises targeting balance, coordination, and lower-leg strength could help preserve mobility.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+          "pubDate": "Sun, 16 Aug 2026 05:13:25 EDT"
         },
         {
-          "title": "When gut microbes run low on fiber, they may start eating you",
-          "summary": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
-          "pubDate": "Sat, 15 Aug 2026 10:30:28 EDT"
+          "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+          "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a decades-old textbook picture and could deepen our understanding of why protons—and ultimately matter itself—remain stable.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+          "pubDate": "Sun, 16 Aug 2026 05:55:45 EDT"
         },
         {
-          "title": "A stress hormone may help the brain repair itself",
-          "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
-          "pubDate": "Fri, 14 Aug 2026 07:35:11 EDT"
+          "title": "This 10-cent heart drug cuts hospitalizations by 25%",
+          "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the way for its return as a major treatment.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+          "pubDate": "Sun, 16 Aug 2026 08:22:32 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "siteName": "Science News",
       "items": [
         {
