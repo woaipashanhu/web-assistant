@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-18T23:00:55.752Z",
-  "date": "2026-08-19",
+  "lastUpdate": "2026-08-19T23:00:57.257Z",
+  "date": "2026-08-20",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Squeeze More Juice Out of Your Dead Batteries—Using Physics",
-          "summary": "How the joule thief circuit “steals” energy from seemingly depleted power cells.",
-          "link": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
-          "pubDate": "Tue, 18 Aug 2026 20:11:03 +0000"
+          "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+          "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+          "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+          "pubDate": "Wed, 19 Aug 2026 19:30:00 +0000"
         },
         {
-          "title": "Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)",
-          "summary": "Save $250 off the Garmin Fenix 8, plus discounts on other popular fitness trackers from the brand.",
-          "link": "https://www.wired.com/story/garmin-deals-august-2026/",
-          "pubDate": "Tue, 18 Aug 2026 18:42:17 +0000"
+          "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+          "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+          "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+          "pubDate": "Wed, 19 Aug 2026 16:44:07 +0000"
         },
         {
-          "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-          "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
-          "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-          "pubDate": "Tue, 18 Aug 2026 18:33:11 +0000"
+          "title": "Google Pixel Watch 5 Review: More Health, More AI",
+          "summary": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
+          "link": "https://www.wired.com/review/google-pixel-watch-5/",
+          "pubDate": "Wed, 19 Aug 2026 16:34:24 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-          "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-          "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-          "pubDate": "Tue, 18 Aug 2026 22:14:25 +0000"
+          "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+          "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+          "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "pubDate": "Wed, 19 Aug 2026 22:25:01 +0000"
         },
         {
-          "title": "DOJ&#8217;s probe into Andreessen Horowitz over board seats baffles VCs",
-          "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
-          "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-          "pubDate": "Tue, 18 Aug 2026 20:36:20 +0000"
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000"
         },
         {
-          "title": "TikTok explores peer-to-peer payments via DMs, report says",
-          "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-          "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-          "pubDate": "Tue, 18 Aug 2026 20:03:56 +0000"
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+          "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "pubDate": "Wed, 19 Aug 2026 21:51:23 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-          "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 12:36:11 GMT"
+          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+          "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 15:33:32 GMT"
         },
         {
-          "title": "Earthquake rocks Spain's historic Granada, injuring three",
-          "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-          "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT"
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 22:55:37 GMT"
         },
         {
-          "title": "Brazil's President Lula hails oil discovery near Amazon river",
-          "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT"
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 20:34:39 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
-          "summary": "A sell-off in long-term Treasurys is raising borrowing costs, exposing how debt, AI spending and energy are turning the bond market into a political problem.",
-          "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
-          "pubDate": "Tue, 18 Aug 2026 16:48:00 GMT"
+          "title": "Fed officials saw need for rate hike if inflation doesn&apos;t cool, minutes show",
+          "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
+          "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+          "pubDate": "Wed, 19 Aug 2026 18:54:50 GMT"
         },
         {
-          "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges&apos; turf",
-          "summary": "The company is seeking to launch a \"US500\" perp tied to the MerQube U.S. Large Cap Index, according to a regulatory filing.",
-          "link": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
-          "pubDate": "Tue, 18 Aug 2026 16:49:55 GMT"
+          "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+          "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+          "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+          "pubDate": "Wed, 19 Aug 2026 21:05:31 GMT"
         },
         {
-          "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
-          "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
-          "link": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-          "pubDate": "Tue, 18 Aug 2026 21:29:03 GMT"
+          "title": "Retail investors aren&apos;t entirely giving up on AI trade, but they appear more cautious",
+          "summary": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
+          "link": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
+          "pubDate": "Wed, 19 Aug 2026 11:09:33 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,31 +179,31 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "DOJ secures indictment of 17 Iranians accused of &#8216;massive&#8217; cyber theft campaign",
-          "summary": "The Justice Department (DOJ) on Tuesday unsealed an indictment charging 17 Iranian nationals with targeting American and foreign institutions via a cyber theft campaign on behalf of Iran’s Islamic Revolutionary Guard Corps (IRGC).&#160; The 14-count indictment charges 17 members of the Mabna Institute, an Iran-based company that has allegedly conducted a “coordinated campaign of cyber&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/6036708-doj-indicts-iranian-cyber-hackers/",
-          "pubDate": "Tue, 18 Aug 2026 22:49:13 +0000"
+          "title": "Trump admin plans crackdown on some immigrants&#8217; alleged tax refund &#8216;abuse&#8217;",
+          "summary": "The Treasury Department and the Internal Revenue Service (IRS) on Wednesday proposed stronger restrictions on certain immigrants’ ability to claim refundable tax credits — the latest in the Trump administration’s efforts to curb access from non-U.S. citizens to federal benefits. The department suggested the refunded portion of four tax credits be classified as “federal public&#8230;",
+          "link": "https://thehill.com/business/6040026-irs-treasury-trump-immigration-tax-restrictions/",
+          "pubDate": "Wed, 19 Aug 2026 22:57:04 +0000"
         },
         {
-          "title": "UK prime minister brushes off Susie Wiles impersonator incident: ‘Not embarrassed’",
-          "summary": "British Prime Minister Andy Burnham on Tuesday brushed off an incident where he exchanged messages with an impersonator posing as White House Chief of Staff Susie Wiles, saying he was &#8220;not embarrassed.&#8221; British outlet Sky News asked Burnham about the incident — pressing the newly elected prime minister on if he felt ashamed by the&#8230;",
-          "link": "https://thehill.com/policy/international/6036519-prime-minister-burnham-white-house-impersonator-response/",
-          "pubDate": "Tue, 18 Aug 2026 22:27:32 +0000"
+          "title": "Top DHS lawyer faces bar complaint over &#8216;worst of the worst&#8217; list for judges",
+          "summary": "The top lawyer for the Department of Homeland Security (DHS) is facing an ethics complaint with the Florida Bar after he launched a “Worst of the Worst” list for federal jurists, attacking their rulings. James Percival, the general counsel for DHS, has in recent weeks taken to social media to criticize judges who have made&#8230;",
+          "link": "https://thehill.com/homenews/administration/6040055-dhs-james-percival-ethics-complaint/",
+          "pubDate": "Wed, 19 Aug 2026 22:25:30 +0000"
         },
         {
-          "title": "Former Fauci associate David Morens pleads guilty to conspiracy",
-          "summary": "David Morens, former senior adviser at the National Institute of Allergy and Infectious Diseases and once an associate to Anthony Fauci, pleaded guilty on Thursday to a conspiracy to defraud the U.S. in relation to efforts to evade Freedom of Information Act (FOIA) requests. The Justice Department announced the guilty plea Tuesday. In April, the&#8230;",
-          "link": "https://thehill.com/regulation/court-battles/6036678-david-morens-pleads-guilty-foia-conspiracy/",
-          "pubDate": "Tue, 18 Aug 2026 22:27:00 +0000"
+          "title": "Army battalion in Georgia offering 4 days of GTA 6 play as reenlistment incentive",
+          "summary": "A U.S. Army battalion in Georgia is offering eligible soldiers a four-day pass to play Grand Theft Auto VI (GTA 6) as a reenlistment incentive once the highly anticipated game gets released this fall.&#160; The incentive is for the “special 4-day” pass, which is offered by the 9th Brigade Engineer Battalion, 2nd Armored Brigade Combat&#8230;",
+          "link": "https://thehill.com/policy/defense/6040002-army-battalion-offers-gta-6-pass/",
+          "pubDate": "Wed, 19 Aug 2026 22:06:59 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "雅虎财经",
       "items": [
         {
@@ -213,64 +213,64 @@
           "pubDate": "2026-08-18T17:10:35Z"
         },
         {
-          "title": "Hawaiian Electric’s (HE) Second Quarter Numbers Mask A Harder Truth",
-          "summary": "Hawaiian Electric’s (HE) Second Quarter Numbers Mask A Harder Truth",
-          "link": "https://finance.yahoo.com/energy/articles/hawaiian-electric-second-quarter-numbers-144032558.html",
-          "pubDate": "2026-08-17T14:40:32Z"
+          "title": "An OpenAI Deal Could Be a Game Changer for Cerebras Stock After a Brutal Selloff",
+          "summary": "An OpenAI Deal Could Be a Game Changer for Cerebras Stock After a Brutal Selloff",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/openai-deal-could-game-changer-150551462.html",
+          "pubDate": "2026-08-18T15:05:51Z"
         },
         {
-          "title": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
-          "summary": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-dual-segment-advantage-144304156.html",
-          "pubDate": "2026-08-17T14:43:04Z"
+          "title": "Investor Cathie Wood Loads Up On Block Stock",
+          "summary": "Investor Cathie Wood Loads Up On Block Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/investor-cathie-wood-loads-block-150200896.html",
+          "pubDate": "2026-08-18T15:02:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists turn DNA into a memory device that uses 100x less power",
-          "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
-          "pubDate": "Mon, 17 Aug 2026 04:06:45 EDT"
+          "title": "Pollen has a surprising problem — and honeybees have found a way around it",
+          "summary": "Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarkably well-balanced “baby food” for their larvae, revealing a sophisticated nutritional strategy hidden inside the hive.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
+          "pubDate": "Wed, 19 Aug 2026 07:25:45 EDT"
         },
         {
-          "title": "The bacteria that make cheese taste so good may also benefit your gut",
-          "summary": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduced inflammation, cholesterol regulation, and appetite control.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
-          "pubDate": "Mon, 17 Aug 2026 18:18:03 EDT"
+          "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
+          "summary": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+          "pubDate": "Wed, 19 Aug 2026 08:30:05 EDT"
         },
         {
-          "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-          "summary": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
-          "pubDate": "Tue, 18 Aug 2026 01:58:07 EDT"
+          "title": "This 23-foot crocodylian may have ruled South America’s food chain",
+          "summary": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were more important predators than mammals in this ancient tropical ecosystem. At around seven meters long, Purussaurus may even have helped control populations of giant herbivores.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
+          "pubDate": "Wed, 19 Aug 2026 05:55:34 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "siteName": "Science News",
       "items": [
         {
-          "title": "What Spider-Man gets right — and wrong — about turning off superpowers",
-          "summary": "In 'Spider-Man: Brand New Day,' Peter Parker devises a superpower inhibitor based on a real therapy using RNA.",
-          "link": "https://www.sciencenews.org/article/spider-man-superpower-inhibitor-rna",
-          "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000"
+          "title": "Static electricity is a mystery, and scientists are all charged up",
+          "summary": "Scientists are largely clueless about the origins of static electricity. A quirky group of researchers aims to change that.",
+          "link": "https://www.sciencenews.org/article/static-electricity-is-a-mystery",
+          "pubDate": "Wed, 19 Aug 2026 17:00:00 +0000"
         },
         {
-          "title": "Snail slime does many jobs thanks to calcium",
-          "summary": "Snails have five distinct types of mucus, each with its own job. The mollusks tweak calcium secretions to get the chemical mixture just right.",
-          "link": "https://www.sciencenews.org/article/snail-slime-mucus-many-jobs-calcium",
-          "pubDate": "Mon, 17 Aug 2026 16:00:00 +0000"
+          "title": "A new documentary shows what growing up lion is really like",
+          "summary": "The thrilling National Geographic series, premiering August 19, follows Kio from lion cub to king.",
+          "link": "https://www.sciencenews.org/article/lion-documentary-series-review-natgeo",
+          "pubDate": "Wed, 19 Aug 2026 16:00:00 +0000"
         },
         {
-          "title": "The COVID-19 vaccine may offer brain cancer patients a surprise benefit",
-          "summary": "A recent shot of the COVID-19 vaccine doubled survival time in glioblastoma patients who had undergone tumor biopsy or surgery.",
-          "link": "https://www.sciencenews.org/article/covid-19-vaccine-mrna-cancer-survival",
-          "pubDate": "Mon, 17 Aug 2026 14:00:00 +0000"
+          "title": "A record-breaking star could reveal how the Milky Way’s giant black hole spins",
+          "summary": "The star passes very close to the Milky Way’s supermassive black hole and could reveal the black hole’s spin by tracking how it warps the star’s orbit.",
+          "link": "https://www.sciencenews.org/article/record-breaking-star-black-hole-spin",
+          "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000"
         }
       ]
     }
