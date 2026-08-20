@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-19T23:00:57.257Z",
-  "date": "2026-08-20",
+  "lastUpdate": "2026-08-20T23:00:56.057Z",
+  "date": "2026-08-21",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-          "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-          "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-          "pubDate": "Wed, 19 Aug 2026 19:30:00 +0000"
+          "title": "The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole",
+          "summary": "S301 passes close to Sagittarius A*—so close that its orbit could reveal how the black hole’s rotation warps the spacetime around it.",
+          "link": "https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/",
+          "pubDate": "Thu, 20 Aug 2026 20:58:39 +0000"
         },
         {
-          "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-          "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-          "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-          "pubDate": "Wed, 19 Aug 2026 16:44:07 +0000"
+          "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
+          "summary": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
+          "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
+          "pubDate": "Thu, 20 Aug 2026 20:03:13 +0000"
         },
         {
-          "title": "Google Pixel Watch 5 Review: More Health, More AI",
-          "summary": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
-          "link": "https://www.wired.com/review/google-pixel-watch-5/",
-          "pubDate": "Wed, 19 Aug 2026 16:34:24 +0000"
+          "title": "Silicon Valley Doesn't Get Why You Hate AI",
+          "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+          "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+          "pubDate": "Thu, 20 Aug 2026 18:49:07 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-          "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-          "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-          "pubDate": "Wed, 19 Aug 2026 22:25:01 +0000"
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+          "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+          "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000"
         },
         {
-          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-          "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000"
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+          "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+          "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000"
         },
         {
-          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-          "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-          "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-          "pubDate": "Wed, 19 Aug 2026 21:51:23 +0000"
+          "title": "The Enhanced Games — tech&#8217;s steroid extravaganza — didn&#8217;t pay off, as company posts $60 million loss",
+          "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
+          "link": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+          "pubDate": "Thu, 20 Aug 2026 21:08:34 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-          "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 15:33:32 GMT"
+          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+          "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+          "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 19:52:48 GMT"
         },
         {
-          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-          "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 22:55:37 GMT"
+          "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+          "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+          "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 18:55:14 GMT"
         },
         {
-          "title": "Sacked Ukrainian defence minister calls for presidential election",
-          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 20:34:39 GMT"
+          "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+          "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "China is defying the global bond yield surge, boosting its diversification appeal",
+          "summary": "Chinese government bond yields have remained low amid a global surge.",
+          "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+          "pubDate": "Thu, 20 Aug 2026 02:39:14 GMT"
+        },
         {
           "title": "Fed officials saw need for rate hike if inflation doesn&apos;t cool, minutes show",
           "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
@@ -145,17 +151,11 @@
           "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
           "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
           "pubDate": "Wed, 19 Aug 2026 21:05:31 GMT"
-        },
-        {
-          "title": "Retail investors aren&apos;t entirely giving up on AI trade, but they appear more cautious",
-          "summary": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
-          "link": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
-          "pubDate": "Wed, 19 Aug 2026 11:09:33 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump admin plans crackdown on some immigrants&#8217; alleged tax refund &#8216;abuse&#8217;",
-          "summary": "The Treasury Department and the Internal Revenue Service (IRS) on Wednesday proposed stronger restrictions on certain immigrants’ ability to claim refundable tax credits — the latest in the Trump administration’s efforts to curb access from non-U.S. citizens to federal benefits. The department suggested the refunded portion of four tax credits be classified as “federal public&#8230;",
-          "link": "https://thehill.com/business/6040026-irs-treasury-trump-immigration-tax-restrictions/",
-          "pubDate": "Wed, 19 Aug 2026 22:57:04 +0000"
+          "title": "Seattle Times sports columnist resigns over spiked trans athlete story",
+          "summary": "A sports columnist with The Seattle Times announced Thursday he has resigned after the outlet declined to run his piece on transgender athletes in women&#8217;s sports. “After 11 years as a sports columnist at the Seattle Times, I have decided to resign. It was entirely my choice, and it was not an easy one. The&#8230;",
+          "link": "https://thehill.com/policy/sports-gaming/6042577-seattle-times-columnist-resigns-trans-athletes/",
+          "pubDate": "Thu, 20 Aug 2026 22:41:53 +0000"
         },
         {
-          "title": "Top DHS lawyer faces bar complaint over &#8216;worst of the worst&#8217; list for judges",
-          "summary": "The top lawyer for the Department of Homeland Security (DHS) is facing an ethics complaint with the Florida Bar after he launched a “Worst of the Worst” list for federal jurists, attacking their rulings. James Percival, the general counsel for DHS, has in recent weeks taken to social media to criticize judges who have made&#8230;",
-          "link": "https://thehill.com/homenews/administration/6040055-dhs-james-percival-ethics-complaint/",
-          "pubDate": "Wed, 19 Aug 2026 22:25:30 +0000"
+          "title": "Schwartz recognizes CDC strife in first talks with staff",
+          "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story&#160; Schwartz recognizes CDC strife in first talks with staff&#160; Erica Schwartz, the newly confirmed director of the Centers for Disease Control and Prevention (CDC), acknowledged the agency she is now tasked with leading faces an uphill battle in terms of&#8230;",
+          "link": "https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff/",
+          "pubDate": "Thu, 20 Aug 2026 22:39:18 +0000"
         },
         {
-          "title": "Army battalion in Georgia offering 4 days of GTA 6 play as reenlistment incentive",
-          "summary": "A U.S. Army battalion in Georgia is offering eligible soldiers a four-day pass to play Grand Theft Auto VI (GTA 6) as a reenlistment incentive once the highly anticipated game gets released this fall.&#160; The incentive is for the “special 4-day” pass, which is offered by the 9th Brigade Engineer Battalion, 2nd Armored Brigade Combat&#8230;",
-          "link": "https://thehill.com/policy/defense/6040002-army-battalion-offers-gta-6-pass/",
-          "pubDate": "Wed, 19 Aug 2026 22:06:59 +0000"
+          "title": "Progressive wins special election to fill Swalwell&#8217;s California House seat",
+          "summary": "Progressive California state Sen. Aisha Wahab (D) is projected to defeat Bay Area Rapid Transit Board President Melissa Hernandez in the special election to fill the remainder of former Rep. Eric Swalwell’s (D-Calif.) term in the House, according to Decision Desk HQ. Swalwell, once seen as the front-runner in the California governor’s race, dropped out&#8230;",
+          "link": "https://thehill.com/homenews/campaign/6034868-wahab-wins-california-house-special-election/",
+          "pubDate": "Thu, 20 Aug 2026 22:29:00 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Costco launching Medicare Advantage plans with SCAN Group",
-          "summary": "Costco launching Medicare Advantage plans with SCAN Group",
-          "link": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html",
-          "pubDate": "2026-08-18T17:10:35Z"
+          "title": "Bank of America sends message on Capital One stock",
+          "summary": "Bank of America sends message on Capital One stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
+          "pubDate": "2026-08-20T09:03:00Z"
         },
         {
-          "title": "An OpenAI Deal Could Be a Game Changer for Cerebras Stock After a Brutal Selloff",
-          "summary": "An OpenAI Deal Could Be a Game Changer for Cerebras Stock After a Brutal Selloff",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/openai-deal-could-game-changer-150551462.html",
-          "pubDate": "2026-08-18T15:05:51Z"
+          "title": "Stocks Supported by Lower Bond Yields",
+          "summary": "Stocks Supported by Lower Bond Yields",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-lower-bond-yields-151508222.html",
+          "pubDate": "2026-08-19T15:15:08Z"
         },
         {
-          "title": "Investor Cathie Wood Loads Up On Block Stock",
-          "summary": "Investor Cathie Wood Loads Up On Block Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/investor-cathie-wood-loads-block-150200896.html",
-          "pubDate": "2026-08-18T15:02:00Z"
+          "title": "This Former Small-Cap Darling Is in Freefall, But I Like the Stock Here",
+          "summary": "This Former Small-Cap Darling Is in Freefall, But I Like the Stock Here",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/former-small-cap-darling-freefall-151108641.html",
+          "pubDate": "2026-08-19T15:11:08Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Pollen has a surprising problem — and honeybees have found a way around it",
-          "summary": "Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarkably well-balanced “baby food” for their larvae, revealing a sophisticated nutritional strategy hidden inside the hive.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
-          "pubDate": "Wed, 19 Aug 2026 07:25:45 EDT"
+          "title": "The “Asian water tower” is losing 24 billion tonnes of groundwater every year",
+          "summary": "The “Asian Water Tower” is losing roughly 24.2 billion tonnes of groundwater every year, with some of the worst declines hitting densely populated farming regions. Glacier melt may temporarily soften the crisis around the 2060s, but without changes in water use, researchers expect depletion to accelerate afterward.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260820002454.htm",
+          "pubDate": "Thu, 20 Aug 2026 05:21:01 EDT"
         },
         {
-          "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
-          "summary": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
-          "pubDate": "Wed, 19 Aug 2026 08:30:05 EDT"
+          "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+          "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region that may serve as a starting point for the loss.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+          "pubDate": "Thu, 20 Aug 2026 07:27:34 EDT"
         },
         {
-          "title": "This 23-foot crocodylian may have ruled South America’s food chain",
-          "summary": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were more important predators than mammals in this ancient tropical ecosystem. At around seven meters long, Purussaurus may even have helped control populations of giant herbivores.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
-          "pubDate": "Wed, 19 Aug 2026 05:55:34 EDT"
+          "title": "This total solar eclipse looked strangely golden — here’s why",
+          "summary": "Spain’s total solar eclipse delivered an unexpected sight: a corona glowing gold instead of its usual pearly white. Because the Sun was setting, its light passed through more atmosphere, while smoke from nearby wildfires filtered out even more blue light. The result was a dramatic golden eclipse, punctuated by a bright pink solar prominence.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm",
+          "pubDate": "Thu, 20 Aug 2026 02:59:00 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Static electricity is a mystery, and scientists are all charged up",
-          "summary": "Scientists are largely clueless about the origins of static electricity. A quirky group of researchers aims to change that.",
-          "link": "https://www.sciencenews.org/article/static-electricity-is-a-mystery",
-          "pubDate": "Wed, 19 Aug 2026 17:00:00 +0000"
+          "title": "Why Epstein-Barr is the ‘everything virus’",
+          "summary": "The Epstein-Barr virus has taken a huge toll on global health. Understanding how it works could offer ways to combat multiple sclerosis, cancer and more.",
+          "link": "https://www.sciencenews.org/article/epstein-barr-virus-autoimmune",
+          "pubDate": "Thu, 20 Aug 2026 18:00:00 +0000"
         },
         {
-          "title": "A new documentary shows what growing up lion is really like",
-          "summary": "The thrilling National Geographic series, premiering August 19, follows Kio from lion cub to king.",
-          "link": "https://www.sciencenews.org/article/lion-documentary-series-review-natgeo",
-          "pubDate": "Wed, 19 Aug 2026 16:00:00 +0000"
+          "title": "Spikes, claws and stingers have no single best shape",
+          "summary": "A study of 143 piercing tools, from tusks to love darts, finds they trade off piercing ability for durability. And no one shape wins out.",
+          "link": "https://www.sciencenews.org/article/spike-claw-stinger-shape-piercing-tools",
+          "pubDate": "Thu, 20 Aug 2026 15:00:00 +0000"
         },
         {
-          "title": "A record-breaking star could reveal how the Milky Way’s giant black hole spins",
-          "summary": "The star passes very close to the Milky Way’s supermassive black hole and could reveal the black hole’s spin by tracking how it warps the star’s orbit.",
-          "link": "https://www.sciencenews.org/article/record-breaking-star-black-hole-spin",
-          "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000"
+          "title": "An unproven autism drug got a boost after a White House briefing",
+          "summary": "In fall of 2025, the Trump administration touted the drug leucovorin for autism therapy without new evidence. Dispensing of the drug to kids rose.",
+          "link": "https://www.sciencenews.org/article/kids-unproven-autism-drug-trump-brief",
+          "pubDate": "Thu, 20 Aug 2026 12:00:00 +0000"
         }
       ]
     }
