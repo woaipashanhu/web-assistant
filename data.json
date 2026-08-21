@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-20T23:00:56.057Z",
-  "date": "2026-08-21",
+  "lastUpdate": "2026-08-21T23:00:56.019Z",
+  "date": "2026-08-22",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole",
-          "summary": "S301 passes close to Sagittarius A*—so close that its orbit could reveal how the black hole’s rotation warps the spacetime around it.",
-          "link": "https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/",
-          "pubDate": "Thu, 20 Aug 2026 20:58:39 +0000"
+          "title": "Meta’s Big Reckoning Is Here",
+          "summary": "Meta is in court again over child safety, and this time it’s a landmark case that could force significant changes to core features of Facebook and Instagram.",
+          "link": "https://www.wired.com/story/metas-big-reckoning-is-here/",
+          "pubDate": "Fri, 21 Aug 2026 15:00:00 +0000"
         },
         {
-          "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
-          "summary": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
-          "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
-          "pubDate": "Thu, 20 Aug 2026 20:03:13 +0000"
+          "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+          "summary": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead",
+          "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+          "pubDate": "Fri, 21 Aug 2026 11:33:00 +0000"
         },
         {
-          "title": "Silicon Valley Doesn't Get Why You Hate AI",
-          "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-          "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-          "pubDate": "Thu, 20 Aug 2026 18:49:07 +0000"
+          "title": "Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter",
+          "summary": "The Nyrius Phoenix Home True 4K60 can wirelessly transmit games, TV shows, movies, and more across your home (even through walls).",
+          "link": "https://www.wired.com/review/nyrius-phoenix-home-true-4k60/",
+          "pubDate": "Fri, 21 Aug 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-          "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-          "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-          "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000"
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+          "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000"
         },
         {
-          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-          "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-          "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-          "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000"
+          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+          "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+          "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+          "pubDate": "Fri, 21 Aug 2026 22:10:01 +0000"
         },
         {
-          "title": "The Enhanced Games — tech&#8217;s steroid extravaganza — didn&#8217;t pay off, as company posts $60 million loss",
-          "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
-          "link": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-          "pubDate": "Thu, 20 Aug 2026 21:08:34 +0000"
+          "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+          "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+          "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+          "pubDate": "Fri, 21 Aug 2026 20:58:07 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-          "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-          "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 19:52:48 GMT"
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
         },
         {
-          "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-          "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-          "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 18:55:14 GMT"
+          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+          "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 19:49:56 GMT"
         },
         {
-          "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-          "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT"
+          "title": "One killed in sword attack at Swedish school",
+          "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 21:03:24 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-          "summary": "Chinese government bond yields have remained low amid a global surge.",
-          "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
-          "pubDate": "Thu, 20 Aug 2026 02:39:14 GMT"
+          "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
+          "summary": "Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.",
+          "link": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
+          "pubDate": "Fri, 21 Aug 2026 17:43:25 GMT"
         },
         {
-          "title": "Fed officials saw need for rate hike if inflation doesn&apos;t cool, minutes show",
-          "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-          "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-          "pubDate": "Wed, 19 Aug 2026 18:54:50 GMT"
+          "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
+          "summary": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
+          "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
+          "pubDate": "Fri, 21 Aug 2026 15:10:31 GMT"
         },
         {
-          "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
-          "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
-          "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-          "pubDate": "Wed, 19 Aug 2026 21:05:31 GMT"
+          "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+          "summary": "Samsung Electronics plans shareholder returns totaling 90 trillion won to 110 trillion won, including about 30 trillion won in third-quarter cash dividends.",
+          "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+          "pubDate": "Fri, 21 Aug 2026 09:08:18 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Seattle Times sports columnist resigns over spiked trans athlete story",
-          "summary": "A sports columnist with The Seattle Times announced Thursday he has resigned after the outlet declined to run his piece on transgender athletes in women&#8217;s sports. “After 11 years as a sports columnist at the Seattle Times, I have decided to resign. It was entirely my choice, and it was not an easy one. The&#8230;",
-          "link": "https://thehill.com/policy/sports-gaming/6042577-seattle-times-columnist-resigns-trans-athletes/",
-          "pubDate": "Thu, 20 Aug 2026 22:41:53 +0000"
+          "title": "Trump says he&#8217;ll spend &#8216;a lot&#8217; of MAGA Inc. war chest in midterms",
+          "summary": "President Trump said he’s prepared to spend ‘a lot’ of money from his MAGA Inc. war chest to support Republican candidates in this midterm cycle. “Well, I’ve raised a lot, and nobody knows what it is, but I will tell you it’s about $850 million,” Trump said before boarding Air Force One to fly to&#8230;",
+          "link": "https://thehill.com/homenews/administration/6044628-trump-spending-maga-pac-midterms/",
+          "pubDate": "Fri, 21 Aug 2026 22:44:09 +0000"
         },
         {
-          "title": "Schwartz recognizes CDC strife in first talks with staff",
-          "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story&#160; Schwartz recognizes CDC strife in first talks with staff&#160; Erica Schwartz, the newly confirmed director of the Centers for Disease Control and Prevention (CDC), acknowledged the agency she is now tasked with leading faces an uphill battle in terms of&#8230;",
-          "link": "https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff/",
-          "pubDate": "Thu, 20 Aug 2026 22:39:18 +0000"
+          "title": "Watch live: Trump stumps for Darline Graham in South Carolina",
+          "summary": "President Trump will hit the campaign trail Friday in South Carolina to rally support for Sen. Darline Graham (R-S.C.) ahead of the state&#8217;s Republican runoff next week, when she&#8217;s set to face off against Rep. Ralph Norman (R-S.C.). Trump’s appearance comes as Graham faces scrutiny for a rough debate performance earlier this week, after which&#8230;",
+          "link": "https://thehill.com/video-clips/6043894-watch-live-donald-trump-darline-graham-south-carolina-campaign/",
+          "pubDate": "Fri, 21 Aug 2026 22:23:22 +0000"
         },
         {
-          "title": "Progressive wins special election to fill Swalwell&#8217;s California House seat",
-          "summary": "Progressive California state Sen. Aisha Wahab (D) is projected to defeat Bay Area Rapid Transit Board President Melissa Hernandez in the special election to fill the remainder of former Rep. Eric Swalwell’s (D-Calif.) term in the House, according to Decision Desk HQ. Swalwell, once seen as the front-runner in the California governor’s race, dropped out&#8230;",
-          "link": "https://thehill.com/homenews/campaign/6034868-wahab-wins-california-house-special-election/",
-          "pubDate": "Thu, 20 Aug 2026 22:29:00 +0000"
+          "title": "Trump has mountain of Leavitt replacements, says Scott Jennings &#8216;is good&#8217;",
+          "summary": "President Trump said Friday he&#8217;s never seen so many job applications in his life in response to the opening created by Karoline Leavitt&#8217;s decision to leave her post as White House press secretary. Asked by reporters at Joint Base Andrews in Maryland about whom he was considering to replace Leavitt, Trump declined to give a&#8230;",
+          "link": "https://thehill.com/homenews/administration/6044575-leavitt-leaves-white-house/",
+          "pubDate": "Fri, 21 Aug 2026 22:17:11 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Bank of America sends message on Capital One stock",
-          "summary": "Bank of America sends message on Capital One stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
-          "pubDate": "2026-08-20T09:03:00Z"
+          "title": "AT&T stands to gain as Verizon loses a customer related battle",
+          "summary": "AT&T stands to gain as Verizon loses a customer related battle",
+          "link": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
+          "pubDate": "2026-08-20T23:00:00Z"
         },
         {
-          "title": "Stocks Supported by Lower Bond Yields",
-          "summary": "Stocks Supported by Lower Bond Yields",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-lower-bond-yields-151508222.html",
-          "pubDate": "2026-08-19T15:15:08Z"
+          "title": "This Stock’s Up 60% and Is a Buy If You’re Bullish on U.S. Housing",
+          "summary": "This Stock’s Up 60% and Is a Buy If You’re Bullish on U.S. Housing",
+          "link": "https://finance.yahoo.com/real-estate/articles/stock-60-buy-bullish-u-154003451.html",
+          "pubDate": "2026-08-20T15:40:03Z"
         },
         {
-          "title": "This Former Small-Cap Darling Is in Freefall, But I Like the Stock Here",
-          "summary": "This Former Small-Cap Darling Is in Freefall, But I Like the Stock Here",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/former-small-cap-darling-freefall-151108641.html",
-          "pubDate": "2026-08-19T15:11:08Z"
+          "title": "Ashtead Technology Gets Sunk by Delayed Projects",
+          "summary": "Ashtead Technology Gets Sunk by Delayed Projects",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ashtead-technology-gets-sunk-delayed-153709680.html",
+          "pubDate": "2026-08-20T15:37:09Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "The “Asian water tower” is losing 24 billion tonnes of groundwater every year",
-          "summary": "The “Asian Water Tower” is losing roughly 24.2 billion tonnes of groundwater every year, with some of the worst declines hitting densely populated farming regions. Glacier melt may temporarily soften the crisis around the 2060s, but without changes in water use, researchers expect depletion to accelerate afterward.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260820002454.htm",
-          "pubDate": "Thu, 20 Aug 2026 05:21:01 EDT"
+          "title": "3 minutes of sprinting does something 90 minutes of exercise does not",
+          "summary": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes of moderate cycling produced far smaller immediate changes. Many of the proteins affected by sprinting were also associated with lower risks of obesity, type 2 diabetes, and other metabolic diseases.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
+          "pubDate": "Fri, 21 Aug 2026 08:17:36 EDT"
         },
         {
-          "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
-          "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region that may serve as a starting point for the loss.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
-          "pubDate": "Thu, 20 Aug 2026 07:27:34 EDT"
+          "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
+          "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic fingerprint, revealing the landscapes surrounding the ship when repairs were made.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+          "pubDate": "Fri, 21 Aug 2026 05:28:51 EDT"
         },
         {
-          "title": "This total solar eclipse looked strangely golden — here’s why",
-          "summary": "Spain’s total solar eclipse delivered an unexpected sight: a corona glowing gold instead of its usual pearly white. Because the Sun was setting, its light passed through more atmosphere, while smoke from nearby wildfires filtered out even more blue light. The result was a dramatic golden eclipse, punctuated by a bright pink solar prominence.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm",
-          "pubDate": "Thu, 20 Aug 2026 02:59:00 EDT"
+          "title": "Scientists catch a hidden electronic state forming in just 30 femtoseconds",
+          "summary": "Scientists watched a light-triggered hidden state form inside a material in only 30 femtoseconds, revealing a step that had never been seen before. The material first entered a fleeting electronic state in which its bonds reorganized in a repeating pattern, followed by tiny atomic shifts. This ultrafast pathway could offer a new way to control electronic properties with light and help inspire faster, more responsive technologies.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260820202856.htm",
+          "pubDate": "Fri, 21 Aug 2026 08:01:30 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Why Epstein-Barr is the ‘everything virus’",
-          "summary": "The Epstein-Barr virus has taken a huge toll on global health. Understanding how it works could offer ways to combat multiple sclerosis, cancer and more.",
-          "link": "https://www.sciencenews.org/article/epstein-barr-virus-autoimmune",
-          "pubDate": "Thu, 20 Aug 2026 18:00:00 +0000"
+          "title": "‘Thunderquakes’ do more than shake the ground — they map it",
+          "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
+          "link": "https://www.sciencenews.org/article/thunderquakes-shake-ground-map-it",
+          "pubDate": "Fri, 21 Aug 2026 18:00:00 +0000"
         },
         {
-          "title": "Spikes, claws and stingers have no single best shape",
-          "summary": "A study of 143 piercing tools, from tusks to love darts, finds they trade off piercing ability for durability. And no one shape wins out.",
-          "link": "https://www.sciencenews.org/article/spike-claw-stinger-shape-piercing-tools",
-          "pubDate": "Thu, 20 Aug 2026 15:00:00 +0000"
+          "title": "Plants under attack leave behind a surprising call for backup",
+          "summary": "Bacteria may build a memory of herbivore attack in the soil and coax new plants to attract wasps to rein in destructive pests.",
+          "link": "https://www.sciencenews.org/article/plants-backup-wasp-herbivore-pest",
+          "pubDate": "Fri, 21 Aug 2026 15:01:03 +0000"
         },
         {
-          "title": "An unproven autism drug got a boost after a White House briefing",
-          "summary": "In fall of 2025, the Trump administration touted the drug leucovorin for autism therapy without new evidence. Dispensing of the drug to kids rose.",
-          "link": "https://www.sciencenews.org/article/kids-unproven-autism-drug-trump-brief",
-          "pubDate": "Thu, 20 Aug 2026 12:00:00 +0000"
+          "title": "Crossword: Lab Animals",
+          "summary": "Solve the crossword from our September 2026 issue, in which we celebrate some creature features.",
+          "link": "https://www.sciencenews.org/article/crossword-lab-animals-september-2026",
+          "pubDate": "Fri, 21 Aug 2026 12:00:00 +0000"
         }
       ]
     }
