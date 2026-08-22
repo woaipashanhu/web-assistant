@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-21T23:00:56.019Z",
-  "date": "2026-08-22",
+  "lastUpdate": "2026-08-22T23:00:55.393Z",
+  "date": "2026-08-23",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Meta’s Big Reckoning Is Here",
-          "summary": "Meta is in court again over child safety, and this time it’s a landmark case that could force significant changes to core features of Facebook and Instagram.",
-          "link": "https://www.wired.com/story/metas-big-reckoning-is-here/",
-          "pubDate": "Fri, 21 Aug 2026 15:00:00 +0000"
+          "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+          "summary": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
+          "link": "https://www.wired.com/review/saily-ultra-esim/",
+          "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000"
         },
         {
-          "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
-          "summary": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead",
-          "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
-          "pubDate": "Fri, 21 Aug 2026 11:33:00 +0000"
+          "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
+          "summary": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
+          "link": "https://www.wired.com/gallery/best-monitor-arms/",
+          "pubDate": "Sat, 22 Aug 2026 11:01:00 +0000"
         },
         {
-          "title": "Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter",
-          "summary": "The Nyrius Phoenix Home True 4K60 can wirelessly transmit games, TV shows, movies, and more across your home (even through walls).",
-          "link": "https://www.wired.com/review/nyrius-phoenix-home-true-4k60/",
-          "pubDate": "Fri, 21 Aug 2026 11:00:00 +0000"
+          "title": "Set Up a Separate Work Profile on Your Android Phone",
+          "summary": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
+          "link": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
+          "pubDate": "Sat, 22 Aug 2026 11:00:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Nvidia partners with data center developer Cloverleaf",
-          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-          "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-          "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000"
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+          "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000"
         },
         {
-          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-          "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-          "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-          "pubDate": "Fri, 21 Aug 2026 22:10:01 +0000"
+          "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
+          "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+          "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+          "pubDate": "Sat, 22 Aug 2026 20:24:20 +0000"
         },
         {
-          "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-          "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-          "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-          "pubDate": "Fri, 21 Aug 2026 20:58:07 +0000"
+          "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+          "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "pubDate": "Sat, 22 Aug 2026 19:00:00 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-          "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT"
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 20:10:00 GMT"
         },
         {
-          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-          "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
-          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 19:49:56 GMT"
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 20:02:46 GMT"
         },
         {
-          "title": "One killed in sword attack at Swedish school",
-          "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 21:03:24 GMT"
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,81 +179,87 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump says he&#8217;ll spend &#8216;a lot&#8217; of MAGA Inc. war chest in midterms",
-          "summary": "President Trump said he’s prepared to spend ‘a lot’ of money from his MAGA Inc. war chest to support Republican candidates in this midterm cycle. “Well, I’ve raised a lot, and nobody knows what it is, but I will tell you it’s about $850 million,” Trump said before boarding Air Force One to fly to&#8230;",
-          "link": "https://thehill.com/homenews/administration/6044628-trump-spending-maga-pac-midterms/",
-          "pubDate": "Fri, 21 Aug 2026 22:44:09 +0000"
+          "title": "Rising data center backlash shakes up midterm races",
+          "summary": "As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities.&#160; Key swing state candidates are scrambling to endorse stricter data center policies and accusing their opponents of being too cozy with the industry, as Americans become increasingly hostile to the rapid&#8230;",
+          "link": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
+          "pubDate": "Sat, 22 Aug 2026 21:00:00 +0000"
         },
         {
-          "title": "Watch live: Trump stumps for Darline Graham in South Carolina",
-          "summary": "President Trump will hit the campaign trail Friday in South Carolina to rally support for Sen. Darline Graham (R-S.C.) ahead of the state&#8217;s Republican runoff next week, when she&#8217;s set to face off against Rep. Ralph Norman (R-S.C.). Trump’s appearance comes as Graham faces scrutiny for a rough debate performance earlier this week, after which&#8230;",
-          "link": "https://thehill.com/video-clips/6043894-watch-live-donald-trump-darline-graham-south-carolina-campaign/",
-          "pubDate": "Fri, 21 Aug 2026 22:23:22 +0000"
+          "title": "US Postal Service issues rule to tighten requirements for mail-in voting despite courts looking to block",
+          "summary": "The United States Postal Service (USPS) announced Friday new eligibility guidelines for mail-in ballots, complying with President Trump&#8217;s March executive order restricting the practice — despite a federal court later striking it down. USPS&#8217;s 95-page unpublished report, slated for an official release on Aug. 26, detailed how it would distribute mail-in ballots for November&#8217;s midterms.&#8230;",
+          "link": "https://thehill.com/homenews/administration/6045248-usps-mail-in-voting-guidelines-tighten/",
+          "pubDate": "Sat, 22 Aug 2026 20:12:18 +0000"
         },
         {
-          "title": "Trump has mountain of Leavitt replacements, says Scott Jennings &#8216;is good&#8217;",
-          "summary": "President Trump said Friday he&#8217;s never seen so many job applications in his life in response to the opening created by Karoline Leavitt&#8217;s decision to leave her post as White House press secretary. Asked by reporters at Joint Base Andrews in Maryland about whom he was considering to replace Leavitt, Trump declined to give a&#8230;",
-          "link": "https://thehill.com/homenews/administration/6044575-leavitt-leaves-white-house/",
-          "pubDate": "Fri, 21 Aug 2026 22:17:11 +0000"
+          "title": "President Trump: White House ballroom construction &#8216;under budget,&#8217; &#8216;ahead of schedule&#8217;",
+          "summary": "President Trump touted progress on the White House ballroom project on Saturday morning, a day after the Supreme Court temporarily permitted construction work to continue.&#160; “Tremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House!” the president wrote on Truth Social, alongside a photo of the&#8230;",
+          "link": "https://thehill.com/homenews/administration/6045262-trump-white-house-ballroom-update/",
+          "pubDate": "Sat, 22 Aug 2026 20:08:16 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "AT&T stands to gain as Verizon loses a customer related battle",
-          "summary": "AT&T stands to gain as Verizon loses a customer related battle",
-          "link": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
-          "pubDate": "2026-08-20T23:00:00Z"
+          "title": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
+          "summary": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
+          "link": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
+          "pubDate": "2026-08-21T11:21:06Z"
         },
         {
-          "title": "This Stock’s Up 60% and Is a Buy If You’re Bullish on U.S. Housing",
-          "summary": "This Stock’s Up 60% and Is a Buy If You’re Bullish on U.S. Housing",
-          "link": "https://finance.yahoo.com/real-estate/articles/stock-60-buy-bullish-u-154003451.html",
-          "pubDate": "2026-08-20T15:40:03Z"
+          "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
+          "summary": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
+          "link": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html",
+          "pubDate": "2026-08-22T21:00:00Z"
         },
         {
-          "title": "Ashtead Technology Gets Sunk by Delayed Projects",
-          "summary": "Ashtead Technology Gets Sunk by Delayed Projects",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ashtead-technology-gets-sunk-delayed-153709680.html",
-          "pubDate": "2026-08-20T15:37:09Z"
+          "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
+          "summary": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
+          "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
+          "pubDate": "2026-08-22T19:56:02Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "3 minutes of sprinting does something 90 minutes of exercise does not",
-          "summary": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes of moderate cycling produced far smaller immediate changes. Many of the proteins affected by sprinting were also associated with lower risks of obesity, type 2 diabetes, and other metabolic diseases.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
-          "pubDate": "Fri, 21 Aug 2026 08:17:36 EDT"
+          "title": "JWST finds early galaxies may be 4 times more massive than thought",
+          "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than previous estimates. The finding makes it even harder to explain how enormous, mature galaxies formed so soon after the Big Bang. It could also suggest that planets around low-mass stars were more common in the early universe than scientists realized.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
+          "pubDate": "Sat, 22 Aug 2026 08:36:23 EDT"
         },
         {
-          "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-          "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic fingerprint, revealing the landscapes surrounding the ship when repairs were made.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
-          "pubDate": "Fri, 21 Aug 2026 05:28:51 EDT"
+          "title": "Exercise may work better for keeping weight off than losing it",
+          "summary": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and blood sugar, regular activity can make long-term weight maintenance easier.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
+          "pubDate": "Sat, 22 Aug 2026 09:55:11 EDT"
         },
         {
-          "title": "Scientists catch a hidden electronic state forming in just 30 femtoseconds",
-          "summary": "Scientists watched a light-triggered hidden state form inside a material in only 30 femtoseconds, revealing a step that had never been seen before. The material first entered a fleeting electronic state in which its bonds reorganized in a repeating pattern, followed by tiny atomic shifts. This ultrafast pathway could offer a new way to control electronic properties with light and help inspire faster, more responsive technologies.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260820202856.htm",
-          "pubDate": "Fri, 21 Aug 2026 08:01:30 EDT"
+          "title": "Peppermint oil lowers blood pressure in just 20 days",
+          "summary": "Peppermint oil may have an unexpected benefit for people with mildly high blood pressure. Adults who took a small dose twice daily for 20 days saw their systolic blood pressure fall by an average of 8.5 mmHg, while a placebo group showed little change. Researchers say the inexpensive oil could eventually provide a simple additional option for managing elevated blood pressure.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm",
+          "pubDate": "Sat, 22 Aug 2026 10:08:04 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "siteName": "Science News",
       "items": [
+        {
+          "title": "Mysteries of the commonplace",
+          "summary": "Editor in Chief Nancy Shute reviews new research in static electricity and other science revelations in our September magazine issue.",
+          "link": "https://www.sciencenews.org/article/ed-note-september-2026",
+          "pubDate": "Sat, 22 Aug 2026 11:00:00 +0000"
+        },
         {
           "title": "‘Thunderquakes’ do more than shake the ground — they map it",
           "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
@@ -265,12 +271,6 @@
           "summary": "Bacteria may build a memory of herbivore attack in the soil and coax new plants to attract wasps to rein in destructive pests.",
           "link": "https://www.sciencenews.org/article/plants-backup-wasp-herbivore-pest",
           "pubDate": "Fri, 21 Aug 2026 15:01:03 +0000"
-        },
-        {
-          "title": "Crossword: Lab Animals",
-          "summary": "Solve the crossword from our September 2026 issue, in which we celebrate some creature features.",
-          "link": "https://www.sciencenews.org/article/crossword-lab-animals-september-2026",
-          "pubDate": "Fri, 21 Aug 2026 12:00:00 +0000"
         }
       ]
     }
