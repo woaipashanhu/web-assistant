@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-24T23:00:55.597Z",
-  "date": "2026-08-25",
+  "lastUpdate": "2026-08-25T23:00:57.358Z",
+  "date": "2026-08-26",
   "sites": [
     {
       "id": "site_0",
@@ -59,81 +59,87 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
-          "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
-          "link": "https://www.wired.com/review/bitdefender-vpn/",
-          "pubDate": "Mon, 24 Aug 2026 21:08:00 +0000"
+          "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
+          "summary": "Anthony Ralphs was frustrated by the San Diego City Council's support for Flock. He decided it would take something more than reasoned argument to get their attention.",
+          "link": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
+          "pubDate": "Tue, 25 Aug 2026 21:51:32 +0000"
         },
         {
-          "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
-          "summary": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
-          "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
-          "pubDate": "Mon, 24 Aug 2026 20:45:52 +0000"
+          "title": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
+          "summary": "With school and sports starting again, these discounts on Instant Pots, cookware, and coffee gear arrive right on time.",
+          "link": "https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/",
+          "pubDate": "Tue, 25 Aug 2026 21:26:24 +0000"
         },
         {
-          "title": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
-          "summary": "Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.",
-          "link": "https://www.wired.com/story/food-safety-gear-salmonella/",
-          "pubDate": "Mon, 24 Aug 2026 20:22:35 +0000"
+          "title": "Google Pixel 11 Pro Fold Review: Better, Not Best",
+          "summary": "A polished update to Google’s foldable brings real improvements, but the price bump and rampant competition make it a tough sell.",
+          "link": "https://www.wired.com/review/google-pixel-11-pro-fold/",
+          "pubDate": "Tue, 25 Aug 2026 18:45:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-          "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-          "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-          "pubDate": "Mon, 24 Aug 2026 21:24:17 +0000"
+          "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+          "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+          "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+          "pubDate": "Tue, 25 Aug 2026 20:44:12 +0000"
         },
         {
-          "title": "Zillow and Redfin settle FTC antitrust case",
-          "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
-          "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-          "pubDate": "Mon, 24 Aug 2026 20:45:33 +0000"
+          "title": "Instagram’s &#8216;First Draft&#8217; feature aims to make editing Reels less tedious",
+          "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
+          "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+          "pubDate": "Tue, 25 Aug 2026 19:22:52 +0000"
         },
         {
-          "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there&#8217;s still space",
-          "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
-          "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-          "pubDate": "Mon, 24 Aug 2026 20:16:34 +0000"
+          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "summary": "The company's new fundraising total now stands at $232 million.",
+          "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+          "pubDate": "Tue, 25 Aug 2026 19:03:47 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-          "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 19:12:35 GMT"
+          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+          "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 25 Aug 2026 19:50:57 GMT"
         },
         {
-          "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-          "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-          "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 17:29:59 GMT"
+          "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+          "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 25 Aug 2026 11:53:36 GMT"
         },
         {
-          "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-          "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-          "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 10:40:22 GMT"
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Tue, 25 Aug 2026 19:48:14 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+          "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+          "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+          "pubDate": "Tue, 25 Aug 2026 16:00:40 GMT"
+        },
         {
           "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
           "summary": "Speculators still see yields hitting new highs in 2026 and ending the year at levels elevated from where they're currently trading.",
@@ -145,17 +151,11 @@
           "summary": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
           "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
           "pubDate": "Mon, 24 Aug 2026 15:50:50 GMT"
-        },
-        {
-          "title": "Crypto extends gains after biggest 3-day rally since 2023",
-          "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
-          "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-          "pubDate": "Mon, 24 Aug 2026 20:02:22 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,55 +179,55 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Mamdani voices support for Jeffries amid Kushner meeting blowback",
-          "summary": "New York City Mayor Zohran Mamdani (D) on Monday voiced his support for House Minority Leader Hakeem Jeffries (D-N.Y.) after he received blowback for meeting with Jared Kushner, President Trump&#8217;s son-in-law. A reporter asked Mamdani if he supported Jeffries were he to become Speaker if Democrats reclaim the House following the fall midterm elections. &#8220;I&#8230;",
-          "link": "https://thehill.com/homenews/state-watch/6047870-mamdani-supports-jeffries-kushner-meeting/",
-          "pubDate": "Mon, 24 Aug 2026 22:26:06 +0000"
+          "title": "Trump&#8217;s pick for open House seat in Kentucky scrubs president from campaign website",
+          "summary": "President Trump’s pick to replace Republican Rep. Andy Barr (R-Ky.) in House has completely scrubbed the president from his campaign website. Former state Sen. Ralph Alvarado&#8217;s (R-Ky.) campaign website no longer features an image of the candidate next to Trump with them both giving a thumbs up and shifted from branding himself as a national&#8230;",
+          "link": "https://thehill.com/homenews/campaign/6050662-alvarado-scrubs-trump-website/",
+          "pubDate": "Tue, 25 Aug 2026 22:59:02 +0000"
         },
         {
-          "title": "Byron Donalds: Kushner &#8216;just keepings lines of communication open&#8217; with Jeffries meeting",
-          "summary": "Rep. Byron Donalds (R-Fla.) on Monday said President Trump’s son-in-law Jared Kushner met with House Minority Leader Hakeem Jeffries (D-N.Y.) in recent weeks to create an opportunity for future discussions. “I think knowing Jared Kushner, I think he&#8217;s used to keeping lines of communication open. These are some of the things that he does repeatedly,&#8230;",
-          "link": "https://thehill.com/homenews/campaign/6048024-kushner-jeffries-meeting-opens-communication/",
-          "pubDate": "Mon, 24 Aug 2026 22:25:41 +0000"
+          "title": "Democrats up 7 points on the economy over GOP: Poll",
+          "summary": "Democrats are ahead 7 points on the economy over Republicans, according to a new poll.&#160; In The Economist/YouGov poll, 39 percent of respondents said they believe Democrats do “a better job handling” the economy, while 32 said the same of Republicans. Fifteen percent said both parties handle the economy “about the same” and another 15&#8230;",
+          "link": "https://thehill.com/homenews/campaign/6050640-democrats-ahead-economy-poll/",
+          "pubDate": "Tue, 25 Aug 2026 22:35:22 +0000"
         },
         {
-          "title": "Trump&#8217;s super PAC drops more than $800K on Graham in South Carolina",
-          "summary": "President Trump’s super PAC MAGA Inc. spent more than $827,000 to support Sen. Darline Graham (R-S.C.) ahead of the state’s Republican Senate primary runoff on Tuesday, marking the group’s most significant spending in months. The filing with the Federal Election Commission, which was made public on Monday, marks the group’s first independent expenditure since March&#8230;",
-          "link": "https://thehill.com/homenews/campaign/6048002-maga-inc-spending-darline-graham-south-carolina/",
-          "pubDate": "Mon, 24 Aug 2026 22:07:56 +0000"
+          "title": "Internal watchdog finds FEMA crew violated Hatch Act by skipping homes with Trump signs",
+          "summary": "A Federal Emergency Management Agency (FEMA) crew broke the law when it skipped houses with President Trump signs during Hurricane Milton recovery efforts in 2024, according to an internal government watchdog. A new report from the Department of Homeland Security’s inspector general’s office determined that the crew violated the Hatch Act and FEMA policy when it skipped&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/6050600-dhs-fema-florida-milton-trump-signs/",
+          "pubDate": "Tue, 25 Aug 2026 21:52:51 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Rocket Lab's Sell-Off Is Fading—Is It Finally Safe to Buy?",
-          "summary": "Rocket Lab's Sell-Off Is Fading—Is It Finally Safe to Buy?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-labs-sell-off-fading-142500604.html",
-          "pubDate": "2026-08-23T14:25:00Z"
+          "title": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
+          "summary": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html",
+          "pubDate": "2026-08-24T19:13:00Z"
         },
         {
-          "title": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
-          "summary": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-treading-water-ahead-143002140.html",
-          "pubDate": "2026-08-23T14:30:02Z"
+          "title": "Make This 1 Trade Now as Inflation Still Runs Hot",
+          "summary": "Make This 1 Trade Now as Inflation Still Runs Hot",
+          "link": "https://finance.yahoo.com/markets/options/articles/1-trade-now-inflation-still-144025344.html",
+          "pubDate": "2026-08-24T14:40:25Z"
         },
         {
-          "title": "Duolingo Stock Is Shaking Off AI Fears",
-          "summary": "Duolingo Stock Is Shaking Off AI Fears",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-shaking-off-ai-141502170.html",
-          "pubDate": "2026-08-23T14:15:02Z"
+          "title": "McKesson Stock Outlook: Is Wall Street Bullish or Bearish?",
+          "summary": "McKesson Stock Outlook: Is Wall Street Bullish or Bearish?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/mckesson-stock-outlook-wall-street-143920869.html",
+          "pubDate": "2026-08-24T14:39:20Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "ScienceDaily",
       "items": [
         {
@@ -237,40 +237,40 @@
           "pubDate": "Mon, 24 Aug 2026 09:14:50 EDT"
         },
         {
-          "title": "Bird flu is spreading. Your backyard feeder could make it worse",
-          "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
-          "pubDate": "Mon, 24 Aug 2026 08:49:08 EDT"
+          "title": "Atomic catalyst unlocks the hidden value of plant waste",
+          "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for fuels, plastics, and other materials.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
+          "pubDate": "Tue, 25 Aug 2026 06:09:15 EDT"
         },
         {
-          "title": "Too much or too little sleep may make your body age faster",
-          "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-          "pubDate": "Mon, 24 Aug 2026 07:31:44 EDT"
+          "title": "Supercharged “natural killer” cells could be a powerful new cancer weapon",
+          "summary": "Researchers have found a way to supercharge natural killer cells, powerful immune cells that can attack cancer, so they can penetrate solid tumors and keep fighting once inside. In mice, these specially prepared tissue-resident cells slowed the growth of several tumors, including melanoma and head and neck cancers, and worked even better when paired with the antibody drug cetuximab.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm",
+          "pubDate": "Tue, 25 Aug 2026 08:56:22 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Heat therapy for sick frogs lowers sperm levels",
-          "summary": "Scientists often use thermal treatment to combat fatal fungal infection in frogs, but it may come at a cost.",
-          "link": "https://www.sciencenews.org/article/infection-treatment-lowers-frog-sperm",
-          "pubDate": "Mon, 24 Aug 2026 15:00:00 +0000"
+          "title": "A new cancer vaccine may keep melanoma from coming back",
+          "summary": "A personalized mRNA vaccine paired with Keytruda may help keep skin cancer from returning after surgery, a large clinical trial suggests.",
+          "link": "https://www.sciencenews.org/article/cancer-vaccine-melanoma-treatment-mrna",
+          "pubDate": "Tue, 25 Aug 2026 16:00:00 +0000"
         },
         {
-          "title": "Personalized brain stimulation can ease chronic pain",
-          "summary": "A week-long brain mapping session can lead to lasting relief, a case series of three pain patients shows.",
-          "link": "https://www.sciencenews.org/article/brain-stimulation-chronic-pain",
-          "pubDate": "Mon, 24 Aug 2026 13:00:00 +0000"
+          "title": "How memories may survive hibernation",
+          "summary": "Hibernating mice rapidly lost and regrew half of the connections in their memory centers, while key connection hubs survived.",
+          "link": "https://www.sciencenews.org/article/memories-survive-hibernation-brain-cell",
+          "pubDate": "Tue, 25 Aug 2026 14:00:00 +0000"
         },
         {
-          "title": "Motor neurons don’t just move muscles. They may direct that motion too",
-          "summary": "A fruit fly study shows motor neurons do more than relay commands: They send signals back to the brain and organize movement sequences.",
-          "link": "https://www.sciencenews.org/article/motor-neurons-muscles-motion",
-          "pubDate": "Mon, 24 Aug 2026 09:00:00 +0000"
+          "title": "Less sugar early in life might decrease dementia risk",
+          "summary": "Children exposed to World War II sugar rationing had lower dementia and Alzheimer’s risk decades later, data suggest.",
+          "link": "https://www.sciencenews.org/article/more-sugar-early-life-dementia-risk",
+          "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000"
         }
       ]
     }
