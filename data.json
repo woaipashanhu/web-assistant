@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-25T23:00:57.358Z",
-  "date": "2026-08-26",
+  "lastUpdate": "2026-08-26T23:00:56.385Z",
+  "date": "2026-08-27",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
-          "summary": "Anthony Ralphs was frustrated by the San Diego City Council's support for Flock. He decided it would take something more than reasoned argument to get their attention.",
-          "link": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
-          "pubDate": "Tue, 25 Aug 2026 21:51:32 +0000"
+          "title": "How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood",
+          "summary": "Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.",
+          "link": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
+          "pubDate": "Wed, 26 Aug 2026 22:19:44 +0000"
         },
         {
-          "title": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
-          "summary": "With school and sports starting again, these discounts on Instant Pots, cookware, and coffee gear arrive right on time.",
-          "link": "https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/",
-          "pubDate": "Tue, 25 Aug 2026 21:26:24 +0000"
+          "title": "Democrats Just Might Win the Senate",
+          "summary": "Strategists in both parties have long thought that everything would need to go right for Democrats to take over Congress this fall. Their map, though, is becoming more forgiving.",
+          "link": "https://www.wired.com/story/democrats-just-might-win-the-senate/",
+          "pubDate": "Wed, 26 Aug 2026 21:00:00 +0000"
         },
         {
-          "title": "Google Pixel 11 Pro Fold Review: Better, Not Best",
-          "summary": "A polished update to Google’s foldable brings real improvements, but the price bump and rampant competition make it a tough sell.",
-          "link": "https://www.wired.com/review/google-pixel-11-pro-fold/",
-          "pubDate": "Tue, 25 Aug 2026 18:45:00 +0000"
+          "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
+          "summary": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teens. They also think states should have demanded more.",
+          "link": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
+          "pubDate": "Wed, 26 Aug 2026 20:55:46 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-          "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
-          "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-          "pubDate": "Tue, 25 Aug 2026 20:44:12 +0000"
+          "title": "Meta&#8217;s $18B child-safety deal hinges on age verification tech that doesn&#8217;t work well",
+          "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+          "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+          "pubDate": "Wed, 26 Aug 2026 22:47:58 +0000"
         },
         {
-          "title": "Instagram’s &#8216;First Draft&#8217; feature aims to make editing Reels less tedious",
-          "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
-          "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-          "pubDate": "Tue, 25 Aug 2026 19:22:52 +0000"
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+          "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+          "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "pubDate": "Wed, 26 Aug 2026 21:37:39 +0000"
         },
         {
-          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-          "summary": "The company's new fundraising total now stands at $232 million.",
-          "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-          "pubDate": "Tue, 25 Aug 2026 19:03:47 +0000"
+          "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+          "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+          "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+          "pubDate": "Wed, 26 Aug 2026 19:37:34 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-          "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-          "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 25 Aug 2026 19:50:57 GMT"
+          "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+          "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+          "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 26 Aug 2026 11:32:11 GMT"
         },
         {
-          "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-          "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 25 Aug 2026 11:53:36 GMT"
+          "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+          "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
+          "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 26 Aug 2026 14:42:03 GMT"
         },
         {
-          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-          "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Tue, 25 Aug 2026 19:48:14 GMT"
+          "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+          "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+          "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Wed, 26 Aug 2026 15:42:45 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "CNBC市场",
       "items": [
+        {
+          "title": "China&apos;s short-drama producers flood the market with cheap bets — and let audiences pick the winners",
+          "summary": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
+          "link": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
+          "pubDate": "Wed, 26 Aug 2026 13:20:34 GMT"
+        },
+        {
+          "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company&apos;s WiFi tech",
+          "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
+          "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+          "pubDate": "Wed, 26 Aug 2026 04:20:31 GMT"
+        },
         {
           "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
           "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
           "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
           "pubDate": "Tue, 25 Aug 2026 16:00:40 GMT"
-        },
-        {
-          "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
-          "summary": "Speculators still see yields hitting new highs in 2026 and ending the year at levels elevated from where they're currently trading.",
-          "link": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html",
-          "pubDate": "Mon, 24 Aug 2026 18:40:41 GMT"
-        },
-        {
-          "title": "Goldman Sachs partner warns of &apos;huge danger&apos; in letting AI replace bankers&apos; reasoning skills",
-          "summary": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
-          "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-          "pubDate": "Mon, 24 Aug 2026 15:50:50 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump&#8217;s pick for open House seat in Kentucky scrubs president from campaign website",
-          "summary": "President Trump’s pick to replace Republican Rep. Andy Barr (R-Ky.) in House has completely scrubbed the president from his campaign website. Former state Sen. Ralph Alvarado&#8217;s (R-Ky.) campaign website no longer features an image of the candidate next to Trump with them both giving a thumbs up and shifted from branding himself as a national&#8230;",
-          "link": "https://thehill.com/homenews/campaign/6050662-alvarado-scrubs-trump-website/",
-          "pubDate": "Tue, 25 Aug 2026 22:59:02 +0000"
+          "title": "Early government projection showed thousands of Americans at risk of harmful exposure after East Palestine train derailment",
+          "summary": "An early government projection on the exposure to toxic chemicals following the 2023 East Palestine, Ohio, train derailment indicated that the incident could have put thousands of Americans at risk, according to documents obtained by a watchdog group.&#160; The incident, which became a political flashpoint, spilled chemicals including vinyl chloride, which is used to make plastic, into&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/6053698-east-palestine-train-derailment-chemical-risk/",
+          "pubDate": "Wed, 26 Aug 2026 22:24:13 +0000"
         },
         {
-          "title": "Democrats up 7 points on the economy over GOP: Poll",
-          "summary": "Democrats are ahead 7 points on the economy over Republicans, according to a new poll.&#160; In The Economist/YouGov poll, 39 percent of respondents said they believe Democrats do “a better job handling” the economy, while 32 said the same of Republicans. Fifteen percent said both parties handle the economy “about the same” and another 15&#8230;",
-          "link": "https://thehill.com/homenews/campaign/6050640-democrats-ahead-economy-poll/",
-          "pubDate": "Tue, 25 Aug 2026 22:35:22 +0000"
+          "title": "Meta reaches $18B deal on kids&#8217; use of Facebook, Instagram: 4 takeaways",
+          "summary": "A landmark settlement between Meta and attorneys general across the country will see the technology giant pay more than $18 billion to states but also roll out several changes to better protect kids and teens on its Facebook and Instagram platforms. The settlement proposal, which awaits a judge’s approval, will end the high-profile trial in&#8230;",
+          "link": "https://thehill.com/policy/technology/6053718-meta-pays-states-billions/",
+          "pubDate": "Wed, 26 Aug 2026 22:23:28 +0000"
         },
         {
-          "title": "Internal watchdog finds FEMA crew violated Hatch Act by skipping homes with Trump signs",
-          "summary": "A Federal Emergency Management Agency (FEMA) crew broke the law when it skipped houses with President Trump signs during Hurricane Milton recovery efforts in 2024, according to an internal government watchdog. A new report from the Department of Homeland Security’s inspector general’s office determined that the crew violated the Hatch Act and FEMA policy when it skipped&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/6050600-dhs-fema-florida-milton-trump-signs/",
-          "pubDate": "Tue, 25 Aug 2026 21:52:51 +0000"
+          "title": "Maine Lobstermen&#8217;s Association fears becoming &#8216;collateral damage&#8217; in Canada tariff war",
+          "summary": "The Maine Lobstermen’s Association said Wednesday the escalating tariff battle between the U.S. and Canada threatens to make “collateral damage” out of the industry. Canada announced earlier this week it would respond to new tariffs by the Trump administration by imposing a 25 percent tariff on American lobster. Maine and Canada’s lobster industries are intertwined,&#8230;",
+          "link": "https://thehill.com/business/6053700-maine-lobstermen-warn-canada-trade-war/",
+          "pubDate": "Wed, 26 Aug 2026 22:22:35 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
-          "summary": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html",
-          "pubDate": "2026-08-24T19:13:00Z"
+          "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
+          "summary": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
+          "pubDate": "2026-08-25T21:47:00Z"
         },
         {
-          "title": "Make This 1 Trade Now as Inflation Still Runs Hot",
-          "summary": "Make This 1 Trade Now as Inflation Still Runs Hot",
-          "link": "https://finance.yahoo.com/markets/options/articles/1-trade-now-inflation-still-144025344.html",
-          "pubDate": "2026-08-24T14:40:25Z"
+          "title": "Palantir Stock Has Surged Over 40% in a Month. What’s Fueling the Rally — and What Comes Next.",
+          "summary": "Palantir Stock Has Surged Over 40% in a Month. What’s Fueling the Rally — and What Comes Next.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-surged-over-40-145551614.html",
+          "pubDate": "2026-08-25T14:55:51Z"
         },
         {
-          "title": "McKesson Stock Outlook: Is Wall Street Bullish or Bearish?",
-          "summary": "McKesson Stock Outlook: Is Wall Street Bullish or Bearish?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/mckesson-stock-outlook-wall-street-143920869.html",
-          "pubDate": "2026-08-24T14:39:20Z"
+          "title": "ResMed Stock: Analyst Estimates & Ratings",
+          "summary": "ResMed Stock: Analyst Estimates & Ratings",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/resmed-stock-analyst-estimates-ratings-145143956.html",
+          "pubDate": "2026-08-25T14:51:43Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Common medications may change your gut for years",
-          "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-          "pubDate": "Mon, 24 Aug 2026 09:14:50 EDT"
+          "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+          "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+          "pubDate": "Wed, 26 Aug 2026 09:00:53 EDT"
         },
         {
-          "title": "Atomic catalyst unlocks the hidden value of plant waste",
-          "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for fuels, plastics, and other materials.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
-          "pubDate": "Tue, 25 Aug 2026 06:09:15 EDT"
+          "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+          "summary": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially removing about 22 percent of the remaining ice tongue.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
+          "pubDate": "Wed, 26 Aug 2026 08:39:11 EDT"
         },
         {
-          "title": "Supercharged “natural killer” cells could be a powerful new cancer weapon",
-          "summary": "Researchers have found a way to supercharge natural killer cells, powerful immune cells that can attack cancer, so they can penetrate solid tumors and keep fighting once inside. In mice, these specially prepared tissue-resident cells slowed the growth of several tumors, including melanoma and head and neck cancers, and worked even better when paired with the antibody drug cetuximab.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm",
-          "pubDate": "Tue, 25 Aug 2026 08:56:22 EDT"
+          "title": "190-year-old DNA reveals a hidden pangolin species",
+          "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by poachers.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
+          "pubDate": "Wed, 26 Aug 2026 08:46:59 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "siteName": "Science News",
       "items": [
         {
-          "title": "A new cancer vaccine may keep melanoma from coming back",
-          "summary": "A personalized mRNA vaccine paired with Keytruda may help keep skin cancer from returning after surgery, a large clinical trial suggests.",
-          "link": "https://www.sciencenews.org/article/cancer-vaccine-melanoma-treatment-mrna",
-          "pubDate": "Tue, 25 Aug 2026 16:00:00 +0000"
+          "title": "Monkeys hunt small animals when fruit is scarce",
+          "summary": "Capuchins hunt and eat small vertebrates more often as plant foods wane. The behavior may help us learn more about humans’ early dietary evolution.",
+          "link": "https://www.sciencenews.org/article/monkeys-hunt-small-animals-fruit-scarce",
+          "pubDate": "Wed, 26 Aug 2026 18:00:00 +0000"
         },
         {
-          "title": "How memories may survive hibernation",
-          "summary": "Hibernating mice rapidly lost and regrew half of the connections in their memory centers, while key connection hubs survived.",
-          "link": "https://www.sciencenews.org/article/memories-survive-hibernation-brain-cell",
-          "pubDate": "Tue, 25 Aug 2026 14:00:00 +0000"
+          "title": "Once upon a time, insects had 24 legs",
+          "summary": "A many-legged oddball from long ago helps fill a major gap in the fossil record — and hints at how insects ended up with just six legs.",
+          "link": "https://www.sciencenews.org/article/insects-fossil-record-24-legs",
+          "pubDate": "Wed, 26 Aug 2026 15:00:00 +0000"
         },
         {
-          "title": "Less sugar early in life might decrease dementia risk",
-          "summary": "Children exposed to World War II sugar rationing had lower dementia and Alzheimer’s risk decades later, data suggest.",
-          "link": "https://www.sciencenews.org/article/more-sugar-early-life-dementia-risk",
-          "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000"
+          "title": "Microbes might get freeze-dried on the moon’s south pole",
+          "summary": "Artemis IV will put people on the moon’s surface for the first time in 50 years. NASA research reveals the microbes that might hitch a ride.",
+          "link": "https://www.sciencenews.org/article/microbes-freeze-dried-moons-south-pole",
+          "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000"
         }
       ]
     }
