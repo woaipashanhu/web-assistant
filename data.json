@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-26T23:00:56.385Z",
-  "date": "2026-08-27",
+  "lastUpdate": "2026-08-27T23:00:55.690Z",
+  "date": "2026-08-28",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood",
-          "summary": "Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.",
-          "link": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
-          "pubDate": "Wed, 26 Aug 2026 22:19:44 +0000"
+          "title": "6 Takeaways From the GTA VI Extended Look",
+          "summary": "Grand Theft Auto VI is nigh. Here’s what the developer revealed about its highly anticipated game.",
+          "link": "https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/",
+          "pubDate": "Thu, 27 Aug 2026 21:30:28 +0000"
         },
         {
-          "title": "Democrats Just Might Win the Senate",
-          "summary": "Strategists in both parties have long thought that everything would need to go right for Democrats to take over Congress this fall. Their map, though, is becoming more forgiving.",
-          "link": "https://www.wired.com/story/democrats-just-might-win-the-senate/",
-          "pubDate": "Wed, 26 Aug 2026 21:00:00 +0000"
+          "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+          "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+          "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+          "pubDate": "Thu, 27 Aug 2026 21:08:34 +0000"
         },
         {
-          "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
-          "summary": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teens. They also think states should have demanded more.",
-          "link": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
-          "pubDate": "Wed, 26 Aug 2026 20:55:46 +0000"
+          "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
+          "summary": "Michele Spagnuolo was arrested for alleged insider trading on Polymarket, but the Switzerland-based engineer says he was simply gambling—activity that is beyond the reach of US commodities law.",
+          "link": "https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
+          "pubDate": "Thu, 27 Aug 2026 19:12:39 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Meta&#8217;s $18B child-safety deal hinges on age verification tech that doesn&#8217;t work well",
-          "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-          "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-          "pubDate": "Wed, 26 Aug 2026 22:47:58 +0000"
+          "title": "Rivian&#8217;s CFO is leaving the company",
+          "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+          "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+          "pubDate": "Thu, 27 Aug 2026 20:23:10 +0000"
         },
         {
-          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-          "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-          "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-          "pubDate": "Wed, 26 Aug 2026 21:37:39 +0000"
+          "title": "Bluesky adds an &#8216;algorithmic opt-out&#8217; feature for those who don&#8217;t want to go viral",
+          "summary": "Sometimes people just want to post to their followers, Bluesky says.",
+          "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+          "pubDate": "Thu, 27 Aug 2026 20:15:26 +0000"
         },
         {
-          "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
-          "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-          "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-          "pubDate": "Wed, 26 Aug 2026 19:37:34 +0000"
+          "title": "Buried in Meta&#8217;s $18B settlement is a legal pass on kids&#8217; data",
+          "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+          "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+          "pubDate": "Thu, 27 Aug 2026 20:04:26 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-          "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-          "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 26 Aug 2026 11:32:11 GMT"
+          "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+          "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+          "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 09:50:10 GMT"
         },
         {
-          "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-          "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
-          "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 26 Aug 2026 14:42:03 GMT"
+          "title": "What we know about deadly Nepal-Tibet floods",
+          "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 22:54:28 GMT"
         },
         {
-          "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
-          "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
-          "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Wed, 26 Aug 2026 15:42:45 GMT"
+          "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+          "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 17:05:22 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "China&apos;s short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-          "summary": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
-          "link": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
-          "pubDate": "Wed, 26 Aug 2026 13:20:34 GMT"
+          "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here&apos;s what to expect",
+          "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+          "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+          "pubDate": "Thu, 27 Aug 2026 22:58:01 GMT"
         },
         {
-          "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company&apos;s WiFi tech",
-          "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
-          "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
-          "pubDate": "Wed, 26 Aug 2026 04:20:31 GMT"
+          "title": "Kansas City Fed&apos;s Schmid says inflation &apos;stubborn&apos; and &apos;sticky,&apos; policy rate not restrictive",
+          "summary": "The policymaker stopped just short of calling for an interest rate hike.",
+          "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
+          "pubDate": "Thu, 27 Aug 2026 14:11:29 GMT"
         },
         {
-          "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-          "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
-          "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-          "pubDate": "Tue, 25 Aug 2026 16:00:40 GMT"
+          "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+          "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
+          "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+          "pubDate": "Thu, 27 Aug 2026 05:34:13 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Early government projection showed thousands of Americans at risk of harmful exposure after East Palestine train derailment",
-          "summary": "An early government projection on the exposure to toxic chemicals following the 2023 East Palestine, Ohio, train derailment indicated that the incident could have put thousands of Americans at risk, according to documents obtained by a watchdog group.&#160; The incident, which became a political flashpoint, spilled chemicals including vinyl chloride, which is used to make plastic, into&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/6053698-east-palestine-train-derailment-chemical-risk/",
-          "pubDate": "Wed, 26 Aug 2026 22:24:13 +0000"
+          "title": "NTSB: Temporary Ellipse site factored into Marine One incident",
+          "summary": "The National Transportation Safety Board (NTSB) released a preliminary report Thursday blaming the location of a temporary Ellipse site for an incident in early August where President Trump’s Marine One (VM1) helicopter came within a mile of a passenger jet. The report stated that VM1 attempted to contact air traffic controllers twice at Reagan Washington&#8230;",
+          "link": "https://thehill.com/homenews/administration/6056206-ntsb-blames-ellipse-site-incident-reagan-airport/",
+          "pubDate": "Thu, 27 Aug 2026 22:34:02 +0000"
         },
         {
-          "title": "Meta reaches $18B deal on kids&#8217; use of Facebook, Instagram: 4 takeaways",
-          "summary": "A landmark settlement between Meta and attorneys general across the country will see the technology giant pay more than $18 billion to states but also roll out several changes to better protect kids and teens on its Facebook and Instagram platforms. The settlement proposal, which awaits a judge’s approval, will end the high-profile trial in&#8230;",
-          "link": "https://thehill.com/policy/technology/6053718-meta-pays-states-billions/",
-          "pubDate": "Wed, 26 Aug 2026 22:23:28 +0000"
+          "title": "3 Stars and Stripes staffers sue Pentagon over firings at military news outlet",
+          "summary": "Three Stars and Stripes staffers sued the Pentagon in federal court on Thursday, looking to prevent last week’s firings by the Department of Defense (DOD) at the military-focused newspaper. Stars and Stripes publisher Max Lederer, editor-in-chief Erik Slavin and reporter Lara Korte filed the complaint in U.S. District Court for the District of Columbia, alleging&#8230;",
+          "link": "https://thehill.com/policy/defense/6056203-stars-and-stripes-pentagon-lawsuit-dod/",
+          "pubDate": "Thu, 27 Aug 2026 22:18:16 +0000"
         },
         {
-          "title": "Maine Lobstermen&#8217;s Association fears becoming &#8216;collateral damage&#8217; in Canada tariff war",
-          "summary": "The Maine Lobstermen’s Association said Wednesday the escalating tariff battle between the U.S. and Canada threatens to make “collateral damage” out of the industry. Canada announced earlier this week it would respond to new tariffs by the Trump administration by imposing a 25 percent tariff on American lobster. Maine and Canada’s lobster industries are intertwined,&#8230;",
-          "link": "https://thehill.com/business/6053700-maine-lobstermen-warn-canada-trade-war/",
-          "pubDate": "Wed, 26 Aug 2026 22:22:35 +0000"
+          "title": "Trump gives GOP breathing room on data centers",
+          "summary": "{beacon} Technology Technology &#8202; The Big Story&#160; Trump toes line on data centers as GOP pushes back Republicans’ growing skepticism of data centers is forcing&#160;President Trump&#160;to balance his steadfast support for the industry with pushback from his party ahead of the midterm elections. © Alex Brandon and Gabriela Passos, Associated Press While Trump has doubled&#8230;",
+          "link": "https://thehill.com/newsletters/technology/6056191-trump-data-centers-republicans-tech-newsletter/",
+          "pubDate": "Thu, 27 Aug 2026 22:11:50 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
-          "summary": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
-          "pubDate": "2026-08-25T21:47:00Z"
+          "title": "Meta, states discuss mid-trial settlement in teen addiction case",
+          "summary": "Meta, states discuss mid-trial settlement in teen addiction case",
+          "link": "https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html",
+          "pubDate": "2026-08-26T11:19:38Z"
         },
         {
-          "title": "Palantir Stock Has Surged Over 40% in a Month. What’s Fueling the Rally — and What Comes Next.",
-          "summary": "Palantir Stock Has Surged Over 40% in a Month. What’s Fueling the Rally — and What Comes Next.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-surged-over-40-145551614.html",
-          "pubDate": "2026-08-25T14:55:51Z"
+          "title": "Cathie Wood bets on 'disrupter' stock with bullish analyst call",
+          "summary": "Cathie Wood bets on 'disrupter' stock with bullish analyst call",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-bets-disrupter-stock-171503487.html",
+          "pubDate": "2026-08-26T17:15:03Z"
         },
         {
-          "title": "ResMed Stock: Analyst Estimates & Ratings",
-          "summary": "ResMed Stock: Analyst Estimates & Ratings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/resmed-stock-analyst-estimates-ratings-145143956.html",
-          "pubDate": "2026-08-25T14:51:43Z"
+          "title": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
+          "summary": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
+          "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-next-100-billion-ai-151558258.html",
+          "pubDate": "2026-08-26T15:15:58Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-          "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
-          "pubDate": "Wed, 26 Aug 2026 09:00:53 EDT"
+          "title": "Your dislike of eating bugs may be 9,000 years old",
+          "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exoskeletons easier to digest.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
+          "pubDate": "Thu, 27 Aug 2026 08:18:38 EDT"
         },
         {
-          "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
-          "summary": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially removing about 22 percent of the remaining ice tongue.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
-          "pubDate": "Wed, 26 Aug 2026 08:39:11 EDT"
+          "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
+          "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s changing brightness and may influence its future supernova.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
+          "pubDate": "Thu, 27 Aug 2026 08:43:27 EDT"
         },
         {
-          "title": "190-year-old DNA reveals a hidden pangolin species",
-          "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by poachers.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
-          "pubDate": "Wed, 26 Aug 2026 08:46:59 EDT"
+          "title": "Vitamin C won’t prevent most colds, but it may do one small thing",
+          "summary": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people from catching a cold, although regularly taking it may make severe symptoms slightly shorter or milder.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
+          "pubDate": "Thu, 27 Aug 2026 06:38:30 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Monkeys hunt small animals when fruit is scarce",
-          "summary": "Capuchins hunt and eat small vertebrates more often as plant foods wane. The behavior may help us learn more about humans’ early dietary evolution.",
-          "link": "https://www.sciencenews.org/article/monkeys-hunt-small-animals-fruit-scarce",
-          "pubDate": "Wed, 26 Aug 2026 18:00:00 +0000"
+          "title": "Tiny tremors can’t always warn when fracking will trigger a bigger quake",
+          "summary": "A study of 70,000 earthquakes finds tiny tremors often precede larger fracking-linked quakes, offering a warning to halt fluid injection.",
+          "link": "https://www.sciencenews.org/article/tremors-warn-fracking-bigger-earthquake",
+          "pubDate": "Thu, 27 Aug 2026 18:00:00 +0000"
         },
         {
-          "title": "Once upon a time, insects had 24 legs",
-          "summary": "A many-legged oddball from long ago helps fill a major gap in the fossil record — and hints at how insects ended up with just six legs.",
-          "link": "https://www.sciencenews.org/article/insects-fossil-record-24-legs",
-          "pubDate": "Wed, 26 Aug 2026 15:00:00 +0000"
+          "title": "Landslides pose the largest risks to those who can least afford them",
+          "summary": "Appalachia is a hotspot of landslides, but many there can’t afford to move away or mitigate the danger, a new study finds. Wealthy urban residents can.",
+          "link": "https://www.sciencenews.org/article/landslides-large-risks-least-afford",
+          "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000"
         },
         {
-          "title": "Microbes might get freeze-dried on the moon’s south pole",
-          "summary": "Artemis IV will put people on the moon’s surface for the first time in 50 years. NASA research reveals the microbes that might hitch a ride.",
-          "link": "https://www.sciencenews.org/article/microbes-freeze-dried-moons-south-pole",
-          "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000"
+          "title": "A space telescope was falling from orbit. Its rescue mission fell apart too",
+          "summary": "NASA’s attempt to save the falling Swift telescope failed, revealing the realities of the burgeoning field of satellite servicing.",
+          "link": "https://www.sciencenews.org/article/swift-space-telescope-failed-rescue",
+          "pubDate": "Thu, 27 Aug 2026 14:00:00 +0000"
         }
       ]
     }
