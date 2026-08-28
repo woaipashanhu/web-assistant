@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-27T23:00:55.690Z",
-  "date": "2026-08-28",
+  "lastUpdate": "2026-08-28T23:00:59.047Z",
+  "date": "2026-08-29",
   "sites": [
     {
       "id": "site_0",
@@ -59,103 +59,103 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "6 Takeaways From the GTA VI Extended Look",
-          "summary": "Grand Theft Auto VI is nigh. Here’s what the developer revealed about its highly anticipated game.",
-          "link": "https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/",
-          "pubDate": "Thu, 27 Aug 2026 21:30:28 +0000"
+          "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+          "summary": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
+          "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+          "pubDate": "Fri, 28 Aug 2026 22:29:13 +0000"
         },
         {
-          "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-          "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
-          "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-          "pubDate": "Thu, 27 Aug 2026 21:08:34 +0000"
+          "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
+          "summary": "The longtime far-right operator and troll, a UK citizen, is being held in ICE custody pending his removal from the United States.",
+          "link": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
+          "pubDate": "Fri, 28 Aug 2026 19:44:11 +0000"
         },
         {
-          "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
-          "summary": "Michele Spagnuolo was arrested for alleged insider trading on Polymarket, but the Switzerland-based engineer says he was simply gambling—activity that is beyond the reach of US commodities law.",
-          "link": "https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
-          "pubDate": "Thu, 27 Aug 2026 19:12:39 +0000"
+          "title": "Microsoft Teams Has Become a Haven for Scammers in China",
+          "summary": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
+          "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+          "pubDate": "Fri, 28 Aug 2026 18:23:17 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Rivian&#8217;s CFO is leaving the company",
-          "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-          "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-          "pubDate": "Thu, 27 Aug 2026 20:23:10 +0000"
+          "title": "Is the best way to watch a movie on a pair of sunglasses?",
+          "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
+          "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+          "pubDate": "Fri, 28 Aug 2026 22:42:48 +0000"
         },
         {
-          "title": "Bluesky adds an &#8216;algorithmic opt-out&#8217; feature for those who don&#8217;t want to go viral",
-          "summary": "Sometimes people just want to post to their followers, Bluesky says.",
-          "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-          "pubDate": "Thu, 27 Aug 2026 20:15:26 +0000"
+          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+          "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+          "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000"
         },
         {
-          "title": "Buried in Meta&#8217;s $18B settlement is a legal pass on kids&#8217; data",
-          "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
-          "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-          "pubDate": "Thu, 27 Aug 2026 20:04:26 +0000"
+          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+          "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+          "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+          "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "BBC世界",
       "items": [
         {
-          "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-          "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
-          "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 09:50:10 GMT"
+          "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+          "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 22:05:41 GMT"
         },
         {
-          "title": "What we know about deadly Nepal-Tibet floods",
-          "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
-          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 22:54:28 GMT"
+          "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+          "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+          "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 19:40:45 GMT"
         },
         {
-          "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-          "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
-          "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 17:05:22 GMT"
+          "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+          "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 13:50:34 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "CNBC市场",
       "items": [
         {
-          "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here&apos;s what to expect",
-          "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
-          "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
-          "pubDate": "Thu, 27 Aug 2026 22:58:01 GMT"
+          "title": "Corn and wheat prices jump to highest prices in more than three years",
+          "summary": "Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different.",
+          "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
+          "pubDate": "Fri, 28 Aug 2026 20:00:56 GMT"
         },
         {
-          "title": "Kansas City Fed&apos;s Schmid says inflation &apos;stubborn&apos; and &apos;sticky,&apos; policy rate not restrictive",
-          "summary": "The policymaker stopped just short of calling for an interest rate hike.",
-          "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-          "pubDate": "Thu, 27 Aug 2026 14:11:29 GMT"
+          "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+          "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
+          "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+          "pubDate": "Fri, 28 Aug 2026 21:57:47 GMT"
         },
         {
-          "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-          "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
-          "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-          "pubDate": "Thu, 27 Aug 2026 05:34:13 GMT"
+          "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
+          "summary": "Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.",
+          "link": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+          "pubDate": "Fri, 28 Aug 2026 15:22:10 GMT"
         }
       ]
     },
     "site_4": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,98 +179,98 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "NTSB: Temporary Ellipse site factored into Marine One incident",
-          "summary": "The National Transportation Safety Board (NTSB) released a preliminary report Thursday blaming the location of a temporary Ellipse site for an incident in early August where President Trump’s Marine One (VM1) helicopter came within a mile of a passenger jet. The report stated that VM1 attempted to contact air traffic controllers twice at Reagan Washington&#8230;",
-          "link": "https://thehill.com/homenews/administration/6056206-ntsb-blames-ellipse-site-incident-reagan-airport/",
-          "pubDate": "Thu, 27 Aug 2026 22:34:02 +0000"
+          "title": "Trump administration moves to relax fuel efficiency standards for commercial trucks",
+          "summary": "The Trump administration on Friday moved to relax fuel efficiency standards for medium- and heavy-duty commercial trucks.&#160; The Transportation Department took aim at Obama-era standards, arguing that they exceed the scope of the government’s authority. The Obama administration set standards for both the whole vehicle and its engine. The Trump administration now says that the government&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/6058586-truck-fuel-efficiency-standards/",
+          "pubDate": "Fri, 28 Aug 2026 22:53:02 +0000"
         },
         {
-          "title": "3 Stars and Stripes staffers sue Pentagon over firings at military news outlet",
-          "summary": "Three Stars and Stripes staffers sued the Pentagon in federal court on Thursday, looking to prevent last week’s firings by the Department of Defense (DOD) at the military-focused newspaper. Stars and Stripes publisher Max Lederer, editor-in-chief Erik Slavin and reporter Lara Korte filed the complaint in U.S. District Court for the District of Columbia, alleging&#8230;",
-          "link": "https://thehill.com/policy/defense/6056203-stars-and-stripes-pentagon-lawsuit-dod/",
-          "pubDate": "Thu, 27 Aug 2026 22:18:16 +0000"
+          "title": "Trump considers giving away part of Yosemite to private company",
+          "summary": "The Trump administration is eyeing a land swap that would give part of Yosemite National Park to a private company, according to a document submitted to Congress. In the document, obtained by The Hill, the National Park Service (NPS) states that a landowner is seeking to connect their property with a park service road in&#8230;",
+          "link": "https://thehill.com/policy/energy-environment/6058556-yosemite-national-park-trump-nps-interior/",
+          "pubDate": "Fri, 28 Aug 2026 22:37:57 +0000"
         },
         {
-          "title": "Trump gives GOP breathing room on data centers",
-          "summary": "{beacon} Technology Technology &#8202; The Big Story&#160; Trump toes line on data centers as GOP pushes back Republicans’ growing skepticism of data centers is forcing&#160;President Trump&#160;to balance his steadfast support for the industry with pushback from his party ahead of the midterm elections. © Alex Brandon and Gabriela Passos, Associated Press While Trump has doubled&#8230;",
-          "link": "https://thehill.com/newsletters/technology/6056191-trump-data-centers-republicans-tech-newsletter/",
-          "pubDate": "Thu, 27 Aug 2026 22:11:50 +0000"
+          "title": "Trump attacks New York Times over report on 9/11 remembrance plans",
+          "summary": "President Trump pushed back Friday against a report that he will not attend a ceremony in New York City marking the anniversary of the Sept. 11, 2001, terrorist attack after event organizers denied his request to speak at the event. The New York Times reported Friday that the president&#8217;s team conveyed Trump’s interest in speaking&#8230;",
+          "link": "https://thehill.com/homenews/administration/6058530-trump-denies-nyct-terror-attack-ban/",
+          "pubDate": "Fri, 28 Aug 2026 22:25:28 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Meta, states discuss mid-trial settlement in teen addiction case",
-          "summary": "Meta, states discuss mid-trial settlement in teen addiction case",
-          "link": "https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html",
-          "pubDate": "2026-08-26T11:19:38Z"
+          "title": "Bank of America doubles down on Nvidia stock",
+          "summary": "Bank of America doubles down on Nvidia stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
+          "pubDate": "2026-08-27T15:30:54Z"
         },
         {
-          "title": "Cathie Wood bets on 'disrupter' stock with bullish analyst call",
-          "summary": "Cathie Wood bets on 'disrupter' stock with bullish analyst call",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-bets-disrupter-stock-171503487.html",
-          "pubDate": "2026-08-26T17:15:03Z"
+          "title": "Solana Price Targets $120 as Schwab Adds SOL, ETF Inflows Rise",
+          "summary": "Solana Price Targets $120 as Schwab Adds SOL, ETF Inflows Rise",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/solana-price-targets-120-schwab-153152972.html",
+          "pubDate": "2026-08-27T15:31:52Z"
         },
         {
-          "title": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
-          "summary": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
-          "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-next-100-billion-ai-151558258.html",
-          "pubDate": "2026-08-26T15:15:58Z"
+          "title": "Meta Just Removed a Major Risk From Its Stock. Now AI Spending Is the $145 Billion Question.",
+          "summary": "Meta Just Removed a Major Risk From Its Stock. Now AI Spending Is the $145 Billion Question.",
+          "link": "https://finance.yahoo.com/technology/ai/articles/meta-just-removed-major-risk-153100072.html",
+          "pubDate": "2026-08-27T15:31:00Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "Your dislike of eating bugs may be 9,000 years old",
-          "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exoskeletons easier to digest.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
-          "pubDate": "Thu, 27 Aug 2026 08:18:38 EDT"
+          "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+          "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions of cosmic objects, and help scientists unravel the mysteries of dark matter and dark energy.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
+          "pubDate": "Fri, 28 Aug 2026 09:54:53 EDT"
         },
         {
-          "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
-          "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s changing brightness and may influence its future supernova.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
-          "pubDate": "Thu, 27 Aug 2026 08:43:27 EDT"
+          "title": "Experimental eye drops help blind mice see again",
+          "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
+          "pubDate": "Fri, 28 Aug 2026 10:21:46 EDT"
         },
         {
-          "title": "Vitamin C won’t prevent most colds, but it may do one small thing",
-          "summary": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people from catching a cold, although regularly taking it may make severe symptoms slightly shorter or milder.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
-          "pubDate": "Thu, 27 Aug 2026 06:38:30 EDT"
+          "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
+          "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
+          "pubDate": "Fri, 28 Aug 2026 05:01:51 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "siteName": "Science News",
       "items": [
         {
-          "title": "Tiny tremors can’t always warn when fracking will trigger a bigger quake",
-          "summary": "A study of 70,000 earthquakes finds tiny tremors often precede larger fracking-linked quakes, offering a warning to halt fluid injection.",
-          "link": "https://www.sciencenews.org/article/tremors-warn-fracking-bigger-earthquake",
-          "pubDate": "Thu, 27 Aug 2026 18:00:00 +0000"
+          "title": "Free-falling atoms in space put a new twist on Galileo’s gravity test",
+          "summary": "Rubidium atoms on China’s Tiangong space station fell with the same acceleration, upholding a cornerstone of Einstein’s general theory of relativity.",
+          "link": "https://www.sciencenews.org/article/atoms-gravity-space-galileo-einstein",
+          "pubDate": "Fri, 28 Aug 2026 18:00:00 +0000"
         },
         {
-          "title": "Landslides pose the largest risks to those who can least afford them",
-          "summary": "Appalachia is a hotspot of landslides, but many there can’t afford to move away or mitigate the danger, a new study finds. Wealthy urban residents can.",
-          "link": "https://www.sciencenews.org/article/landslides-large-risks-least-afford",
-          "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000"
+          "title": "Your skin chemistry may affect which mosquitoes most want to bite you",
+          "summary": "Three species preferred different people based on their skin odor and bacteria. The findings could help make new microbe-based repellants.",
+          "link": "https://www.sciencenews.org/article/skin-chemistry-which-mosquitoes-bite",
+          "pubDate": "Fri, 28 Aug 2026 15:00:00 +0000"
         },
         {
-          "title": "A space telescope was falling from orbit. Its rescue mission fell apart too",
-          "summary": "NASA’s attempt to save the falling Swift telescope failed, revealing the realities of the burgeoning field of satellite servicing.",
-          "link": "https://www.sciencenews.org/article/swift-space-telescope-failed-rescue",
-          "pubDate": "Thu, 27 Aug 2026 14:00:00 +0000"
+          "title": "NASA’s new space telescope will reveal the universe like never before",
+          "summary": "NASA’s new Nancy Grace Roman space telescope will tackle nearly every aspect of astrophysics, including dark matter, dark energy and alien planets.",
+          "link": "https://www.sciencenews.org/article/nasa-nancy-roman-space-telescope",
+          "pubDate": "Fri, 28 Aug 2026 13:00:00 +0000"
         }
       ]
     }
