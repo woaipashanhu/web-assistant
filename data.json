@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-08-28T23:00:59.047Z",
-  "date": "2026-08-29",
+  "lastUpdate": "2026-08-29T23:01:01.086Z",
+  "date": "2026-08-30",
   "sites": [
     {
       "id": "site_0",
@@ -59,79 +59,79 @@
   ],
   "data": {
     "site_0": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "Wired科技",
       "items": [
         {
-          "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
-          "summary": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
-          "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
-          "pubDate": "Fri, 28 Aug 2026 22:29:13 +0000"
+          "title": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
+          "summary": "Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.",
+          "link": "https://www.wired.com/review/soundcore-liberty-5-pro/",
+          "pubDate": "Sat, 29 Aug 2026 11:00:00 +0000"
         },
         {
-          "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
-          "summary": "The longtime far-right operator and troll, a UK citizen, is being held in ICE custody pending his removal from the United States.",
-          "link": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
-          "pubDate": "Fri, 28 Aug 2026 19:44:11 +0000"
+          "title": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
+          "summary": "Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets.",
+          "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
+          "pubDate": "Sat, 29 Aug 2026 10:30:00 +0000"
         },
         {
-          "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-          "summary": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
-          "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
-          "pubDate": "Fri, 28 Aug 2026 18:23:17 +0000"
+          "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+          "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+          "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+          "pubDate": "Sat, 29 Aug 2026 10:30:00 +0000"
         }
       ]
     },
     "site_1": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "TechCrunch",
       "items": [
         {
-          "title": "Is the best way to watch a movie on a pair of sunglasses?",
-          "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
-          "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-          "pubDate": "Fri, 28 Aug 2026 22:42:48 +0000"
+          "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+          "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000"
         },
         {
-          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-          "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-          "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-          "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000"
+          "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
+          "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+          "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+          "pubDate": "Sat, 29 Aug 2026 17:51:10 +0000"
         },
         {
-          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-          "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-          "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-          "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000"
+          "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+          "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+          "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+          "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000"
         }
       ]
     },
     "site_2": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "BBC世界",
       "items": [
         {
           "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
           "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
           "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 28 Aug 2026 22:05:41 GMT"
+          "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT"
         },
         {
-          "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-          "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-          "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 28 Aug 2026 19:40:45 GMT"
+          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+          "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 29 Aug 2026 20:13:16 GMT"
         },
         {
-          "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-          "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-          "pubDate": "Fri, 28 Aug 2026 13:50:34 GMT"
+          "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+          "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+          "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&amp;at_campaign=rss",
+          "pubDate": "Sat, 29 Aug 2026 17:52:42 GMT"
         }
       ]
     },
     "site_3": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "CNBC市场",
       "items": [
         {
@@ -144,7 +144,7 @@
           "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
           "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
           "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-          "pubDate": "Fri, 28 Aug 2026 21:57:47 GMT"
+          "pubDate": "Sat, 29 Aug 2026 02:23:52 GMT"
         },
         {
           "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
@@ -155,7 +155,7 @@
       ]
     },
     "site_4": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "WSJ财经",
       "items": [
         {
@@ -179,79 +179,79 @@
       ]
     },
     "site_5": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "The Hill国会",
       "items": [
         {
-          "title": "Trump administration moves to relax fuel efficiency standards for commercial trucks",
-          "summary": "The Trump administration on Friday moved to relax fuel efficiency standards for medium- and heavy-duty commercial trucks.&#160; The Transportation Department took aim at Obama-era standards, arguing that they exceed the scope of the government’s authority. The Obama administration set standards for both the whole vehicle and its engine. The Trump administration now says that the government&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/6058586-truck-fuel-efficiency-standards/",
-          "pubDate": "Fri, 28 Aug 2026 22:53:02 +0000"
+          "title": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
+          "summary": "Republicans are nearing the final stretch of the midterm election cycle with an increasingly unstable political landscape, as races for traditionally safe red seats grow competitive amid tensions over President Trump’s economic agenda. Democrats are looking to flip a handful of key battleground states to regain a Congressional majority come November. Senate races in Texas,&#8230;",
+          "link": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
+          "pubDate": "Sat, 29 Aug 2026 22:19:40 +0000"
         },
         {
-          "title": "Trump considers giving away part of Yosemite to private company",
-          "summary": "The Trump administration is eyeing a land swap that would give part of Yosemite National Park to a private company, according to a document submitted to Congress. In the document, obtained by The Hill, the National Park Service (NPS) states that a landowner is seeking to connect their property with a park service road in&#8230;",
-          "link": "https://thehill.com/policy/energy-environment/6058556-yosemite-national-park-trump-nps-interior/",
-          "pubDate": "Fri, 28 Aug 2026 22:37:57 +0000"
+          "title": "Leavitt is leaving the White House. Don&#8217;t expect her to go far",
+          "summary": "Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump’s orbit as Republicans seek to defend their majorities on Capitol Hill.&#160; Trump and Leavitt announced earlier this month she would depart the White House to spend more time with her&#8230;",
+          "link": "https://thehill.com/homenews/administration/6058288-karoline-leavitt-leaves-white-house/",
+          "pubDate": "Sat, 29 Aug 2026 21:00:00 +0000"
         },
         {
-          "title": "Trump attacks New York Times over report on 9/11 remembrance plans",
-          "summary": "President Trump pushed back Friday against a report that he will not attend a ceremony in New York City marking the anniversary of the Sept. 11, 2001, terrorist attack after event organizers denied his request to speak at the event. The New York Times reported Friday that the president&#8217;s team conveyed Trump’s interest in speaking&#8230;",
-          "link": "https://thehill.com/homenews/administration/6058530-trump-denies-nyct-terror-attack-ban/",
-          "pubDate": "Fri, 28 Aug 2026 22:25:28 +0000"
+          "title": "Walmart settles DOJ opioid crisis lawsuit for $50 million",
+          "summary": "Walmart has agreed to pay $50 million to settle a lawsuit claiming that its pharmacies filled hundreds of thousands of illegal prescriptions for controlled substances that fueled the opioid crisis, the Justice Department announced Friday. The settlement resolves a federal lawsuit filed in 2020 that accused the retail giant of failing to report suspicious orders&#8230;",
+          "link": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
+          "pubDate": "Sat, 29 Aug 2026 19:34:50 +0000"
         }
       ]
     },
     "site_6": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "雅虎财经",
       "items": [
         {
-          "title": "Bank of America doubles down on Nvidia stock",
-          "summary": "Bank of America doubles down on Nvidia stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
-          "pubDate": "2026-08-27T15:30:54Z"
+          "title": "Dunkin' comes back to major market after 12-year absence",
+          "summary": "Dunkin' comes back to major market after 12-year absence",
+          "link": "https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html",
+          "pubDate": "2026-08-28T16:17:00Z"
         },
         {
-          "title": "Solana Price Targets $120 as Schwab Adds SOL, ETF Inflows Rise",
-          "summary": "Solana Price Targets $120 as Schwab Adds SOL, ETF Inflows Rise",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/solana-price-targets-120-schwab-153152972.html",
-          "pubDate": "2026-08-27T15:31:52Z"
+          "title": "Solar Has Crossed a Critical Economic Tipping Point",
+          "summary": "Solar Has Crossed a Critical Economic Tipping Point",
+          "link": "https://finance.yahoo.com/energy/articles/solar-crossed-critical-economic-tipping-210000010.html",
+          "pubDate": "2026-08-29T21:00:00Z"
         },
         {
-          "title": "Meta Just Removed a Major Risk From Its Stock. Now AI Spending Is the $145 Billion Question.",
-          "summary": "Meta Just Removed a Major Risk From Its Stock. Now AI Spending Is the $145 Billion Question.",
-          "link": "https://finance.yahoo.com/technology/ai/articles/meta-just-removed-major-risk-153100072.html",
-          "pubDate": "2026-08-27T15:31:00Z"
+          "title": "A $2 Billion Reason to Buy UPS Stock",
+          "summary": "A $2 Billion Reason to Buy UPS Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/2-billion-reason-buy-ups-161356676.html",
+          "pubDate": "2026-08-29T16:13:56Z"
         }
       ]
     },
     "site_7": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "ScienceDaily",
       "items": [
         {
-          "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-          "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions of cosmic objects, and help scientists unravel the mysteries of dark matter and dark energy.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
-          "pubDate": "Fri, 28 Aug 2026 09:54:53 EDT"
+          "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+          "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+          "pubDate": "Sat, 29 Aug 2026 06:52:20 EDT"
         },
         {
-          "title": "Experimental eye drops help blind mice see again",
-          "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
-          "pubDate": "Fri, 28 Aug 2026 10:21:46 EDT"
+          "title": "Australia’s red soil may be hiding a massive clean energy source",
+          "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath the Pilbara could become a major new source of low-emission energy for Australia and potentially the world.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
+          "pubDate": "Sat, 29 Aug 2026 06:05:43 EDT"
         },
         {
-          "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-          "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
-          "pubDate": "Fri, 28 Aug 2026 05:01:51 EDT"
+          "title": "Dogs may hold surprising clues to human longevity",
+          "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifespans in remarkably similar ways to those seen in people. These metabolic “fingerprints” could offer clues about the biological processes that drive aging, including metabolism, inflammation, and cellular stress.",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
+          "pubDate": "Sat, 29 Aug 2026 08:47:55 EDT"
         }
       ]
     },
     "site_8": {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "siteName": "Science News",
       "items": [
         {
